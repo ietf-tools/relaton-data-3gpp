@@ -1,0 +1,51 @@
+---
+id: 3GPPTS22.042-Rel-16/16.0.0
+title:
+  type: main
+  content: Network Identity and TimeZone (NITZ); Service description; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.042/22042-g00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.042:Rel-16/16.0.0
+  type: 3GPP
+- id: '4035'
+  type: rapporteurId
+docnumber: TS 22.042:Rel-16/16.0.0
+date:
+  type: confirmed
+  value: '2011-04-07'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: The feature NITZ provides the means for serving networks to transfer current
+    identity, time, daylight saving time and the local time zone to user equipment
+    storage and use.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

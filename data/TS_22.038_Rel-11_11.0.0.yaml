@@ -1,0 +1,61 @@
+---
+id: 3GPPTS22.038-Rel-11/11.0.0
+title:
+  type: main
+  content: "(U)SIM Application Toolkit (USAT); Service description; Stage 1"
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.038/22038-b00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.038:Rel-11/11.0.0
+  type: 3GPP
+- id: '714'
+  type: rapporteurId
+docnumber: TS 22.038:Rel-11/11.0.0
+date:
+- type: created
+  value: '2012-09-28'
+- type: confirmed
+  value: '2011-02-11'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 10.0.1
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: This specification describes the Stage 1 description of the SAT primarily
+    from the subscriber’s and serving environment’s points of view, and does not deal
+    with the details of the human interface itself. It includes information applicable
+    to network operators, serving environments and terminal, switch and database manufacturers
+    and contains the core requirements for a SAT which are sufficient to provide a
+    complete service.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

@@ -1,0 +1,51 @@
+---
+id: 3GPPTS23.003-Rel-11/11.9.0
+title:
+  type: main
+  content: Numbering, addressing and identification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-b90.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.003:Rel-11/11.9.0
+  type: 3GPP
+- id: '15130'
+  type: rapporteurId
+docnumber: TS 23.003:Rel-11/11.9.0
+date:
+- type: created
+  value: '2014-10-01'
+- type: confirmed
+  value: '2004-01-12'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4
+  type: former
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

@@ -1,0 +1,58 @@
+---
+id: 3GPPTS22.041-R99/3.1.0
+title:
+  type: main
+  content: Operator Determined Barring (ODB)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.041/22041-310.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.041:R99/3.1.0
+  type: 3GPP
+- id: '11897'
+  type: rapporteurId
+docnumber: TS 22.041:R99/3.1.0
+date:
+  type: confirmed
+  value: '2011-04-07'
+language: en
+script: Latn
+abstract:
+  content: The feature operator determined barring (ODB) allows the network operator
+    or service provider to regulate, by means of an exceptional procedure, access
+    by the subscribers to 3G services, by the barring of certain categories of outgoing
+    or incoming calls or of roaming. ODB shall take effect immediately and shall terminate
+    ongoing calls and bar future calls. The purpose of this network feature is to
+    be able to limit the service provider’s financial exposure to new subscribers,
+    or to those who have not promptly paid their bills. It may only be applied to
+    the service provider’s own subscribers.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

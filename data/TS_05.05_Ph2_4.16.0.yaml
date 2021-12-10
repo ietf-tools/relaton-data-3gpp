@@ -1,0 +1,44 @@
+---
+id: 3GPPTS05.05-Ph2/4.16.0
+title:
+  type: main
+  content: Radio Transmission and Reception
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-4g0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.05:Ph2/4.16.0
+  type: 3GPP
+- id: '14164'
+  type: rapporteurId
+docnumber: TS 05.05:Ph2/4.16.0
+date:
+  type: confirmed
+  value: '2003-09-01'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

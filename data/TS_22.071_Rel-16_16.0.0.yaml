@@ -1,0 +1,56 @@
+---
+id: 3GPPTS22.071-Rel-16/16.0.0
+title:
+  type: main
+  content: Location Services (LCS); Service description; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.071/22071-g00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.071:Rel-16/16.0.0
+  type: 3GPP
+- id: '21463'
+  type: rapporteurId
+docnumber: TS 22.071:Rel-16/16.0.0
+date:
+  type: confirmed
+  value: '2005-06-24'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: LCS is a network provided enabling technology consisting of standardized
+    service capabilities which enables the provision of location applications. This
+    application may be service provider specific. The description of the numerous
+    and varied possible location applications which are enabled by this technology
+    are outside the scope of this specification. However, clarifying examples of how
+    the functionality being specified may be used to provide specific LCS is included
+    in various sections of the specification.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

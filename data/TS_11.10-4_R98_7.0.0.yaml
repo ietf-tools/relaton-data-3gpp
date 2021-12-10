@@ -1,0 +1,48 @@
+---
+id: 3GPPTS11.10-4-R98/7.0.0
+title:
+  type: main
+  content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
+    Module (SIM) application toolkit conformance test specification'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-4/1110-4-700.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 11.10-4:R98/7.0.0
+  type: 3GPP
+- id: '25257'
+  type: rapporteurId
+docnumber: TS 11.10-4:R98/7.0.0
+date:
+  type: confirmed
+  value: '2005-10-10'
+biblionote:
+  content: 'GP-13: doc becomes pointer to latest Rel version.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: G2, G3new
+  type: other
+- name: SMG07
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

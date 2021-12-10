@@ -1,0 +1,55 @@
+---
+id: 3GPPTS22.022-R99/3.0.1
+title:
+  type: main
+  content: Personalisation of Mobile Equipment (ME); Mobile functionality specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-301.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.022:R99/3.0.1
+  type: 3GPP
+- id: '5612'
+  type: rapporteurId
+docnumber: TS 22.022:R99/3.0.1
+date:
+  type: confirmed
+  value: '2008-12-21'
+language: en
+script: Latn
+abstract:
+  content: "This specification describes functional specifications of five features
+    to personalize UE. These features are called:\r\n- network personalization;\r\n-
+    network subset personalization;\r\n- service provider (SP) personalization;\r\n-
+    corporate personalization;\r\n- UMTS subscriber identity module (USIM) personalization.\r\nThis
+    specification describes requirements for UE, which provide these personalization
+    features."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S3
+  type: other
+- name: S3
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

@@ -1,0 +1,38 @@
+---
+id: 3GPPTR22.866-Rel-17/17.1.0
+title:
+  type: main
+  content: Enhanced relays for energy efficiency and extensive coverage
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.866/22866-h10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.866:Rel-17/17.1.0
+  type: 3GPP
+- id: '73100'
+  type: rapporteurId
+docnumber: TR 22.866:Rel-17/17.1.0
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-10'
+doctype: TR
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

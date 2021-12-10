@@ -1,0 +1,38 @@
+---
+id: 3GPPTR03.01U-UMTS/2.0.0
+title:
+  type: main
+  content: Framework of network requirements, interworking and integration for the
+    Universal Mobile Telecommunication System
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.01U/0301U-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 03.01U:UMTS/2.0.0
+  type: 3GPP
+- id: '0'
+  type: rapporteurId
+docnumber: TR 03.01U:UMTS/2.0.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-09'
+doctype: TR
+editorialgroup:
+  name: SP
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

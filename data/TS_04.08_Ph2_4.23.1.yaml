@@ -1,0 +1,44 @@
+---
+id: 3GPPTS04.08-Ph2/4.23.1
+title:
+  type: main
+  content: Mobile radio interface layer 3 specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.08/0408-4n1.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.08:Ph2/4.23.1
+  type: 3GPP
+- id: '14160'
+  type: rapporteurId
+docnumber: TS 04.08:Ph2/4.23.1
+date:
+  type: confirmed
+  value: '2010-08-23'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: G2
+  type: other
+- name: N1  /  SMG03A / SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

@@ -1,0 +1,46 @@
+---
+id: 3GPPTS07.06-Ph2/4.2.1
+title:
+  type: main
+  content: Use of the V Series Data Terminal Equipment - Data Circuit Terminating
+    Equipment (DTE-DCE) Interface at the Mobile Station (MS) for Mobile Termination
+    (MT) configuration
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.06/0706-421.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 07.06:Ph2/4.2.1
+  type: 3GPP
+- id: '1201'
+  type: rapporteurId
+docnumber: TS 07.06:Ph2/4.2.1
+biblionote:
+  content: "#7: 4.1.0   #13: 4.2.0  #15: withdrawn"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: T2
+  type: prime
+- name: "-"
+  type: other
+- name: T2  /  SMG04
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

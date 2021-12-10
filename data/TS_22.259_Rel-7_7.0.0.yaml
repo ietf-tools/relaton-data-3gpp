@@ -1,0 +1,50 @@
+---
+id: 3GPPTS22.259-Rel-7/7.0.0
+title:
+  type: main
+  content: Service requirements for Personal Network Management (PNM); Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.259/22259-700.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.259:Rel-7/7.0.0
+  type: 3GPP
+- id: '35011'
+  type: rapporteurId
+docnumber: TS 22.259:Rel-7/7.0.0
+date:
+- type: created
+  value: '2006-03-23'
+- type: confirmed
+  value: '2006-03-14'
+biblionote:
+- content: 'SP-35: Timed out of Rel-7, so Rel-7 version of this spec withdrawn.'
+  type: remark
+- content: S3 still discussing, so may be substantial CRs to follow.
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

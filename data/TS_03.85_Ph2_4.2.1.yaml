@@ -1,0 +1,41 @@
+---
+id: 3GPPTS03.85-Ph2/4.2.1
+title:
+  type: main
+  content: Closed user Group (CUG) Supplementary Services; Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.85/0385-421.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.85:Ph2/4.2.1
+  type: 3GPP
+- id: '6963'
+  type: rapporteurId
+docnumber: TS 03.85:Ph2/4.2.1
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

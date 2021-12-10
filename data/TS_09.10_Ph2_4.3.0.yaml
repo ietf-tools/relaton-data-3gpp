@@ -1,0 +1,46 @@
+---
+id: 3GPPTS09.10-Ph2/4.3.0
+title:
+  type: main
+  content: Information Element Mapping between Mobile Station - Base Station System
+    (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MCS)
+    Signalling Procedures and the Mobile Application Part (MAP)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.10/0910-430.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 09.10:Ph2/4.3.0
+  type: 3GPP
+- id: '13753'
+  type: rapporteurId
+docnumber: TS 09.10:Ph2/4.3.0
+biblionote:
+  content: "#8: 4.0.0   #9: 4.1.0   #10: 4.2.0   #17: 4.3.0  #23: 4.4.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

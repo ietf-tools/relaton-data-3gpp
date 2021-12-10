@@ -1,0 +1,47 @@
+---
+id: 3GPPTS22.278-Rel-8/0.0.0
+title:
+  type: main
+  content: Service requirements for the Evolved Packet System (EPS)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.278/22278-000.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.278:Rel-8/0.0.0
+  type: 3GPP
+- id: '36281'
+  type: rapporteurId
+docnumber: TS 22.278:Rel-8/0.0.0
+date:
+  type: confirmed
+  value: '2007-10-01'
+biblionote:
+  content: S1-060693
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S2
+  type: other
+radiotechnology: LTE
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

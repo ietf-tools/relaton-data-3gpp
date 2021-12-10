@@ -1,0 +1,43 @@
+---
+id: 3GPPTR09.95-R98/7.3.0
+title:
+  type: main
+  content: General Packet Radio Service (GPRS); Interworking between modified Public
+    Land Mobile Network (PLMN) supporting GPRS and legacy GPRS mobiles
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.95/0995-730.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 09.95:R98/7.3.0
+  type: 3GPP
+- id: '718'
+  type: rapporteurId
+docnumber: TR 09.95:R98/7.3.0
+date:
+  type: confirmed
+  value: '2005-04-22'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TR
+editorialgroup:
+- name: G1
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

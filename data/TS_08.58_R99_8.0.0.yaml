@@ -1,0 +1,48 @@
+---
+id: 3GPPTS08.58-R99/8.0.0
+title:
+  type: main
+  content: Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface
+    Layer 3 Specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-800.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 08.58:R99/8.0.0
+  type: 3GPP
+- id: '718'
+  type: rapporteurId
+docnumber: TS 08.58:R99/8.0.0
+biblionote:
+  content: "#29: 8.0.0 #30: 8.1.0 #30: 8.2.0 #31:8.3.0 #31b:8.4.0 GERAN#1:8.5.0 GERAN#2:8.6.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: G2
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

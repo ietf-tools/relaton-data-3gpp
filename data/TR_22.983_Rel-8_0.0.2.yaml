@@ -1,0 +1,47 @@
+---
+id: 3GPPTR22.983-Rel-8/0.0.2
+title:
+  type: main
+  content: Services alignment and migration
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.983/22983-002.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.983:Rel-8/0.0.2
+  type: 3GPP
+- id: '17318'
+  type: rapporteurId
+docnumber: TR 22.983:Rel-8/0.0.2
+date:
+- type: created
+  value: '2007-01-04'
+- type: confirmed
+  value: '2007-12-05'
+biblionote:
+  content: S1-070006
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TR
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

@@ -1,0 +1,44 @@
+---
+id: 3GPPTS06.41-R96/5.0.1
+title:
+  type: main
+  content: Discontinuous Transmission (DTX) for Half Rate Speech Traffic Channels
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.41/0641-501.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.41:R96/5.0.1
+  type: 3GPP
+- id: '3209'
+  type: rapporteurId
+docnumber: TS 06.41:R96/5.0.1
+biblionote:
+  content: "#20: 5.0.0  #22: 5.0.1  #23: 5.1.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

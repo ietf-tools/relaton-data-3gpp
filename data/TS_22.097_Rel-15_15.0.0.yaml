@@ -1,0 +1,57 @@
+---
+id: 3GPPTS22.097-Rel-15/15.0.0
+title:
+  type: main
+  content: Multiple Subscriber Profile (MSP) Phase 2; Service description; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.097/22097-f00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.097:Rel-15/15.0.0
+  type: 3GPP
+- id: '21463'
+  type: rapporteurId
+docnumber: TS 22.097:Rel-15/15.0.0
+date:
+  type: confirmed
+  value: '2005-03-22'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: "MSP is an optional service to enable mobile subscribers to have several
+    profiles associated with a single subscriber identity (SIM) and a single international
+    mobile subscriber identity (IMSI), with each profile being a subscription option.
+    Each profile may be used for mobile originated and mobile terminated calls. \r\nUp
+    to four different profiles can be provisioned against a subscriber using the MSP
+    feature. This will allow the subscriber to separate her telecommunication service
+    needs into different identities (e.g. business and home)."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: f
+  version3g: f
+  defunct: false
+  wpm_code_2g: GSM_Release_15
+  wpm_code_3g: 3G4G5G_Rel-15
+  freeze_meeting: SP-80
+  freeze_stage1_meeting: SP-76
+  freeze_stage2_meeting: SP-78
+  freeze_stage3_meeting: SP-80
+  project_start: '2016-06-01'

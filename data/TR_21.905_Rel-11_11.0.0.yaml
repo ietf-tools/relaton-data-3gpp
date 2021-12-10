@@ -1,0 +1,58 @@
+---
+id: 3GPPTR21.905-Rel-11/11.0.0
+title:
+  type: main
+  content: Vocabulary for 3GPP Specifications
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.905/21905-b00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 21.905:Rel-11/11.0.0
+  type: 3GPP
+- id: '53384'
+  type: rapporteurId
+docnumber: TR 21.905:Rel-11/11.0.0
+date:
+- type: created
+  value: '2011-12-16'
+- type: confirmed
+  value: '2004-06-24'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: Document 21.905 is a collection of terms, definitions and abbreviations
+    related to the baseline documents defining the objectives and systems framework.
+    This document provides a tool for further work on the technical documentation
+    and facilitates their understanding.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TR
+editorialgroup:
+- name: SP
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

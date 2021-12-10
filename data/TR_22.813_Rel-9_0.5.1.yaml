@@ -1,0 +1,53 @@
+---
+id: 3GPPTR22.813-Rel-9/0.5.1
+title:
+  type: main
+  content: Study of use cases and requirements for enhanced voice codecs for the Evolved
+    Packet System (EPS)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.813/22813-051.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.813:Rel-9/0.5.1
+  type: 3GPP
+- id: '5612'
+  type: rapporteurId
+docnumber: TR 22.813:Rel-9/0.5.1
+date:
+- type: created
+  value: '2008-09-24'
+- type: confirmed
+  value: '2010-03-31'
+biblionote:
+- content: 'SP-46: impasse @ S4. Likely to be delayed to Rel-10. S1 work complete,
+    awaits S4 work.'
+  type: remark
+- content: S1-082409
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-10'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: S4
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

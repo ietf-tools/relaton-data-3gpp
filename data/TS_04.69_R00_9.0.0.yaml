@@ -1,0 +1,40 @@
+---
+id: 3GPPTS04.69-R00/9.0.0
+title:
+  type: main
+  content: Broadcast Call Control (BCC) protocol
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.69/0469-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.69:R00/9.0.0
+  type: 3GPP
+- id: '36348'
+  type: rapporteurId
+docnumber: TS 04.69:R00/9.0.0
+biblionote:
+  content: "->44.069v4.0.0"
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1  /  SMG03A
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: "-"
+  defunct: true
+  freeze_meeting: "-"
+  close_meeting: SP-06

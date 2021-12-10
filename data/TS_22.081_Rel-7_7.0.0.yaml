@@ -1,0 +1,60 @@
+---
+id: 3GPPTS22.081-Rel-7/7.0.0
+title:
+  type: main
+  content: Line Identification supplementary services; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.081/22081-700.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.081:Rel-7/7.0.0
+  type: 3GPP
+- id: '11897'
+  type: rapporteurId
+docnumber: TS 22.081:Rel-7/7.0.0
+date:
+- type: created
+  value: '2007-06-22'
+- type: confirmed
+  value: '2011-04-03'
+biblionote:
+  content: Upgraded unchanged from Rel-6
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: "This specification describes the supplementary services belonging to the
+    group line identification supplementary services. The group of line identification
+    supplementary services is divided into the following four supplementary services:\r\nCLIP:\tcalling
+    line identification presentation (clause 1);\r\nCLIR:\tcalling line identification
+    restriction (clause 2);\r\n \r\nCOLP:\tconnected line identification presentation
+    (clause 3);\r\nCOLR:\tconnected line identification restriction (clause 4)."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

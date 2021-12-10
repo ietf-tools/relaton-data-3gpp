@@ -1,0 +1,47 @@
+---
+id: 3GPPTS09.02dcs-Ph1-DCS/3.0.0
+title:
+  type: main
+  content: Mobile Application Part (MAP) Specification (DCS 1800)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.02dcs/0902dcs-300.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 09.02dcs:Ph1-DCS/3.0.0
+  type: 3GPP
+- id: '6963'
+  type: rapporteurId
+docnumber: TS 09.02dcs:Ph1-DCS/3.0.0
+date:
+  type: confirmed
+  value: '2003-09-08'
+biblionote:
+  content: based on 09.02 v3.8.0
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: "-"
+  freeze_stage1_meeting: SMG-13
+  freeze_stage2_meeting: SMG-13
+  freeze_stage3_meeting: SMG-13
+  close_meeting: SMG-21

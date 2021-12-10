@@ -1,0 +1,43 @@
+---
+id: 3GPPTS22.24U-UMTS/3.0.0
+title:
+  type: main
+  content: Charging and Accounting Mechanism
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.24U/2224U-300.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.24U:UMTS/3.0.0
+  type: 3GPP
+- id: '5952'
+  type: rapporteurId
+docnumber: TS 22.24U:UMTS/3.0.0
+biblionote:
+  content: "#25: 3.0.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+- name: "-"
+  type: prime
+- name: "-"
+  type: other
+- name: SMG01
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

@@ -1,0 +1,40 @@
+---
+id: 3GPPTS03.59-R00/0.0.1
+title:
+  type: main
+  content: Location services (LCS) GERAN; Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.59/0359-001.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.59:R00/0.0.1
+  type: 3GPP
+- id: '22572'
+  type: rapporteurId
+docnumber: TS 03.59:R00/0.0.1
+biblionote:
+  content: replaced by 43.059
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: "-"
+  defunct: true
+  freeze_meeting: "-"
+  close_meeting: SP-06

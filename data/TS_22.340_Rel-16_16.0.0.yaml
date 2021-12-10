@@ -1,0 +1,43 @@
+---
+id: 3GPPTS22.340-Rel-16/16.0.0
+title:
+  type: main
+  content: IP Multimedia Subsystem (IMS) messaging; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.340/22340-g00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.340:Rel-16/16.0.0
+  type: 3GPP
+- id: '43227'
+  type: rapporteurId
+docnumber: TS 22.340:Rel-16/16.0.0
+date:
+  type: confirmed
+  value: '2002-03-26'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-10'
+doctype: TS
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

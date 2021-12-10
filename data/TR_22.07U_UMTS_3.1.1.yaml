@@ -1,0 +1,41 @@
+---
+id: 3GPPTR22.07U-UMTS/3.1.1
+title:
+  type: main
+  content: UMTS terminal and smart card concepts
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.07U/2207U-311.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.07U:UMTS/3.1.1
+  type: 3GPP
+- id: '13046'
+  type: rapporteurId
+docnumber: TR 22.07U:UMTS/3.1.1
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-10'
+doctype: TR
+editorialgroup:
+- name: "-"
+  type: prime
+- name: "-"
+  type: other
+- name: SMG01 / SMG09 / SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

@@ -1,0 +1,47 @@
+---
+id: 3GPPTS06.73-R98/7.1.0
+title:
+  type: main
+  content: Adaptive Multi Rate (AMR) speech; ANSI-C code for the AMR speech codec
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.73/0673-710.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.73:R98/7.1.0
+  type: 3GPP
+- id: '13944'
+  type: rapporteurId
+docnumber: TS 06.73:R98/7.1.0
+date:
+  type: confirmed
+  value: '2002-01-07'
+biblionote:
+  content: "#28: 7.0.0 #29: 7.1.0 #30: 7.2.0 SA#6: 7.3.0.0 TSG#7: 7.4.0 TSG#11:7.5.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-09'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: S4 / SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
