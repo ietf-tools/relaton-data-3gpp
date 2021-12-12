@@ -1,0 +1,44 @@
+---
+id: 3GPPTR36.762-Rel-16/0.1.0
+title:
+  type: main
+  content: 410 – 430 MHz Evolved Universal Terrestrial Radio Access (E-UTRA) Frequency
+    Division Duplex (FDD) Band(s) for LTE Public Protection and Disaster Relief (PPDR)
+    and Professional Mobile Radio (PMR) / Public Access Mobile Radio (PAMR) in Europe
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.762/36762-010.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.762:Rel-16/0.1.0
+  type: 3GPP
+- id: '69954'
+  type: rapporteurId
+docnumber: TR 36.762:Rel-16/0.1.0
+date:
+  type: confirmed
+  value: '2019-06-20'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

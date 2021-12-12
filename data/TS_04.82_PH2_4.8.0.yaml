@@ -1,0 +1,44 @@
+---
+id: 3GPPTS04.82-Ph2/4.8.0
+title:
+  type: main
+  content: Call Forwarding (CF) Supplementary Services; Stage 3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.82/0482-480.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.82:Ph2/4.8.0
+  type: 3GPP
+- id: '6963'
+  type: rapporteurId
+docnumber: TS 04.82:Ph2/4.8.0
+biblionote:
+  content: "#7: 4.6.0   #11: 4.7.0   #12: 4.8.0  #17: 4.9.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

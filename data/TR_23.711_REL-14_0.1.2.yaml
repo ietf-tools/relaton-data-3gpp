@@ -1,0 +1,41 @@
+---
+id: 3GPPTR23.711-Rel-14/0.1.2
+title:
+  type: main
+  content: Enhancements of dedicated core networks selection mechanism
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 23.711:Rel-14/0.1.2
+  type: 3GPP
+- id: '41763'
+  type: rapporteurId
+docnumber: TR 23.711:Rel-14/0.1.2
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+- content: "."
+  type: remark
+- content: Editorial Update to correct Editor's note
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

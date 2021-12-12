@@ -1,0 +1,39 @@
+---
+id: 3GPPTR23.854-Rel-10/0.1.0
+title:
+  type: main
+  content: Enhancements for Multimedia Priority Service (MPS)
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 23.854:Rel-10/0.1.0
+  type: 3GPP
+- id: '54776'
+  type: rapporteurId
+docnumber: TR 23.854:Rel-10/0.1.0
+date:
+  type: confirmed
+  value: '2011-06-08'
+biblionote:
+  content: '2011-05: Timed out of Rel-10 and now depends from new WI #480135'
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

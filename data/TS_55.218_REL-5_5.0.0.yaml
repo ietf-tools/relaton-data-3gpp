@@ -1,0 +1,50 @@
+---
+id: 3GPPTS55.218-Rel-5/5.0.0
+title:
+  type: main
+  content: '3G Security; Specification of the A5/3 encryption algorithms for GSM and
+    ECSD, and the GEA3 encryption algorithm for GPRS; Document 3: Design conformance
+    test data'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/55_series/55.218/55218-500.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 55.218:Rel-5/5.0.0
+  type: 3GPP
+- id: '31085'
+  type: rapporteurId
+docnumber: TS 55.218:Rel-5/5.0.0
+date:
+- type: created
+  value: '2007-12-20'
+- type: confirmed
+  value: '2011-04-06'
+biblionote:
+  content: Fill in of missing Release
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S3
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

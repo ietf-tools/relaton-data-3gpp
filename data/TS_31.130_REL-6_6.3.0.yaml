@@ -1,0 +1,55 @@
+---
+id: 3GPPTS31.130-Rel-6/6.3.0
+title:
+  type: main
+  content: "(U)SIM Application Programming Interface (API); (U)SIM API for Java™ Card"
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.130/31130-630.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.130:Rel-6/6.3.0
+  type: 3GPP
+- id: '19277'
+  type: rapporteurId
+docnumber: TS 31.130:Rel-6/6.3.0
+date:
+- type: created
+  value: '2005-06-22'
+- type: confirmed
+  value: '2005-03-24'
+biblionote:
+  content: 'TP-20: Target for approval: TP-21.'
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: This document defines the (U)SIM Application Programming Interface extending
+    the “UICC API for Java Card™”. This API allows to develop a (U)SAT application
+    running together with a (U)SIM application and using GSM/3G network features.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

@@ -1,0 +1,47 @@
+---
+id: 3GPPTS24.135-Rel-4/4.1.1
+title:
+  type: main
+  content: Multicall supplementary service; Stage 3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.135/24135-411.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.135:Rel-4/4.1.1
+  type: 3GPP
+- id: '38243'
+  type: rapporteurId
+docnumber: TS 24.135:Rel-4/4.1.1
+date:
+  type: confirmed
+  value: '2008-12-16'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4 (ex NSS)
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

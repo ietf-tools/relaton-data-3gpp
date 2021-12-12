@@ -1,0 +1,44 @@
+---
+id: 3GPPTS24.174-Rel-16/1.1.0
+title:
+  type: main
+  content: Support of multi-device and multi-identity in the IP Multimedia Subsystem
+    (IMS); Stage 3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/24_series/24.174/24174-110.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.174:Rel-16/1.1.0
+  type: 3GPP
+- id: '36534'
+  type: rapporteurId
+docnumber: TS 24.174:Rel-16/1.1.0
+biblionote:
+- content: "."
+  type: remark
+- content: C1-196381, C1-196394, C1-196692. C1-196693, C1-196694, C1-196695, C1-196698,
+    C1-196699, C1-196804
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: C1
+  type: prime
+radiotechnology: 3G
+common-ims-spec: true
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

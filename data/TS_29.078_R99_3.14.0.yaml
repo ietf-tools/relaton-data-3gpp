@@ -1,0 +1,51 @@
+---
+id: 3GPPTS29.078-R99/3.14.0
+title:
+  type: main
+  content: Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase
+    X; CAMEL Application Part (CAP) specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.078/29078-3e0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 29.078:R99/3.14.0
+  type: 3GPP
+- id: '40423'
+  type: rapporteurId
+docnumber: TS 29.078:R99/3.14.0
+date:
+  type: confirmed
+  value: '2011-12-19'
+biblionote:
+  content: Phase 3
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N2
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

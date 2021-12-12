@@ -1,0 +1,46 @@
+---
+id: 3GPPTS11.12-R96/5.0.0
+title:
+  type: main
+  content: Specification on the 3 volt subscriber identity module Equipment (SIM-ME)  Interface
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.12/1112-500.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 11.12:R96/5.0.0
+  type: 3GPP
+- id: '5358'
+  type: rapporteurId
+docnumber: TS 11.12:R96/5.0.0
+biblionote:
+- content: "#16: 5.0.0  withdrawn"
+  type: remark
+- content: 'SMG-16: withdrawn'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+- name: SMG09
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

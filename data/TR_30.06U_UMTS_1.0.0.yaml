@@ -1,0 +1,41 @@
+---
+id: 3GPPTR30.06U-UMTS/1.0.0
+title:
+  type: main
+  content: UTRA concept evaluation
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.06U/3006U-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 30.06U:UMTS/1.0.0
+  type: 3GPP
+- id: '3209'
+  type: rapporteurId
+docnumber: TR 30.06U:UMTS/1.0.0
+biblionote:
+  content: '1997-12-01'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: SP
+  type: prime
+- name: SMG02
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

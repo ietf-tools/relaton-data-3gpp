@@ -1,0 +1,49 @@
+---
+id: 3GPPTS29.624-Rel-8/1.1.6
+title:
+  type: main
+  content: TISPAN; H.248 Profile for controlling Trunking Media Gateways; Protocol
+    specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.624/29624-116.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 29.624:Rel-8/1.1.6
+  type: 3GPP
+- id: '637'
+  type: rapporteurId
+docnumber: TS 29.624:Rel-8/1.1.6
+date:
+- type: created
+  value: '2008-03-28'
+- type: confirmed
+  value: '2008-03-28'
+biblionote:
+  content: 'CP-46: Identical to 29.424 v8.0.0.  Stop?'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: C4
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

@@ -1,0 +1,37 @@
+---
+id: 3GPPTS13.57-R96/1.0.0
+title:
+  type: main
+  content: unknown
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 13.57:R96/1.0.0
+  type: 3GPP
+- id: '0'
+  type: rapporteurId
+docnumber: TS 13.57:R96/1.0.0
+biblionote:
+  content: "#30: 1.0.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: "-"
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

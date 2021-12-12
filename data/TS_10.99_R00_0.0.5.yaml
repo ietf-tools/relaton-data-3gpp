@@ -1,0 +1,33 @@
+---
+id: 3GPPTS10.99-R00/0.0.5
+title:
+  type: main
+  content: GERAN project plan and open issues
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.99/1099-005.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 10.99:R00/0.0.5
+  type: 3GPP
+- id: '13001'
+  type: rapporteurId
+docnumber: TS 10.99:R00/0.0.5
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: "-"
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: "-"
+  defunct: true
+  freeze_meeting: "-"
+  close_meeting: SP-06

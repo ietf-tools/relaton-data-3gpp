@@ -1,0 +1,53 @@
+---
+id: 3GPPTS23.101-R99/0.1.1
+title:
+  type: main
+  content: General Universal Mobile Telecommunications System (UMTS) architecture
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.101/23101-011.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.101:R99/0.1.1
+  type: 3GPP
+- id: '14562'
+  type: rapporteurId
+docnumber: TS 23.101:R99/0.1.1
+date:
+  type: confirmed
+  value: '2011-03-29'
+language: en
+script: Latn
+abstract:
+  content: This specification describes the basic physical and functional separation
+    of UMTS. The content of this specification is limited to those features that are
+    common to all UMTS networks independent of their origin. It identifies and names
+    the reference points and functional groupings appearing at this level.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: "-"
+  type: other
+- name: S2
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

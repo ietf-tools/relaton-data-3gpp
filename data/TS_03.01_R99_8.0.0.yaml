@@ -1,0 +1,47 @@
+---
+id: 3GPPTS03.01-R99/8.0.0
+title:
+  type: main
+  content: Network Functions
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.01/0301-800.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.01:R99/8.0.0
+  type: 3GPP
+- id: '1718'
+  type: rapporteurId
+docnumber: TS 03.01:R99/8.0.0
+biblionote:
+  content: Never produced; make do with R98 version.
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: CP
+  type: other
+- name: SA2 / SMG03
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

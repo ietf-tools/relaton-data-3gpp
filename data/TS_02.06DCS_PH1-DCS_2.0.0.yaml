@@ -1,0 +1,38 @@
+---
+id: 3GPPTS02.06dcs-Ph1-DCS/2.0.0
+title:
+  type: main
+  content: Types of Mobile Stations (MS) - DCS 1800
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 02.06dcs:Ph1-DCS/2.0.0
+  type: 3GPP
+- id: '17856'
+  type: rapporteurId
+docnumber: TS 02.06dcs:Ph1-DCS/2.0.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: SMG01
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: "-"
+  freeze_stage1_meeting: SMG-13
+  freeze_stage2_meeting: SMG-13
+  freeze_stage3_meeting: SMG-13
+  close_meeting: SMG-21

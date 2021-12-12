@@ -1,0 +1,45 @@
+---
+id: 3GPPTS11.10-1-Ph2/4.21.0
+title:
+  type: main
+  content: 'Mobile station (MS) conformance specification; Part 1: Conformance specification'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-4l0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 11.10-1:Ph2/4.21.0
+  type: 3GPP
+- id: '2367'
+  type: rapporteurId
+docnumber: TS 11.10-1:Ph2/4.21.0
+biblionote:
+  content: "#31b: closed (R99 version serves all releases) GP-06: Rel-4 serves all
+    releases."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: G3new
+  type: prime
+- name: S1 / CP / SCP
+  type: other
+- name: SMG07 / SMG01 / SMG02 / SMG03 / SMG04 / SMG09
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

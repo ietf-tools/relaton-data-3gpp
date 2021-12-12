@@ -1,0 +1,48 @@
+---
+id: 3GPPTR06.75-R98/1.0.0
+title:
+  type: main
+  content: Performance characterization of the GSM Adaptive Multi-Rate (AMR) speech
+    codec
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.75/0675-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 06.75:R98/1.0.0
+  type: 3GPP
+- id: '3209'
+  type: rapporteurId
+docnumber: TR 06.75:R98/1.0.0
+date:
+  type: confirmed
+  value: '2002-08-20'
+biblionote:
+  content: 'SMG#29 1.0.0 for information SMG#30: 7.0.0 SA#6: 7.1.0. TSG#7: 7.2.0'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: S4  /  SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

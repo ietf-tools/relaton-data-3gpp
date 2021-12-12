@@ -1,0 +1,50 @@
+---
+id: 3GPPTR41.031-Rel-14/14.0.0
+title:
+  type: main
+  content: Fraud Information Gathering System (FIGS); Service requirements; Stage
+    0
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/41_series/41.031/41031-e00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 41.031:Rel-14/14.0.0
+  type: 3GPP
+- id: '31085'
+  type: rapporteurId
+docnumber: TR 41.031:Rel-14/14.0.0
+date:
+  type: confirmed
+  value: '2001-11-14'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S3
+  type: prime
+- name: "-"
+  type: other
+- name: SMG10
+  type: former
+radiotechnology: 2G
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

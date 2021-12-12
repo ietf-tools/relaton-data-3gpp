@@ -1,0 +1,61 @@
+---
+id: 3GPPTS22.115-Rel-11/11.6.0
+title:
+  type: main
+  content: Service aspects; Charging and billing
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.115/22115-b60.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.115:Rel-11/11.6.0
+  type: 3GPP
+- id: '4035'
+  type: rapporteurId
+docnumber: TS 22.115:Rel-11/11.6.0
+date:
+- type: created
+  value: '2012-09-19'
+- type: confirmed
+  value: '2005-03-24'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: "This specification describes the service aspects of charging and billing
+    of the UMTS.\r\nThis standard is not intended to duplicate existing standards
+    or standards being developed by other groups on these topics, and will reference
+    these where appropriate. This standard will elaborate on the charging requirements
+    described in the charging principles in TS 22.101 UMTS service principles. It
+    will allow the generation of accurate charging information to be used in the commercial
+    and contractual relationships between the parties concerned."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

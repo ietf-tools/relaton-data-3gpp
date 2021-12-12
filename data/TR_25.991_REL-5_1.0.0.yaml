@@ -1,0 +1,44 @@
+---
+id: 3GPPTR25.991-Rel-5/1.0.0
+title:
+  type: main
+  content: Feasibility study on the mitigation of the effect of common pilot channel
+    (CPICH) interference at the user equipment
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.991/25991-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 25.991:Rel-5/1.0.0
+  type: 3GPP
+- id: '38165'
+  type: rapporteurId
+docnumber: TR 25.991:Rel-5/1.0.0
+biblionote:
+  content: RP-010892
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

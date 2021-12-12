@@ -1,0 +1,50 @@
+---
+id: 3GPPTS09.12-Ph2/4.1.0
+title:
+  type: main
+  content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
+    Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface;
+    Part 1: Protocol specification'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.12/0912-410.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 09.12:Ph2/4.1.0
+  type: 3GPP
+- id: '8000'
+  type: rapporteurId
+docnumber: TS 09.12:Ph2/4.1.0
+date:
+  type: confirmed
+  value: '2003-11-25'
+biblionote:
+  content: 'smg-22: 4.2.1 - SPAN1 prime resp., SMG 2nd resp. - different numbering
+    scheme.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: TISPAN
+  type: prime
+- name: C4
+  type: other
+- name: SPAN3  /  N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

@@ -1,0 +1,54 @@
+---
+id: 3GPPTS25.104-Rel-9/9.5.0
+title:
+  type: main
+  content: Base Station (BS) radio transmission and reception (FDD)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-950.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.104:Rel-9/9.5.0
+  type: 3GPP
+- id: '10425'
+  type: rapporteurId
+docnumber: TS 25.104:Rel-9/9.5.0
+date:
+- type: created
+  value: '2010-10-01'
+- type: confirmed
+  value: '2003-06-27'
+language: en
+script: Latn
+abstract:
+  content: This specification describes the base station minimum RF characteristics
+    of the FDD mode of UTRA. The values in the TS make no allowance for measurements
+    uncertainties in conformance testing. Test limit to be used for conformance testing
+    are specified separately in the BS conformance test Specification TS 25.141.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: "-"
+  type: other
+- name: R4
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

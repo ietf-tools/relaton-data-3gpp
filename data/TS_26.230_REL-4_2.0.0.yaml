@@ -1,0 +1,47 @@
+---
+id: 3GPPTS26.230-Rel-4/2.0.0
+title:
+  type: main
+  content: Cellular text telephone modem; Transmitter bit exact C-code
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 26.230:Rel-4/2.0.0
+  type: 3GPP
+- id: '5722'
+  type: rapporteurId
+docnumber: TS 26.230:Rel-4/2.0.0
+date:
+  type: confirmed
+  value: '2005-01-06'
+biblionote:
+- content: TSG#10:2.0.0=SP-000570(Rel-5)->Rel-4; TSG#11:withdrawn, to be Rel-5 only.
+  type: remark
+- content: SP-000750
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

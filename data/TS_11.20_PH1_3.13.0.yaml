@@ -1,0 +1,41 @@
+---
+id: 3GPPTS11.20-Ph1/3.13.0
+title:
+  type: main
+  content: GSM DCS 1800 Base Station Specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.20/1120-3d0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 11.20:Ph1/3.13.0
+  type: 3GPP
+- id: '2766'
+  type: rapporteurId
+docnumber: TS 11.20:Ph1/3.13.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: GP
+  type: prime
+- name: CP
+  type: other
+- name: SMG02c / SMG03
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

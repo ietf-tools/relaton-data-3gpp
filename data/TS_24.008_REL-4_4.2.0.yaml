@@ -1,0 +1,54 @@
+---
+id: 3GPPTS24.008-Rel-4/4.2.0
+title:
+  type: main
+  content: Mobile radio interface Layer 3 specification; Core network protocols; Stage
+    3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.008/24008-420.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.008:Rel-4/4.2.0
+  type: 3GPP
+- id: '80545'
+  type: rapporteurId
+docnumber: TS 24.008:Rel-4/4.2.0
+date:
+  type: confirmed
+  value: '2001-10-05'
+language: en
+script: Latn
+abstract:
+  content: "This specification describes the procedures used at the radio interface
+    for CC, MM and SM.\r\nThe procedures currently described are for the CC of circuit-switched
+    connections, SM for GPRS services, MM and radio resource management for circuit-switched
+    and GPRS services."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

@@ -1,0 +1,43 @@
+---
+id: 3GPPTR36.886-Rel-14/14.1.0
+title:
+  type: main
+  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Band 41 High Power
+    UE (HPUE)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/36_series/36.886/36886-e10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.886:Rel-14/14.1.0
+  type: 3GPP
+- id: '40476'
+  type: rapporteurId
+docnumber: TR 36.886:Rel-14/14.1.0
+date:
+  type: confirmed
+  value: '2018-06-22'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

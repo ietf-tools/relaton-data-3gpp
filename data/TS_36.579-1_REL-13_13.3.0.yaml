@@ -1,0 +1,46 @@
+---
+id: 3GPPTS36.579-1-Rel-13/13.3.0
+title:
+  type: main
+  content: 'Mission Critical (MC) services over LTE; Part 1: Common test environment'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/36_series/36.579-1/36579-1-d30.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 36.579-1:Rel-13/13.3.0
+  type: 3GPP
+- id: '75979'
+  type: rapporteurId
+docnumber: TS 36.579-1:Rel-13/13.3.0
+date:
+  type: confirmed
+  value: '2018-10-03'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: R5
+  type: prime
+radiotechnology: LTE
+common-ims-spec: true
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

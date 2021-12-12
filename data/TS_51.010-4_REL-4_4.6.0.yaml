@@ -1,0 +1,54 @@
+---
+id: 3GPPTS51.010-4-Rel-4/4.6.0
+title:
+  type: main
+  content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
+    Module (SIM) application toolkit conformance test specification'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-4/51010-4-460.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 51.010-4:Rel-4/4.6.0
+  type: 3GPP
+- id: '74918'
+  type: rapporteurId
+docnumber: TS 51.010-4:Rel-4/4.6.0
+date:
+- type: created
+  value: '2007-09-26'
+- type: confirmed
+  value: '2006-10-03'
+biblionote:
+  content: 'TP-17: Withdrawn,draft was R99, not Rel-4.  2003-07-15:  Release reinstated
+    (though existing so-called draft v0.0.1 is still scrapped). 2005-04-05: Rapporteur
+    indicates that Rel-4 will not be produced, since contents is in 31.124. CP-30:
+    revived.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: R5
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

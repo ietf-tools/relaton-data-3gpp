@@ -1,0 +1,39 @@
+---
+id: 3GPPTR02.08-Ph1/0.2.1
+title:
+  type: main
+  content: Quality of Service (QoS) / GSM system performance
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 02.08:Ph1/0.2.1
+  type: 3GPP
+- id: '5396'
+  type: rapporteurId
+docnumber: TR 02.08:Ph1/0.2.1
+biblionote:
+  content: SMG1 571/95
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: smg
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

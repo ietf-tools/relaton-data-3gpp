@@ -1,0 +1,40 @@
+---
+id: 3GPPTS32.158-Rel-16/16.4.0
+title:
+  type: main
+  content: Management and orchestration;Design rules for REpresentational State Transfer
+    (REST) Solution Sets (SS)
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.158/32158-g40.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.158:Rel-16/16.4.0
+  type: 3GPP
+- id: '68423'
+  type: rapporteurId
+docnumber: TS 32.158:Rel-16/16.4.0
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S5
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

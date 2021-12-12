@@ -1,0 +1,44 @@
+---
+id: 3GPPTS06.12-Ph2/4.1.0
+title:
+  type: main
+  content: Comfort Noise Aspects for Full Rate Speech Traffic Channels
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.12/0612-410.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.12:Ph2/4.1.0
+  type: 3GPP
+- id: '5770'
+  type: rapporteurId
+docnumber: TS 06.12:Ph2/4.1.0
+biblionote:
+  content: "#7: 4.0.1"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

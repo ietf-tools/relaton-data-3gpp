@@ -1,0 +1,50 @@
+---
+id: 3GPPTS31.124-Rel-12/12.4.0
+title:
+  type: main
+  content: Mobile Equipment (ME) conformance test specification; Universal Subscriber
+    Identity Module Application Toolkit (USAT) conformance test specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.124/31124-c40.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.124:Rel-12/12.4.0
+  type: 3GPP
+- id: '62635'
+  type: rapporteurId
+docnumber: TS 31.124:Rel-12/12.4.0
+date:
+- type: created
+  value: '2015-07-03'
+- type: confirmed
+  value: '2010-04-13'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 3G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

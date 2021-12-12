@@ -1,0 +1,42 @@
+---
+id: 3GPPTR09.90-R96/5.1.0
+title:
+  type: main
+  content: Interworking between Phase 1 Infrastructure and Phase 2 Mobile Stations
+    (MS)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.90/0990-510.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 09.90:R96/5.1.0
+  type: 3GPP
+- id: '14160'
+  type: rapporteurId
+docnumber: TR 09.90:R96/5.1.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1  /  SMG03A
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

@@ -1,0 +1,49 @@
+---
+id: 3GPPTS22.233-Rel-10/10.0.0
+title:
+  type: main
+  content: Transparent end-to-end packet-switched streaming service; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.233/22233-a00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.233:Rel-10/10.0.0
+  type: 3GPP
+- id: '35011'
+  type: rapporteurId
+docnumber: TS 22.233:Rel-10/10.0.0
+date:
+- type: created
+  value: '2011-04-08'
+- type: confirmed
+  value: '2006-12-22'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 9.1.0
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

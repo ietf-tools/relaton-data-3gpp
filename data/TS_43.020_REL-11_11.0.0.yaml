@@ -1,0 +1,51 @@
+---
+id: 3GPPTS43.020-Rel-11/11.0.0
+title:
+  type: main
+  content: Security related network functions
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-b00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 43.020:Rel-11/11.0.0
+  type: 3GPP
+- id: '31085'
+  type: rapporteurId
+docnumber: TS 43.020:Rel-11/11.0.0
+date:
+- type: created
+  value: '2011-06-17'
+- type: confirmed
+  value: '2011-04-06'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+- name: CP, RP
+  type: other
+- name: SMG10  /  SMG03  /  SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

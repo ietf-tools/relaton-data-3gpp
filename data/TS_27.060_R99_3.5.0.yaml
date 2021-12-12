@@ -1,0 +1,47 @@
+---
+id: 3GPPTS27.060-R99/3.5.0
+title:
+  type: main
+  content: Packet domain;  Mobile Station (MS) supporting Packet Switched services
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.060/27060-350.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 27.060:R99/3.5.0
+  type: 3GPP
+- id: '67079'
+  type: rapporteurId
+docnumber: TS 27.060:R99/3.5.0
+date:
+  type: confirmed
+  value: '2009-01-28'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C3
+  type: prime
+- name: "-"
+  type: other
+- name: N3
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

@@ -1,0 +1,41 @@
+---
+id: 3GPPTS23.180-Rel-17/0.3.0
+title:
+  type: main
+  content: Mission critical services support in the Isolated Operation for Public
+    Safety (IOPS) mode of operation
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.180/23180-030.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.180:Rel-17/0.3.0
+  type: 3GPP
+- id: '73151'
+  type: rapporteurId
+docnumber: TS 23.180:Rel-17/0.3.0
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S6
+  type: prime
+- name: S2, S3
+  type: other
+radiotechnology: LTE
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

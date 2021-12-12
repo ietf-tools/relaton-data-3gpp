@@ -1,0 +1,37 @@
+---
+id: 3GPPTR23.838-Rel-9/1.0.0
+title:
+  type: main
+  content: IP Multimedia Subsystem (IMS) service continuity enhancements; Service,
+    policy and interaction; Stage 2
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 23.838:Rel-9/1.0.0
+  type: 3GPP
+- id: '41151'
+  type: rapporteurId
+docnumber: TR 23.838:Rel-9/1.0.0
+date:
+  type: confirmed
+  value: '2009-06-11'
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

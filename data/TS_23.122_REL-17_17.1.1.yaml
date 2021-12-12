@@ -1,0 +1,55 @@
+---
+id: 3GPPTS23.122-Rel-17/17.1.1
+title:
+  type: main
+  content: Non-Access-Stratum (NAS) functions related to Mobile Station (MS) in idle
+    mode
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.122/23122-h11.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.122:Rel-17/17.1.1
+  type: 3GPP
+- id: '45210'
+  type: rapporteurId
+docnumber: TS 23.122:Rel-17/17.1.1
+date:
+  type: confirmed
+  value: '2005-06-15'
+biblionote:
+- content: "."
+  type: remark
+- content: deletion of extra instances of figure C.2.1
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: This specification shall give an overview of the tasks undertaken by a
+    Mobile Station (MS) when in idle mode, that is, switched on but not having a dedicated
+    channel allocated, e.g. not making or receiving a call, or when in group receive
+    mode, that is, receiving a group call or broadcast call but not having a dedicated
+    connection. It also describes the corresponding network functions.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

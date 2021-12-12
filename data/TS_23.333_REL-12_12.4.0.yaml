@@ -1,0 +1,51 @@
+---
+id: 3GPPTS23.333-Rel-12/12.4.0
+title:
+  type: main
+  content: 'Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function
+    Processor (MRFP) Mp interface: Procedures descriptions'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.333/23333-c40.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.333:Rel-12/12.4.0
+  type: 3GPP
+- id: '25150'
+  type: rapporteurId
+docnumber: TS 23.333:Rel-12/12.4.0
+date:
+- type: created
+  value: '2015-01-06'
+- type: confirmed
+  value: '2010-12-22'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: C1
+  type: other
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

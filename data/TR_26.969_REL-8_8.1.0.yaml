@@ -1,0 +1,47 @@
+---
+id: 3GPPTR26.969-Rel-8/8.1.0
+title:
+  type: main
+  content: eCall data transfer; In-band modem solution; Characterization report
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.969/26969-810.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 26.969:Rel-8/8.1.0
+  type: 3GPP
+- id: '38562'
+  type: rapporteurId
+docnumber: TR 26.969:Rel-8/8.1.0
+date:
+- type: created
+  value: '2009-12-18'
+- type: confirmed
+  value: '2009-10-01'
+biblionote:
+  content: 'SP-43: Exception granted for completion at SP-44.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S4
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

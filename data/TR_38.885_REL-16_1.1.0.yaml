@@ -1,0 +1,40 @@
+---
+id: 3GPPTR38.885-Rel-16/1.1.0
+title:
+  type: main
+  content: Study on NR Vehicle-to-Everything (V2X)
+  format: text/plain
+link:
+  content: http://ftp.3gpp.org//Specs/archive/38_series/38.885/38885-110.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.885:Rel-16/1.1.0
+  type: 3GPP
+- id: '45858'
+  type: rapporteurId
+docnumber: TR 38.885:Rel-16/1.1.0
+biblionote:
+- content: "."
+  type: remark
+- content: R1-1903830
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: R1
+  type: prime
+- name: R2, R3
+  type: other
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

@@ -1,0 +1,46 @@
+---
+id: 3GPPTS32.373-Rel-7/7.0.0
+title:
+  type: main
+  content: Telecommunication management; Security services for Integration Reference
+    Point (IRP); Common Object Request Broker Architecture (CORBA) solution
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.373/32373-700.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.373:Rel-7/7.0.0
+  type: 3GPP
+- id: '37005'
+  type: rapporteurId
+docnumber: TS 32.373:Rel-7/7.0.0
+date:
+- type: created
+  value: '2007-03-26'
+- type: confirmed
+  value: '2008-12-21'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

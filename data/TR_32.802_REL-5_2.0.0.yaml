@@ -1,0 +1,47 @@
+---
+id: 3GPPTR32.802-Rel-5/2.0.0
+title:
+  type: main
+  content: Telecommunication management; User Equipment Management (UEM) feasibility
+    study
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.802/32802-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 32.802:Rel-5/2.0.0
+  type: 3GPP
+- id: '23029'
+  type: rapporteurId
+docnumber: TR 32.802:Rel-5/2.0.0
+date:
+  type: confirmed
+  value: '2018-12-21'
+biblionote:
+- content: 'SP-21: No rapporteur, work stopped.  SP-26: assume no desire to upgrade
+    to Rel-6.  2006-02: Cf OMA DevMan.'
+  type: remark
+- content: SP-020331
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

@@ -1,0 +1,39 @@
+---
+id: 3GPPTR32.01U-UMTS/1.0.0
+title:
+  type: main
+  content: Overall principles of the OAM for the UMTS
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 32.01U:UMTS/1.0.0
+  type: 3GPP
+- id: '36060'
+  type: rapporteurId
+docnumber: TR 32.01U:UMTS/1.0.0
+biblionote:
+  content: No progress since SMG#22.
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: SMG12
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

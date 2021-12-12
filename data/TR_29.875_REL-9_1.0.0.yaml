@@ -1,0 +1,47 @@
+---
+id: 3GPPTR29.875-Rel-9/1.0.0
+title:
+  type: main
+  content: Interworking Proxy between GTP based and PMIP based interfaces
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.875/29875-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 29.875:Rel-9/1.0.0
+  type: 3GPP
+- id: '38243'
+  type: rapporteurId
+docnumber: TR 29.875:Rel-9/1.0.0
+date:
+  type: created
+  value: '2009-12-12'
+biblionote:
+- content: 'C4-49: stopped.'
+  type: remark
+- content: CP-090820
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: C4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

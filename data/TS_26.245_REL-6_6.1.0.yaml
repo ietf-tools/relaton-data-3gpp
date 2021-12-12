@@ -1,0 +1,46 @@
+---
+id: 3GPPTS26.245-Rel-6/6.1.0
+title:
+  type: main
+  content: Transparent end-to-end Packet switched Streaming Service (PSS); Timed text
+    format
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.245/26245-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 26.245:Rel-6/6.1.0
+  type: 3GPP
+- id: '29509'
+  type: rapporteurId
+docnumber: TS 26.245:Rel-6/6.1.0
+date:
+  type: confirmed
+  value: '2005-01-06'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

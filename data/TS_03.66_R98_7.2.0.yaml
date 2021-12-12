@@ -1,0 +1,45 @@
+---
+id: 3GPPTS03.66-R98/7.2.0
+title:
+  type: main
+  content: Support of GSM Mobile Number Portability (MNP); Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.66/0366-720.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.66:R98/7.2.0
+  type: 3GPP
+- id: '21984'
+  type: rapporteurId
+docnumber: TS 03.66:R98/7.2.0
+biblionote:
+  content: "#28: 7.0.0  #29: 7.1.0 TSG#5: 7.2.0 (Expect 7.3.0 dealing with PE comments.)
+    TSG#7: 7.3.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

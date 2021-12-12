@@ -1,0 +1,40 @@
+---
+id: 3GPPTR36.805-Rel-9/1.3.1
+title:
+  type: main
+  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on minimization
+    of drive-tests in next generation networks
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.805/36805-131.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.805:Rel-9/1.3.1
+  type: 3GPP
+- id: '29801'
+  type: rapporteurId
+docnumber: TR 36.805:Rel-9/1.3.1
+biblionote:
+  content: R2-097381
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R2
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

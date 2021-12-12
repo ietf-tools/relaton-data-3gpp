@@ -1,0 +1,57 @@
+---
+id: 3GPPTS34.108-Rel-7/7.2.0
+title:
+  type: main
+  content: Common test environments for User Equipment (UE); Conformance testing
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-720.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 34.108:Rel-7/7.2.0
+  type: 3GPP
+- id: '10602'
+  type: rapporteurId
+docnumber: TS 34.108:Rel-7/7.2.0
+date:
+- type: created
+  value: '2007-09-25'
+- type: confirmed
+  value: '2005-10-10'
+biblionote:
+  content: becomes pointer to later Release
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: This document contains definitions of reference conditions and test signals,
+    default parameters, reference Radio Bearer configurations, common requirements
+    for test equipment and generic set-up procedures for use in UE conformance tests.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R5
+  type: prime
+- name: "-"
+  type: other
+- name: T1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

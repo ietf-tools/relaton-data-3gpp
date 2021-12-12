@@ -1,0 +1,46 @@
+---
+id: 3GPPTR36.902-Rel-8/0.0.1
+title:
+  type: main
+  content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Self-configuring
+    and self-optimizing network (SON) use cases and solutions
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 36.902:Rel-8/0.0.1
+  type: 3GPP
+- id: '31025'
+  type: rapporteurId
+docnumber: TR 36.902:Rel-8/0.0.1
+date:
+  type: confirmed
+  value: '2009-05-27'
+biblionote:
+- content: 'post RP-43: Rapporteur proposes to move this work to Rel-9 with appropriate
+    change to the work item description, which is currently #330020.'
+  type: remark
+- content: R3-080476
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R3
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

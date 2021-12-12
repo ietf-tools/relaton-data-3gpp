@@ -1,0 +1,47 @@
+---
+id: 3GPPTS23.083-Rel-4/4.0.0
+title:
+  type: main
+  content: Call Waiting (CW) and Call Hold (HOLD) supplementary services; Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.083/23083-400.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.083:Rel-4/4.0.0
+  type: 3GPP
+- id: '15130'
+  type: rapporteurId
+docnumber: TS 23.083:Rel-4/4.0.0
+date:
+  type: confirmed
+  value: '2008-12-15'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4 (ex NSS)
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

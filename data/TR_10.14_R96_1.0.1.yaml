@@ -1,0 +1,38 @@
+---
+id: 3GPPTR10.14-R96/1.0.1
+title:
+  type: main
+  content: System overview for 14.4 kbit/s Work Item
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.14/1014-101.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 10.14:R96/1.0.1
+  type: 3GPP
+- id: '23377'
+  type: rapporteurId
+docnumber: TR 10.14:R96/1.0.1
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+- name: "-"
+  type: other
+- name: SMG12
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

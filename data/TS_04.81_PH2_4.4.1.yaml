@@ -1,0 +1,44 @@
+---
+id: 3GPPTS04.81-Ph2/4.4.1
+title:
+  type: main
+  content: Line Identification Supplementary Services; Stage 3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.81/0481-441.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.81:Ph2/4.4.1
+  type: 3GPP
+- id: '6963'
+  type: rapporteurId
+docnumber: TS 04.81:Ph2/4.4.1
+biblionote:
+  content: "#7: 4.2.0   #10: 4.3.0   #12: 4.4.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

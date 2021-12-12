@@ -1,0 +1,51 @@
+---
+id: 3GPPTS32.152-Rel-7/7.0.1
+title:
+  type: main
+  content: Telecommunication management; Integration Reference Point (IRP) Information
+    Service (IS) Unified Modelling Language (UML) repertoire
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.152/32152-701.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.152:Rel-7/7.0.1
+  type: 3GPP
+- id: '21049'
+  type: rapporteurId
+docnumber: TS 32.152:Rel-7/7.0.1
+date:
+- type: created
+  value: '2006-10-10'
+- type: confirmed
+  value: '2005-03-30'
+biblionote:
+  content: 'Corrected TS ver. and Rel #; added GSM logo in line with 41.101.'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

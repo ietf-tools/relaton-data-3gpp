@@ -1,0 +1,44 @@
+---
+id: 3GPPTS03.72-R98/7.1.0
+title:
+  type: main
+  content: Call Deflection  stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.72/0372-710.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.72:R98/7.1.0
+  type: 3GPP
+- id: '31372'
+  type: rapporteurId
+docnumber: TS 03.72:R98/7.1.0
+biblionote:
+  content: "#28: 7.0.0 TSG#5 7.1.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

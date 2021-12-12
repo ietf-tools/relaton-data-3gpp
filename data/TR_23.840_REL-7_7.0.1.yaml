@@ -1,0 +1,47 @@
+---
+id: 3GPPTR23.840-Rel-7/7.0.1
+title:
+  type: main
+  content: Study into routeing of MT-SMs via the HPLMN
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.840/23840-701.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.840:Rel-7/7.0.1
+  type: 3GPP
+- id: '21192'
+  type: rapporteurId
+docnumber: TR 23.840:Rel-7/7.0.1
+date:
+- type: created
+  value: '2007-01-31'
+- type: confirmed
+  value: '2006-04-26'
+biblionote:
+  content: Adds source files for figures
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: C4
+  type: prime
+- name: C1
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

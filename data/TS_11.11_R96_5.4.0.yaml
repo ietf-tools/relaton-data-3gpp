@@ -1,0 +1,45 @@
+---
+id: 3GPPTS11.11-R96/5.4.0
+title:
+  type: main
+  content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
+    Interface
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.11/1111-540.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 11.11:R96/5.4.0
+  type: 3GPP
+- id: '41193'
+  type: rapporteurId
+docnumber: TS 11.11:R96/5.4.0
+date:
+  type: confirmed
+  value: '2005-06-14'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+- name: SMG09
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

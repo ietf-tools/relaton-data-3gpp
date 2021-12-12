@@ -1,0 +1,43 @@
+---
+id: 3GPPTS03.68-R00/9.0.0
+title:
+  type: main
+  content: Voice Group Call Service (VGCS); Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.68/0368-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.68:R00/9.0.0
+  type: 3GPP
+- id: '36348'
+  type: rapporteurId
+docnumber: TS 03.68:R00/9.0.0
+date:
+  type: confirmed
+  value: '2005-06-23'
+biblionote:
+  content: "#32:9.0.0 TSG#8:9.0.0->43.068v4.0.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1  /  SMG03A
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: "-"
+  defunct: true
+  freeze_meeting: "-"
+  close_meeting: SP-06

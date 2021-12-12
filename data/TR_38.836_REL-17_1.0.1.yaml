@@ -1,0 +1,35 @@
+---
+id: 3GPPTR38.836-Rel-17/1.0.1
+title:
+  type: main
+  content: Study on NR sidelink relay
+  format: text/plain
+link:
+  content: https://ftp.3gpp.org//Specs/archive/38_series/38.836/38836-101.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.836:Rel-17/1.0.1
+  type: 3GPP
+- id: '71851'
+  type: rapporteurId
+docnumber: TR 38.836:Rel-17/1.0.1
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

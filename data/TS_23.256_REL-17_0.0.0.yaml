@@ -1,0 +1,41 @@
+---
+id: 3GPPTS23.256-Rel-17/0.0.0
+title:
+  type: main
+  content: Support of Uncrewed Aerial Systems (UAS) connectivity, identification and
+    tracking; Stage 2
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.256/23256-000.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.256:Rel-17/0.0.0
+  type: 3GPP
+- id: '79506'
+  type: rapporteurId
+docnumber: TS 23.256:Rel-17/0.0.0
+biblionote:
+- content: "."
+  type: remark
+- content: 'S2-2101029: Proposed skeleton agreed at S2#143E'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

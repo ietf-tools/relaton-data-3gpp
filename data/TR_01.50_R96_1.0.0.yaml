@@ -1,0 +1,37 @@
+---
+id: 3GPPTR01.50-R96/1.0.0
+title:
+  type: main
+  content: Radio Local Loop (RLL) using GSM
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.50/0150-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 01.50:R96/1.0.0
+  type: 3GPP
+- id: '12770'
+  type: rapporteurId
+docnumber: TR 01.50:R96/1.0.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: SMG1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

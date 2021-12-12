@@ -1,0 +1,42 @@
+---
+id: 3GPPTS04.60-R97/6.1.0
+title:
+  type: main
+  content: General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station
+    System (BSS) interface; Radio Link Control/ Medium Access Control (RLC/MAC) protocol
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.60/0460-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 04.60:R97/6.1.0
+  type: 3GPP
+- id: '714'
+  type: rapporteurId
+docnumber: TS 04.60:R97/6.1.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: G2
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

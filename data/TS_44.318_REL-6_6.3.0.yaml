@@ -1,0 +1,51 @@
+---
+id: 3GPPTS44.318-Rel-6/6.3.0
+title:
+  type: main
+  content: Generic Access Network (GAN); Mobile GAN interface layer 3 specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.318/44318-630.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 44.318:Rel-6/6.3.0
+  type: 3GPP
+- id: '33654'
+  type: rapporteurId
+docnumber: TS 44.318:Rel-6/6.3.0
+date:
+- type: created
+  value: '2005-11-25'
+- type: confirmed
+  value: '2007-12-04'
+biblionote:
+  content: 'GP-23: Was originally Rel-7 but stage 2 approved as Rel-6 so this changed
+    too.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

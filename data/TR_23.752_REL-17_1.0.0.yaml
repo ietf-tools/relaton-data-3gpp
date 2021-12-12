@@ -1,0 +1,38 @@
+---
+id: 3GPPTR23.752-Rel-17/1.0.0
+title:
+  type: main
+  content: Study on system enhancement for Proximity based Services (ProSe) in the
+    5G System (5GS)
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.752/23752-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.752:Rel-17/1.0.0
+  type: 3GPP
+- id: '74437'
+  type: rapporteurId
+docnumber: TR 23.752:Rel-17/1.0.0
+biblionote:
+- content: "."
+  type: remark
+- content: 'SP-200962: MCC editorial update for presentation to TSG SA#90E for information'
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

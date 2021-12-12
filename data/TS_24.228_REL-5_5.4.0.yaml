@@ -1,0 +1,50 @@
+---
+id: 3GPPTS24.228-Rel-5/5.4.0
+title:
+  type: main
+  content: Signalling flows for the IP multimedia call control based on Session Initiation
+    Protocol (SIP) and Session Description Protocol (SDP); Stage 3
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.228/24228-540.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.228:Rel-5/5.4.0
+  type: 3GPP
+- id: '9175'
+  type: rapporteurId
+docnumber: TS 24.228:Rel-5/5.4.0
+date:
+  type: confirmed
+  value: '2003-07-04'
+biblionote:
+  content: 'Post NP-25: not to be upgraded to Rel-6.  NP-26: confirmed: contents subsumed
+    by other specs.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

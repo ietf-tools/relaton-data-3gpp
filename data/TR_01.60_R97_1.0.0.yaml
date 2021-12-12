@@ -1,0 +1,38 @@
+---
+id: 3GPPTR01.60-R97/1.0.0
+title:
+  type: main
+  content: GPRS requirements
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 01.60:R97/1.0.0
+  type: 3GPP
+- id: '4035'
+  type: rapporteurId
+docnumber: TR 01.60:R97/1.0.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: SMG01
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

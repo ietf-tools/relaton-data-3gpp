@@ -1,0 +1,51 @@
+---
+id: 3GPPTR23.898-Rel-6/1.0.0
+title:
+  type: main
+  content: Access Class Barring and Overload Protection (ACBOP)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.898/23898-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.898:Rel-6/1.0.0
+  type: 3GPP
+- id: '12011'
+  type: rapporteurId
+docnumber: TR 23.898:Rel-6/1.0.0
+date:
+  type: confirmed
+  value: '2004-12-13'
+biblionote:
+- content: 'post SP-25: Work item to which this TR pertains is Rel-7, so this TR must
+    therefore be Rel-7!'
+  type: remark
+- content: SP-040332
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

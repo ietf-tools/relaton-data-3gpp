@@ -1,0 +1,50 @@
+---
+id: 3GPPTS51.010-1-Rel-4/4.7.0
+title:
+  type: main
+  content: 'Mobile Station (MS) conformance specification; Part 1: Conformance specification'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-1/51010-1-470.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 51.010-1:Rel-4/4.7.0
+  type: 3GPP
+- id: '31373'
+  type: rapporteurId
+docnumber: TS 51.010-1:Rel-4/4.7.0
+date:
+  type: confirmed
+  value: '2007-09-25'
+biblionote:
+  content: "#32:9.0.0 MCC-converted Aug00:4.0.1"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R5
+  type: prime
+- name: CP, S1
+  type: other
+- name: SMG07 / SMG01 / SMG02 / SMG03 / SMG04 / SMG09
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

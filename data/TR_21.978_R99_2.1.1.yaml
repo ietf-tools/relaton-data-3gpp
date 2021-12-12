@@ -1,0 +1,41 @@
+---
+id: 3GPPTR21.978-R99/2.1.1
+title:
+  type: main
+  content: Feasibility Technical Report; CAMEL Control of VoIP Services
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 21.978:R99/2.1.1
+  type: 3GPP
+- id: '7014'
+  type: rapporteurId
+docnumber: TR 21.978:R99/2.1.1
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N2
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

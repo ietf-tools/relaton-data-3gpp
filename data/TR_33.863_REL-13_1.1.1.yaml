@@ -1,0 +1,42 @@
+---
+id: 3GPPTR33.863-Rel-13/1.1.1
+title:
+  type: main
+  content: Study on battery efficient security for very low throughput Machine Type
+    Communication (MTC) devices
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.863/33863-111.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 33.863:Rel-13/1.1.1
+  type: 3GPP
+- id: '24416'
+  type: rapporteurId
+docnumber: TR 33.863:Rel-13/1.1.1
+biblionote:
+- content: "."
+  type: remark
+- content: Cleans the revision marks
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S3
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

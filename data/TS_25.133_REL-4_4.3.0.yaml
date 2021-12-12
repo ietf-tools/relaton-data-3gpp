@@ -1,0 +1,53 @@
+---
+id: 3GPPTS25.133-Rel-4/4.3.0
+title:
+  type: main
+  content: Requirements for support of radio resource management  (FDD)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.133/25133-430.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.133:Rel-4/4.3.0
+  type: 3GPP
+- id: '24916'
+  type: rapporteurId
+docnumber: TS 25.133:Rel-4/4.3.0
+date:
+  type: confirmed
+  value: '2005-04-01'
+language: en
+script: Latn
+abstract:
+  content: This specification describes the requirements for support of radio resource
+    management for FDD including requirements on measurements in UTRAN and the UE
+    as well as on node dynamic behaviour and interaction, in terms of delay and response
+    characteristics.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: "-"
+  type: other
+- name: R4
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

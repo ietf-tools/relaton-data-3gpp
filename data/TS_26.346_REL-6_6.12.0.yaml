@@ -1,0 +1,51 @@
+---
+id: 3GPPTS26.346-Rel-6/6.12.0
+title:
+  type: main
+  content: Multimedia Broadcast/Multicast Service (MBMS); Protocols and codecs
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.346/26346-6c0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 26.346:Rel-6/6.12.0
+  type: 3GPP
+- id: '18030'
+  type: rapporteurId
+docnumber: TS 26.346:Rel-6/6.12.0
+date:
+- type: created
+  value: '2008-09-26'
+- type: confirmed
+  value: '2003-08-29'
+biblionote:
+  content: 'SP-22: v1.0.0 had been expected this mtg, but at least 3 months delay
+    expected.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: S2, S3
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

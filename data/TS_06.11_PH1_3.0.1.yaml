@@ -1,0 +1,41 @@
+---
+id: 3GPPTS06.11-Ph1/3.0.1
+title:
+  type: main
+  content: Substitution and Muting of Lost Frames for Full Rate Speech Channels
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.11/0611-301.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.11:Ph1/3.0.1
+  type: 3GPP
+- id: '5770'
+  type: rapporteurId
+docnumber: TS 06.11:Ph1/3.0.1
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

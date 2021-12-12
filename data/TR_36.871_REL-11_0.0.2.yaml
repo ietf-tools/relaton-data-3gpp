@@ -1,0 +1,43 @@
+---
+id: 3GPPTR36.871-Rel-11/0.0.2
+title:
+  type: main
+  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Downlink Multiple
+    Input Multiple Output (MIMO) enhancement for LTE-Advanced
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.871/36871-002.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.871:Rel-11/0.0.2
+  type: 3GPP
+- id: '44032'
+  type: rapporteurId
+docnumber: TR 36.871:Rel-11/0.0.2
+date:
+  type: confirmed
+  value: '2011-12-06'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R1
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

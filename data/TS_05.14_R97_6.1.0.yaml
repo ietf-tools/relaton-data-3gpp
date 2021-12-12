@@ -1,0 +1,43 @@
+---
+id: 3GPPTS05.14-R97/6.1.0
+title:
+  type: main
+  content: Release independent frequency bands; Implementation guidelines
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.14/0514-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.14:R97/6.1.0
+  type: 3GPP
+- id: '45152'
+  type: rapporteurId
+docnumber: TS 05.14:R97/6.1.0
+biblionote:
+  content: Originally allocated as 09.20. Changed by request of GERAN chair 2000-11-09.
+    R97 record created at same time (originally was only R99 and R98).
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: G2
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

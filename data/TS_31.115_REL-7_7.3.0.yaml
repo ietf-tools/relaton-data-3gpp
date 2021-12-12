@@ -1,0 +1,55 @@
+---
+id: 3GPPTS31.115-Rel-7/7.3.0
+title:
+  type: main
+  content: Secured packet structure for (Universal) Subscriber Identity Module (U)SIM
+    Toolkit applications
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.115/31115-730.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.115:Rel-7/7.3.0
+  type: 3GPP
+- id: '42268'
+  type: rapporteurId
+docnumber: TS 31.115:Rel-7/7.3.0
+date:
+- type: created
+  value: '2013-03-18'
+- type: confirmed
+  value: '2012-03-16'
+language: en
+script: Latn
+abstract:
+  content: This document specifies the structure of the Secured Packets in implementations
+    using Short Message Service and Cell Broadcast Service. It is applicable to the
+    exchange of secured packets between an entity in a 3G or GSM PLMN and an entity
+    in the (U)SIM.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

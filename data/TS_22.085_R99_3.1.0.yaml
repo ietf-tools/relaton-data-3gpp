@@ -1,0 +1,53 @@
+---
+id: 3GPPTS22.085-R99/3.1.0
+title:
+  type: main
+  content: Closed User Group (CUG) supplementary services; Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.085/22085-310.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.085:R99/3.1.0
+  type: 3GPP
+- id: '12543'
+  type: rapporteurId
+docnumber: TS 22.085:R99/3.1.0
+date:
+  type: confirmed
+  value: '2011-06-21'
+language: en
+script: Latn
+abstract:
+  content: The CUG supplementary service enables subscribers, connected to a network
+    and possibly also other networks, to form CUGs to and from which access is restricted.
+    A specific user may be a member of one or more CUGs. Members of a specific CUG
+    can communicate among each other but not, in general, with users outside the group.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

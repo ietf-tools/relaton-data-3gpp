@@ -1,0 +1,53 @@
+---
+id: 3GPPTS34.124-R99/1.3.0
+title:
+  type: main
+  content: Electromagnetic compatibility (EMC) requirements for mobile terminals and
+    ancillary equipment
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.124/34124-130.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 34.124:R99/1.3.0
+  type: 3GPP
+- id: '21458'
+  type: rapporteurId
+docnumber: TS 34.124:R99/1.3.0
+date:
+  type: confirmed
+  value: '2005-06-24'
+language: en
+script: Latn
+abstract:
+  content: This document establishes the essential EMC requirements for “3rd generation”
+    digital cellular mobile terminal equipment and ancillary accessories in combination
+    with a 3GPP user equipment (UE).
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: "-"
+  type: other
+- name: T1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

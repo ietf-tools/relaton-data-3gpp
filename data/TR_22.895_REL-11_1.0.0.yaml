@@ -1,0 +1,50 @@
+---
+id: 3GPPTR22.895-Rel-11/1.0.0
+title:
+  type: main
+  content: Study on service aspects of integration of Single Sign-On (SSO) frameworks
+    with 3GPP operator-controlled resources and mechanisms
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.895/22895-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.895:Rel-11/1.0.0
+  type: 3GPP
+- id: '37666'
+  type: rapporteurId
+docnumber: TR 22.895:Rel-11/1.0.0
+date:
+- type: created
+  value: '2011-09-26'
+- type: confirmed
+  value: '2012-03-15'
+biblionote:
+- content: 'SP-53: timed out to Rel-12.'
+  type: remark
+- content: SP-110587
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S1
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

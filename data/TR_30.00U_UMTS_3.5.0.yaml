@@ -1,0 +1,44 @@
+---
+id: 3GPPTR30.00U-UMTS/3.5.0
+title:
+  type: main
+  content: SMG - UMTS Work programme
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.00U/3000U-350.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 30.00U:UMTS/3.5.0
+  type: 3GPP
+- id: '9883'
+  type: rapporteurId
+docnumber: TR 30.00U:UMTS/3.5.0
+biblionote:
+  content: "#21: 3.0.0  #22: 3.1.0  #23: 3.2.0  #24: 3.3.0  #25: 3.4.0  #26: 3.5.0
+    \ #27: 3.6.1"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: "-"
+  type: prime
+- name: "-"
+  type: other
+- name: SMG12
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

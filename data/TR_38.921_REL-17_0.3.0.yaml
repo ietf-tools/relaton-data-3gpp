@@ -1,0 +1,39 @@
+---
+id: 3GPPTR38.921-Rel-17/0.3.0
+title:
+  type: main
+  content: Study on International Mobile Telecommunications (IMT) parameters for 6.425
+    - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.921/38921-030.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.921:Rel-17/0.3.0
+  type: 3GPP
+- id: '47239'
+  type: rapporteurId
+docnumber: TR 38.921:Rel-17/0.3.0
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

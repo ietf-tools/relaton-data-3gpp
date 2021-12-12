@@ -1,0 +1,46 @@
+---
+id: 3GPPTS29.198-16-Rel-7/1.0.3
+title:
+  type: main
+  content: 'Open Service Access (OSA) Application Programming Interface (API); Part
+    16: Service broker Service Capability Feature (SCF)'
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-16/29198-16-103.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 29.198-16:Rel-7/1.0.3
+  type: 3GPP
+- id: '16701'
+  type: rapporteurId
+docnumber: TS 29.198-16:Rel-7/1.0.3
+date:
+- type: created
+  value: '2006-10-29'
+- type: confirmed
+  value: '2006-12-15'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: CP
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

@@ -1,0 +1,57 @@
+---
+id: 3GPPTS31.111-Rel-12/12.4.0
+title:
+  type: main
+  content: Universal Subscriber Identity Module (USIM) Application Toolkit (USAT)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.111/31111-c40.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.111:Rel-12/12.4.0
+  type: 3GPP
+- id: '12666'
+  type: rapporteurId
+docnumber: TS 31.111:Rel-12/12.4.0
+date:
+- type: created
+  value: '2014-07-03'
+- type: confirmed
+  value: '2005-06-14'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: This document defines the interface between the UICC and the Mobile Equipment
+    (ME), and mandatory ME procedures, specifically for "USIM Application Toolkit".USAT
+    is a set of commands and procedures for use during the network operation phase
+    of 3G, in addition to those defined in TS 31.101.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: "-"
+  type: other
+- name: T3
+  type: former
+radiotechnology: 2G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

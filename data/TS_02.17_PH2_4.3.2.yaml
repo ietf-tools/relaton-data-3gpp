@@ -1,0 +1,44 @@
+---
+id: 3GPPTS02.17-Ph2/4.3.2
+title:
+  type: main
+  content: Subscriber Identity Module (SIM); Functional characteristics
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.17/0217-432.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 02.17:Ph2/4.3.2
+  type: 3GPP
+- id: '41193'
+  type: rapporteurId
+docnumber: TS 02.17:Ph2/4.3.2
+date:
+  type: confirmed
+  value: '2002-02-06'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: S1
+  type: other
+- name: SMG09  /  SMG01
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

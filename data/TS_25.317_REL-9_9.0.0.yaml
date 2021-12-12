@@ -1,0 +1,51 @@
+---
+id: 3GPPTS25.317-Rel-9/9.0.0
+title:
+  type: main
+  content: High Speed Packet Access (HSPA); Requirements on User Equipments (UEs)
+    supporting a release-independent frequency band combination
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.317/25317-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.317:Rel-9/9.0.0
+  type: 3GPP
+- id: '54598'
+  type: rapporteurId
+docnumber: TS 25.317:Rel-9/9.0.0
+date:
+- type: created
+  value: '2011-03-31'
+- type: confirmed
+  value: '2011-03-31'
+biblionote:
+  content: 'RP-48: Anticipate relaunch of this TS at Rel-10 under a new WI. RP-51:
+    Old wid was #430015, new WID is #480121.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R2
+  type: prime
+- name: R4
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

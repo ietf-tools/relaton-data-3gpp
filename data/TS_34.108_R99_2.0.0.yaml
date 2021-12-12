@@ -1,0 +1,53 @@
+---
+id: 3GPPTS34.108-R99/2.0.0
+title:
+  type: main
+  content: Common test environments for User Equipment (UE); Conformance testing
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 34.108:R99/2.0.0
+  type: 3GPP
+- id: '10602'
+  type: rapporteurId
+docnumber: TS 34.108:R99/2.0.0
+date:
+  type: confirmed
+  value: '2005-10-10'
+biblionote:
+  content: 'TSG#8:aprvl is controversial.  TP-23: medium-term intention is to make
+    the spec Release-independent, all earlier Releases simply point to latest.'
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: This document contains definitions of reference conditions and test signals,
+    default parameters, reference Radio Bearer configurations, common requirements
+    for test equipment and generic set-up procedures for use in UE conformance tests.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R5
+  type: prime
+- name: "-"
+  type: other
+- name: T1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

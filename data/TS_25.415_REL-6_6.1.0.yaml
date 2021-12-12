@@ -1,0 +1,54 @@
+---
+id: 3GPPTS25.415-Rel-6/6.1.0
+title:
+  type: main
+  content: UTRAN Iu interface user plane protocols
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.415/25415-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.415:Rel-6/6.1.0
+  type: 3GPP
+- id: '45408'
+  type: rapporteurId
+docnumber: TS 25.415:Rel-6/6.1.0
+date:
+  type: confirmed
+  value: '2009-01-02'
+biblionote:
+  content: created for M.1457 update
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: This specification describes the protocols being used to transport and
+    control over the Iu interface, the Iu user data streams.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R3
+  type: prime
+- name: "-"
+  type: other
+- name: R3
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

@@ -1,0 +1,42 @@
+---
+id: 3GPPTS22.70U-UMTS/0.0.7
+title:
+  type: main
+  content: Virtual Home Environment
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 22.70U:UMTS/0.0.7
+  type: 3GPP
+- id: '5285'
+  type: rapporteurId
+docnumber: TS 22.70U:UMTS/0.0.7
+biblionote:
+- content: "#25: 3.0.0"
+  type: remark
+- content: '1997-10-19'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: "-"
+  type: prime
+- name: "-"
+  type: other
+- name: SMG01
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

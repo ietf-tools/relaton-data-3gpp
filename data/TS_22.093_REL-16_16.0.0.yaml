@@ -1,0 +1,56 @@
+---
+id: 3GPPTS22.093-Rel-16/16.0.0
+title:
+  type: main
+  content: Completion of Calls to Busy Subscriber (CCBS); Service description, Stage
+    1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.093/22093-g00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.093:Rel-16/16.0.0
+  type: 3GPP
+- id: '4035'
+  type: rapporteurId
+docnumber: TS 22.093:Rel-16/16.0.0
+date:
+  type: confirmed
+  value: '2012-09-28'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: "In the situation when subscriber A encounters a network determined user
+    busy (NDUB) destination B, the subscriber A can request the CCBS supplementary
+    service (i.e. activate a CCBS request against destination B). The network will
+    then monitor the wanted destination B for becoming idle.\r\nWhen the wanted destination
+    B becomes idle, then the network will wait a short time in order to allow destination
+    B to make an outgoing call. If destination B does not make any outgoing call within
+    this time, then the network shall automatically recall subscriber A."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

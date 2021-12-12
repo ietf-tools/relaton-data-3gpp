@@ -1,0 +1,43 @@
+---
+id: 3GPPTS23.01U-UMTS/1.0.0
+title:
+  type: main
+  content: General UMTS architecture
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 23.01U:UMTS/1.0.0
+  type: 3GPP
+- id: '14562'
+  type: rapporteurId
+docnumber: TS 23.01U:UMTS/1.0.0
+date:
+  type: confirmed
+  value: '2004-12-24'
+biblionote:
+  content: "#27: for info"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: SMG12
+  type: prime
+- name: smg03
+  type: other
+- name: SMG12
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

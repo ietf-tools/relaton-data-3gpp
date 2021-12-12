@@ -1,0 +1,43 @@
+---
+id: 3GPPTR29.962-Rel-6/1.2.0
+title:
+  type: main
+  content: Signalling interworking between the 3GPP profile of the Session Initiation
+    Protocol (SIP) and non-3GPP SIP usage
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 29.962:Rel-6/1.2.0
+  type: 3GPP
+- id: '23293'
+  type: rapporteurId
+docnumber: TR 29.962:Rel-6/1.2.0
+date:
+  type: confirmed
+  value: '2003-06-06'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: C3
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

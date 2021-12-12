@@ -1,0 +1,40 @@
+---
+id: 3GPPTS10.00-R98/7.1.0
+title:
+  type: main
+  content: Digital Cellular Telecommunication System Feature Description
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 10.00:R98/7.1.0
+  type: 3GPP
+- id: '23377'
+  type: rapporteurId
+docnumber: TS 10.00:R98/7.1.0
+biblionote:
+- content: "#27: 7D1.0"
+  type: remark
+- content: Not available
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: "-"
+  type: other
+- name: SMG12
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

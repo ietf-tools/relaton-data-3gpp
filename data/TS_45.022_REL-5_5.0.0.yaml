@@ -1,0 +1,47 @@
+---
+id: 3GPPTS45.022-Rel-5/5.0.0
+title:
+  type: main
+  content: GSM/EDGE Radio link management in hierarchical networks
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.022/45022-500.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 45.022:Rel-5/5.0.0
+  type: 3GPP
+- id: '68332'
+  type: rapporteurId
+docnumber: TS 45.022:Rel-5/5.0.0
+date:
+  type: confirmed
+  value: '2012-09-21'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

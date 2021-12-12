@@ -1,0 +1,50 @@
+---
+id: 3GPPTR34.902-Rel-5/5.3.0
+title:
+  type: main
+  content: Derivation of test tolerances for multi-cell Radio Resource Management
+    (RRM) conformance tests
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.902/34902-530.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 34.902:Rel-5/5.3.0
+  type: 3GPP
+- id: '76956'
+  type: rapporteurId
+docnumber: TR 34.902:Rel-5/5.3.0
+date:
+- type: created
+  value: '2007-12-11'
+- type: confirmed
+  value: '2011-10-13'
+biblionote:
+  content: 'TP-21: assume Rel-7 in view of projected end date. TP-22: Document ready
+    for approval as Rel-5 (!!)'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

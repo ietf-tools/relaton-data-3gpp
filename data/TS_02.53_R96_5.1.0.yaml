@@ -1,0 +1,39 @@
+---
+id: 3GPPTS02.53-R96/5.1.0
+title:
+  type: main
+  content: Tandem Free Operation (TFO); Service description; Stage 1
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 02.53:R96/5.1.0
+  type: 3GPP
+- id: '5770'
+  type: rapporteurId
+docnumber: TS 02.53:R96/5.1.0
+biblionote:
+  content: withdrawn SMG-25
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: S4 / SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

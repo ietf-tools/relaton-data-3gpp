@@ -1,0 +1,49 @@
+---
+id: 3GPPTS23.241-Rel-6/6.0.0
+title:
+  type: main
+  content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-600.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.241:Rel-6/6.0.0
+  type: 3GPP
+- id: '31372'
+  type: rapporteurId
+docnumber: TS 23.241:Rel-6/6.0.0
+date:
+  type: confirmed
+  value: '2004-03-25'
+biblionote:
+  content: 'RP-15: Delayed from Rel-5.   2004-11-16: N4 intends to withdraw this spec
+    and replace with TR 23.941.  NP-26: withdrawal confirmed.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: N4
+  type: prime
+- name: CP
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

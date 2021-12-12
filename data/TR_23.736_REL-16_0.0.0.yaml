@@ -1,0 +1,42 @@
+---
+id: 3GPPTR23.736-Rel-16/0.0.0
+title:
+  type: main
+  content: Study on enhancement of systems using Evolved Packet System (EPS) for Ultra
+    Reliability and Availability using commodity equipment
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.736/23736-000.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.736:Rel-16/0.0.0
+  type: 3GPP
+- id: '1122'
+  type: rapporteurId
+docnumber: TR 23.736:Rel-16/0.0.0
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+- content: "."
+  type: remark
+- content: 'S2-183826: Skeleton approved at S2#127'
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

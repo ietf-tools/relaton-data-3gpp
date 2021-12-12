@@ -1,0 +1,48 @@
+---
+id: 3GPPTR25.815-Rel-7/0.4.2
+title:
+  type: main
+  content: Signalling enhancements for Circuit Switched (CS) and Packet Switched (PS)
+    connections; Analyses and recommendations
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.815/25815-042.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 25.815:Rel-7/0.4.2
+  type: 3GPP
+- id: '25740'
+  type: rapporteurId
+docnumber: TR 25.815:Rel-7/0.4.2
+date:
+- type: created
+  value: '2005-11-24'
+- type: confirmed
+  value: '2011-04-05'
+biblionote:
+  content: RP-050715
+  type: comment
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: RP
+  type: prime
+- name: C1, R1, R2, R3
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

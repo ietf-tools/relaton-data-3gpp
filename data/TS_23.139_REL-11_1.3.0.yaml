@@ -1,0 +1,47 @@
+---
+id: 3GPPTS23.139-Rel-11/1.3.0
+title:
+  type: main
+  content: 3GPP system - fixed broadband access network interworking; Stage 2
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.139/23139-130.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.139:Rel-11/1.3.0
+  type: 3GPP
+- id: '25950'
+  type: rapporteurId
+docnumber: TS 23.139:Rel-11/1.3.0
+date:
+- type: created
+  value: '2012-02-21'
+- type: confirmed
+  value: '2012-03-09'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

@@ -1,0 +1,39 @@
+---
+id: 3GPPTR38.817-01-Rel-16/16.2.0
+title:
+  type: main
+  content: General aspects for User Equipment (UE) Radio Frequency (RF) for NR
+  format: text/plain
+link:
+  content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.817-01/38817-01-g20.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.817-01:Rel-16/16.2.0
+  type: 3GPP
+- id: '73341'
+  type: rapporteurId
+docnumber: TR 38.817-01:Rel-16/16.2.0
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

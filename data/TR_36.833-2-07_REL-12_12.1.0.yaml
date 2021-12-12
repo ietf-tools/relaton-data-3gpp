@@ -1,0 +1,45 @@
+---
+id: 3GPPTR36.833-2-07-Rel-12/12.1.0
+title:
+  type: main
+  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
+    non-contiguous Carrier Aggregation (CA) in Band 7
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-2-07/36833-2-07-c10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.833-2-07:Rel-12/12.1.0
+  type: 3GPP
+- id: '21143'
+  type: rapporteurId
+docnumber: TR 36.833-2-07:Rel-12/12.1.0
+date:
+- type: created
+  value: '2014-03-27'
+- type: confirmed
+  value: '2013-11-26'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

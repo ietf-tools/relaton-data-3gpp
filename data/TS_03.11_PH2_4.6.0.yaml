@@ -1,0 +1,38 @@
+---
+id: 3GPPTS03.11-Ph2/4.6.0
+title:
+  type: main
+  content: Technical Realization of Supplementary Services - General Aspects
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 03.11:Ph2/4.6.0
+  type: 3GPP
+- id: '31372'
+  type: rapporteurId
+docnumber: TS 03.11:Ph2/4.6.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: "-"
+  type: other
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

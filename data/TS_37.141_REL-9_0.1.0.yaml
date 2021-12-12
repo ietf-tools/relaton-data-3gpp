@@ -1,0 +1,45 @@
+---
+id: 3GPPTS37.141-Rel-9/0.1.0
+title:
+  type: main
+  content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station
+    (BS) conformance testing
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 37.141:Rel-9/0.1.0
+  type: 3GPP
+- id: '10425'
+  type: rapporteurId
+docnumber: TS 37.141:Rel-9/0.1.0
+date:
+  type: confirmed
+  value: '2010-06-22'
+biblionote:
+  content: R4-094778
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: RP
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

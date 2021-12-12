@@ -1,0 +1,60 @@
+---
+id: 3GPPTR22.121-Rel-5/5.3.0
+title:
+  type: main
+  content: Service aspects; The Virtual Home Environment (VHE); Stage 1
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.121/22121-530.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.121:Rel-5/5.3.0
+  type: 3GPP
+- id: '36281'
+  type: rapporteurId
+docnumber: TR 22.121:Rel-5/5.3.0
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+  content: 'SP-26: do not upgrade to Rel-6'
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: "This specification describes the content of the Stage 1 requirement for
+    realization of VHE. VHE is defined as a concept for personal service environment
+    (PSE) portability across network boundaries and between terminals. The concept
+    of the VHE is such that users are consistently presented with the same personalized
+    features, user interface customization and services in whatever network and whatever
+    terminal (within the capabilities of the terminal and the network), wherever the
+    user may be located.\r\nA key feature to support VHE is the ability to build services
+    using a standardized application interface."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

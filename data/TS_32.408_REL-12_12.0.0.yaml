@@ -1,0 +1,50 @@
+---
+id: 3GPPTS32.408-Rel-12/12.0.0
+title:
+  type: main
+  content: Telecommunication management; Performance Management (PM); Performance
+    measurements; Teleservice
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.408/32408-c00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.408:Rel-12/12.0.0
+  type: 3GPP
+- id: '53694'
+  type: rapporteurId
+docnumber: TS 32.408:Rel-12/12.0.0
+date:
+- type: created
+  value: '2014-10-02'
+- type: confirmed
+  value: '2008-12-21'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 11.0.0
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

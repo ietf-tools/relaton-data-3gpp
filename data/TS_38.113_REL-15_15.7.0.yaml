@@ -1,0 +1,44 @@
+---
+id: 3GPPTS38.113-Rel-15/15.7.0
+title:
+  type: main
+  content: NR; Base Station (BS) ElectroMagnetic Compatibility (EMC)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.113/38113-f70.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 38.113:Rel-15/15.7.0
+  type: 3GPP
+- id: '77081'
+  type: rapporteurId
+docnumber: TS 38.113:Rel-15/15.7.0
+date:
+  type: confirmed
+  value: '2019-01-02'
+biblionote:
+  content: "."
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: R4
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: f
+  version3g: f
+  defunct: false
+  wpm_code_2g: GSM_Release_15
+  wpm_code_3g: 3G4G5G_Rel-15
+  freeze_meeting: SP-80
+  freeze_stage1_meeting: SP-76
+  freeze_stage2_meeting: SP-78
+  freeze_stage3_meeting: SP-80
+  project_start: '2016-06-01'

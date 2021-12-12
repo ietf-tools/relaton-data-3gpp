@@ -1,0 +1,47 @@
+---
+id: 3GPPTS32.422-Rel-9/9.3.0
+title:
+  type: main
+  content: Telecommunication management; Subscriber and equipment trace; Trace control
+    and configuration management
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.422/32422-930.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.422:Rel-9/9.3.0
+  type: 3GPP
+- id: '35534'
+  type: rapporteurId
+docnumber: TS 32.422:Rel-9/9.3.0
+date:
+- type: created
+  value: '2010-12-30'
+- type: confirmed
+  value: '2004-12-13'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+- name: "-"
+  type: other
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

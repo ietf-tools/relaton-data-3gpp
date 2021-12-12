@@ -1,0 +1,50 @@
+---
+id: 3GPPTR31.970-Rel-14/2.1.1
+title:
+  type: main
+  content: UICC power optimisation for Machine-Type Communication (MTC)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.970/31970-211.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 31.970:Rel-14/2.1.1
+  type: 3GPP
+- id: '74918'
+  type: rapporteurId
+docnumber: TR 31.970:Rel-14/2.1.1
+date:
+  type: confirmed
+  value: '2018-06-25'
+biblionote:
+- content: "."
+  type: remark
+- content: 'th the following quality checks failures: Invalid file name. System will
+    change this to ''31970-211'';Incorrect/missing title in cover page;Automatic numbering
+    (of clauses, figures, tables, notes, examples etc…) should be... ^ 2016-03-18:
+    Found in CP-160164'
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+  name: C6
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

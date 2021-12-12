@@ -1,0 +1,44 @@
+---
+id: 3GPPTS12.71-R98/2.0.1
+title:
+  type: main
+  content: Location Services (LCS); Location services management
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.71/1271-201.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 12.71:R98/2.0.1
+  type: 3GPP
+- id: '34528'
+  type: rapporteurId
+docnumber: TS 12.71:R98/2.0.1
+biblionote:
+  content: 'Sept 99: 0.0.1 TSG#8:7.0.0 (2.0.1) TSG#11:S5 will no longer maintain.'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+- name: "-"
+  type: other
+- name: S5
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

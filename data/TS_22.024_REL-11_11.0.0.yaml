@@ -1,0 +1,58 @@
+---
+id: 3GPPTS22.024-Rel-11/11.0.0
+title:
+  type: main
+  content: Description of Charge Advice Information (CAI)
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.024/22024-b00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.024:Rel-11/11.0.0
+  type: 3GPP
+- id: '21463'
+  type: rapporteurId
+docnumber: TS 22.024:Rel-11/11.0.0
+date:
+- type: created
+  value: '2012-09-28'
+- type: confirmed
+  value: '2005-06-24'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 10.0.0
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: This specification describes an overall view of how the charging advice
+    supplementary service shall operate both in the network and within the UE. The
+    charging supplementary service is described in TS 22.086.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: "-"
+  type: other
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

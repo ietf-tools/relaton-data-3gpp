@@ -1,0 +1,60 @@
+---
+id: 3GPPTS23.122-R99/3.6.0
+title:
+  type: main
+  content: Non-Access-Stratum (NAS) functions related to Mobile Station (MS) in idle
+    mode
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.122/23122-360.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.122:R99/3.6.0
+  type: 3GPP
+- id: '45210'
+  type: rapporteurId
+docnumber: TS 23.122:R99/3.6.0
+date:
+  type: confirmed
+  value: '2005-06-15'
+biblionote:
+  content: Created at TSG#6, CR@TSG#6, Was briefly 23.022. But regenerated from 03.22
+    in June99. Expect 3.1.0 to correct erroneous incorporation of a CR. Expect 3.1.1
+    to undo erroneously incorporated CR.
+  type: remark
+language: en
+script: Latn
+abstract:
+  content: This specification shall give an overview of the tasks undertaken by a
+    Mobile Station (MS) when in idle mode, that is, switched on but not having a dedicated
+    channel allocated, e.g. not making or receiving a call, or when in group receive
+    mode, that is, receiving a group call or broadcast call but not having a dedicated
+    connection. It also describes the corresponding network functions.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: "-"
+  type: other
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

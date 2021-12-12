@@ -1,0 +1,60 @@
+---
+id: 3GPPTS26.092-Rel-12/12.0.0
+title:
+  type: main
+  content: Mandatory speech codec speech processing functions; Adaptive Multi-Rate
+    (AMR) speech codec; Comfort noise aspects
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.092/26092-c00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 26.092:Rel-12/12.0.0
+  type: 3GPP
+- id: '13944'
+  type: rapporteurId
+docnumber: TS 26.092:Rel-12/12.0.0
+date:
+- type: created
+  value: '2014-09-26'
+- type: confirmed
+  value: '2008-12-18'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 11.0.0
+  type: comment
+language: en
+script: Latn
+abstract:
+  content: This specification describes the detailed requirements for the correct
+    operation of the background acoustic noise evaluation, noise parameter encoding/decoding
+    and comfort noise generation for the AMR speech codec during source controlled
+    rate (SCR) operation.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: S4
+  type: former
+radiotechnology: 2G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

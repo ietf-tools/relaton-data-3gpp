@@ -1,0 +1,41 @@
+---
+id: 3GPPTS05.02-R97/6.8.0
+title:
+  type: main
+  content: Multiplexing and Multiple Access on the Radio Path
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.02/0502-680.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.02:R97/6.8.0
+  type: 3GPP
+- id: '18856'
+  type: rapporteurId
+docnumber: TS 05.02:R97/6.8.0
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

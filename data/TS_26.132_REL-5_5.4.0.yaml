@@ -1,0 +1,47 @@
+---
+id: 3GPPTS26.132-Rel-5/5.4.0
+title:
+  type: main
+  content: Speech and video telephony terminal acoustic test specification
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132-540.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 26.132:Rel-5/5.4.0
+  type: 3GPP
+- id: '3209'
+  type: rapporteurId
+docnumber: TS 26.132:Rel-5/5.4.0
+date:
+  type: confirmed
+  value: '2007-02-22'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: S4
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

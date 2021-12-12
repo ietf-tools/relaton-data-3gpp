@@ -1,0 +1,50 @@
+---
+id: 3GPPTS32.725-Rel-8/8.0.0
+title:
+  type: main
+  content: Telecommunication management; Configuration Management (CM); Repeater network
+    resources Integration Reference Point (IRP); Bulk CM eXtensible Markup Language
+    (XML) file format definition
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.725/32725-800.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.725:Rel-8/8.0.0
+  type: 3GPP
+- id: '53694'
+  type: rapporteurId
+docnumber: TS 32.725:Rel-8/8.0.0
+date:
+- type: created
+  value: '2008-12-21'
+- type: confirmed
+  value: '2008-12-21'
+biblionote:
+  content: Upgraded unchanged from Rel-7. Note typo on cover sheet which shows v8.1.0
+    rather than 8.0.0.
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

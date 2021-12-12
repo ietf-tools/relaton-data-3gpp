@@ -1,0 +1,45 @@
+---
+id: 3GPPTS06.21-R98/7.0.1
+title:
+  type: main
+  content: Half rate speech; Substitution and muting of lost frames for half rate
+    speech traffic channels
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.21/0621-701.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.21:R98/7.0.1
+  type: 3GPP
+- id: '5818'
+  type: rapporteurId
+docnumber: TS 06.21:R98/7.0.1
+biblionote:
+  content: "#29: 7.0.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

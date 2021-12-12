@@ -1,0 +1,45 @@
+---
+id: 3GPPTS07.03-Ph2/4.5.0
+title:
+  type: main
+  content: Terminal Adaptation Functions (TAF) for Services Using Synchronous Bearer
+    Capabilities
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.03/0703-450.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 07.03:Ph2/4.5.0
+  type: 3GPP
+- id: '41878'
+  type: rapporteurId
+docnumber: TS 07.03:Ph2/4.5.0
+biblionote:
+  content: "#7: 4.4.0   #9: 4.5.0"
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: C3
+  type: prime
+- name: "-"
+  type: other
+- name: N3 / SMG03D
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

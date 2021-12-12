@@ -1,0 +1,45 @@
+---
+id: 3GPPTS23.509-Rel-7/1.1.1
+title:
+  type: main
+  content: TISPAN; NGN Architecture to support emergency communication from citizen
+    to authority [Endorsed document 3GPP TS 23.167, Release 7]
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 23.509:Rel-7/1.1.1
+  type: 3GPP
+- id: '23377'
+  type: rapporteurId
+docnumber: TS 23.509:Rel-7/1.1.1
+date:
+  type: confirmed
+  value: '2007-12-05'
+biblionote:
+  content: ETSI TS 182 009
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S2
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

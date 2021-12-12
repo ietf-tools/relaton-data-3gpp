@@ -1,0 +1,45 @@
+---
+id: 3GPPTS33.402-Rel-8/8.7.0
+title:
+  type: main
+  content: 3GPP System Architecture Evolution (SAE); Security aspects of non-3GPP
+    accesses
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.402/33402-870.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 33.402:Rel-8/8.7.0
+  type: 3GPP
+- id: '68341'
+  type: rapporteurId
+docnumber: TS 33.402:Rel-8/8.7.0
+date:
+- type: created
+  value: '2012-03-16'
+- type: confirmed
+  value: '2008-03-12'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+  name: S3
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

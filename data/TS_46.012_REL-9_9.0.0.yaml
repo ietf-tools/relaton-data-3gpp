@@ -1,0 +1,53 @@
+---
+id: 3GPPTS46.012-Rel-9/9.0.0
+title:
+  type: main
+  content: Full rate speech; Comfort noise aspect for full rate speech traffic channels
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.012/46012-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 46.012:Rel-9/9.0.0
+  type: 3GPP
+- id: '5794'
+  type: rapporteurId
+docnumber: TS 46.012:Rel-9/9.0.0
+date:
+- type: created
+  value: '2009-12-18'
+- type: confirmed
+  value: '2005-01-06'
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release
+  type: comment
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2021-12-12'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: "-"
+  type: other
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

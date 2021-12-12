@@ -1,0 +1,49 @@
+---
+id: 3GPPTR50.099-Rel-4/0.0.15
+title:
+  type: main
+  content: GERAN project plan and open issues
+  format: text/plain
+link:
+  content: http://www.3gpp.org/ftp/Specs/archive/50_series/50.099/50099-00f.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 50.099:Rel-4/0.0.15
+  type: 3GPP
+- id: '16986'
+  type: rapporteurId
+docnumber: TR 50.099:Rel-4/0.0.15
+biblionote:
+  content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
+    numbered and were not subsequent at all, so do not appear in history; latest draft
+    is ex GERAN#4 = 006. 2002-01-23: Usai indicates "stopped".'
+  type: remark
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2021-12-12'
+doctype: TR
+editorialgroup:
+- name: GP
+  type: prime
+- name: "-"
+  type: other
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'
