@@ -16,6 +16,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0
+      - name: Install mdbtools
+        run: sudo apt-get install mdbtools
       - name: Install gem
         run: |
           gem install relaton-cli
