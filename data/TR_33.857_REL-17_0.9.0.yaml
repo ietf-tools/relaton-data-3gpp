@@ -4,6 +4,9 @@ title:
   type: main
   content: Study on enhanced security support for Non-Public Networks (NPN)
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.857/33857-090.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 33.857:Rel-17/0.9.0
@@ -12,8 +15,10 @@ docid:
   type: rapporteurId
 docnumber: TR 33.857:Rel-17/0.9.0
 biblionote:
-  content: "."
+- content: "."
   type: remark
+- content: S3-214540
+  type: comment
 language: en
 script: Latn
 fetched: '2021-12-13'

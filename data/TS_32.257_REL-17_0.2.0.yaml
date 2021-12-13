@@ -5,6 +5,9 @@ title:
   content: Telecommunication management; Charging management; Edge Computing domain
     charging; stage 2
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-020.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 32.257:Rel-17/0.2.0
@@ -13,8 +16,10 @@ docid:
   type: rapporteurId
 docnumber: TS 32.257:Rel-17/0.2.0
 biblionote:
-  content: "."
+- content: "."
   type: remark
+- content: S5-216484
+  type: comment
 language: en
 script: Latn
 docstatus:

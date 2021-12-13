@@ -4,6 +4,9 @@ title:
   type: main
   content: Study on off-network for rail
   format: text/plain
+link:
+  content: https://ftp.3gpp.org//Specs/archive/22_series/22.990/22990-200.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 22.990:Rel-18/2.0.0

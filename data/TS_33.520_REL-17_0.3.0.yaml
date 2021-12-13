@@ -5,6 +5,9 @@ title:
   content: 5G Security Assurance Specification (SCAS); Non-3GPP InterWorking Function
     (N3IWF)
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.520/33520-030.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.520:Rel-17/0.3.0
@@ -13,8 +16,10 @@ docid:
   type: rapporteurId
 docnumber: TS 33.520:Rel-17/0.3.0
 biblionote:
-  content: "."
+- content: "."
   type: remark
+- content: S3-214537
+  type: comment
 language: en
 script: Latn
 docstatus:

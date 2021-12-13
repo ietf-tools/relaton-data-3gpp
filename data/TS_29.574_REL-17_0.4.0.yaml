@@ -4,6 +4,9 @@ title:
   type: main
   content: 5G System; Data Collection Coordination Services; Stage 3
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.574/29574-040.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 29.574:Rel-17/0.4.0

@@ -5,6 +5,9 @@ title:
   content: Study on application enablement aspects for subscriber-aware northbound
     API access
   format: text/plain
+link:
+  content: https://ftp.3gpp.org//Specs/archive/23_series/23.700-95/23700-95-100.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 23.700-95:Rel-18/1.0.0

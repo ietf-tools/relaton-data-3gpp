@@ -5,6 +5,9 @@ title:
   content: Study on security aspects of enhancement for proximity based services in
     the 5G System (5GS)
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.847/33847-090.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 33.847:Rel-17/0.9.0
@@ -13,8 +16,10 @@ docid:
   type: rapporteurId
 docnumber: TR 33.847:Rel-17/0.9.0
 biblionote:
-  content: "."
+- content: "."
   type: remark
+- content: S3-214404
+  type: comment
 language: en
 script: Latn
 fetched: '2021-12-13'

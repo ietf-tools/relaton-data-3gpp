@@ -4,6 +4,9 @@ title:
   type: main
   content: Security Aspects of Proximity based Services (ProSe) in the 5G System (5GS)
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.503/33503-020.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.503:Rel-17/0.2.0
@@ -12,8 +15,10 @@ docid:
   type: rapporteurId
 docnumber: TS 33.503:Rel-17/0.2.0
 biblionote:
-  content: "."
+- content: "."
   type: remark
+- content: S3-214511
+  type: comment
 language: en
 script: Latn
 docstatus:
