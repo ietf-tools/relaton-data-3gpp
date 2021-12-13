@@ -24,7 +24,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-12'
+fetched: '2021-12-13'
 doctype: TS
 editorialgroup:
 - name: N3

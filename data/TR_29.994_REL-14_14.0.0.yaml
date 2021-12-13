@@ -28,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-12'
+fetched: '2021-12-13'
 doctype: TR
 editorialgroup:
 - name: C1
