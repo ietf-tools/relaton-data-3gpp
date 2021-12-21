@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.860:Rel-13/2.0.0
+  id: 3GPP TR 33.860:Rel-13/2.0.0
   type: 3GPP
-- id: '28179'
-  type: rapporteurId
 docnumber: TR 33.860:Rel-13/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TORVINEN, Vesa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history;Incorrect/missing title in cover page;The first
     two lines of the title must be correct, according to the TSG responsible for the
     specification'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

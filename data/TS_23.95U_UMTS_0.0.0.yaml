@@ -6,17 +6,15 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.95U:UMTS/0.0.0
+  id: 3GPP TS 23.95U:UMTS/0.0.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 23.95U:UMTS/0.0.0
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: "-"

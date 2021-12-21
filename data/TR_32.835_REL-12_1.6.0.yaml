@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.835:Rel-12/1.6.0
+  id: 3GPP TR 32.835:Rel-12/1.6.0
   type: 3GPP
-- id: '18829'
-  type: rapporteurId
 docnumber: TR 32.835:Rel-12/1.6.0
 date:
 - type: created
   value: '2014-06-27'
 - type: confirmed
   value: '2014-06-27'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HUBINETTE, Ulf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

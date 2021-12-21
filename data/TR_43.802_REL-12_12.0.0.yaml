@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.802:Rel-12/12.0.0
+  id: 3GPP TR 43.802:Rel-12/12.0.0
   type: 3GPP
-- id: '36304'
-  type: rapporteurId
 docnumber: TR 43.802:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-09-24'
 - type: confirmed
   value: '2014-09-24'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: FANG, Ming
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

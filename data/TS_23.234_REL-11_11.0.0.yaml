@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.234:Rel-11/11.0.0
+  id: 3GPP TS 23.234:Rel-11/11.0.0
   type: 3GPP
-- id: '26058'
-  type: rapporteurId
 docnumber: TS 23.234:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-18'
 - type: confirmed
   value: '2008-07-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: MARTIQUET, Nicolas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: b

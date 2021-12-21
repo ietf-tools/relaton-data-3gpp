@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.801:Rel-8/0.0.1
+  id: 3GPP TR 36.801:Rel-8/0.0.1
   type: 3GPP
-- id: '52391'
-  type: rapporteurId
 docnumber: TR 36.801:Rel-8/0.0.1
 date:
   type: created
   value: '2007-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: PACKIEWICZ, Andrzej
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

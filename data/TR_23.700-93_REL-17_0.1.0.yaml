@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.700-93:Rel-17/0.1.0
+  id: 3GPP TR 23.700-93:Rel-17/0.1.0
   type: 3GPP
-- id: '44974'
-  type: rapporteurId
 docnumber: TR 23.700-93:Rel-17/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SO, Tricci
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs at SA WG2#139E
+  content: Updated with approved pCRs at SA WG2#139E
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

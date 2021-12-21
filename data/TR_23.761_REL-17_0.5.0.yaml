@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.761:Rel-17/0.5.0
+  id: 3GPP TR 23.761:Rel-17/0.5.0
   type: 3GPP
-- id: '24932'
-  type: rapporteurId
 docnumber: TR 23.761:Rel-17/0.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: STOJANOVSKI, Saso
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Deutschland GmbH
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs at SA WG2#140E
+  content: Updated with approved pCRs at SA WG2#140E
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

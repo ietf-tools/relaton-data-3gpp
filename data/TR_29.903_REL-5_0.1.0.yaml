@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.903:Rel-5/0.1.0
+  id: 3GPP TR 29.903:Rel-5/0.1.0
   type: 3GPP
-- id: '22883'
-  type: rapporteurId
 docnumber: TR 29.903:Rel-5/0.1.0
 date:
   type: confirmed
   value: '2005-01-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: YOUNG, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: NP-11:creation Supersedes 29.203
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

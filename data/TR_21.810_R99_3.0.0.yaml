@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.810:R99/3.0.0
+  id: 3GPP TR 21.810:R99/3.0.0
   type: 3GPP
-- id: '11897'
-  type: rapporteurId
 docnumber: TR 21.810:R99/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: RODERMUND, Friedhelm
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: TSG#7:2.0.0 - number changed from 21.910. Not approved. 2.0.0
   type: remark
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: T2
   type: prime
-- name: "-"
-  type: other
 - name: T2
   type: former
 radiotechnology: 3G

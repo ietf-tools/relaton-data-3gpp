@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.206:Rel-7/0.4.0
+  id: 3GPP TS 24.206:Rel-7/0.4.0
   type: 3GPP
-- id: '720'
-  type: rapporteurId
 docnumber: TS 24.206:Rel-7/0.4.0
 date:
   type: created
   value: '2006-02-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: DRAGE, Keith
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Telecom Ltd
+  role: author
 biblionote:
   content: No upgrade to Rel-8 due to change of approach to VCC.
   type: remark
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.812:Rel-10/10.1.0
+  id: 3GPP TR 36.812:Rel-10/10.1.0
   type: 3GPP
-- id: '43562'
-  type: rapporteurId
 docnumber: TR 36.812:Rel-10/10.1.0
 date:
 - type: created
   value: '2011-01-07'
 - type: confirmed
   value: '2010-10-08'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HART, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Clearwire
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

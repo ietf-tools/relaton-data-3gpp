@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.50:Ph2/4.4.0
+  id: 3GPP TS 03.50:Ph2/4.4.0
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TS 03.50:Ph2/4.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: "#8: 4.0.0   #9: 4.1.0   #15: 4.2.0   #24: 4.3.0  #25: 4.4.0  #27: 4.5.0
     \ #28: 4.6.0"
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: SMG11
   type: former
 radiotechnology: 2G

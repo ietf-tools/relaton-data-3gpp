@@ -11,24 +11,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.813:Rel-12/1.1.0
+  id: 3GPP TR 37.813:Rel-12/1.1.0
   type: 3GPP
-- id: '56738'
-  type: rapporteurId
 docnumber: TR 37.813:Rel-12/1.1.0
 date:
 - type: created
   value: '2013-02-06'
 - type: confirmed
   value: '2013-06-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: WU, Jin lian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Telecommunications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R3-130437
+  content: R3-130437
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.729:Rel-15/1.0.0
+  id: 3GPP TR 23.729:Rel-15/1.0.0
   type: 3GPP
-- id: '57197'
-  type: rapporteurId
 docnumber: TR 23.729:Rel-15/1.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZISIMOPOULOS, Haris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-170743: Version for presentation to TSG SA for approval'
+  content: 'SP-170743: Version for presentation to TSG SA for approval'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

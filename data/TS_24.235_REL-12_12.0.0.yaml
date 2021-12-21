@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.235:Rel-12/12.0.0
+  id: 3GPP TS 24.235:Rel-12/12.0.0
   type: 3GPP
-- id: '6665'
-  type: rapporteurId
 docnumber: TS 24.235:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-09-26'
 - type: confirmed
   value: '2011-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: JACOBSOHN, Dieter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
 - content: 'CP-66: Debate over whether to withdraw this spec from Rel-12, and whether
     or not to promote to Rel-13 when the time comes. TSG SA to decide the general
@@ -32,7 +41,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

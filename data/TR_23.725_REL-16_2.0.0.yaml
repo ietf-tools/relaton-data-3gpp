@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.725:Rel-16/2.0.0
+  id: 3GPP TR 23.725:Rel-16/2.0.0
   type: 3GPP
-- id: '48076'
-  type: rapporteurId
 docnumber: TR 23.725:Rel-16/2.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: NI, Hui
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-181106: MCC editorial update for presentation to TSG SA#82'
+  content: 'SP-181106: MCC editorial update for presentation to TSG SA#82'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.783:Rel-15/0.0.1
+  id: 3GPP TR 36.783:Rel-15/0.0.1
   type: 3GPP
-- id: '63913'
-  type: rapporteurId
 docnumber: TR 36.783:Rel-15/0.0.1
 date:
   type: confirmed
   value: '2017-09-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: RICO ALVARINO, Alberto
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Skeleton endorsed in R1-1706493
+  content: Skeleton endorsed in R1-1706493
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

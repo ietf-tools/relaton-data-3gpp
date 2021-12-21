@@ -6,17 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.830:Rel-11/0.0.2
+  id: 3GPP TR 33.830:Rel-11/0.0.2
   type: 3GPP
-- id: '46426'
-  type: rapporteurId
 docnumber: TR 33.830:Rel-11/0.0.2
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KUMAR, Prashant
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Oracle Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

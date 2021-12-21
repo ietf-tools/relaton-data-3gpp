@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.922:Rel-9/9.0.0
+  id: 3GPP TR 36.922:Rel-9/9.0.0
   type: 3GPP
-- id: '39355'
-  type: rapporteurId
 docnumber: TR 36.922:Rel-9/9.0.0
 date:
 - type: created
   value: '2010-04-15'
 - type: confirmed
   value: '2010-01-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Nan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

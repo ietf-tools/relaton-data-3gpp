@@ -9,29 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.102:Rel-14/14.0.0
+  id: 3GPP TS 32.102:Rel-14/14.0.0
   type: 3GPP
-- id: '61932'
-  type: rapporteurId
 docnumber: TS 32.102:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2002-10-15'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: JARVILEHTO, Ilkka
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TeliaSonera AB
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
-- name: "-"
-  type: other
 - name: S5
   type: former
 radiotechnology: 2G

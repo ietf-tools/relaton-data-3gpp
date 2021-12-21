@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.804:Rel-6/1.1.0
+  id: 3GPP TR 25.804:Rel-6/1.1.0
   type: 3GPP
-- id: '41470'
-  type: rapporteurId
 docnumber: TR 25.804:Rel-6/1.1.0
 date:
 - type: created
   value: '2005-03-03'
 - type: confirmed
   value: '2005-03-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: RUDOLF, Marian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: InterDigital Communications
+  role: author
 biblionote:
 - content: 'RP-25: estimate approval RP-26.'
   type: remark
@@ -26,7 +35,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

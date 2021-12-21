@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.43:R99/1.11.0
+  id: 3GPP TR 10.43:R99/1.11.0
   type: 3GPP
-- id: '10801'
-  type: rapporteurId
 docnumber: TR 10.43:R99/1.11.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KOKKOLA, Tommi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
   content: "#25: 1.11.0 #30b: 1.11.0 2001-April:Clayton: stopped."
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 radiotechnology: 2G

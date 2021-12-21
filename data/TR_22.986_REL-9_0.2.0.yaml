@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.986:Rel-9/0.2.0
+  id: 3GPP TR 22.986:Rel-9/0.2.0
   type: 3GPP
-- id: '40449'
-  type: rapporteurId
 docnumber: TR 22.986:Rel-9/0.2.0
 date:
 - type: created
   value: '2008-09-25'
 - type: confirmed
   value: '2011-04-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: ISOBE, Shin-ichi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: cited in S1 report to SP-41
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

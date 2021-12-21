@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.972:R99/0.0.0
+  id: 3GPP TR 22.972:R99/0.0.0
   type: 3GPP
-- id: '12770'
-  type: rapporteurId
 docnumber: TR 22.972:R99/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CLAYTON, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: EMCOM Ltd
+  role: author
 biblionote:
   content: Withdrawn (Clayton 2000-02-11)
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

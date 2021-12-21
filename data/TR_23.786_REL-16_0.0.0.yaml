@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.786:Rel-16/0.0.0
+  id: 3GPP TR 23.786:Rel-16/0.0.0
   type: 3GPP
-- id: '40613'
-  type: rapporteurId
 docnumber: TR 23.786:Rel-16/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, Laeyoung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics France
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-170590: UID: 760043. WI_Code: FS_eV2XARC ^ 2018-01-31: Skeleton at
+  content: 'SP-170590: UID: 760043. WI_Code: FS_eV2XARC ^ 2018-01-31: Skeleton at
     SA2#122: S2-174232'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -7,17 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 37.880:Rel-17/0.0.3
+  id: 3GPP TR 37.880:Rel-17/0.0.3
   type: 3GPP
-- id: '68815'
-  type: rapporteurId
 docnumber: TR 37.880:Rel-17/0.0.3
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: NG, Man Hung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia France
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.909:Rel-14/0.4.0
+  id: 3GPP TR 26.909:Rel-14/0.4.0
   type: 3GPP
-- id: '26481'
-  type: rapporteurId
 docnumber: TR 26.909:Rel-14/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Zhiming
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'S4-160835 ^ 2016-07-09: S4-160835'
+  content: 'S4-160835 ^ 2016-07-09: S4-160835'
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

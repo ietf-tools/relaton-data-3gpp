@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 45.912:Rel-7/2.0.2
+  id: 3GPP TR 45.912:Rel-7/2.0.2
   type: 3GPP
-- id: '13962'
-  type: rapporteurId
 docnumber: TR 45.912:Rel-7/2.0.2
 date:
   type: confirmed
   value: '2005-09-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: RIDDINGTON, Eddie
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: fix references
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 41.103:Rel-5/5.0.0
+  id: 3GPP TS 41.103:Rel-5/5.0.0
   type: 3GPP
-- id: '637'
-  type: rapporteurId
 docnumber: TS 41.103:Rel-5/5.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MEREDITH, John M
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: " SP-20: Superseded by 41.101 Rel-5."
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: SP
+  name: SP
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '5'

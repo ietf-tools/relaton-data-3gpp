@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.018:Rel-4/4.8.0
+  id: 3GPP TS 44.018:Rel-4/4.8.0
   type: 3GPP
-- id: '714'
-  type: rapporteurId
 docnumber: TS 44.018:Rel-4/4.8.0
 date:
   type: confirmed
   value: '2003-04-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOWELL, Andrew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HOME OFFICE
+  role: author
 biblionote:
   content: "#32:9.0.0 MCC-converted Aug00:"
   type: remark
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.203:Rel-10/10.2.1
+  id: 3GPP TS 23.203:Rel-10/10.2.1
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TS 23.203:Rel-10/10.2.1
 date:
 - type: created
   value: '2011-01-04'
 - type: confirmed
   value: '2006-10-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: updated logo
+  content: updated logo
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

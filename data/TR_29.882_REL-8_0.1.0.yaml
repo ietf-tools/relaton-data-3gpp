@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.882:Rel-8/0.1.0
+  id: 3GPP TR 29.882:Rel-8/0.1.0
   type: 3GPP
-- id: '13753'
-  type: rapporteurId
 docnumber: TR 29.882:Rel-8/0.1.0
 date:
 - type: created
   value: '2007-10-22'
 - type: confirmed
   value: '2008-12-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHMITT, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

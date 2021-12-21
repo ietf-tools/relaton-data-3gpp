@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.279:Rel-7/2.0.0
+  id: 3GPP TS 23.279:Rel-7/2.0.0
   type: 3GPP
-- id: '7580'
-  type: rapporteurId
 docnumber: TS 23.279:Rel-7/2.0.0
 date:
 - type: created
   value: '2005-06-17'
 - type: confirmed
   value: '2005-07-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: HU, Yun-Chao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
   content: SP-050344 not approved, because stage 1 not approved.
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

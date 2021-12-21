@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.294:Rel-9/0.3.1
+  id: 3GPP TS 24.294:Rel-9/0.3.1
   type: 3GPP
-- id: '48249'
-  type: rapporteurId
 docnumber: TS 24.294:Rel-9/0.3.1
 date:
 - type: created
   value: '2009-09-21'
 - type: confirmed
   value: '2009-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: WEI, haitao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

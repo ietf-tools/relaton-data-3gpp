@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.850:Rel-15/0.0.2
+  id: 3GPP TR 26.850:Rel-15/0.0.2
   type: 3GPP
-- id: '56306'
-  type: rapporteurId
 docnumber: TR 26.850:Rel-15/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: THIENOT, Cedric
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Expway
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-170691
+  content: S4-170691
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

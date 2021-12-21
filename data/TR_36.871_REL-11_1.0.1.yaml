@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.871:Rel-11/1.0.1
+  id: 3GPP TR 36.871:Rel-11/1.0.1
   type: 3GPP
-- id: '44032'
-  type: rapporteurId
 docnumber: TR 36.871:Rel-11/1.0.1
 date:
   type: confirmed
   value: '2011-12-06'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BOCCARDI, Federico
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ofcom (U.K.)
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

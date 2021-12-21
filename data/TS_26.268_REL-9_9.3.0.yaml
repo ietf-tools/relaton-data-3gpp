@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.268:Rel-9/9.3.0
+  id: 3GPP TS 26.268:Rel-9/9.3.0
   type: 3GPP
-- id: '38562'
-  type: rapporteurId
 docnumber: TS 26.268:Rel-9/9.3.0
 date:
 - type: created
   value: '2010-12-21'
 - type: confirmed
   value: '2009-03-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEUNG, Nikolai
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S4

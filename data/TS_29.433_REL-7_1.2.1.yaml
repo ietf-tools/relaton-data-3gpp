@@ -12,16 +12,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.433:Rel-7/1.2.1
+  id: 3GPP TS 29.433:Rel-7/1.2.1
   type: 3GPP
-- id: '637'
-  type: rapporteurId
 docnumber: TS 29.433:Rel-7/1.2.1
 date:
 - type: created
   value: '2008-01-05'
 - type: confirmed
   value: '2008-04-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: MEREDITH, John M
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
 - content: TISPAN R1 frozen
   type: remark
@@ -32,7 +41,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

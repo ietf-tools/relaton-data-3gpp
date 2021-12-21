@@ -10,19 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.011:Rel-11/11.1.0
+  id: 3GPP TS 24.011:Rel-11/11.1.0
   type: 3GPP
-- id: '87799'
-  type: rapporteurId
 docnumber: TS 24.011:Rel-11/11.1.0
 date:
 - type: created
   value: '2012-09-21'
 - type: confirmed
   value: '2005-08-05'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: NASSAR, Mohamed Amin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 language: en
 script: Latn
 abstract:
@@ -33,7 +39,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1

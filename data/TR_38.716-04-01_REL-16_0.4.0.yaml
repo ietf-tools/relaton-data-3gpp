@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.716-04-01:Rel-16/0.4.0
+  id: 3GPP TR 38.716-04-01:Rel-16/0.4.0
   type: 3GPP
-- id: '56972'
-  type: rapporteurId
 docnumber: TR 38.716-04-01:Rel-16/0.4.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LINDELL, Per
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

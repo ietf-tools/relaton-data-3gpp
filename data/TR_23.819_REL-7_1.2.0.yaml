@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.819:Rel-7/1.2.0
+  id: 3GPP TR 23.819:Rel-7/1.2.0
   type: 3GPP
-- id: '32039'
-  type: rapporteurId
 docnumber: TR 23.819:Rel-7/1.2.0
 date:
   type: created
   value: '2006-09-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Osok
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

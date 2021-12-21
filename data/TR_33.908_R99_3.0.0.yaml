@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.908:R99/3.0.0
+  id: 3GPP TR 33.908:R99/3.0.0
   type: 3GPP
-- id: '596'
-  type: rapporteurId
 docnumber: TR 33.908:R99/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WALKER, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: Formerly 33.904.
   type: remark
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 3G

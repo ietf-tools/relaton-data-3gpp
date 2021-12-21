@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.875:Rel-17/0.0.2
+  id: 3GPP TR 38.875:Rel-17/0.0.2
   type: 3GPP
-- id: '51222'
-  type: rapporteurId
 docnumber: TR 38.875:Rel-17/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGMAN, Johan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Based on endorsed skeleton in R1-2005233 and in R2-2007366.
+  content: Based on endorsed skeleton in R1-2005233 and in R2-2007366.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

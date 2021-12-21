@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.895:Rel-6/0.4.0
+  id: 3GPP TR 23.895:Rel-6/0.4.0
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TR 23.895:Rel-6/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

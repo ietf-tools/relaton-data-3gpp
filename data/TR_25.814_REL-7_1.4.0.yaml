@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.814:Rel-7/1.4.0
+  id: 3GPP TR 25.814:Rel-7/1.4.0
   type: 3GPP
-- id: '25159'
-  type: rapporteurId
 docnumber: TR 25.814:Rel-7/1.4.0
 date:
 - type: created
   value: '2006-05-22'
 - type: confirmed
   value: '2006-06-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: ABETA, Sadayuki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: for approval ex R1-061647
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

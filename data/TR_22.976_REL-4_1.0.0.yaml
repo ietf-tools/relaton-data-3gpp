@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.976:Rel-4/1.0.0
+  id: 3GPP TR 22.976:Rel-4/1.0.0
   type: 3GPP
-- id: '7110'
-  type: rapporteurId
 docnumber: TR 22.976:Rel-4/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CATALDO, Mark
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: '2001-12-04: Rel4->Rel-5 (Clayton).'
   type: remark
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

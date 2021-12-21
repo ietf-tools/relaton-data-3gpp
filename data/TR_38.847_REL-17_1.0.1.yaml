@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.847:Rel-17/1.0.1
+  id: 3GPP TR 38.847:Rel-17/1.0.1
   type: 3GPP
-- id: '63414'
-  type: rapporteurId
 docnumber: TR 38.847:Rel-17/1.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: EVERAERE, Dominique
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Editorial corrections '
+  content: 'Editorial corrections '
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.844:Rel-11/0.3.5
+  id: 3GPP TR 23.844:Rel-11/0.3.5
   type: 3GPP
-- id: '39859'
-  type: rapporteurId
 docnumber: TR 23.844:Rel-11/0.3.5
 date:
 - type: created
   value: '2011-10-18'
 - type: confirmed
   value: '2012-06-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: QING, Yu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
   content: 'SP-56: timed out of Rel-11.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

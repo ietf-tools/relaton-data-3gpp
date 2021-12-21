@@ -6,20 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.977:Rel-6/0.1.0
+  id: 3GPP TR 22.977:Rel-6/0.1.0
   type: 3GPP
-- id: '36281'
-  type: rapporteurId
 docnumber: TR 22.977:Rel-6/0.1.0
 date:
   type: confirmed
   value: '2002-04-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: KURZ, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

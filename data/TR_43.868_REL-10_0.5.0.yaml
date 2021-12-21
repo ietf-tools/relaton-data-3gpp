@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.868:Rel-10/0.5.0
+  id: 3GPP TR 43.868:Rel-10/0.5.0
   type: 3GPP
-- id: '37748'
-  type: rapporteurId
 docnumber: TR 43.868:Rel-10/0.5.0
 date:
 - type: created
   value: '2011-11-29'
 - type: confirmed
   value: '2012-12-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHLIWA-BERTLING, Paul
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: GP-111716
+  content: GP-111716
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

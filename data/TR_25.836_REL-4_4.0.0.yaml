@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.836:Rel-4/4.0.0
+  id: 3GPP TR 25.836:Rel-4/4.0.0
   type: 3GPP
-- id: '5750'
-  type: rapporteurId
 docnumber: TR 25.836:Rel-4/4.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: OESTREICH, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Hillebrand GmbH
+  role: author
 biblionote:
   content: 'RP-15: Not to be promoted to Rel-5.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -11,14 +11,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.998-05-4:Rel-7/7.0.0
+  id: 3GPP TR 29.998-05-4:Rel-7/7.0.0
   type: 3GPP
-- id: '16701'
-  type: rapporteurId
 docnumber: TR 29.998-05-4:Rel-7/7.0.0
 date:
   type: created
   value: '2007-03-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: UNMEHOPA, Musa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Philips International B.V.
+  role: author
 biblionote:
   content: 'CP-35: Rel-7 version created to keep set intact. CP-42: No upgrade to
     Rel-8 (see CP-080896).'
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: CP

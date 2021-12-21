@@ -10,19 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.819:Rel-8/0.0.2
+  id: 3GPP TR 32.819:Rel-8/0.0.2
   type: 3GPP
-- id: '37961'
-  type: rapporteurId
 docnumber: TR 32.819:Rel-8/0.0.2
 date:
 - type: created
   value: '2008-02-01'
 - type: confirmed
   value: '2008-06-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Jian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.873:Rel-12/2.0.0
+  id: 3GPP TR 36.873:Rel-12/2.0.0
   type: 3GPP
-- id: '55798'
-  type: rapporteurId
 docnumber: TR 36.873:Rel-12/2.0.0
 date:
 - type: created
   value: '2014-03-10'
 - type: confirmed
   value: '2014-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: MONDAL, Bishwarup
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (I)
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-140423, not approved since seen as only 60% complete
+  content: RP-140423, not approved since seen as only 60% complete
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

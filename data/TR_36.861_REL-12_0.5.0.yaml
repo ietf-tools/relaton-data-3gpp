@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.861:Rel-12/0.5.0
+  id: 3GPP TR 36.861:Rel-12/0.5.0
   type: 3GPP
-- id: '55545'
-  type: rapporteurId
 docnumber: TR 36.861:Rel-12/0.5.0
 date:
   type: created
   value: '2014-06-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: HWANG, Chungwoo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: KT Corp.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-143487
+  content: R4-143487
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

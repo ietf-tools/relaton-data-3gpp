@@ -12,16 +12,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.433:Rel-8/8.1.0
+  id: 3GPP TS 29.433:Rel-8/8.1.0
   type: 3GPP
-- id: '637'
-  type: rapporteurId
 docnumber: TS 29.433:Rel-8/8.1.0
 date:
 - type: created
   value: '2008-06-09'
 - type: confirmed
   value: '2008-04-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: MEREDITH, John M
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: Identical to v7.0.0 since no TISPAN R2 version exists. However, there is
     some debate as to whether Rel8 needs to be modifed wrt v7,0,0.
@@ -31,7 +40,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

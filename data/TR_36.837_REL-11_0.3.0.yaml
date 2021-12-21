@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.837:Rel-11/0.3.0
+  id: 3GPP TR 36.837:Rel-11/0.3.0
   type: 3GPP
-- id: '45982'
-  type: rapporteurId
 docnumber: TR 36.837:Rel-11/0.3.0
 date:
 - type: created
   value: '2012-09-28'
 - type: confirmed
   value: '2013-01-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: JIN, Xiaowei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Solutions UK Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-124975
+  content: R4-124975
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

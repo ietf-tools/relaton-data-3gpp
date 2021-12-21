@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.877:Rel-12/0.0.3
+  id: 3GPP TR 36.877:Rel-12/0.0.3
   type: 3GPP
-- id: '49063'
-  type: rapporteurId
 docnumber: TR 36.877:Rel-12/0.0.3
 date:
   type: created
   value: '2014-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: GULATI, Kapil
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-140737
+  content: RP-140737
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4

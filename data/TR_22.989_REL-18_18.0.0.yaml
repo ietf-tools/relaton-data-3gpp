@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.989:Rel-18/18.0.0
+  id: 3GPP TR 22.989:Rel-18/18.0.0
   type: 3GPP
-- id: '8605'
-  type: rapporteurId
 docnumber: TR 22.989:Rel-18/18.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: NORP, Toon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TNO
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Same technical content as 22.889 v.17.3.0
+  content: Same technical content as 22.889 v.17.3.0
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 05.10:R99/8.6.1
+  id: 3GPP TS 05.10:R99/8.6.1
   type: 3GPP
-- id: '6519'
-  type: rapporteurId
 docnumber: TS 05.10:R99/8.6.1
+contributor:
+  person:
+    name:
+      completename:
+        content: JOKINEN, Harri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BROADCOM CORPORATION
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G1
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

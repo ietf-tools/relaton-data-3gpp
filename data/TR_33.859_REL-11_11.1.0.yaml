@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.859:Rel-11/11.1.0
+  id: 3GPP TR 33.859:Rel-11/11.1.0
   type: 3GPP
-- id: '35809'
-  type: rapporteurId
 docnumber: TR 33.859:Rel-11/11.1.0
 date:
 - type: created
   value: '2012-03-16'
 - type: confirmed
   value: '2012-01-09'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: NORRMAN, Karl
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

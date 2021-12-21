@@ -8,20 +8,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.918:Rel-7/0.1.0
+  id: 3GPP TR 33.918:Rel-7/0.1.0
   type: 3GPP
-- id: '26762'
-  type: rapporteurId
 docnumber: TR 33.918:Rel-7/0.1.0
 date:
   type: confirmed
   value: '2005-12-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: SEIF, Jacques
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

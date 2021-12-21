@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.912:Rel-9/0.1.0
+  id: 3GPP TR 36.912:Rel-9/0.1.0
   type: 3GPP
-- id: '16800'
-  type: rapporteurId
 docnumber: TR 36.912:Rel-9/0.1.0
 date:
 - type: created
   value: '2009-09-04'
 - type: confirmed
   value: '2009-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAKAMURA, Takehiro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: R1-091661
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

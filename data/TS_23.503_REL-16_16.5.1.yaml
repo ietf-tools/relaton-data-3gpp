@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.503:Rel-16/16.5.1
+  id: 3GPP TS 23.503:Rel-16/16.5.1
   type: 3GPP
-- id: '23396'
-  type: rapporteurId
 docnumber: TS 23.503:Rel-16/16.5.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHRAMM, Mirko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Replacement of noted CR0472R1 with CR0472: Update about Alternative QoS
+  content: 'Replacement of noted CR0472R1 with CR0472: Update about Alternative QoS
     Profile'
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

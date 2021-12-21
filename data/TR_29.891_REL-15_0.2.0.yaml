@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.891:Rel-15/0.2.0
+  id: 3GPP TR 29.891:Rel-15/0.2.0
   type: 3GPP
-- id: '68755'
-  type: rapporteurId
 docnumber: TR 29.891:Rel-15/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LANDAIS, Bruno
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia France
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Agreed as C4-172261
+  content: Agreed as C4-172261
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

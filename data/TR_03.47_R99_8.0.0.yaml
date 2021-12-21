@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 03.47:R99/8.0.0
+  id: 3GPP TR 03.47:R99/8.0.0
   type: 3GPP
-- id: '13753'
-  type: rapporteurId
 docnumber: TR 03.47:R99/8.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHMITT, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
   content: upgrade abandoned
   type: comment
@@ -20,13 +29,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: SMG04
   type: former
 radiotechnology: 2G

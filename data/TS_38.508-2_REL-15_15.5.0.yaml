@@ -7,25 +7,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 38.508-2:Rel-15/15.5.0
+  id: 3GPP TS 38.508-2:Rel-15/15.5.0
   type: 3GPP
-- id: '29230'
-  type: rapporteurId
 docnumber: TS 38.508-2:Rel-15/15.5.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: MOHAMMED, Abdul Rasheed
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Mobility Germany GmbH
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CR R5-201162 not implementable as Table doesn't exist.
+  content: CR R5-201162 not implementable as Table doesn't exist.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

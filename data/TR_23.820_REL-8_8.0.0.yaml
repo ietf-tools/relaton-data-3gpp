@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.820:Rel-8/8.0.0
+  id: 3GPP TR 23.820:Rel-8/8.0.0
   type: 3GPP
-- id: '33685'
-  type: rapporteurId
 docnumber: TR 23.820:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-06-09'
 - type: confirmed
   value: '2007-07-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: BLANCO, German
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4

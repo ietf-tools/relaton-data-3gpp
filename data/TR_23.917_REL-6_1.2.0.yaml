@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.917:Rel-6/1.2.0
+  id: 3GPP TR 23.917:Rel-6/1.2.0
   type: 3GPP
-- id: '27659'
-  type: rapporteurId
 docnumber: TR 23.917:Rel-6/1.2.0
 date:
   type: confirmed
   value: '2003-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: MOUSSET, Claire
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: 'SP-23: likely to be abandoned.  SP-24: stopped, because contents is all
     in 23.207.'
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

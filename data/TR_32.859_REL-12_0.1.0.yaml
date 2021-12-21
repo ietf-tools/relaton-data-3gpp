@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.859:Rel-12/0.1.0
+  id: 3GPP TR 32.859:Rel-12/0.1.0
   type: 3GPP
-- id: '8526'
-  type: rapporteurId
 docnumber: TR 32.859:Rel-12/0.1.0
 date:
 - type: created
   value: '2013-02-18'
 - type: confirmed
   value: '2013-09-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGGREN, Tommy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TeliaSonera AB
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

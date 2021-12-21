@@ -10,28 +10,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 42.019:Rel-5/5.1.0
+  id: 3GPP TS 42.019:Rel-5/5.1.0
   type: 3GPP
-- id: '19277'
-  type: rapporteurId
 docnumber: TS 42.019:Rel-5/5.1.0
 date:
 - type: created
   value: '2005-06-15'
 - type: confirmed
   value: '2001-11-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: HANS, Sebastian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Oracle Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C6
+  name: C6
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '5'

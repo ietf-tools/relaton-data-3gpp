@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.579-1:Rel-14/0.1.0
+  id: 3GPP TS 36.579-1:Rel-14/0.1.0
   type: 3GPP
-- id: '75979'
-  type: rapporteurId
 docnumber: TS 36.579-1:Rel-14/0.1.0
 date:
   type: confirmed
   value: '2018-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: KAHN, Jason
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NIST
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: lifted to v0.1.0 because of technical contents
+  content: lifted to v0.1.0 because of technical contents
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

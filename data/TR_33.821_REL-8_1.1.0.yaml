@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.821:Rel-8/1.1.0
+  id: 3GPP TR 33.821:Rel-8/1.1.0
   type: 3GPP
-- id: '33091'
-  type: rapporteurId
 docnumber: TR 33.821:Rel-8/1.1.0
 date:
 - type: created
   value: '2009-02-16'
 - type: confirmed
   value: '2009-03-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Dajiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Microsoft Europe SARL
+  role: author
 biblionote:
   content: S3-090282
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

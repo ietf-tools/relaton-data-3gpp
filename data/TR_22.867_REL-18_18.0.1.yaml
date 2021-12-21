@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.867:Rel-18/18.0.1
+  id: 3GPP TR 22.867:Rel-18/18.0.1
   type: 3GPP
-- id: '69698'
-  type: rapporteurId
 docnumber: TR 22.867:Rel-18/18.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: XIA, XU
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Telecomunication Corp.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: corrected logo
+  content: corrected logo
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

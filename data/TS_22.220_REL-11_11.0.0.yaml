@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.220:Rel-11/11.0.0
+  id: 3GPP TS 22.220:Rel-11/11.0.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TS 22.220:Rel-11/11.0.0
 date:
 - type: created
   value: '2011-01-11'
 - type: confirmed
   value: '2009-01-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Technically identical to v10.4.0 since CR115 does not apply to Rel-11.
+  content: Technically identical to v10.4.0 since CR115 does not apply to Rel-11.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.872:Rel-11/1.0.1
+  id: 3GPP TR 25.872:Rel-11/1.0.1
   type: 3GPP
-- id: '26182'
-  type: rapporteurId
 docnumber: TR 25.872:Rel-11/1.0.1
 date:
 - type: created
   value: '2011-09-26'
 - type: confirmed
   value: '2011-09-27'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: RANTA-AHO, Karri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

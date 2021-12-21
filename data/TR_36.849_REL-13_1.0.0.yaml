@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.849:Rel-13/1.0.0
+  id: 3GPP TR 36.849:Rel-13/1.0.0
   type: 3GPP
-- id: '42643'
-  type: rapporteurId
 docnumber: TR 36.849:Rel-13/1.0.0
 date:
 - type: created
   value: '2014-12-17'
 - type: confirmed
   value: '2015-01-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: FONG, Gene
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Korea
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-141971 for approval
+  content: RP-141971 for approval
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.554:Rel-16/16.2.0
+  id: 3GPP TS 28.554:Rel-16/16.2.0
   type: 3GPP
-- id: '63557'
-  type: rapporteurId
 docnumber: TS 28.554:Rel-16/16.2.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SUN, Xiaowen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Research Inst.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

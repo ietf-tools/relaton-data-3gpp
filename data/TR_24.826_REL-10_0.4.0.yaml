@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.826:Rel-10/0.4.0
+  id: 3GPP TR 24.826:Rel-10/0.4.0
   type: 3GPP
-- id: '34502'
-  type: rapporteurId
 docnumber: TR 24.826:Rel-10/0.4.0
 date:
 - type: created
   value: '2010-11-29'
 - type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUNZ, Gottfried
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: 'CP-51: timed out of Rel-10'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

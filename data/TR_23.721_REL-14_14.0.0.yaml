@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.721:Rel-14/14.0.0
+  id: 3GPP TR 23.721:Rel-14/14.0.0
   type: 3GPP
-- id: '61805'
-  type: rapporteurId
 docnumber: TR 23.721:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Approved at TSG SA#72 and placed under change control
+  content: Approved at TSG SA#72 and placed under change control
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

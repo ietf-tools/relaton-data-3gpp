@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.533:Rel-15/15.0.0
+  id: 3GPP TS 38.533:Rel-15/15.0.0
   type: 3GPP
-- id: '66591'
-  type: rapporteurId
 docnumber: TS 38.533:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: CARDALDA GARCIA, Adrian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: upgraded to Rel-15 with editorial changes only
+  content: upgraded to Rel-15 with editorial changes only
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

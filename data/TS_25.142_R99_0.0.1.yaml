@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.142:R99/0.0.1
+  id: 3GPP TS 25.142:R99/0.0.1
   type: 3GPP
-- id: '11445'
-  type: rapporteurId
 docnumber: TS 25.142:R99/0.0.1
 date:
   type: confirmed
   value: '2003-06-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: MEYER, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: R4
   type: former
 radiotechnology: 3G

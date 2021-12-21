@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.806:Rel-6/0.1.0
+  id: 3GPP TR 25.806:Rel-6/0.1.0
   type: 3GPP
-- id: '16490'
-  type: rapporteurId
 docnumber: TR 25.806:Rel-6/0.1.0
 date:
   type: confirmed
   value: '2004-01-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: NUMMINEN, Jussi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: R4-031120
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

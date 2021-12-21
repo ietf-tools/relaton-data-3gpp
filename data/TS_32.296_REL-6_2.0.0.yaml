@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.296:Rel-6/2.0.0
+  id: 3GPP TS 32.296:Rel-6/2.0.0
   type: 3GPP
-- id: '33757'
-  type: rapporteurId
 docnumber: TS 32.296:Rel-6/2.0.0
 date:
   type: confirmed
   value: '2004-11-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: GARDELLA, Maryse
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
 - content: Original target for approval = SP-21.
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

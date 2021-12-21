@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.101:Rel-11/11.2.0
+  id: 3GPP TS 31.101:Rel-11/11.2.0
   type: 3GPP
-- id: '74918'
-  type: rapporteurId
 docnumber: TS 31.101:Rel-11/11.2.0
 date:
 - type: created
   value: '2015-03-21'
 - type: confirmed
   value: '2003-06-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: VIRK, Amandeep
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -35,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6

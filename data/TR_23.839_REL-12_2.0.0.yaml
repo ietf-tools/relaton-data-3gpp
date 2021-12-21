@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.839:Rel-12/2.0.0
+  id: 3GPP TR 23.839:Rel-12/2.0.0
   type: 3GPP
-- id: '25950'
-  type: rapporteurId
 docnumber: TR 23.839:Rel-12/2.0.0
 date:
 - type: created
   value: '2013-06-20'
 - type: confirmed
   value: '2013-06-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: ROMMER, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-130233
+  content: SP-130233
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

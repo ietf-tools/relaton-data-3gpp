@@ -11,22 +11,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.900:Rel-16/0.6.0
+  id: 3GPP TR 28.900:Rel-16/0.6.0
   type: 3GPP
-- id: '7599'
-  type: rapporteurId
 docnumber: TR 28.900:Rel-16/0.6.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CORNILY, Jean Michel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-186439
+  content: S5-186439
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

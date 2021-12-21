@@ -9,21 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.810:Rel-8/0.5.0
+  id: 3GPP TR 23.810:Rel-8/0.5.0
   type: 3GPP
-- id: '36129'
-  type: rapporteurId
 docnumber: TR 23.810:Rel-8/0.5.0
 date:
   type: created
   value: '2007-08-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: MORERA, Raquel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: emaill circulation; but this version was based on wrong starting version
     so should be treated with caution.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

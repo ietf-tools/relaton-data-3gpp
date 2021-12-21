@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.968:Rel-11/11.0.0
+  id: 3GPP TR 22.968:Rel-11/11.0.0
   type: 3GPP
-- id: '44522'
-  type: rapporteurId
 docnumber: TR 22.968:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-21'
 - type: confirmed
   value: '2009-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: YOUNGE, Mark
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: T-Mobile USA Inc.
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

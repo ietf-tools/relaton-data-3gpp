@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.816:Rel-15/0.2.0
+  id: 3GPP TR 38.816:Rel-15/0.2.0
   type: 3GPP
-- id: '62439'
-  type: rapporteurId
 docnumber: TR 38.816:Rel-15/0.2.0
 date:
   type: confirmed
   value: '2019-01-02'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: UMESH, Anil
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

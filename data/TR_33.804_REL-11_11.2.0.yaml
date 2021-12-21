@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.804:Rel-11/11.2.0
+  id: 3GPP TR 33.804:Rel-11/11.2.0
   type: 3GPP
-- id: '33520'
-  type: rapporteurId
 docnumber: TR 33.804:Rel-11/11.2.0
 date:
 - type: created
   value: '2013-06-27'
 - type: confirmed
   value: '2012-03-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLTMANNS, Silke
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: 'SP-55: Rel-11 resuscitated from 33.914.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.863:Rel-10/10.0.0
+  id: 3GPP TR 25.863:Rel-10/10.0.0
   type: 3GPP
-- id: '40503'
-  type: rapporteurId
 docnumber: TR 25.863:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-07-05'
 - type: confirmed
   value: '2010-07-05'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Heechoon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

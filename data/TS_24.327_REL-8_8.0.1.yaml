@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.327:Rel-8/8.0.1
+  id: 3GPP TS 24.327:Rel-8/8.0.1
   type: 3GPP
-- id: '46003'
-  type: rapporteurId
 docnumber: TS 24.327:Rel-8/8.0.1
 date:
 - type: created
   value: '2009-01-12'
 - type: confirmed
   value: '2009-02-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: KORTEBI, Riadh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: removes LTE logo and kw
   type: comment
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

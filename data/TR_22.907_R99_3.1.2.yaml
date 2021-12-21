@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.907:R99/3.1.2
+  id: 3GPP TR 22.907:R99/3.1.2
   type: 3GPP
-- id: '5183'
-  type: rapporteurId
 docnumber: TR 22.907:R99/3.1.2
+contributor:
+  person:
+    name:
+      completename:
+        content: TOLVANEN, Mika
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA MOBILE PHONES
+  role: author
 biblionote:
   content: Withdrawn (Clayton 2000-02-11)
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

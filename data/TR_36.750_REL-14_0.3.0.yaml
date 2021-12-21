@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.750:Rel-14/0.3.0
+  id: 3GPP TR 36.750:Rel-14/0.3.0
   type: 3GPP
-- id: '59196'
-  type: rapporteurId
 docnumber: TR 36.750:Rel-14/0.3.0
 date:
   type: confirmed
   value: '2016-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Zhuo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-165784
+  content: R2-165784
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2

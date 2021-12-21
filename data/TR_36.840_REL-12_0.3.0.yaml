@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.840:Rel-12/0.3.0
+  id: 3GPP TR 36.840:Rel-12/0.3.0
   type: 3GPP
-- id: '47239'
-  type: rapporteurId
 docnumber: TR 36.840:Rel-12/0.3.0
 date:
 - type: created
   value: '2013-04-25'
 - type: confirmed
   value: '2013-07-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Liehai
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-131155
+  content: R4-131155
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

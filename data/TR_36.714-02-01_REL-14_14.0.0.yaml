@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.714-02-01:Rel-14/14.0.0
+  id: 3GPP TR 36.714-02-01:Rel-14/14.0.0
   type: 3GPP
-- id: '44963'
-  type: rapporteurId
 docnumber: TR 36.714-02-01:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2017-04-03'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: VINTOLA, Ville
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

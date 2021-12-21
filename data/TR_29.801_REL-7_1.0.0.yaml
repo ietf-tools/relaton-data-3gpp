@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.801:Rel-7/1.0.0
+  id: 3GPP TR 29.801:Rel-7/1.0.0
   type: 3GPP
-- id: '25061'
-  type: rapporteurId
 docnumber: TR 29.801:Rel-7/1.0.0
 date:
 - type: created
   value: '2007-06-13'
 - type: confirmed
   value: '2006-07-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHAO, Yuyi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
   content: CP-070335 for approval
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

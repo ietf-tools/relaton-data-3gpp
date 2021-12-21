@@ -11,25 +11,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.905:Rel-12/0.0.1
+  id: 3GPP TR 37.905:Rel-12/0.0.1
   type: 3GPP
-- id: '41388'
-  type: rapporteurId
 docnumber: TR 37.905:Rel-12/0.0.1
 date:
   type: created
   value: '2015-11-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SUNDSTRÖM, Fredrik
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R5-152110
+  content: R5-152110
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

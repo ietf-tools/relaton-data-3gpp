@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 21.202:Rel-10/10.2.0
+  id: 3GPP TS 21.202:Rel-10/10.2.0
   type: 3GPP
-- id: '53384'
-  type: rapporteurId
 docnumber: TS 21.202:Rel-10/10.2.0
 date:
 - type: created
   value: '2012-03-12'
 - type: confirmed
   value: '2009-01-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: FIRMIN, Frederic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: SP

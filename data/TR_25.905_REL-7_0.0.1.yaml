@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.905:Rel-7/0.0.1
+  id: 3GPP TR 25.905:Rel-7/0.0.1
   type: 3GPP
-- id: '33638'
-  type: rapporteurId
 docnumber: TR 25.905:Rel-7/0.0.1
 date:
   type: confirmed
   value: '2011-04-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Youngdae
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics France
+  role: author
 biblionote:
   content: R2-062441
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

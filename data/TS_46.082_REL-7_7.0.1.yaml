@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 46.082:Rel-7/7.0.1
+  id: 3GPP TS 46.082:Rel-7/7.0.1
   type: 3GPP
-- id: '5794'
-  type: rapporteurId
 docnumber: TS 46.082:Rel-7/7.0.1
 date:
 - type: created
   value: '2007-07-24'
 - type: confirmed
   value: '2005-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: JÄRVINEN, Kari
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
   content: Makes matrices in §5.2.3 visible.
   type: comment
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: SMG11
   type: former
 radiotechnology: 2G

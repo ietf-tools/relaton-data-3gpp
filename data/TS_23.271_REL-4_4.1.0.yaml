@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.271:Rel-4/4.1.0
+  id: 3GPP TS 23.271:Rel-4/4.1.0
   type: 3GPP
-- id: '26970'
-  type: rapporteurId
 docnumber: TS 23.271:Rel-4/4.1.0
 date:
   type: confirmed
   value: '2005-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: WONG, Gavin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: 'post-TSG#8: Recombined Rel99 2G and 3G specs (respectively 03.71 and 23.171).'
   type: remark
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

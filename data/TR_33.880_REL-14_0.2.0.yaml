@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.880:Rel-14/0.2.0
+  id: 3GPP TR 33.880:Rel-14/0.2.0
   type: 3GPP
-- id: '22168'
-  type: rapporteurId
 docnumber: TR 33.880:Rel-14/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HAIGH, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CESG
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-161249
+  content: S3-161249
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

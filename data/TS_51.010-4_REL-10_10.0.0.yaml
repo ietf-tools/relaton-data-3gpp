@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 51.010-4:Rel-10/10.0.0
+  id: 3GPP TS 51.010-4:Rel-10/10.0.0
   type: 3GPP
-- id: '74918'
-  type: rapporteurId
 docnumber: TS 51.010-4:Rel-10/10.0.0
 date:
 - type: created
   value: '2014-07-03'
 - type: confirmed
   value: '2006-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: VIRK, Amandeep
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Pointer to later Release created in anticipation of closure of Rel-4 &
+  content: Pointer to later Release created in anticipation of closure of Rel-4 &
     -5.
   type: comment
 language: en
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -9,21 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.850:Rel-14/14.0.0
+  id: 3GPP TR 32.850:Rel-14/14.0.0
   type: 3GPP
-- id: '19407'
-  type: rapporteurId
 docnumber: TR 32.850:Rel-14/14.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: JESSKE, Roland
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Automatic numbering (of clauses, figures, tables, notes, examples etc…) should
     be disabled in the document'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

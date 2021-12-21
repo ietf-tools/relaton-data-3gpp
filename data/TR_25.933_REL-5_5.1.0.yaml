@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.933:Rel-5/5.1.0
+  id: 3GPP TR 25.933:Rel-5/5.1.0
   type: 3GPP
-- id: '28232'
-  type: rapporteurId
 docnumber: TR 25.933:Rel-5/5.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GODIN, Philippe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: '2001-12-05: Rel-4 abandoned in favour of Rel-5 (Drevon).  2004-11: WG
     Secretary indicates this will not need to be upgraded to Rel-6.  2004-11: confirmed
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: 3G

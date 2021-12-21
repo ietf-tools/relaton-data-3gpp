@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.861:Rel-15/0.0.2
+  id: 3GPP TR 26.861:Rel-15/0.0.2
   type: 3GPP
-- id: '44155'
-  type: rapporteurId
 docnumber: TR 26.861:Rel-15/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHEVCIW, Andre
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-171043
+  content: S4-171043
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.272:Rel-8/8.11.0
+  id: 3GPP TS 23.272:Rel-8/8.11.0
   type: 3GPP
-- id: '31042'
-  type: rapporteurId
 docnumber: TS 23.272:Rel-8/8.11.0
 date:
 - type: created
   value: '2012-03-12'
 - type: confirmed
   value: '2008-03-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: DEMEL, Sabine
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.938:Rel-8/0.2.0
+  id: 3GPP TR 36.938:Rel-8/0.2.0
   type: 3GPP
-- id: '44845'
-  type: rapporteurId
 docnumber: TR 36.938:Rel-8/0.2.0
 date:
   type: confirmed
   value: '2008-08-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: BI, Hao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
   content: email circulation
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2

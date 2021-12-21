@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.822:Rel-11/2.0.0
+  id: 3GPP TR 36.822:Rel-11/2.0.0
   type: 3GPP
-- id: '33767'
-  type: rapporteurId
 docnumber: TR 36.822:Rel-11/2.0.0
 date:
 - type: created
   value: '2012-09-14'
 - type: confirmed
   value: '2012-09-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: YOUNG, Gordon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-121154
+  content: RP-121154
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

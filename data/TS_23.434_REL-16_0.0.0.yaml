@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.434:Rel-16/0.0.0
+  id: 3GPP TS 23.434:Rel-16/0.0.0
   type: 3GPP
-- id: '61285'
-  type: rapporteurId
 docnumber: TS 23.434:Rel-16/0.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: PATTAN, Basavaraj (Basu)
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S6

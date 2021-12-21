@@ -10,23 +10,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.02:R96/5.1.0
+  id: 3GPP TR 10.02:R96/5.1.0
   type: 3GPP
-- id: '6963'
-  type: rapporteurId
 docnumber: TR 10.02:R96/5.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (S)
+  role: author
 biblionote:
   content: "#21: 1.0.0  #25: 1.1.0->5.0.0 #28:5.1.0"
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4  /  SMG03?
   type: former
 radiotechnology: 2G

@@ -7,17 +7,15 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 13.21:R98/2.0.0
+  id: 3GPP TS 13.21:R98/2.0.0
   type: 3GPP
-- id: '14080'
-  type: rapporteurId
 docnumber: TS 13.21:R98/2.0.0
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: MSG

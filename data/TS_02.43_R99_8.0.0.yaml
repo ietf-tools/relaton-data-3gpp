@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.43:R99/8.0.0
+  id: 3GPP TS 02.43:R99/8.0.0
   type: 3GPP
-- id: '7108'
-  type: rapporteurId
 docnumber: TS 02.43:R99/8.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: JARVIS, Andre
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
   content: TSG#11:R98 upgraded to Rel-4 (42.043) so assume we need a Rel-1999 version
     too!
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1

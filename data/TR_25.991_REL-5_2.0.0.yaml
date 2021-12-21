@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.991:Rel-5/2.0.0
+  id: 3GPP TR 25.991:Rel-5/2.0.0
   type: 3GPP
-- id: '38165'
-  type: rapporteurId
 docnumber: TR 25.991:Rel-5/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MOSHAVI, Shimon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Marvell Semiconductor
+  role: author
 biblionote:
   content: RP-020121
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

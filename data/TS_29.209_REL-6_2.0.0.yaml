@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.209:Rel-6/2.0.0
+  id: 3GPP TS 29.209:Rel-6/2.0.0
   type: 3GPP
-- id: '42321'
-  type: rapporteurId
 docnumber: TS 29.209:Rel-6/2.0.0
 date:
   type: confirmed
   value: '2003-09-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: FERNANDEZ, Susana
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'NP-26: Expected to be completed by NP-27.'
   type: remark
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C3
+  name: C3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

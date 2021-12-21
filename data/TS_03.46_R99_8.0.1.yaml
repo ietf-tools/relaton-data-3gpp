@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 03.46:R99/8.0.1
+  id: 3GPP TS 03.46:R99/8.0.1
   type: 3GPP
-- id: '12624'
-  type: rapporteurId
 docnumber: TS 03.46:R99/8.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLM, Jan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: ETSI format only.  Not for 3GPP use.
   type: comment
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
-- name: "-"
-  type: other
 - name: N3 / SMG03D
   type: former
 radiotechnology: 2G

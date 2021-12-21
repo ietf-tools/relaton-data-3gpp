@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.710:Rel-14/0.2.0
+  id: 3GPP TR 23.710:Rel-14/0.2.0
   type: 3GPP
-- id: '61805'
-  type: rapporteurId
 docnumber: TR 23.710:Rel-14/0.2.0
 date:
 - type: created
   value: '2016-01-05'
 - type: confirmed
   value: '2018-06-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update with pCRs at SA WG2#112
+  content: Update with pCRs at SA WG2#112
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

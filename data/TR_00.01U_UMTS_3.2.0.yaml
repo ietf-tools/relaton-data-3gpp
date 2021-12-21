@@ -10,17 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 00.01U:UMTS/3.2.0
+  id: 3GPP TR 00.01U:UMTS/3.2.0
   type: 3GPP
-- id: '2261'
-  type: rapporteurId
 docnumber: TR 00.01U:UMTS/3.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: RAPELI, Juha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: PHILIPS CONSUMER COMMUNICATION
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: SMG5

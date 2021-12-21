@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 04.04:R96/5.0.1
+  id: 3GPP TS 04.04:R96/5.0.1
   type: 3GPP
-- id: '18739'
-  type: rapporteurId
 docnumber: TS 04.04:R96/5.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: ISAACS, Ken
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G2
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

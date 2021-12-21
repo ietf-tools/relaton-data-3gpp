@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.882:Rel-7/0.1.1
+  id: 3GPP TR 23.882:Rel-7/0.1.1
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TR 23.882:Rel-7/0.1.1
 date:
 - type: created
   value: '2005-04-21'
 - type: confirmed
   value: '2005-07-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: Timed out of Rel-7, though the governing WI is (as of SP-39) shown as Rel-7.
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

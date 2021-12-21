@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.141:Rel-8/8.0.0
+  id: 3GPP TS 33.141:Rel-8/8.0.0
   type: 3GPP
-- id: '43478'
-  type: rapporteurId
 docnumber: TS 33.141:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-06-17'
 - type: confirmed
   value: '2004-06-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: MATTSSON, John
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S3
+  name: S3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 common-ims-spec: true
 release:

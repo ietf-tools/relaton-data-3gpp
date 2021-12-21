@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 04.08:R99/8.0.0
+  id: 3GPP TS 04.08:R99/8.0.0
   type: 3GPP
-- id: '14160'
-  type: rapporteurId
 docnumber: TS 04.08:R99/8.0.0
 date:
   type: confirmed
   value: '2010-08-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: BURBIDGE, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
   content: "#29: 8.0.0 but this should not have been created! (24.008 instead). NP-13:
     04.09 R99 reinstated until all references corrected (= never!).  2002-02-18: To
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1

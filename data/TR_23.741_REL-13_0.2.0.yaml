@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.741:Rel-13/0.2.0
+  id: 3GPP TR 23.741:Rel-13/0.2.0
   type: 3GPP
-- id: '42596'
-  type: rapporteurId
 docnumber: TR 23.741:Rel-13/0.2.0
 date:
   type: created
   value: '2015-04-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: WONG, Curt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: P-CRs from S2#108
+  content: P-CRs from S2#108
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

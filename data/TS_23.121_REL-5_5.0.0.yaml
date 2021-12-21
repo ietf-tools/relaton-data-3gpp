@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.121:Rel-5/5.0.0
+  id: 3GPP TS 23.121:Rel-5/5.0.0
   type: 3GPP
-- id: '6848'
-  type: rapporteurId
 docnumber: TS 23.121:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2002-06-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: DANIEL, Elizabeth
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Telecom Ltd
+  role: author
 biblionote:
   content: " Oct00: CRs were approved by accident, it seems. Intention was to create
     23.221 v5.0.0 rather than a Rel-5 of this spec. CR will be retrospectively withdrawn."
@@ -29,13 +38,11 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

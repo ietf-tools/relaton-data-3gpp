@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 30.531:Rel-7/0.19.1
+  id: 3GPP TR 30.531:Rel-7/0.19.1
   type: 3GPP
-- id: '21609'
-  type: rapporteurId
 docnumber: TR 30.531:Rel-7/0.19.1
 date:
   type: confirmed
   value: '2011-09-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KORHONEN, Juha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: 'RP-39: Timed out of Rel-7, continues in Rel-8.'
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: LTE

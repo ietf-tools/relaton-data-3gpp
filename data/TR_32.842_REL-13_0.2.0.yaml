@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.842:Rel-13/0.2.0
+  id: 3GPP TR 32.842:Rel-13/0.2.0
   type: 3GPP
-- id: '38934'
-  type: rapporteurId
 docnumber: TR 32.842:Rel-13/0.2.0
 date:
   type: created
   value: '2014-11-07'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HAIQIANG, Xue
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile US Research Cente
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

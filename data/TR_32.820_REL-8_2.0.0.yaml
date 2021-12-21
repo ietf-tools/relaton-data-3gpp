@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.820:Rel-8/2.0.0
+  id: 3GPP TR 32.820:Rel-8/2.0.0
   type: 3GPP
-- id: '25566'
-  type: rapporteurId
 docnumber: TR 32.820:Rel-8/2.0.0
 date:
 - type: created
   value: '2007-11-15'
 - type: confirmed
   value: '2007-12-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: GOERMER, Gerald
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: SP-070751
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

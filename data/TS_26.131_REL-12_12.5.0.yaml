@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.131:Rel-12/12.5.0
+  id: 3GPP TS 26.131:Rel-12/12.5.0
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TS 26.131:Rel-12/12.5.0
 date:
   type: confirmed
   value: '2008-12-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history;Automatic numbering (of clauses, figures, tables,
     notes, examples etc…) should be disabled in the document'
   type: comment
@@ -29,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 3G

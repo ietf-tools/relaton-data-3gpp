@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.801:Rel-12/2.0.0
+  id: 3GPP TR 22.801:Rel-12/2.0.0
   type: 3GPP
-- id: '21463'
-  type: rapporteurId
 docnumber: TR 22.801:Rel-12/2.0.0
 date:
 - type: created
   value: '2011-12-16'
 - type: confirmed
   value: '2011-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-110817
+  content: SP-110817
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

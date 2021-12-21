@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.101:Rel-8/8.7.0
+  id: 3GPP TS 22.101:Rel-8/8.7.0
   type: 3GPP
-- id: '21463'
-  type: rapporteurId
 docnumber: TS 22.101:Rel-8/8.7.0
 date:
 - type: created
   value: '2007-12-20'
 - type: confirmed
   value: '2006-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 abstract:
@@ -27,13 +36,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

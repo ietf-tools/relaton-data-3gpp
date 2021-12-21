@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.838:Rel-9/0.0.1
+  id: 3GPP TR 23.838:Rel-9/0.0.1
   type: 3GPP
-- id: '41151'
-  type: rapporteurId
 docnumber: TR 23.838:Rel-9/0.0.1
 date:
 - type: created
   value: '2008-10-03'
 - type: confirmed
   value: '2009-06-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Heng liang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
   content: S2-085648
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

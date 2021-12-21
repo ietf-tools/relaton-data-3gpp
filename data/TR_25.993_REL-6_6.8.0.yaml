@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.993:Rel-6/6.8.0
+  id: 3GPP TR 25.993:Rel-6/6.8.0
   type: 3GPP
-- id: '69857'
-  type: rapporteurId
 docnumber: TR 25.993:Rel-6/6.8.0
 date:
   type: confirmed
   value: '2004-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: AHMED, Ayaz
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (I)
+  role: author
 biblionote:
   content: 'SP-17: Currently the latest release version.'
   type: remark
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

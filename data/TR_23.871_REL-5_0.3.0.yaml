@@ -6,20 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.871:Rel-5/0.3.0
+  id: 3GPP TR 23.871:Rel-5/0.3.0
   type: 3GPP
-- id: '3415'
-  type: rapporteurId
 docnumber: TR 23.871:Rel-5/0.3.0
 date:
   type: confirmed
   value: '2002-03-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: KÅLL, Jan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: 'Not to progress to Rel-6: see 23.271.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

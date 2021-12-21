@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.841:Rel-5/1.1.0
+  id: 3GPP TR 23.841:Rel-5/1.1.0
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TR 23.841:Rel-5/1.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: "-> Rel-6"
   type: remark
@@ -19,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

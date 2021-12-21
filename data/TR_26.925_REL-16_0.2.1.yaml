@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.925:Rel-16/0.2.1
+  id: 3GPP TR 26.925:Rel-16/0.2.1
   type: 3GPP
-- id: '18030'
-  type: rapporteurId
 docnumber: TR 26.925:Rel-16/0.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: GABIN, Frederic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Editorial updates agreed at 3GPP SA4 MBS telco 18th Feb. 2019
+  content: Editorial updates agreed at 3GPP SA4 MBS telco 18th Feb. 2019
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

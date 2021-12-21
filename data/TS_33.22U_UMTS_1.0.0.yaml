@@ -6,22 +6,18 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 33.22U:UMTS/1.0.0
+  id: 3GPP TS 33.22U:UMTS/1.0.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 33.22U:UMTS/1.0.0
 biblionote:
-- content: "."
-  type: remark
-- content: S3-99004
+  content: S3-99004
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: SMG10

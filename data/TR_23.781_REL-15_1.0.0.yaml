@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.781:Rel-15/1.0.0
+  id: 3GPP TR 23.781:Rel-15/1.0.0
   type: 3GPP
-- id: '5018'
-  type: rapporteurId
 docnumber: TR 23.781:Rel-15/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CHATER-LEA, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Solutions UK Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-170072
+  content: SP-170072
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S6

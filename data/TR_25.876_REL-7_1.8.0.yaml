@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.876:Rel-7/1.8.0
+  id: 3GPP TR 25.876:Rel-7/1.8.0
   type: 3GPP
-- id: '37918'
-  type: rapporteurId
 docnumber: TR 25.876:Rel-7/1.8.0
 date:
 - type: created
   value: '2005-12-15'
 - type: confirmed
   value: '2003-11-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Howard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
 - content: Timed out of Rel-6.
   type: remark
@@ -26,7 +35,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

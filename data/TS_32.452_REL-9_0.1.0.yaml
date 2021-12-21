@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.452:Rel-9/0.1.0
+  id: 3GPP TS 32.452:Rel-9/0.1.0
   type: 3GPP
-- id: '41436'
-  type: rapporteurId
 docnumber: TS 32.452:Rel-9/0.1.0
 date:
 - type: created
   value: '2009-07-28'
 - type: confirmed
   value: '2011-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile US Research Cente
+  role: author
 biblionote:
   content: '2010-03: timed out of Rel-9 (note that WI is currently Rel-8)'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

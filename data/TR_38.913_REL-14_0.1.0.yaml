@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.913:Rel-14/0.1.0
+  id: 3GPP TR 38.913:Rel-14/0.1.0
   type: 3GPP
-- id: '39125'
-  type: rapporteurId
 docnumber: TR 38.913:Rel-14/0.1.0
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Xiaodong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RPa160071
+  content: RPa160071
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: RP

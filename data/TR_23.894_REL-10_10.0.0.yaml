@@ -10,19 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.894:Rel-10/10.0.0
+  id: 3GPP TR 23.894:Rel-10/10.0.0
   type: 3GPP
-- id: '23765'
-  type: rapporteurId
 docnumber: TR 23.894:Rel-10/10.0.0
 date:
 - type: created
   value: '2009-12-15'
 - type: confirmed
   value: '2009-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: MADELLA, Mario
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

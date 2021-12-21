@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.331:Rel-15/15.5.0
+  id: 3GPP TS 38.331:Rel-15/15.5.0
   type: 3GPP
-- id: '18830'
-  type: rapporteurId
 docnumber: TS 38.331:Rel-15/15.5.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PALM, Hakan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Note that approved CR#0906rev2 in R2-1902699 could not be implemented due
+  content: Note that approved CR#0906rev2 in R2-1902699 could not be implemented due
     to drafting rules breach.
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

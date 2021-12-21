@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.878:Rel-6/0.0.3
+  id: 3GPP TR 33.878:Rel-6/0.0.3
   type: 3GPP
-- id: '10658'
-  type: rapporteurId
 docnumber: TR 33.878:Rel-6/0.0.3
+contributor:
+  person:
+    name:
+      completename:
+        content: HOWARD, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S3
+  name: S3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

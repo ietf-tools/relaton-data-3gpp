@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.119:R99/0.5.0
+  id: 3GPP TS 23.119:R99/0.5.0
   type: 3GPP
-- id: '38243'
-  type: rapporteurId
 docnumber: TS 23.119:R99/0.5.0
 date:
   type: confirmed
   value: '2012-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: MATSUURA, Takaaki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: Functionally frozen by CN#6, CN#7 is the new target for approval as part
     of R99
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 3G

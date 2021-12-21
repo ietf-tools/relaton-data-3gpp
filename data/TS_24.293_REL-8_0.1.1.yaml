@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.293:Rel-8/0.1.1
+  id: 3GPP TS 24.293:Rel-8/0.1.1
   type: 3GPP
-- id: '35346'
-  type: rapporteurId
 docnumber: TS 24.293:Rel-8/0.1.1
 date:
   type: created
   value: '2008-07-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Peili
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

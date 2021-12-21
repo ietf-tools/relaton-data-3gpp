@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.730:Rel-14/14.0.0
+  id: 3GPP TR 23.730:Rel-14/14.0.0
   type: 3GPP
-- id: '36283'
-  type: rapporteurId
 docnumber: TR 23.730:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JAIN, Puneet
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: MCC Editorial update for publication after TSG SA#74 approval
+  content: MCC Editorial update for publication after TSG SA#74 approval
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

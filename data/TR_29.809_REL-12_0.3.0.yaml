@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.809:Rel-12/0.3.0
+  id: 3GPP TR 29.809:Rel-12/0.3.0
   type: 3GPP
-- id: '25150'
-  type: rapporteurId
 docnumber: TR 29.809:Rel-12/0.3.0
 date:
 - type: created
   value: '2013-07-23'
 - type: confirmed
   value: '2014-06-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MORAND, Lionel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

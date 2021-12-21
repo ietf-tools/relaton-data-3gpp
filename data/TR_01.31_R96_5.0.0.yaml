@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 01.31:R96/5.0.0
+  id: 3GPP TR 01.31:R96/5.0.0
   type: 3GPP
-- id: '31085'
-  type: rapporteurId
 docnumber: TR 01.31:R96/5.0.0
 date:
   type: confirmed
   value: '2002-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: SAHLIN, Bengt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: "#25: withdrawn"
   type: remark
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: SMG10
   type: former
 radiotechnology: 2G

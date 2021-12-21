@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 34.108:R99/0.0.1
+  id: 3GPP TS 34.108:R99/0.0.1
   type: 3GPP
-- id: '10602'
-  type: rapporteurId
 docnumber: TS 34.108:R99/0.0.1
 date:
   type: confirmed
   value: '2005-10-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: MATTISSON, Leif
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'TSG#8:aprvl is controversial.  TP-23: medium-term intention is to make
     the spec Release-independent, all earlier Releases simply point to latest.'
@@ -28,13 +37,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

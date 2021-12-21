@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.812:Rel-8/0.2.0
+  id: 3GPP TR 22.812:Rel-8/0.2.0
   type: 3GPP
-- id: '17318'
-  type: rapporteurId
 docnumber: TR 22.812:Rel-8/0.2.0
 date:
 - type: created
   value: '2007-07-06'
 - type: confirmed
   value: '2007-09-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: FRIEL, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Telefonica Germany GmbH
+  role: author
 biblionote:
 - content: ".SP-40: Withdrawn and replaced by 22.912."
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

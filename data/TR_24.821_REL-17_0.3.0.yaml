@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.821:Rel-17/0.3.0
+  id: 3GPP TR 24.821:Rel-17/0.3.0
   type: 3GPP
-- id: '39766'
-  type: rapporteurId
 docnumber: TR 24.821:Rel-17/0.3.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CATOVIC, Amer
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

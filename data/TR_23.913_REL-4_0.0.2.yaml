@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.913:Rel-4/0.0.2
+  id: 3GPP TR 23.913:Rel-4/0.0.2
   type: 3GPP
-- id: '27561'
-  type: rapporteurId
 docnumber: TR 23.913:Rel-4/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: GARAPATY, Sonia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nortel Networks (USA)
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: N1
   type: former
 radiotechnology: 3G

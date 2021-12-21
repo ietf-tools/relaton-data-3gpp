@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.161:Rel-13/1.0.0
+  id: 3GPP TS 23.161:Rel-13/1.0.0
   type: 3GPP
-- id: '61308'
-  type: rapporteurId
 docnumber: TS 23.161:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-09-22'
 - type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SO, Tricci
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Wistron Telecom AB
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-150508 ^ 2015-09-09: SP-150508'
+  content: 'SP-150508 ^ 2015-09-09: SP-150508'
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

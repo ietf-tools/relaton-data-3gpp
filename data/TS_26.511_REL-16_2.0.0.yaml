@@ -9,15 +9,22 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.511:Rel-16/2.0.0
+  id: 3GPP TS 26.511:Rel-16/2.0.0
   type: 3GPP
-- id: '41772'
-  type: rapporteurId
 docnumber: TS 26.511:Rel-16/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TENIOU, Gilles
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: This version along with the presentation has been submitted to SA#88-e
+  content: This version along with the presentation has been submitted to SA#88-e
     for approval (SP-200404)
   type: comment
 language: en
@@ -25,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S4

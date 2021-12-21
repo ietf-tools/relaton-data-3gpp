@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 50.099:Rel-5/0.0.14
+  id: 3GPP TR 50.099:Rel-5/0.0.14
   type: 3GPP
-- id: '16986'
-  type: rapporteurId
 docnumber: TR 50.099:Rel-5/0.0.14
+contributor:
+  person:
+    name:
+      completename:
+        content: GRANT, Marc
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 biblionote:
 - content: 'GP-08: Assume planning is for Rel-5 now (since Rel-4 is frozen).  2003-01-14:
     Fel-5 frozen, so migrated to Rel-6.'
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: GP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

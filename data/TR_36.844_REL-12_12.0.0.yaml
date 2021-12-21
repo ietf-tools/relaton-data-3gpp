@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.844:Rel-12/12.0.0
+  id: 3GPP TR 36.844:Rel-12/12.0.0
   type: 3GPP
-- id: '54858'
-  type: rapporteurId
 docnumber: TR 36.844:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-07-07'
 - type: confirmed
   value: '2014-07-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: ALIANI, Maqbool
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ligado Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Approval missed by MCC at RP-63, so version not produced following that
+  content: Approval missed by MCC at RP-63, so version not produced following that
     meeting but instead after RP-64.
   type: comment
 language: en
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

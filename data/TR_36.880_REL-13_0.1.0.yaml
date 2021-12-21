@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.880:Rel-13/0.1.0
+  id: 3GPP TR 36.880:Rel-13/0.1.0
   type: 3GPP
-- id: '57329'
-  type: rapporteurId
 docnumber: TR 36.880:Rel-13/0.1.0
 date:
   type: created
   value: '2015-05-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: HU, Nan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-151779
+  content: R2-151779
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

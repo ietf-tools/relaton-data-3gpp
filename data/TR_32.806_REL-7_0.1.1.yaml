@@ -7,17 +7,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 32.806:Rel-7/0.1.1
+  id: 3GPP TR 32.806:Rel-7/0.1.1
   type: 3GPP
-- id: '23029'
-  type: rapporteurId
 docnumber: TR 32.806:Rel-7/0.1.1
 date:
   type: confirmed
   value: '2005-11-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: TOCHE, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

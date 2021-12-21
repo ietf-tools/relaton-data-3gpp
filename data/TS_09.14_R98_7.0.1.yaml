@@ -11,14 +11,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 09.14:R98/7.0.1
+  id: 3GPP TS 09.14:R98/7.0.1
   type: 3GPP
-- id: '9516'
-  type: rapporteurId
 docnumber: TS 09.14:R98/7.0.1
 date:
   type: confirmed
   value: '2003-11-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: SPORTON, Simon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: "(SPS1)"
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: TISPAN

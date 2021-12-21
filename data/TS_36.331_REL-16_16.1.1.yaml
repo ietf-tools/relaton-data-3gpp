@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.331:Rel-16/16.1.1
+  id: 3GPP TS 36.331:Rel-16/16.1.1
   type: 3GPP
-- id: '64681'
-  type: rapporteurId
 docnumber: TS 36.331:Rel-16/16.1.1
 date:
   type: confirmed
   value: '2007-12-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: JIN, Seungri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: A UE or network vendor wishing to support Rel-16 must use version 16.2.0
+  content: A UE or network vendor wishing to support Rel-16 must use version 16.2.0
     or later of TS 36.331.
   type: comment
 language: en
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

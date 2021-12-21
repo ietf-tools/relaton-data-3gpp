@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.801:Rel-4/0.1.0
+  id: 3GPP TR 30.801:Rel-4/0.1.0
   type: 3GPP
-- id: '10343'
-  type: rapporteurId
 docnumber: TR 30.801:Rel-4/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SULTAN, Alain
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: 'TSG#11: Work stopped.'
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 3G

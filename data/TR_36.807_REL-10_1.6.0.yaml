@@ -7,20 +7,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.807:Rel-10/1.6.0
+  id: 3GPP TR 36.807:Rel-10/1.6.0
   type: 3GPP
-- id: '9202'
-  type: rapporteurId
 docnumber: TR 36.807:Rel-10/1.6.0
 date:
   type: confirmed
   value: '2012-07-13'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: FERNANDES, Edgar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Dish Network
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

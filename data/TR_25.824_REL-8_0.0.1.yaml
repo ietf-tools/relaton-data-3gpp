@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.824:Rel-8/0.0.1
+  id: 3GPP TR 25.824:Rel-8/0.0.1
   type: 3GPP
-- id: '23091'
-  type: rapporteurId
 docnumber: TR 25.824:Rel-8/0.0.1
 date:
   type: confirmed
   value: '2008-06-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Fei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: RITT
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

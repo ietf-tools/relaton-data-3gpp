@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.839:Rel-18/0.0.0
+  id: 3GPP TR 22.839:Rel-18/0.0.0
   type: 3GPP
-- id: '57089'
-  type: rapporteurId
 docnumber: TR 22.839:Rel-18/0.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: PICA, Francesco
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

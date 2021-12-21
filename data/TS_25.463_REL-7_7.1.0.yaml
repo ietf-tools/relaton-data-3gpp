@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.463:Rel-7/7.1.0
+  id: 3GPP TS 25.463:Rel-7/7.1.0
   type: 3GPP
-- id: '76045'
-  type: rapporteurId
 docnumber: TS 25.463:Rel-7/7.1.0
 date:
 - type: created
   value: '2005-10-05'
 - type: confirmed
   value: '2005-01-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: KULAKOV, Alexey
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
   content: 'RP-35: Rel-7 closed.'
   type: remark
@@ -34,13 +43,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: R3
+  name: R3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '7'

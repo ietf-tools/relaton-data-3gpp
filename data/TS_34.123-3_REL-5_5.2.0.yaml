@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.123-3:Rel-5/5.2.0
+  id: 3GPP TS 34.123-3:Rel-5/5.2.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 34.123-3:Rel-5/5.2.0
 date:
 - type: created
   value: '2005-10-04'
 - type: confirmed
   value: '2011-06-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: Rel-5 record created on freezing Rel-6, December 2004.
   type: remark
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

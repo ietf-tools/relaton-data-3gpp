@@ -10,24 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.846:Rel-12/1.0.0
+  id: 3GPP TR 37.846:Rel-12/1.0.0
   type: 3GPP
-- id: '42708'
-  type: rapporteurId
 docnumber: TR 37.846:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-06-13'
 - type: confirmed
   value: '2014-07-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, John
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Dish Network
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-140660 - very poor shape cosmetically
+  content: RP-140660 - very poor shape cosmetically
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

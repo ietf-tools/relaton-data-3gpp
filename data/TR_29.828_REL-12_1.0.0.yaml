@@ -11,24 +11,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.828:Rel-12/1.0.0
+  id: 3GPP TR 29.828:Rel-12/1.0.0
   type: 3GPP
-- id: '17613'
-  type: rapporteurId
 docnumber: TR 29.828:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-12-16'
 - type: confirmed
   value: '2014-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: LANDAIS, Bruno
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CP-130645
+  content: CP-130645
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.104:Rel-11/11.3.2
+  id: 3GPP TS 37.104:Rel-11/11.3.2
   type: 3GPP
-- id: '10425'
-  type: rapporteurId
 docnumber: TS 37.104:Rel-11/11.3.2
 date:
 - type: created
   value: '2013-04-25'
 - type: confirmed
   value: '2010-03-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: SKOLD, Johan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: fixes history table
+  content: fixes history table
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R4

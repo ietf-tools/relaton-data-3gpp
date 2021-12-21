@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.951:Rel-11/1.0.0
+  id: 3GPP TR 26.951:Rel-11/1.0.0
   type: 3GPP
-- id: '45144'
-  type: rapporteurId
 docnumber: TR 26.951:Rel-11/1.0.0
 date:
   type: created
   value: '2012-09-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Hang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: InterDigital Communications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: IPME part complete; SP-120505
+  content: IPME part complete; SP-120505
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

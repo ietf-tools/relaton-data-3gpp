@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.901:Rel-10/10.0.1
+  id: 3GPP TR 43.901:Rel-10/10.0.1
   type: 3GPP
-- id: '19414'
-  type: rapporteurId
 docnumber: TR 43.901:Rel-10/10.0.1
 date:
 - type: created
   value: '2011-04-15'
 - type: confirmed
   value: '2004-09-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: KUCHIBHOTLA, Ravi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Mobility UK Ltd.
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -29,13 +38,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: RP
+  name: RP
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: a

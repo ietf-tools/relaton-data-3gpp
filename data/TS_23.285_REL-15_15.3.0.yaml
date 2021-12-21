@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.285:Rel-15/15.3.0
+  id: 3GPP TS 23.285:Rel-15/15.3.0
   type: 3GPP
-- id: '40613'
-  type: rapporteurId
 docnumber: TS 23.285:Rel-15/15.3.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, Laeyoung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics France
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Version updated with TSG SA#83 approved CRs
+  content: Version updated with TSG SA#83 approved CRs
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

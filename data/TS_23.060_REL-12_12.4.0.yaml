@@ -9,19 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.060:Rel-12/12.4.0
+  id: 3GPP TS 23.060:Rel-12/12.4.0
   type: 3GPP
-- id: '22112'
-  type: rapporteurId
 docnumber: TS 23.060:Rel-12/12.4.0
 date:
 - type: created
   value: '2014-03-10'
 - type: confirmed
   value: '2004-04-05'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SALKINTZIS, Apostolis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Mobility UK Ltd.
+  role: author
 language: en
 script: Latn
 abstract:
@@ -32,13 +38,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

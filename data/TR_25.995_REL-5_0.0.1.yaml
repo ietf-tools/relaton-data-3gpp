@@ -8,20 +8,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.995:Rel-5/0.0.1
+  id: 3GPP TR 25.995:Rel-5/0.0.1
   type: 3GPP
-- id: '68332'
-  type: rapporteurId
 docnumber: TR 25.995:Rel-5/0.0.1
 date:
   type: confirmed
   value: '2002-11-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

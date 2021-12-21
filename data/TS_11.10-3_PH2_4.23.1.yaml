@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 11.10-3:Ph2/4.23.1
+  id: 3GPP TS 11.10-3:Ph2/4.23.1
   type: 3GPP
-- id: '2367'
-  type: rapporteurId
 docnumber: TS 11.10-3:Ph2/4.23.1
+contributor:
+  person:
+    name:
+      completename:
+        content: BAEV, Stoyan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
   content: 'GP-06: Rel-4 serves all releases.'
   type: remark
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G3new

@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 21.904:R99/2.0.0
+  id: 3GPP TR 21.904:R99/2.0.0
   type: 3GPP
-- id: '13818'
-  type: rapporteurId
 docnumber: TR 21.904:R99/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MONRAD, Atle
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: TP-000026
   type: comment
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: T2
   type: former
 radiotechnology: 3G

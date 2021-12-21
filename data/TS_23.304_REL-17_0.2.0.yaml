@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.304:Rel-17/0.2.0
+  id: 3GPP TS 23.304:Rel-17/0.2.0
   type: 3GPP
-- id: '72698'
-  type: rapporteurId
 docnumber: TS 23.304:Rel-17/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Jianhua
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Guangdong OPPO Mobile Telecom.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with P-CRs approved at SA2#144-e
+  content: Updated with P-CRs approved at SA2#144-e
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

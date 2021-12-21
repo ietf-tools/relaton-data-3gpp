@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.158:Rel-16/16.4.0
+  id: 3GPP TS 32.158:Rel-16/16.4.0
   type: 3GPP
-- id: '68423'
-  type: rapporteurId
 docnumber: TS 32.158:Rel-16/16.4.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: POLLAKOWSKI, Olaf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

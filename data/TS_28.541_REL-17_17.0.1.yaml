@@ -10,15 +10,22 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.541:Rel-17/17.0.1
+  id: 3GPP TS 28.541:Rel-17/17.0.1
   type: 3GPP
-- id: '68419'
-  type: rapporteurId
 docnumber: TS 28.541:Rel-17/17.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: PING, Jing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Cleanup of watermarks, custom XML, watermarks,etc..to improve performance
+  content: Cleanup of watermarks, custom XML, watermarks,etc..to improve performance
     of the Word file
   type: comment
 language: en
@@ -26,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.830:Rel-11/1.0.0
+  id: 3GPP TR 36.830:Rel-11/1.0.0
   type: 3GPP
-- id: '45545'
-  type: rapporteurId
 docnumber: TR 36.830:Rel-11/1.0.0
 date:
 - type: created
   value: '2012-09-28'
 - type: confirmed
   value: '2012-10-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Ronnie
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-121255 for approval
+  content: RP-121255 for approval
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

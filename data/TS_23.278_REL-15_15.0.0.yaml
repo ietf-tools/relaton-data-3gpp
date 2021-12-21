@@ -10,31 +10,36 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.278:Rel-15/15.0.0
+  id: 3GPP TS 23.278:Rel-15/15.0.0
   type: 3GPP
-- id: '6344'
-  type: rapporteurId
 docnumber: TS 23.278:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2012-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERRY, Nigel. H
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update to Rel-15 version (MCC)
+  content: Update to Rel-15 version (MCC)
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N2
   type: former
 radiotechnology: 2G

@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.702:Rel-12/1.0.0
+  id: 3GPP TR 25.702:Rel-12/1.0.0
   type: 3GPP
-- id: '44100'
-  type: rapporteurId
 docnumber: TR 25.702:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-09-12'
 - type: confirmed
   value: '2013-09-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: BHARADWAJ, Arjun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: QUALCOMM JAPAN LLC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-131243
+  content: RP-131243
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

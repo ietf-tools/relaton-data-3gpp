@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.824:Rel-17/0.2.0
+  id: 3GPP TR 28.824:Rel-17/0.2.0
   type: 3GPP
-- id: '78025'
-  type: rapporteurId
 docnumber: TR 28.824:Rel-17/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: YU, Xiaobo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alibaba (China) Group., Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-214757
+  content: S5-214757
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

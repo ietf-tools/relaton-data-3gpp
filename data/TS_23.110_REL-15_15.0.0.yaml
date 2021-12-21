@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.110:Rel-15/15.0.0
+  id: 3GPP TS 23.110:Rel-15/15.0.0
   type: 3GPP
-- id: '6675'
-  type: rapporteurId
 docnumber: TS 23.110:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2008-12-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: LOPEZ-TORRES, Oscar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: InterDigital Communications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update to Rel-15 version after Rel-15 stage 3 freeze (TSG SA#80)
+  content: Update to Rel-15 version after Rel-15 stage 3 freeze (TSG SA#80)
   type: comment
 language: en
 script: Latn
@@ -35,13 +42,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

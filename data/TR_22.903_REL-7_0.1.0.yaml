@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.903:Rel-7/0.1.0
+  id: 3GPP TR 22.903:Rel-7/0.1.0
   type: 3GPP
-- id: '36281'
-  type: rapporteurId
 docnumber: TR 22.903:Rel-7/0.1.0
 date:
   type: confirmed
   value: '2005-12-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: KURZ, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
 - content: 'SP-30: completion target = SP32,'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

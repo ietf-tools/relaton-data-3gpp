@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 11.10-4:R96/5.5.0
+  id: 3GPP TS 11.10-4:R96/5.5.0
   type: 3GPP
-- id: '25257'
-  type: rapporteurId
 docnumber: TS 11.10-4:R96/5.5.0
 date:
   type: confirmed
   value: '2005-10-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILLENBRINK, Udo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Comprion GmbH
+  role: author
 biblionote:
   content: 'GP-13: doc becomes pointer to latest Rel version.'
   type: remark
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6

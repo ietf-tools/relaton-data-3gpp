@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.927:Rel-15/15.0.0
+  id: 3GPP TR 36.927:Rel-15/15.0.0
   type: 3GPP
-- id: '42848'
-  type: rapporteurId
 docnumber: TR 36.927:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2011-06-24'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: YANG, Ning
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R3

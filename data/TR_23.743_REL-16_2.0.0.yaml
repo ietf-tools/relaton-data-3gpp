@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.743:Rel-16/2.0.0
+  id: 3GPP TR 23.743:Rel-16/2.0.0
   type: 3GPP
-- id: '57197'
-  type: rapporteurId
 docnumber: TR 23.743:Rel-16/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZISIMOPOULOS, Haris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-190190: MCC editorial update for presentation to TSG SA#83'
+  content: 'SP-190190: MCC editorial update for presentation to TSG SA#83'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

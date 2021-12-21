@@ -6,17 +6,12 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.833:Rel-16/0.5.0
+  id: 3GPP TR 22.833:Rel-16/0.5.0
   type: 3GPP
-- id: 
-  type: rapporteurId
 docnumber: TR 22.833:Rel-16/0.5.0
-biblionote:
-  content: "."
-  type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

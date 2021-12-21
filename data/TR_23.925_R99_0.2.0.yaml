@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.925:R99/0.2.0
+  id: 3GPP TR 23.925:R99/0.2.0
   type: 3GPP
-- id: '16527'
-  type: rapporteurId
 docnumber: TR 23.925:R99/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ROUZ, Adel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: FUJITSU Laboratories of Europe
+  role: author
 biblionote:
 - content: 'SP-20: stopped'
   type: remark
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

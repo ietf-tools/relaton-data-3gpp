@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 05.14:R97/6.2.0
+  id: 3GPP TS 05.14:R97/6.2.0
   type: 3GPP
-- id: '45152'
-  type: rapporteurId
 docnumber: TS 05.14:R97/6.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KANGAS, Antti
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BROADCOM CORPORATION
+  role: author
 biblionote:
   content: Originally allocated as 09.20. Changed by request of GERAN chair 2000-11-09.
     R97 record created at same time (originally was only R99 and R98).
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G1

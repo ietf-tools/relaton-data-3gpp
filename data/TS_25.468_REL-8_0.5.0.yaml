@@ -6,20 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 25.468:Rel-8/0.5.0
+  id: 3GPP TS 25.468:Rel-8/0.5.0
   type: 3GPP
-- id: '43904'
-  type: rapporteurId
 docnumber: TS 25.468:Rel-8/0.5.0
 date:
   type: confirmed
   value: '2008-12-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: NG, Chenghock
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Telecom MODUS Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R3

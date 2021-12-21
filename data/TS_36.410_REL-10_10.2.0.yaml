@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.410:Rel-10/10.2.0
+  id: 3GPP TS 36.410:Rel-10/10.2.0
   type: 3GPP
-- id: '28232'
-  type: rapporteurId
 docnumber: TS 36.410:Rel-10/10.2.0
 date:
 - type: created
   value: '2011-09-27'
 - type: confirmed
   value: '2010-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: GODIN, Philippe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: Raised to v10.0.0 to meet ITU-R M.[IMT-RSPEC] submission schedule.
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R3

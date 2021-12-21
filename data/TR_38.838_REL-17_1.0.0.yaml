@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.838:Rel-17/1.0.0
+  id: 3GPP TR 38.838:Rel-17/1.0.0
   type: 3GPP
-- id: '34439'
-  type: rapporteurId
 docnumber: TR 38.838:Rel-17/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MONTOJO, Juan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-2112813 (reserved for v1.0.0) is withdrawn - v1.0.0 should refer to
+  content: R1-2112813 (reserved for v1.0.0) is withdrawn - v1.0.0 should refer to
     RAN#94-e list of documents
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

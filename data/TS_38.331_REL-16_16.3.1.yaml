@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.331:Rel-16/16.3.1
+  id: 3GPP TS 38.331:Rel-16/16.3.1
   type: 3GPP
-- id: '18830'
-  type: rapporteurId
 docnumber: TS 38.331:Rel-16/16.3.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PALM, Hakan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Corrected the extension marker in type PosSchedulingInfo-r16 so that it
+  content: 'Corrected the extension marker in type PosSchedulingInfo-r16 so that it
     passes ASN.1 syntax check. ^ 2021-01-07: Corrected the extension marker in type
     PosSchedulingInfo-r16 so that it passes ASN.1 syntax check.'
   type: comment
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

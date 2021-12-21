@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.952:Rel-12/0.0.1
+  id: 3GPP TR 26.952:Rel-12/0.0.1
   type: 3GPP
-- id: '16587'
-  type: rapporteurId
 docnumber: TR 26.952:Rel-12/0.0.1
 date:
 - type: created
   value: '2014-11-24'
 - type: confirmed
   value: '2014-11-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: VARGA, Imre
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-141382
+  content: S4-141382
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

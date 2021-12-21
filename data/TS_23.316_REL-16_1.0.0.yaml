@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.316:Rel-16/1.0.0
+  id: 3GPP TS 23.316:Rel-16/1.0.0
   type: 3GPP
-- id: '8356'
-  type: rapporteurId
 docnumber: TS 23.316:Rel-16/1.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SPINI, Marco
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'SP-190458: MCC editorial update for presentation to TSG SA#84'
+  content: 'SP-190458: MCC editorial update for presentation to TSG SA#84'
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

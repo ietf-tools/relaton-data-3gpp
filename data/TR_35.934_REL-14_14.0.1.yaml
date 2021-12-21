@@ -11,25 +11,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 35.934:Rel-14/14.0.1
+  id: 3GPP TR 35.934:Rel-14/14.0.1
   type: 3GPP
-- id: '41255'
-  type: rapporteurId
 docnumber: TR 35.934:Rel-14/14.0.1
 date:
   type: confirmed
   value: '2014-12-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: BARRY, Aguibou
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Cover showed TR instead of TS
+  content: Cover showed TR instead of TS
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

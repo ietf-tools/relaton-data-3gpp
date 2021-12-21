@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.318:Rel-7/7.0.0
+  id: 3GPP TS 44.318:Rel-7/7.0.0
   type: 3GPP
-- id: '33654'
-  type: rapporteurId
 docnumber: TS 44.318:Rel-7/7.0.0
 date:
 - type: created
   value: '2006-07-17'
 - type: confirmed
   value: '2007-12-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: VIKBERG, Jari
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: ex Rel-6 version 6.6.0, same meeting
   type: comment
@@ -27,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: RP
+  name: RP
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '7'

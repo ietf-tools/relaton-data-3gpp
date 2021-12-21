@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.905:Rel-17/17.0.0
+  id: 3GPP TR 38.905:Rel-17/17.0.0
   type: 3GPP
-- id: '38077'
-  type: rapporteurId
 docnumber: TR 38.905:Rel-17/17.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JOHANSSON, Mats
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Administrative release upgrade to match the release of TS 38.508-1, TS
+  content: Administrative release upgrade to match the release of TS 38.508-1, TS
     38.508-2 and TS 38.521-1 which were upgraded at RAN#91 to Rel-17 due to Rel-17
     relevant CRs
   type: comment
@@ -30,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.168:Rel-8/1.0.1
+  id: 3GPP TS 29.168:Rel-8/1.0.1
   type: 3GPP
-- id: '17921'
-  type: rapporteurId
 docnumber: TS 29.168:Rel-8/1.0.1
 date:
 - type: created
   value: '2008-12-12'
 - type: confirmed
   value: '2009-06-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: TAMURA, Toshiyuki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
   content: CP-080950
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

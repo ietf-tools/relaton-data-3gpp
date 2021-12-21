@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.902:Rel-9/9.0.0
+  id: 3GPP TR 36.902:Rel-9/9.0.0
   type: 3GPP
-- id: '31025'
-  type: rapporteurId
 docnumber: TR 36.902:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-10-09'
 - type: confirmed
   value: '2009-05-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: NEUBACHER, Andreas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
   content: 'RP-44: Timed out of Rel-8. RP-48: Will not be upgraded to Rel-10; work
     will continue in an R3-internal document.'
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

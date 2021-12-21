@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.887:Rel-6/2.0.0
+  id: 3GPP TR 25.887:Rel-6/2.0.0
   type: 3GPP
-- id: '19763'
-  type: rapporteurId
 docnumber: TR 25.887:Rel-6/2.0.0
 date:
   type: confirmed
   value: '2004-02-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: KAHTAVA, Jussi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Allied Spectrum Associates Ltd
+  role: author
 biblionote:
   content: R1-36 -> RP-040083
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

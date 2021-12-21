@@ -7,25 +7,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.905:Rel-15/0.3.0
+  id: 3GPP TR 38.905:Rel-15/0.3.0
   type: 3GPP
-- id: '38077'
-  type: rapporteurId
 docnumber: TR 38.905:Rel-15/0.3.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JOHANSSON, Mats
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Tdoc withdrawn, version not produced
+  content: Tdoc withdrawn, version not produced
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.813:Rel-9/0.9.4
+  id: 3GPP TR 22.813:Rel-9/0.9.4
   type: 3GPP
-- id: '5612'
-  type: rapporteurId
 docnumber: TR 22.813:Rel-9/0.9.4
 date:
   type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: LOTTIN, Philippe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
 - content: 'SP-46: impasse @ S4. Likely to be delayed to Rel-10. S1 work complete,
     awaits S4 work.'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S1

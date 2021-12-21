@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.811:Rel-8/0.3.0
+  id: 3GPP TR 23.811:Rel-8/0.3.0
   type: 3GPP
-- id: '31052'
-  type: rapporteurId
 docnumber: TR 23.811:Rel-8/0.3.0
 date:
 - type: created
   value: '2007-09-24'
 - type: confirmed
   value: '2007-12-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: DUAN, Xiaoqin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

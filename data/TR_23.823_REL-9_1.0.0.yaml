@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.823:Rel-9/1.0.0
+  id: 3GPP TR 23.823:Rel-9/1.0.0
   type: 3GPP
-- id: '16110'
-  type: rapporteurId
 docnumber: TR 23.823:Rel-9/1.0.0
 date:
   type: created
   value: '2009-09-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Hong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
   content: SP-090612
   type: comment
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

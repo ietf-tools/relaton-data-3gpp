@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.834:Rel-12/0.0.0
+  id: 3GPP TR 37.834:Rel-12/0.0.0
   type: 3GPP
-- id: '41562'
-  type: rapporteurId
 docnumber: TR 37.834:Rel-12/0.0.0
 date:
 - type: created
   value: '2014-02-26'
 - type: confirmed
   value: '2014-01-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: SIROTKIN, Sasha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-130584
+  content: R2-130584
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

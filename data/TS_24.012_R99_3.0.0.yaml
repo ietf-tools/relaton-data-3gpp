@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.012:R99/3.0.0
+  id: 3GPP TS 24.012:R99/3.0.0
   type: 3GPP
-- id: '45828'
-  type: rapporteurId
 docnumber: TS 24.012:R99/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: AL-BAKRI, Ban
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: MeadowCom
+  role: author
 biblionote:
   content: Replaced by 04.12 R99.
   type: remark
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G2

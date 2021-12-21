@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.30U:UMTS/0.1.1
+  id: 3GPP TS 23.30U:UMTS/0.1.1
   type: 3GPP
-- id: '7071'
-  type: rapporteurId
 docnumber: TS 23.30U:UMTS/0.1.1
 date:
   type: confirmed
   value: '2012-11-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: SODERBACKA, Lauri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SMG12 tdoc 98S518
+  content: SMG12 tdoc 98S518
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: smg3

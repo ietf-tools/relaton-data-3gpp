@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.849:Rel-12/0.4.0
+  id: 3GPP TR 32.849:Rel-12/0.4.0
   type: 3GPP
-- id: '19407'
-  type: rapporteurId
 docnumber: TR 32.849:Rel-12/0.4.0
 date:
   type: created
   value: '2014-09-29'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: JESSKE, Roland
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

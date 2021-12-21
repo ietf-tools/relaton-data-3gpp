@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.716-03-01:Rel-16/0.0.1
+  id: 3GPP TR 38.716-03-01:Rel-16/0.0.1
   type: 3GPP
-- id: '34261'
-  type: rapporteurId
 docnumber: TR 38.716-03-01:Rel-16/0.0.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Yuexia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

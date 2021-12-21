@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.715-02-02:Rel-15/0.2.0
+  id: 3GPP TR 36.715-02-02:Rel-15/0.2.0
   type: 3GPP
-- id: '57639'
-  type: rapporteurId
 docnumber: TR 36.715-02-02:Rel-15/0.2.0
 date:
   type: confirmed
   value: '2018-04-04'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Ye
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

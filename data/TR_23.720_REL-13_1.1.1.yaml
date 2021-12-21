@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.720:Rel-13/1.1.1
+  id: 3GPP TR 23.720:Rel-13/1.1.1
   type: 3GPP
-- id: '36283'
-  type: rapporteurId
 docnumber: TR 23.720:Rel-13/1.1.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JAIN, Puneet
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version allocated in error: To be deleted. Version 1.1.0 is latest
+  content: 'This version allocated in error: To be deleted. Version 1.1.0 is latest
     version'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

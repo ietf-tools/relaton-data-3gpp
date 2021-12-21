@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.840:Rel-4/1.0.0
+  id: 3GPP TR 25.840:Rel-4/1.0.0
   type: 3GPP
-- id: '21509'
-  type: rapporteurId
 docnumber: TR 25.840:Rel-4/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BAKER, Matthew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: 'RP-15: Not to be promoted to Rel-5.  2003-11-28: WG Chairman indicates
     that the doc is contentious, and cannot easily be brought under change control.
@@ -21,7 +30,7 @@ biblionote:
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

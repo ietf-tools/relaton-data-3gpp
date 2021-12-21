@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.331:Rel-5/5.7.1
+  id: 3GPP TS 25.331:Rel-5/5.7.1
   type: 3GPP
-- id: '69655'
-  type: rapporteurId
 docnumber: TS 25.331:Rel-5/5.7.1
 date:
   type: confirmed
   value: '2006-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 biblionote:
   content: Some figures are not visible in these 2 documents. See figure 8.3.1-5 and
     8.3.1-6, figures 8.3.1-8 to 8.3.1-10. There is an error message => Error! Objects
@@ -33,7 +42,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

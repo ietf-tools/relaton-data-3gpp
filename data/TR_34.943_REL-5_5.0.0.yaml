@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 34.943:Rel-5/5.0.0
+  id: 3GPP TR 34.943:Rel-5/5.0.0
   type: 3GPP
-- id: '33269'
-  type: rapporteurId
 docnumber: TR 34.943:Rel-5/5.0.0
 date:
 - type: created
   value: '2005-10-07'
 - type: confirmed
   value: '2005-09-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: MA, Zhifeng
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
   content: 'RP-29: Decided not to upgrade to Rel-6 unless a clear need arises.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

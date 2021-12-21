@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.70:Ph1/2.0.0
+  id: 3GPP TS 03.70:Ph1/2.0.0
   type: 3GPP
-- id: '12624'
-  type: rapporteurId
 docnumber: TS 03.70:Ph1/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLM, Jan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Sep 1988
   type: comment
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
-- name: "-"
-  type: other
 - name: N3 / SMG03D
   type: former
 radiotechnology: 2G

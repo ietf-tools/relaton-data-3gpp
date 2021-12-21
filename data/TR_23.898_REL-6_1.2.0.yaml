@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.898:Rel-6/1.2.0
+  id: 3GPP TR 23.898:Rel-6/1.2.0
   type: 3GPP
-- id: '12011'
-  type: rapporteurId
 docnumber: TR 23.898:Rel-6/1.2.0
 date:
   type: confirmed
   value: '2004-12-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: DAVIDIAN, Jean-Jacques
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: DoCoMo Europe S.A.
+  role: author
 biblionote:
 - content: 'post SP-25: Work item to which this TR pertains is Rel-7, so this TR must
     therefore be Rel-7!'
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

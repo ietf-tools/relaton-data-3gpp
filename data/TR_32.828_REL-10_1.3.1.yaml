@@ -11,22 +11,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.828:Rel-10/1.3.1
+  id: 3GPP TR 32.828:Rel-10/1.3.1
   type: 3GPP
-- id: '23323'
-  type: rapporteurId
 docnumber: TR 32.828:Rel-10/1.3.1
 date:
 - type: created
   value: '2010-11-05'
 - type: confirmed
   value: '2011-03-29'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: POLLAKOWSKI, Olaf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

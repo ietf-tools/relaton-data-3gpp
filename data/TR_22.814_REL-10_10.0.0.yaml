@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.814:Rel-10/10.0.0
+  id: 3GPP TR 22.814:Rel-10/10.0.0
   type: 3GPP
-- id: '42623'
-  type: rapporteurId
 docnumber: TR 22.814:Rel-10/10.0.0
 date:
   type: created
   value: '2010-04-01'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Jin han
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: SK Telecom
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

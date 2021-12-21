@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.905:Rel-7/0.0.2
+  id: 3GPP TR 25.905:Rel-7/0.0.2
   type: 3GPP
-- id: '33638'
-  type: rapporteurId
 docnumber: TR 25.905:Rel-7/0.0.2
 date:
 - type: created
   value: '2006-10-02'
 - type: confirmed
   value: '2011-04-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Youngdae
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics France
+  role: author
 biblionote:
   content: RP-060604 ex R2-062673 - Is sufficiently complete to be raised to v1.0.0
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

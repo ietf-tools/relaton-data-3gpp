@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.213:Rel-15/1.1.0
+  id: 3GPP TS 38.213:Rel-15/1.1.0
   type: 3GPP
-- id: '68631'
-  type: rapporteurId
 docnumber: TS 38.213:Rel-15/1.1.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PAPASAKELLARIOU, Aris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Research America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-1719107
+  content: R1-1719107
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

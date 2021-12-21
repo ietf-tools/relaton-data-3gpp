@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.779:Rel-13/1.1.0
+  id: 3GPP TR 23.779:Rel-13/1.1.0
   type: 3GPP
-- id: '21986'
-  type: rapporteurId
 docnumber: TR 23.779:Rel-13/1.1.0
 date:
   type: created
   value: '2015-08-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: LAIR, Yannick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics France
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update with SA6#5 approved p-CRs.
+  content: Update with SA6#5 approved p-CRs.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S6

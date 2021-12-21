@@ -6,25 +6,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.914:Rel-10/10.2.0
+  id: 3GPP TR 25.914:Rel-10/10.2.0
   type: 3GPP
-- id: '21143'
-  type: rapporteurId
 docnumber: TR 25.914:Rel-10/10.2.0
 date:
   type: confirmed
   value: '2006-06-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGLJUNG, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Wrongly implements CR0010, which is Rel-11. This version not to be used.
+  content: Wrongly implements CR0010, which is Rel-11. This version not to be used.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

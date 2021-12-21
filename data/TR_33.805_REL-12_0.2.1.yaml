@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.805:Rel-12/0.2.1
+  id: 3GPP TR 33.805:Rel-12/0.2.1
   type: 3GPP
-- id: '46211'
-  type: rapporteurId
 docnumber: TR 33.805:Rel-12/0.2.1
 date:
 - type: created
   value: '2013-02-07'
 - type: confirmed
   value: '2013-12-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HABERMACHER, Loic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

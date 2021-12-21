@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 01.00:R96/5.0.0
+  id: 3GPP TR 01.00:R96/5.0.0
   type: 3GPP
-- id: '11806'
-  type: rapporteurId
 docnumber: TR 01.00:R96/5.0.0
 date:
   type: confirmed
   value: '2002-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGMANN, Ansgar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Hillebrand GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
-- name: "-"
-  type: other
 - name: SMG
   type: former
 radiotechnology: 2G

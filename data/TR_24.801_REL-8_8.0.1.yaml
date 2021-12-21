@@ -9,23 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.801:Rel-8/8.0.1
+  id: 3GPP TR 24.801:Rel-8/8.0.1
   type: 3GPP
-- id: '10799'
-  type: rapporteurId
 docnumber: TR 24.801:Rel-8/8.0.1
 date:
 - type: created
   value: '2008-10-14'
 - type: confirmed
   value: '2008-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZAUS, Robert
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Deutschland GmbH
+  role: author
 biblionote:
   content: restores accidentally accepted revision marks showing deviation from endorsed
     document
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

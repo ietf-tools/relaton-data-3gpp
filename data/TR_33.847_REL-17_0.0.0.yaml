@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.847:Rel-17/0.0.0
+  id: 3GPP TR 33.847:Rel-17/0.0.0
   type: 3GPP
-- id: '61782'
-  type: rapporteurId
 docnumber: TR 33.847:Rel-17/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHOU, Wei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-201804
+  content: S3-201804
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

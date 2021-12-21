@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 11.10-4:R99/8.1.0
+  id: 3GPP TS 11.10-4:R99/8.1.0
   type: 3GPP
-- id: '25257'
-  type: rapporteurId
 docnumber: TS 11.10-4:R99/8.1.0
 date:
   type: confirmed
   value: '2005-10-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILLENBRINK, Udo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Comprion GmbH
+  role: author
 biblionote:
 - content: 'May 00: R99 not anticipated. TP-17: T3 proposes to take over this spec
     from G5, and to approve a new R99 version not derived from R96 by CR; also to
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6

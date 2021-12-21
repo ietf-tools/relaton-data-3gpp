@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.131:Rel-9/9.5.0
+  id: 3GPP TS 26.131:Rel-9/9.5.0
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TS 26.131:Rel-9/9.5.0
 date:
 - type: created
   value: '2013-12-19'
 - type: confirmed
   value: '2008-12-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 3G

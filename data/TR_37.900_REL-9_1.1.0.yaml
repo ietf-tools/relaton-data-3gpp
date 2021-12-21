@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 37.900:Rel-9/1.1.0
+  id: 3GPP TR 37.900:Rel-9/1.1.0
   type: 3GPP
-- id: '10425'
-  type: rapporteurId
 docnumber: TR 37.900:Rel-9/1.1.0
 date:
   type: confirmed
   value: '2010-06-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SKOLD, Johan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: R4-093978
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4

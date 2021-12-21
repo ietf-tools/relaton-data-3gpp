@@ -10,10 +10,8 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 13.60:R96/1.0.0
+  id: 3GPP TS 13.60:R96/1.0.0
   type: 3GPP
-- id: '2766'
-  type: rapporteurId
 docnumber: TS 13.60:R96/1.0.0
 biblionote:
   content: "#30: 1.0.0; stopped (Salmeron 2000-07-1)"
@@ -23,7 +21,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: MSG

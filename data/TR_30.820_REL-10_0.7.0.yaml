@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 30.820:Rel-10/0.7.0
+  id: 3GPP TR 30.820:Rel-10/0.7.0
   type: 3GPP
-- id: '50886'
-  type: rapporteurId
 docnumber: TR 30.820:Rel-10/0.7.0
 date:
   type: confirmed
   value: '2011-07-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZUMERLE, Dionisio
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-111617
+  content: S5-111617
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

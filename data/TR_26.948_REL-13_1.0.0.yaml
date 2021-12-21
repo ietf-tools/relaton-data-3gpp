@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.948:Rel-13/1.0.0
+  id: 3GPP TR 26.948:Rel-13/1.0.0
   type: 3GPP
-- id: '47522'
-  type: rapporteurId
 docnumber: TR 26.948:Rel-13/1.0.0
 date:
   type: created
   value: '2015-09-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Ye-kui
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-150457
+  content: SP-150457
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

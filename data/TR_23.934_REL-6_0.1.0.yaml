@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.934:Rel-6/0.1.0
+  id: 3GPP TR 23.934:Rel-6/0.1.0
   type: 3GPP
-- id: '18895'
-  type: rapporteurId
 docnumber: TR 23.934:Rel-6/0.1.0
 date:
   type: confirmed
   value: '2002-10-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PAINT, Frédéric
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELENOR ASA
+  role: author
 biblionote:
   content: '2002-05-02: anticipate v1.0.0 in Sept 2002, 2.0.0 in Dec 2002. 2007-08-20:
     No further work so propose to raise to v6.0.0 at SP-37. SP-38: stopped, superseded
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

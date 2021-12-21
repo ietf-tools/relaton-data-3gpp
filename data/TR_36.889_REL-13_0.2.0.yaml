@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.889:Rel-13/0.2.0
+  id: 3GPP TR 36.889:Rel-13/0.2.0
   type: 3GPP
-- id: '46308'
-  type: rapporteurId
 docnumber: TR 36.889:Rel-13/0.2.0
 date:
   type: created
   value: '2015-03-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOORAPATY, Havish
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-150912
+  content: R1-150912
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

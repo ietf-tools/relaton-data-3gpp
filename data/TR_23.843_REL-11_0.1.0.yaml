@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.843:Rel-11/0.1.0
+  id: 3GPP TR 23.843:Rel-11/0.1.0
   type: 3GPP
-- id: '23396'
-  type: rapporteurId
 docnumber: TR 23.843:Rel-11/0.1.0
 date:
 - type: created
   value: '2010-10-19'
 - type: confirmed
   value: '2013-12-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHRAMM, Mirko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
   content: Timed out of Rel-11.
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

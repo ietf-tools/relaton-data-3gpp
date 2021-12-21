@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.835:Rel-16/16.1.0
+  id: 3GPP TR 33.835:Rel-16/16.1.0
   type: 3GPP
-- id: '78337'
-  type: rapporteurId
 docnumber: TR 33.835:Rel-16/16.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Xiaoting
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

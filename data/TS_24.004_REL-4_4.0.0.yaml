@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 24.004:Rel-4/4.0.0
+  id: 3GPP TS 24.004:Rel-4/4.0.0
   type: 3GPP
-- id: '1301'
-  type: rapporteurId
 docnumber: TS 24.004:Rel-4/4.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: THOMAS, Rémi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: 'Apr-2001: Not required. See 44.004.'
   type: remark
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G2
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

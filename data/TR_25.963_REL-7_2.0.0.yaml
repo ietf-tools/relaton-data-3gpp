@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.963:Rel-7/2.0.0
+  id: 3GPP TR 25.963:Rel-7/2.0.0
   type: 3GPP
-- id: '16986'
-  type: rapporteurId
 docnumber: TR 25.963:Rel-7/2.0.0
 date:
 - type: created
   value: '2007-04-02'
 - type: confirmed
   value: '2009-01-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: GRANT, Marc
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 biblionote:
   content: RP-070264
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

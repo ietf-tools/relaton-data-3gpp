@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.981:Rel-14/0.0.4
+  id: 3GPP TR 26.981:Rel-14/0.0.4
   type: 3GPP
-- id: '45365'
-  type: rapporteurId
 docnumber: TR 26.981:Rel-14/0.0.4
+contributor:
+  person:
+    name:
+      completename:
+        content: PARK, Kyungmo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'S4-160869 ^ 2016-07-11: S4-160869'
+  content: 'S4-160869 ^ 2016-07-11: S4-160869'
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

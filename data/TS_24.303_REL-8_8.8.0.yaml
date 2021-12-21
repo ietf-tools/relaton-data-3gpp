@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.303:Rel-8/8.8.0
+  id: 3GPP TS 24.303:Rel-8/8.8.0
   type: 3GPP
-- id: '38080'
-  type: rapporteurId
 docnumber: TS 24.303:Rel-8/8.8.0
 date:
 - type: created
   value: '2011-09-28'
 - type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHAPONNIERE, Lena
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

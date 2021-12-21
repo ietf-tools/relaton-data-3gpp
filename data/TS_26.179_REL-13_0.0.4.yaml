@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.179:Rel-13/0.0.4
+  id: 3GPP TS 26.179:Rel-13/0.0.4
   type: 3GPP
-- id: '36141'
-  type: rapporteurId
 docnumber: TS 26.179:Rel-13/0.0.4
 date:
   type: created
   value: '2015-11-09'
+contributor:
+  person:
+    name:
+      completename:
+        content: TURCOTTE, Eric
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-151275
+  content: S4-151275
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S4

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.939:Rel-15/0.1.0
+  id: 3GPP TR 26.939:Rel-15/0.1.0
   type: 3GPP
-- id: '73336'
-  type: rapporteurId
 docnumber: TR 26.939:Rel-15/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BOUAZIZI, Imed
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Research America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-180216
+  content: S4-180216
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

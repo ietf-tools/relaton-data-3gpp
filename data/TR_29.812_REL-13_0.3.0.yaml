@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.812:Rel-13/0.3.0
+  id: 3GPP TR 29.812:Rel-13/0.3.0
   type: 3GPP
-- id: '60425'
-  type: rapporteurId
 docnumber: TR 29.812:Rel-13/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: DU, Xiaoning
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATR
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Agreed in CT4#71 as C4-152214
+  content: Agreed in CT4#71 as C4-152214
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

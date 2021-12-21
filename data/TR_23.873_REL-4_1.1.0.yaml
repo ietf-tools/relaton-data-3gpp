@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.873:Rel-4/1.1.0
+  id: 3GPP TR 23.873:Rel-4/1.1.0
   type: 3GPP
-- id: '22791'
-  type: rapporteurId
 docnumber: TR 23.873:Rel-4/1.1.0
 date:
   type: confirmed
   value: '2004-03-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: IBANEZ, Juan-Antonio
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 3G

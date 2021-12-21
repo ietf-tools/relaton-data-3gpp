@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.999:Rel-7/2.1.0
+  id: 3GPP TR 25.999:Rel-7/2.1.0
   type: 3GPP
-- id: '16986'
-  type: rapporteurId
 docnumber: TR 25.999:Rel-7/2.1.0
 date:
 - type: created
   value: '2007-07-30'
 - type: confirmed
   value: '2007-12-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: GRANT, Marc
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 biblionote:
   content: RP-070469 not approved. File corrupt on server.
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

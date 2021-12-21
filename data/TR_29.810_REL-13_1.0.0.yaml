@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.810:Rel-13/1.0.0
+  id: 3GPP TR 29.810:Rel-13/1.0.0
   type: 3GPP
-- id: '6963'
-  type: rapporteurId
 docnumber: TR 29.810:Rel-13/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (S)
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Presented in CP#72 for information and approval as CP-160242
+  content: Presented in CP#72 for information and approval as CP-160242
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

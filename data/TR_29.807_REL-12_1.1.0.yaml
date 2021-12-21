@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.807:Rel-12/1.1.0
+  id: 3GPP TR 29.807:Rel-12/1.1.0
   type: 3GPP
-- id: '56645'
-  type: rapporteurId
 docnumber: TR 29.807:Rel-12/1.1.0
 date:
 - type: created
   value: '2014-04-23'
 - type: confirmed
   value: '2014-06-24'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SALOT, Nirav
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Cisco Systems
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

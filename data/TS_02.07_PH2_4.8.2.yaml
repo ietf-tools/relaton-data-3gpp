@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.07:Ph2/4.8.2
+  id: 3GPP TS 02.07:Ph2/4.8.2
   type: 3GPP
-- id: '17856'
-  type: rapporteurId
 docnumber: TS 02.07:Ph2/4.8.2
+contributor:
+  person:
+    name:
+      completename:
+        content: TOFABI, Amin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: SONY
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 radiotechnology: 2G

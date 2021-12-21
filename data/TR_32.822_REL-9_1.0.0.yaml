@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.822:Rel-9/1.0.0
+  id: 3GPP TR 32.822:Rel-9/1.0.0
   type: 3GPP
-- id: '33666'
-  type: rapporteurId
 docnumber: TR 32.822:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-06-08'
 - type: confirmed
   value: '2009-10-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Shuqiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
 - content: 'SP-43: Timed out of Rel-8.'
   type: remark
@@ -26,7 +35,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

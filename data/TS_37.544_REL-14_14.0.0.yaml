@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.544:Rel-14/14.0.0
+  id: 3GPP TS 37.544:Rel-14/14.0.0
   type: 3GPP
-- id: '78787'
-  type: rapporteurId
 docnumber: TS 37.544:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2016-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: FORTES LOPEZ, Jose M.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: upgraded to v14.0.0 with editorial changes
+  content: upgraded to v14.0.0 with editorial changes
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

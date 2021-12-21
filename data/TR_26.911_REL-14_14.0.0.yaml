@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.911:Rel-14/14.0.0
+  id: 3GPP TR 26.911:Rel-14/14.0.0
   type: 3GPP
-- id: '89122'
-  type: rapporteurId
 docnumber: TR 26.911:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2006-01-03'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: JUNG, Kyunghun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Facebook
+  role: author
 language: en
 script: Latn
 abstract:
@@ -33,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 2G

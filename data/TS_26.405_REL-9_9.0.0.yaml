@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.405:Rel-9/9.0.0
+  id: 3GPP TS 26.405:Rel-9/9.0.0
   type: 3GPP
-- id: '29799'
-  type: rapporteurId
 docnumber: TS 26.405:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-12-18'
 - type: confirmed
   value: '2011-04-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KUNZ, Oliver
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Dolby Laboratories Inc.
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S4
+  name: S4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '9'

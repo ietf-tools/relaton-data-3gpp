@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.825:Rel-8/0.0.1
+  id: 3GPP TR 25.825:Rel-8/0.0.1
   type: 3GPP
-- id: '19057'
-  type: rapporteurId
 docnumber: TR 25.825:Rel-8/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: BLANZ, Josef
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
   content: 'Post RP-43: Rapporteur indicates that this spec be abandoned.'
   type: remark
@@ -19,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

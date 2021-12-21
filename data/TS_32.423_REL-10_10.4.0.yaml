@@ -10,31 +10,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.423:Rel-10/10.4.0
+  id: 3GPP TS 32.423:Rel-10/10.4.0
   type: 3GPP
-- id: '23029'
-  type: rapporteurId
 docnumber: TS 32.423:Rel-10/10.4.0
 date:
 - type: created
   value: '2011-12-22'
 - type: confirmed
   value: '2010-10-08'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: TOCHE, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: a

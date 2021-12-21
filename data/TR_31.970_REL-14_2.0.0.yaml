@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 31.970:Rel-14/2.0.0
+  id: 3GPP TR 31.970:Rel-14/2.0.0
   type: 3GPP
-- id: '74918'
-  type: rapporteurId
 docnumber: TR 31.970:Rel-14/2.0.0
 date:
   type: confirmed
   value: '2018-06-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: VIRK, Amandeep
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CP-160151. No MCC QA check performed. Many editorial corrections needed.
+  content: CP-160151. No MCC QA check performed. Many editorial corrections needed.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C6

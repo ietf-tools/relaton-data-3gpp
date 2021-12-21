@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.133:Rel-7/0.9.0
+  id: 3GPP TS 31.133:Rel-7/0.9.0
   type: 3GPP
-- id: '19277'
-  type: rapporteurId
 docnumber: TS 31.133:Rel-7/0.9.0
 date:
 - type: created
   value: '2005-08-09'
 - type: confirmed
   value: '2006-05-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: HANS, Sebastian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Oracle Corporation
+  role: author
 biblionote:
   content: C6-050554
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C6

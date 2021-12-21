@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.885:Rel-14/1.0.0
+  id: 3GPP TR 22.885:Rel-14/1.0.0
   type: 3GPP
-- id: '58978'
-  type: rapporteurId
 docnumber: TR 22.885:Rel-14/1.0.0
 date:
 - type: created
   value: '2015-09-24'
 - type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Ki-Dong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-150545
+  content: SP-150545
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

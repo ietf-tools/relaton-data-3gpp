@@ -11,22 +11,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.980:Rel-13/1.0.0
+  id: 3GPP TR 26.980:Rel-13/1.0.0
   type: 3GPP
-- id: '38562'
-  type: rapporteurId
 docnumber: TR 26.980:Rel-13/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LEUNG, Nikolai
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-150661
+  content: SP-150661
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.062:Rel-12/12.0.0
+  id: 3GPP TS 28.062:Rel-12/12.0.0
   type: 3GPP
-- id: '14777'
-  type: rapporteurId
 docnumber: TS 28.062:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-12-02'
 - type: confirmed
   value: '2005-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: HELLWIG, Karl
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -31,13 +40,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 2G

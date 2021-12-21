@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 34.902:Rel-10/10.0.0
+  id: 3GPP TR 34.902:Rel-10/10.0.0
   type: 3GPP
-- id: '76956'
-  type: rapporteurId
 docnumber: TR 34.902:Rel-10/10.0.0
 date:
 - type: created
   value: '2015-03-20'
 - type: confirmed
   value: '2011-10-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOLODZIEJ, Jakub
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Upgrade from v9.5.0 without technical change.
+  content: Upgrade from v9.5.0 without technical change.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

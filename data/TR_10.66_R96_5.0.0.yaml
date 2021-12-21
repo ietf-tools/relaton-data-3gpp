@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 10.66:R96/5.0.0
+  id: 3GPP TR 10.66:R96/5.0.0
   type: 3GPP
-- id: '10492'
-  type: rapporteurId
 docnumber: TR 10.66:R96/5.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TARAZI, Roger
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: EDP Telecom
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '5'

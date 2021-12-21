@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.214:Rel-15/15.0.1
+  id: 3GPP TS 36.214:Rel-15/15.0.1
   type: 3GPP
-- id: '45069'
-  type: rapporteurId
 docnumber: TS 36.214:Rel-15/15.0.1
 date:
   type: confirmed
   value: '2010-03-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: GROVLEN, Asbjorn
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Logo replacement - add "5G" logo on spec cover sheet
+  content: Logo replacement - add "5G" logo on spec cover sheet
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

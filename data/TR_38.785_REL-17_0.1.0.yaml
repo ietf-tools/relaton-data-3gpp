@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.785:Rel-17/0.1.0
+  id: 3GPP TR 38.785:Rel-17/0.1.0
   type: 3GPP
-- id: '46654'
-  type: rapporteurId
 docnumber: TR 38.785:Rel-17/0.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LIM, Suhwan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

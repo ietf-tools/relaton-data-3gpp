@@ -10,17 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.888:Rel-6/2.0.0
+  id: 3GPP TR 25.888:Rel-6/2.0.0
   type: 3GPP
-- id: '33640'
-  type: rapporteurId
 docnumber: TR 25.888:Rel-6/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Xiaoqiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: SAMSUNG Electronics Co., Ltd.
+  role: author
 biblionote:
   content: RP-030500
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

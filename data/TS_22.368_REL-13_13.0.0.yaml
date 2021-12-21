@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.368:Rel-13/13.0.0
+  id: 3GPP TS 22.368:Rel-13/13.0.0
   type: 3GPP
-- id: '8605'
-  type: rapporteurId
 docnumber: TS 22.368:Rel-13/13.0.0
 date:
 - type: created
   value: '2014-06-30'
 - type: confirmed
   value: '2010-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: NORP, Toon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TNO
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: upgraded without technical change from version 12.3.0.
+  content: upgraded without technical change from version 12.3.0.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

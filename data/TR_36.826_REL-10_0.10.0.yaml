@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.826:Rel-10/0.10.0
+  id: 3GPP TR 36.826:Rel-10/0.10.0
   type: 3GPP
-- id: '43006'
-  type: rapporteurId
 docnumber: TR 36.826:Rel-10/0.10.0
 date:
 - type: created
   value: '2011-10-10'
 - type: confirmed
   value: '2011-10-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOYMANN, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: 'RP-56: timed out of Rel-10.'
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

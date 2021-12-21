@@ -10,26 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.889:Rel-6/1.1.0
+  id: 3GPP TR 25.889:Rel-6/1.1.0
   type: 3GPP
-- id: '18235'
-  type: rapporteurId
 docnumber: TR 25.889:Rel-6/1.1.0
 date:
   type: confirmed
   value: '2003-07-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: STAHLFJALL, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: RP-020657
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: R4
+  name: R4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

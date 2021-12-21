@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.078:Rel-6/6.2.0
+  id: 3GPP TS 22.078:Rel-6/6.2.0
   type: 3GPP
-- id: '11897'
-  type: rapporteurId
 docnumber: TS 22.078:Rel-6/6.2.0
 date:
   type: confirmed
   value: '2012-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: RODERMUND, Friedhelm
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
 abstract:
@@ -32,13 +41,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 2G

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.870:Rel-13/2.0.0
+  id: 3GPP TR 37.870:Rel-13/2.0.0
   type: 3GPP
-- id: '56689'
-  type: rapporteurId
 docnumber: TR 37.870:Rel-13/2.0.0
 date:
   type: created
   value: '2015-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: KIMBA DIT ADAMOU, Boubacar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-150808
+  content: RP-150808
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

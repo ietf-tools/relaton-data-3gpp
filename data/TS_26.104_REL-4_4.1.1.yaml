@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.104:Rel-4/4.1.1
+  id: 3GPP TS 26.104:Rel-4/4.1.1
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TS 26.104:Rel-4/4.1.1
 date:
   type: confirmed
   value: '2002-04-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 2G

@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.820:Rel-11/11.0.0
+  id: 3GPP TR 36.820:Rel-11/11.0.0
   type: 3GPP
-- id: '38415'
-  type: rapporteurId
 docnumber: TR 36.820:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-07-06'
 - type: confirmed
   value: '2012-07-06'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: QUESETH, Olav
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -10,10 +10,8 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 13.02:Ph2/4.0.0
+  id: 3GPP TS 13.02:Ph2/4.0.0
   type: 3GPP
-- id: '12011'
-  type: rapporteurId
 docnumber: TS 13.02:Ph2/4.0.0
 biblionote:
   content: "#28: 1.0.0  #29: 4.0.0"
@@ -23,7 +21,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: MSG

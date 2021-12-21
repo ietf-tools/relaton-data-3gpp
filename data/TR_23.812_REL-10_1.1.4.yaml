@@ -9,25 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.812:Rel-10/1.1.4
+  id: 3GPP TR 23.812:Rel-10/1.1.4
   type: 3GPP
-- id: '37094'
-  type: rapporteurId
 docnumber: TR 23.812:Rel-10/1.1.4
 date:
 - type: created
   value: '2011-04-04'
 - type: confirmed
   value: '2011-12-16'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

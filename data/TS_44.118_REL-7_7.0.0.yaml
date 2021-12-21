@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.118:Rel-7/7.0.0
+  id: 3GPP TS 44.118:Rel-7/7.0.0
   type: 3GPP
-- id: '68332'
-  type: rapporteurId
 docnumber: TS 44.118:Rel-7/7.0.0
 date:
 - type: created
   value: '2005-04-21'
 - type: confirmed
   value: '2012-09-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: RP

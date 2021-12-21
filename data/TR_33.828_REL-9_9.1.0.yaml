@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.828:Rel-9/9.1.0
+  id: 3GPP TR 33.828:Rel-9/9.1.0
   type: 3GPP
-- id: '10658'
-  type: rapporteurId
 docnumber: TR 33.828:Rel-9/9.1.0
 date:
 - type: created
   value: '2010-06-18'
 - type: confirmed
   value: '2009-03-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOWARD, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: 'SP-43: moved from WI UID 360017, hence to Rel-9.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

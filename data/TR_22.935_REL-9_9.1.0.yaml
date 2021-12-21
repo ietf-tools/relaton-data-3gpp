@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.935:Rel-9/9.1.0
+  id: 3GPP TR 22.935:Rel-9/9.1.0
   type: 3GPP
-- id: '21317'
-  type: rapporteurId
 docnumber: TR 22.935:Rel-9/9.1.0
 date:
 - type: created
   value: '2010-10-01'
 - type: confirmed
   value: '2005-10-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: LOUSHINE, Mike
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Applied Communication Sciences
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '9'

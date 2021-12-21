@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.838:Rel-12/0.5.0
+  id: 3GPP TR 32.838:Rel-12/0.5.0
   type: 3GPP
-- id: '23029'
-  type: rapporteurId
 docnumber: TR 32.838:Rel-12/0.5.0
 date:
 - type: created
   value: '2014-01-07'
 - type: confirmed
   value: '2014-10-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: TOCHE, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 biblionote:
   content: 'SP-65: timed out of Rel-12.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.80U:UMTS/1.0.2
+  id: 3GPP TR 22.80U:UMTS/1.0.2
   type: 3GPP
-- id: '9789'
-  type: rapporteurId
 docnumber: TR 22.80U:UMTS/1.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: AXERUD, Bo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA TELECOMMUNICATIONS
+  role: author
 biblionote:
   content: "#24: 2.0.1"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 release:

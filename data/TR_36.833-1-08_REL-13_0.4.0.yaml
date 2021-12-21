@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.833-1-08:Rel-13/0.4.0
+  id: 3GPP TR 36.833-1-08:Rel-13/0.4.0
   type: 3GPP
-- id: '56102'
-  type: rapporteurId
 docnumber: TR 36.833-1-08:Rel-13/0.4.0
 date:
   type: created
   value: '2016-01-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: PAN, Qun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-157457
+  content: R4-157457
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

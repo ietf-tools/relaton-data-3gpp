@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.924:Rel-4/0.2.0
+  id: 3GPP TR 25.924:Rel-4/0.2.0
   type: 3GPP
-- id: '12752'
-  type: rapporteurId
 docnumber: TR 25.924:Rel-4/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LAW, Alan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: '2002-01-23: .WG Secretary reports that this is really R99. Watch this
     space. 2002-02-25 (Van der Veen): No further interest, so spec withdrawn.'
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
-- name: "-"
-  type: other
 - name: R2
   type: former
 radiotechnology: 3G

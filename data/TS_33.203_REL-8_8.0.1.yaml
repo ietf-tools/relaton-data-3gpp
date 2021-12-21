@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.203:Rel-8/8.0.1
+  id: 3GPP TS 33.203:Rel-8/8.0.1
   type: 3GPP
-- id: '63310'
-  type: rapporteurId
 docnumber: TS 33.203:Rel-8/8.0.1
 date:
 - type: created
   value: '2007-10-04'
 - type: confirmed
   value: '2002-03-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: BEN HENDA, Noamen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Fixes implementation of CR105r5.
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S3

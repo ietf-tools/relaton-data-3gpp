@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.857:Rel-17/0.1.0
+  id: 3GPP TR 38.857:Rel-17/0.1.0
   type: 3GPP
-- id: '46491'
-  type: rapporteurId
 docnumber: TR 38.857:Rel-17/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MUNIER, Florent
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Endorsed in R1-2009430
+  content: Endorsed in R1-2009430
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -10,31 +10,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.234:Rel-12/12.3.0
+  id: 3GPP TS 26.234:Rel-12/12.3.0
   type: 3GPP
-- id: '18030'
-  type: rapporteurId
 docnumber: TS 26.234:Rel-12/12.3.0
 date:
 - type: created
   value: '2014-03-17'
 - type: confirmed
   value: '2005-01-06'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: GABIN, Frederic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S4
+  name: S4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: c

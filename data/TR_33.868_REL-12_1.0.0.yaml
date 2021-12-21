@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.868:Rel-12/1.0.0
+  id: 3GPP TR 33.868:Rel-12/1.0.0
   type: 3GPP
-- id: '33521'
-  type: rapporteurId
 docnumber: TR 33.868:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-03-17'
 - type: confirmed
   value: '2014-03-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: RAJADURAI, Rajavelsamy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
 - content: 'SP-56: Rel-12 instance justified by WI @ SP-120384 (MTCe).'
   type: remark
@@ -27,7 +36,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

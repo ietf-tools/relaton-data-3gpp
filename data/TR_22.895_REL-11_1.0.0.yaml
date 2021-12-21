@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.895:Rel-11/1.0.0
+  id: 3GPP TR 22.895:Rel-11/1.0.0
   type: 3GPP
-- id: '37666'
-  type: rapporteurId
 docnumber: TR 22.895:Rel-11/1.0.0
 date:
 - type: created
   value: '2011-09-26'
 - type: confirmed
   value: '2012-03-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: WALLACE, Christopher
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: 'SP-53: timed out to Rel-12.'
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -10,19 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.829:Rel-7/0.0.2
+  id: 3GPP TR 25.829:Rel-7/0.0.2
   type: 3GPP
-- id: '43248'
-  type: rapporteurId
 docnumber: TR 25.829:Rel-7/0.0.2
 date:
 - type: created
   value: '2005-05-27'
 - type: confirmed
   value: '2006-06-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: WONG, Shin horng
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Sony Europe Limited
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

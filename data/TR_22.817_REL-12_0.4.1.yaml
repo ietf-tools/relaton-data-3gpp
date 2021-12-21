@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.817:Rel-12/0.4.1
+  id: 3GPP TR 22.817:Rel-12/0.4.1
   type: 3GPP
-- id: '23682'
-  type: rapporteurId
 docnumber: TR 22.817:Rel-12/0.4.1
 date:
   type: created
   value: '2011-09-26'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MACCHI, Ilario
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: GIESECKE & DEVRIENT GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

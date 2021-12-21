@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.57:R98/7.1.0
+  id: 3GPP TS 03.57:R98/7.1.0
   type: 3GPP
-- id: '17903'
-  type: rapporteurId
 docnumber: TS 03.57:R98/7.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BRENK, Lars
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: "#27: for info  #29: 7.0.0 T#6: 7.1.0 expect TSG#7 CR to fix unimplementable
     one at TSG#6. TSG#7: 7.2.0"
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: T2  /  SMG04
   type: former
 radiotechnology: 2G

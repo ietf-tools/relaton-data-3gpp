@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 02.93:R96/5.5.0
+  id: 3GPP TS 02.93:R96/5.5.0
   type: 3GPP
-- id: '4035'
-  type: rapporteurId
 docnumber: TS 02.93:R96/5.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SCARRONE, Enrico
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 biblionote:
   content: "#16: 5.0.0  #19: 5.1.0  #20: 5.2.0  #22: 5.3.0  #23: 5.4.0  #24: 5.5.0
     \ #25: withdrawn"
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1  /  SMG01
   type: former
 radiotechnology: 2G

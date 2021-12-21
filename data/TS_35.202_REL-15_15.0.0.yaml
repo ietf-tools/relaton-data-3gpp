@@ -10,29 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 35.202:Rel-15/15.0.0
+  id: 3GPP TS 35.202:Rel-15/15.0.0
   type: 3GPP
-- id: '24416'
-  type: rapporteurId
 docnumber: TS 35.202:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2011-04-04'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: EVANS, Tim P.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 3G

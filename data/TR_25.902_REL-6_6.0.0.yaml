@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.902:Rel-6/6.0.0
+  id: 3GPP TR 25.902:Rel-6/6.0.0
   type: 3GPP
-- id: '15709'
-  type: rapporteurId
 docnumber: TR 25.902:Rel-6/6.0.0
 date:
 - type: created
   value: '2005-10-05'
 - type: confirmed
   value: '2005-10-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: MCWILLIAMS, Brendan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: 'RP-28: anticipated completion at RP-29.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 31.900:Rel-6/6.1.0
+  id: 3GPP TR 31.900:Rel-6/6.1.0
   type: 3GPP
-- id: '15584'
-  type: rapporteurId
 docnumber: TR 31.900:Rel-6/6.1.0
 date:
 - type: created
   value: '2005-03-24'
 - type: confirmed
   value: '2004-09-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: KALINER, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C6

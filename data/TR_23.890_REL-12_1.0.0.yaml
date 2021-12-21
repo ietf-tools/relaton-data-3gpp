@@ -10,10 +10,8 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.890:Rel-12/1.0.0
+  id: 3GPP TR 23.890:Rel-12/1.0.0
   type: 3GPP
-- id: '56971'
-  type: rapporteurId
 docnumber: TR 23.890:Rel-12/1.0.0
 date:
 - type: created
@@ -21,13 +19,11 @@ date:
 - type: confirmed
   value: '2013-09-12'
 biblionote:
-- content: "."
-  type: remark
-- content: SP-130389
+  content: SP-130389
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.840:Rel-7/0.0.0
+  id: 3GPP TR 23.840:Rel-7/0.0.0
   type: 3GPP
-- id: '21192'
-  type: rapporteurId
 docnumber: TR 23.840:Rel-7/0.0.0
 date:
   type: confirmed
   value: '2006-04-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: RUSSELL, Nick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -7,17 +7,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.998:Rel-6/0.0.0
+  id: 3GPP TR 25.998:Rel-6/0.0.0
   type: 3GPP
-- id: '4996'
-  type: rapporteurId
 docnumber: TR 25.998:Rel-6/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: FAUCONNIER, Denis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.68:R99/1.22.0
+  id: 3GPP TR 10.68:R99/1.22.0
   type: 3GPP
-- id: '11802'
-  type: rapporteurId
 docnumber: TR 10.68:R99/1.22.0
+contributor:
+  person:
+    name:
+      completename:
+        content: VAN DER AREND, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: KPN N.V.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: SMG12
   type: former
 radiotechnology: 2G

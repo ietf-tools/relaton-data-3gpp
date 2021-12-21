@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.410:Rel-11/11.1.0
+  id: 3GPP TS 36.410:Rel-11/11.1.0
   type: 3GPP
-- id: '28232'
-  type: rapporteurId
 docnumber: TS 36.410:Rel-11/11.1.0
 date:
 - type: created
   value: '2013-09-19'
 - type: confirmed
   value: '2010-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: GODIN, Philippe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R3

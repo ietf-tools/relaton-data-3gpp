@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.087:Rel-13/13.0.0
+  id: 3GPP TS 22.087:Rel-13/13.0.0
   type: 3GPP
-- id: '26063'
-  type: rapporteurId
 docnumber: TS 22.087:Rel-13/13.0.0
 date:
 - type: created
   value: '2016-01-14'
 - type: confirmed
   value: '2011-04-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: BISCHINGER, Kurt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: T-Mobile Austria GmbH
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -34,13 +43,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 2G

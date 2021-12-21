@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 34.902:Rel-5/5.2.0
+  id: 3GPP TR 34.902:Rel-5/5.2.0
   type: 3GPP
-- id: '76956'
-  type: rapporteurId
 docnumber: TR 34.902:Rel-5/5.2.0
 date:
 - type: created
   value: '2007-06-21'
 - type: confirmed
   value: '2011-10-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOLODZIEJ, Jakub
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'TP-21: assume Rel-7 in view of projected end date. TP-22: Document ready
     for approval as Rel-5 (!!)'
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.719:Rel-14/0.4.1
+  id: 3GPP TR 23.719:Rel-14/0.4.1
   type: 3GPP
-- id: '31136'
-  type: rapporteurId
 docnumber: TR 23.719:Rel-14/0.4.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JOUL, Christopher
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: T-Mobile USA Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Pre-SA2#115 update: added a new diagram forgotten after deleting the old.'
+  content: 'Pre-SA2#115 update: added a new diagram forgotten after deleting the old.'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

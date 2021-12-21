@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.526:Rel-17/17.0.0
+  id: 3GPP TS 24.526:Rel-17/17.0.0
   type: 3GPP
-- id: '42680'
-  type: rapporteurId
 docnumber: TS 24.526:Rel-17/17.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHOU, Xingyue
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

@@ -8,25 +8,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.904:Rel-11/0.0.1
+  id: 3GPP TR 36.904:Rel-11/0.0.1
   type: 3GPP
-- id: '76956'
-  type: rapporteurId
 docnumber: TR 36.904:Rel-11/0.0.1
 date:
   type: confirmed
   value: '2014-05-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOLODZIEJ, Jakub
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R5-132066
+  content: R5-132066
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

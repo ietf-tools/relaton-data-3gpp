@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.261:Rel-10/1.0.0
+  id: 3GPP TS 23.261:Rel-10/1.0.0
   type: 3GPP
-- id: '35836'
-  type: rapporteurId
 docnumber: TS 23.261:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-03-22'
 - type: confirmed
   value: '2010-06-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: GIARETTA, Gerardo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
   content: SP-100175
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

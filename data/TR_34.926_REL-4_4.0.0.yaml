@@ -10,26 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 34.926:Rel-4/4.0.0
+  id: 3GPP TR 34.926:Rel-4/4.0.0
   type: 3GPP
-- id: '10072'
-  type: rapporteurId
 docnumber: TR 34.926:Rel-4/4.0.0
 date:
   type: confirmed
   value: '2004-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: FENN, John B
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Retired friends of ETSI
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

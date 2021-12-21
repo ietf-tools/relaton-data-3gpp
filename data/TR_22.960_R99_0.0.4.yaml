@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.960:R99/0.0.4
+  id: 3GPP TR 22.960:R99/0.0.4
   type: 3GPP
-- id: '11265'
-  type: rapporteurId
 docnumber: TR 22.960:R99/0.0.4
+contributor:
+  person:
+    name:
+      completename:
+        content: AHNBERG, Tomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

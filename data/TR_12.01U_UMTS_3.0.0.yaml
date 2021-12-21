@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 12.01U:UMTS/3.0.0
+  id: 3GPP TR 12.01U:UMTS/3.0.0
   type: 3GPP
-- id: '2539'
-  type: rapporteurId
 docnumber: TR 12.01U:UMTS/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KOKKOS, A. Makis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
   content: Not approved for publication.
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: SMG5

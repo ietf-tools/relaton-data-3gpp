@@ -8,11 +8,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 32.173:Rel-6/1.0.0
+  id: 3GPP TS 32.173:Rel-6/1.0.0
   type: 3GPP
-- id: '26910'
-  type: rapporteurId
 docnumber: TS 32.173:Rel-6/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ABA, Istvan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 biblionote:
 - content: 'SP-26: moved to Rel-7.'
   type: remark
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 10.59:R99/1.11.0
+  id: 3GPP TR 10.59:R99/1.11.0
   type: 3GPP
-- id: '13001'
-  type: rapporteurId
 docnumber: TR 10.59:R99/1.11.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MUELLER, Frank
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 2e99-003
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

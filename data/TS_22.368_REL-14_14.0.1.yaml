@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.368:Rel-14/14.0.1
+  id: 3GPP TS 22.368:Rel-14/14.0.1
   type: 3GPP
-- id: '8605'
-  type: rapporteurId
 docnumber: TS 22.368:Rel-14/14.0.1
 date:
   type: confirmed
   value: '2010-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: NORP, Toon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TNO
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Problem with doc file name in 14.0.0
+  content: Problem with doc file name in 14.0.0
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

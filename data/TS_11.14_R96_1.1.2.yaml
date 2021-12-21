@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 11.14:R96/1.1.2
+  id: 3GPP TS 11.14:R96/1.1.2
   type: 3GPP
-- id: '12666'
-  type: rapporteurId
 docnumber: TS 11.14:R96/1.1.2
+contributor:
+  person:
+    name:
+      completename:
+        content: KRUSE, Heiko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Morpho Cards GmbH
+  role: author
 biblionote:
   content: SMG9-95-196A
   type: comment
@@ -20,13 +29,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: "-"
-  type: other
 - name: SMG09
   type: former
 radiotechnology: 2G

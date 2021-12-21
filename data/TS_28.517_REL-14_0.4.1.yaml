@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.517:Rel-14/0.4.1
+  id: 3GPP TS 28.517:Rel-14/0.4.1
   type: 3GPP
-- id: '37005'
-  type: rapporteurId
 docnumber: TS 28.517:Rel-14/0.4.1
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Kai
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: EditHelp review
+  content: EditHelp review
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.936:Rel-7/7.0.0
+  id: 3GPP TR 22.936:Rel-7/7.0.0
   type: 3GPP
-- id: '9123'
-  type: rapporteurId
 docnumber: TR 22.936:Rel-7/7.0.0
 date:
 - type: created
   value: '2005-12-19'
 - type: confirmed
   value: '2005-12-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILLIAMS, David Hugh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

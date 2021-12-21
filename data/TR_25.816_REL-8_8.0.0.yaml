@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.816:Rel-8/8.0.0
+  id: 3GPP TR 25.816:Rel-8/8.0.0
   type: 3GPP
-- id: '37854'
-  type: rapporteurId
 docnumber: TR 25.816:Rel-8/8.0.0
 date:
 - type: created
   value: '2009-09-30'
 - type: confirmed
   value: '2005-12-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Yannick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: No Rel-8 WI to justify the CR which created v8,0,0 !
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: RP

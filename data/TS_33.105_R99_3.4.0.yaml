@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.105:R99/3.4.0
+  id: 3GPP TS 33.105:R99/3.4.0
   type: 3GPP
-- id: '16534'
-  type: rapporteurId
 docnumber: TS 33.105:R99/3.4.0
 date:
   type: confirmed
   value: '2011-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHIKAZAWA, Takeshi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Mitsubishi Electric Corp
+  role: author
 language: en
 script: Latn
 abstract:
@@ -25,13 +34,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 3G

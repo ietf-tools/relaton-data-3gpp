@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.146:Rel-11/11.1.0
+  id: 3GPP TS 22.146:Rel-11/11.1.0
   type: 3GPP
-- id: '43227'
-  type: rapporteurId
 docnumber: TS 22.146:Rel-11/11.1.0
 date:
 - type: created
   value: '2013-05-28'
 - type: confirmed
   value: '2011-04-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: MIETTINEN, Natalia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Upgraded without change from v10.1.0 technical change.
+  content: Upgraded without change from v10.1.0 technical change.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.889:Rel-16/0.2.1
+  id: 3GPP TR 38.889:Rel-16/0.2.1
   type: 3GPP
-- id: '65288'
-  type: rapporteurId
 docnumber: TR 38.889:Rel-16/0.2.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SUN, Jing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Endorsed in R1-1814346
+  content: Endorsed in R1-1814346
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

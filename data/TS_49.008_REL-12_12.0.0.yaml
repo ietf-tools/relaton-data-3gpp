@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 49.008:Rel-12/12.0.0
+  id: 3GPP TS 49.008:Rel-12/12.0.0
   type: 3GPP
-- id: '13818'
-  type: rapporteurId
 docnumber: TS 49.008:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-09-26'
 - type: confirmed
   value: '2011-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: MONRAD, Atle
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: N1  /  SMG03A
   type: former
 radiotechnology: 2G

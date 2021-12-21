@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.982:Rel-7/0.0.0
+  id: 3GPP TR 22.982:Rel-7/0.0.0
   type: 3GPP
-- id: '40927'
-  type: rapporteurId
 docnumber: TR 22.982:Rel-7/0.0.0
 date:
   type: confirmed
   value: '2011-04-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Qing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
 - content: 'SP-34: Note that the TR was developed as Rel-8 even though the WI was
     Rel-7.'
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

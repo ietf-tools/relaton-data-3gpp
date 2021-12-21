@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.810:Rel-6/1.0.0
+  id: 3GPP TR 33.810:Rel-6/1.0.0
   type: 3GPP
-- id: '31085'
-  type: rapporteurId
 docnumber: TR 33.810:Rel-6/1.0.0
 date:
   type: confirmed
   value: '2002-09-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: SAHLIN, Bengt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: 'SP-17: expect v2.0.0 at SP-18.'
   type: remark
@@ -22,7 +31,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

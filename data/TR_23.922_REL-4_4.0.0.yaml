@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.922:Rel-4/4.0.0
+  id: 3GPP TR 23.922:Rel-4/4.0.0
   type: 3GPP
-- id: '6848'
-  type: rapporteurId
 docnumber: TR 23.922:Rel-4/4.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: DANIEL, Elizabeth
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Telecom Ltd
+  role: author
 biblionote:
 - content: 'Sultan, Apr-2001: abandoned in early 2000. July-2001: replaced by 23.228.'
   type: remark
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

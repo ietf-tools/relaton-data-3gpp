@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.940:Rel-6/6.0.0
+  id: 3GPP TR 22.940:Rel-6/6.0.0
   type: 3GPP
-- id: '43227'
-  type: rapporteurId
 docnumber: TR 22.940:Rel-6/6.0.0
 date:
   type: confirmed
   value: '2011-04-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: MIETTINEN, Natalia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
   content: '2002-10-08: -> 22.340.  This TR to be withdrawn at SP-18.  SP-18: No!
     In fact, unwithdrawn and approved!'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

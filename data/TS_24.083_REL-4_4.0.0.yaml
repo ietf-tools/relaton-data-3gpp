@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.083:Rel-4/4.0.0
+  id: 3GPP TS 24.083:Rel-4/4.0.0
   type: 3GPP
-- id: '15130'
-  type: rapporteurId
 docnumber: TS 24.083:Rel-4/4.0.0
 date:
   type: confirmed
   value: '2008-12-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILD, Peter A.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4 (ex NSS)
   type: former
 radiotechnology: 2G

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.937:Rel-8/0.0.1
+  id: 3GPP TR 22.937:Rel-8/0.0.1
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TR 22.937:Rel-8/0.0.1
 date:
 - type: created
   value: '2007-02-20'
 - type: confirmed
   value: '2007-09-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
   content: corects clause numbering, but still shows v0.0.0
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

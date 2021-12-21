@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.701:Rel-12/0.2.1
+  id: 3GPP TR 23.701:Rel-12/0.2.1
   type: 3GPP
-- id: '40616'
-  type: rapporteurId
 docnumber: TR 23.701:Rel-12/0.2.1
 date:
 - type: created
   value: '2013-10-23'
 - type: confirmed
   value: '2013-12-17'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: YU, Qing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile US Research Cente
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2

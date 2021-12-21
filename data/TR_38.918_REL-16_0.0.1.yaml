@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.918:Rel-16/0.0.1
+  id: 3GPP TR 38.918:Rel-16/0.0.1
   type: 3GPP
-- id: '86282'
-  type: rapporteurId
 docnumber: TR 38.918:Rel-16/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Dan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: withdrawn - not needed
+  content: withdrawn - not needed
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

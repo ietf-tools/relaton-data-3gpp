@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.903:Rel-8/8.1.0
+  id: 3GPP TR 43.903:Rel-8/8.1.0
   type: 3GPP
-- id: '52580'
-  type: rapporteurId
 docnumber: TR 43.903:Rel-8/8.1.0
 date:
 - type: created
   value: '2008-06-16'
 - type: confirmed
   value: '2008-06-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Shuaiyu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.895:Rel-13/1.1.0
+  id: 3GPP TR 36.895:Rel-13/1.1.0
   type: 3GPP
-- id: '24192'
-  type: rapporteurId
 docnumber: TR 36.895:Rel-13/1.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHUH, Ralf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TeliaSonera AB
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-152240
+  content: RP-152240
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

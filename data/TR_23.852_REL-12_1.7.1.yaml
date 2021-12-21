@@ -11,22 +11,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.852:Rel-12/1.7.1
+  id: 3GPP TR 23.852:Rel-12/1.7.1
   type: 3GPP
-- id: '39971'
-  type: rapporteurId
 docnumber: TR 23.852:Rel-12/1.7.1
 date:
 - type: created
   value: '2013-08-29'
 - type: confirmed
   value: '2013-09-12'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHU, Chunhui
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

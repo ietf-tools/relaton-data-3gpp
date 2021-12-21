@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.509:Rel-16/16.0.0
+  id: 3GPP TS 36.509:Rel-16/16.0.0
   type: 3GPP
-- id: '12992'
-  type: rapporteurId
 docnumber: TS 36.509:Rel-16/16.0.0
 date:
   type: confirmed
   value: '2009-03-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: JAUCH, Holger
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Administrative release upgrade to match the release of TS 38.509 which
+  content: 'Administrative release upgrade to match the release of TS 38.509 which
     was upgraded at RAN#91 to Rel-17 due to Rel-17 relevant CRs ^ 2021-04-06: correction:
     upgraded to Rel-16 due to Rel-16 relevant CRs.'
   type: comment
@@ -30,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.849:Rel-12/12.1.0
+  id: 3GPP TR 26.849:Rel-12/12.1.0
   type: 3GPP
-- id: '43958'
-  type: rapporteurId
 docnumber: TR 26.849:Rel-12/12.1.0
 date:
 - type: created
   value: '2015-06-26'
 - type: confirmed
   value: '2014-12-22'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HALL, Edward
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

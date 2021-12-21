@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.523-3:Rel-8/8.0.0
+  id: 3GPP TS 36.523-3:Rel-8/8.0.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 36.523-3:Rel-8/8.0.0
 date:
 - type: created
   value: '2009-10-02'
 - type: confirmed
   value: '2009-02-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: 'RP-43: Approval target RP-46.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

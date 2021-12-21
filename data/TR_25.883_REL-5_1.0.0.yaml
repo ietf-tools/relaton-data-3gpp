@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.883:Rel-5/1.0.0
+  id: 3GPP TR 25.883:Rel-5/1.0.0
   type: 3GPP
-- id: '8726'
-  type: rapporteurId
 docnumber: TR 25.883:Rel-5/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: VAN LIESHOUT, Gert-Jan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
   content: RP-020392
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

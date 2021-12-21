@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 12.07:Ph1/0.0.0
+  id: 3GPP TS 12.07:Ph1/0.0.0
   type: 3GPP
-- id: '11806'
-  type: rapporteurId
 docnumber: TS 12.07:Ph1/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGMANN, Ansgar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Hillebrand GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG06 / SMG01 / SMG03
   type: former
 radiotechnology: 2G

@@ -7,20 +7,27 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.827:Rel-16/1.2.0
+  id: 3GPP TR 38.827:Rel-16/1.2.0
   type: 3GPP
-- id: '88368'
-  type: rapporteurId
 docnumber: TR 38.827:Rel-16/1.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Ruixin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: vivo Communication Technology
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Tdoc RP-200115 was withdrawn (as TR was already presented for information
+  content: 'Tdoc RP-200115 was withdrawn (as TR was already presented for information
     at RAN #86).'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

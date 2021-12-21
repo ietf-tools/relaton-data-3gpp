@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.921:Rel-6/6.1.0
+  id: 3GPP TR 25.921:Rel-6/6.1.0
   type: 3GPP
-- id: '26520'
-  type: rapporteurId
 docnumber: TR 25.921:Rel-6/6.1.0
 date:
   type: created
   value: '2005-10-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: BARRETO, Luis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
   content: 'Possible typo in ASN.1 definition of Test-msg-r5-IEs sequence: newUseOfexistingIE-F-rF
     should be newUseOfexistingIE-F-r5.'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

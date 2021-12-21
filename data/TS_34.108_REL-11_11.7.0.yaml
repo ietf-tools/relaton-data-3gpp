@@ -9,19 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.108:Rel-11/11.7.0
+  id: 3GPP TS 34.108:Rel-11/11.7.0
   type: 3GPP
-- id: '10602'
-  type: rapporteurId
 docnumber: TS 34.108:Rel-11/11.7.0
 date:
 - type: created
   value: '2013-09-20'
 - type: confirmed
   value: '2005-10-10'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MATTISSON, Leif
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 abstract:
@@ -32,13 +38,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

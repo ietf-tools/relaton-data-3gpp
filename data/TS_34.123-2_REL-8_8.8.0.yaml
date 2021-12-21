@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.123-2:Rel-8/8.8.0
+  id: 3GPP TS 34.123-2:Rel-8/8.8.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 34.123-2:Rel-8/8.8.0
 date:
 - type: created
   value: '2009-10-02'
 - type: confirmed
   value: '2010-06-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
 abstract:
@@ -33,13 +42,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

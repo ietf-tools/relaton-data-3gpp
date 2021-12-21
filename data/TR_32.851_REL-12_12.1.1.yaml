@@ -10,24 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.851:Rel-12/12.1.1
+  id: 3GPP TR 32.851:Rel-12/12.1.1
   type: 3GPP
-- id: '40208'
-  type: rapporteurId
 docnumber: TR 32.851:Rel-12/12.1.1
 date:
 - type: created
   value: '2014-01-15'
 - type: confirmed
   value: '2013-09-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: SUDARSAN, Padma
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: editorials
+  content: editorials
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

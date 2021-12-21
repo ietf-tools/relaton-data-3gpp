@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.930:R99/1.2.1
+  id: 3GPP TR 23.930:R99/1.2.1
   type: 3GPP
-- id: '9789'
-  type: rapporteurId
 docnumber: TR 23.930:R99/1.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: AXERUD, Bo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA TELECOMMUNICATIONS
+  role: author
 language: en
 script: Latn
 abstract:
@@ -23,13 +32,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 3G

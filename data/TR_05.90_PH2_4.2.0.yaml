@@ -6,26 +6,33 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 05.90:Ph2/4.2.0
+  id: 3GPP TR 05.90:Ph2/4.2.0
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TR 05.90:Ph2/4.2.0
 date:
   type: confirmed
   value: '2001-11-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

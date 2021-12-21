@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.816:Rel-10/10.0.0
+  id: 3GPP TR 29.816:Rel-10/10.0.0
   type: 3GPP
-- id: '34502'
-  type: rapporteurId
 docnumber: TR 29.816:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-10-01'
 - type: confirmed
   value: '2010-10-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUNZ, Gottfried
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C3

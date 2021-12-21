@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.079:Rel-8/8.0.0
+  id: 3GPP TS 23.079:Rel-8/8.0.0
   type: 3GPP
-- id: '15130'
-  type: rapporteurId
 docnumber: TS 23.079:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-12-15'
 - type: confirmed
   value: '2007-06-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILD, Peter A.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
   content: Upgraded unchanged from Rel-7
   type: comment
@@ -27,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 2G

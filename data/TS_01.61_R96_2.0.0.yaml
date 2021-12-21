@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 01.61:R96/2.0.0
+  id: 3GPP TS 01.61:R96/2.0.0
   type: 3GPP
-- id: '596'
-  type: rapporteurId
 docnumber: TS 01.61:R96/2.0.0
 date:
   type: confirmed
   value: '2002-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: WALKER, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: "#25: withdrawn"
   type: remark
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: SMG10
   type: former
 radiotechnology: 2G

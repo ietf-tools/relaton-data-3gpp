@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.228:Rel-12/12.5.0
+  id: 3GPP TS 29.228:Rel-12/12.5.0
   type: 3GPP
-- id: '44824'
-  type: rapporteurId
 docnumber: TS 29.228:Rel-12/12.5.0
 date:
 - type: created
   value: '2015-03-19'
 - type: confirmed
   value: '2002-03-28'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BARTOLOME, Maria-Cruz
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

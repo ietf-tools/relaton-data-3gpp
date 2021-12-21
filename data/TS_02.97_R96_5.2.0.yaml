@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.97:R96/5.2.0
+  id: 3GPP TS 02.97:R96/5.2.0
   type: 3GPP
-- id: '21463'
-  type: rapporteurId
 docnumber: TS 02.97:R96/5.2.0
 date:
   type: confirmed
   value: '2005-03-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
   content: "#19: 5.0.0  #22: 5.1.0  #23: 5.2.0  #25: withdrawn"
   type: remark
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1  /  SMG01
   type: former
 radiotechnology: 2G

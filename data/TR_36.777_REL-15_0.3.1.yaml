@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.777:Rel-15/0.3.1
+  id: 3GPP TR 36.777:Rel-15/0.3.1
   type: 3GPP
-- id: '59995'
-  type: rapporteurId
 docnumber: TR 36.777:Rel-15/0.3.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HAPSARI, Wuri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2

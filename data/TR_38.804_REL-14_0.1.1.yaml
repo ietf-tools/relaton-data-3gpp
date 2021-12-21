@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.804:Rel-14/0.1.1
+  id: 3GPP TR 38.804:Rel-14/0.1.1
   type: 3GPP
-- id: '60906'
-  type: rapporteurId
 docnumber: TR 38.804:Rel-14/0.1.1
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: TAKAHASHI, Hideaki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: DOCOMO Communications Lab.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-164393
+  content: R2-164393
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

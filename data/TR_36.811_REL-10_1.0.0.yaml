@@ -11,24 +11,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.811:Rel-10/1.0.0
+  id: 3GPP TR 36.811:Rel-10/1.0.0
   type: 3GPP
-- id: '41007'
-  type: rapporteurId
 docnumber: TR 36.811:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-09-14'
 - type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: ROBINSON, Rhys
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TerreStar Networks Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-100804
+  content: RP-100804
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

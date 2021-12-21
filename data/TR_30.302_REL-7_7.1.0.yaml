@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.302:Rel-7/7.1.0
+  id: 3GPP TR 30.302:Rel-7/7.1.0
   type: 3GPP
-- id: '35212'
-  type: rapporteurId
 docnumber: TR 30.302:Rel-7/7.1.0
 date:
 - type: created
   value: '2007-07-26'
 - type: confirmed
   value: '2006-10-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: QUAN, Haiyang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

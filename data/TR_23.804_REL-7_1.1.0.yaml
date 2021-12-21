@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.804:Rel-7/1.1.0
+  id: 3GPP TR 23.804:Rel-7/1.1.0
   type: 3GPP
-- id: '26771'
-  type: rapporteurId
 docnumber: TR 23.804:Rel-7/1.1.0
 date:
 - type: created
   value: '2005-04-21'
 - type: confirmed
   value: '2005-06-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Wenlin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

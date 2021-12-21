@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 03.58:R97/6.0.0
+  id: 3GPP TR 03.58:R97/6.0.0
   type: 3GPP
-- id: '16585'
-  type: rapporteurId
 docnumber: TR 03.58:R97/6.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: QUINQUIS, Catherine
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: "#23: 5.0.0  #25: 6.0.0 (5.0.0 withdrawn)"
   type: remark
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: SMG11
   type: former
 radiotechnology: 2G

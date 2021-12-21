@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.921:Rel-17/0.4.0
+  id: 3GPP TR 38.921:Rel-17/0.4.0
   type: 3GPP
-- id: '47239'
-  type: rapporteurId
 docnumber: TR 38.921:Rel-17/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Liehai
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: v0.4.0 was withdrawn, TR was directly provided to RAN in v1.0.0
+  content: v0.4.0 was withdrawn, TR was directly provided to RAN in v1.0.0
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

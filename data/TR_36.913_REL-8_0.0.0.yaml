@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.913:Rel-8/0.0.0
+  id: 3GPP TR 36.913:Rel-8/0.0.0
   type: 3GPP
-- id: '16800'
-  type: rapporteurId
 docnumber: TR 36.913:Rel-8/0.0.0
 date:
   type: confirmed
   value: '2009-03-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAKAMURA, Takehiro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: email distribution to RAN 2008-05-02
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

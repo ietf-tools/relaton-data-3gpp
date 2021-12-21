@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.900:Rel-5/0.4.1
+  id: 3GPP TR 33.900:Rel-5/0.4.1
   type: 3GPP
-- id: '5389'
-  type: rapporteurId
 docnumber: TR 33.900:Rel-5/0.4.1
+contributor:
+  person:
+    name:
+      completename:
+        content: BROOKSON, Charles
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: DCMS
+  role: author
 biblionote:
 - content: '2007-08-20: Propose to abandon at SP-37.'
   type: remark
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 3G

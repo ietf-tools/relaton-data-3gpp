@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.866:Rel-11/0.4.0
+  id: 3GPP TR 23.866:Rel-11/0.4.0
   type: 3GPP
-- id: '6821'
-  type: rapporteurId
 docnumber: TR 23.866:Rel-11/0.4.0
 date:
 - type: created
   value: '2012-06-06'
 - type: confirmed
   value: '2012-06-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: MADEMANN, Frank
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
   content: 'SP-56: timed out of Rel-11.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

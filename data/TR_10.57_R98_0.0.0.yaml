@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 10.57:R98/0.0.0
+  id: 3GPP TR 10.57:R98/0.0.0
   type: 3GPP
-- id: '11897'
-  type: rapporteurId
 docnumber: TR 10.57:R98/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: RODERMUND, Friedhelm
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: TSG#9:withdrawn cos contains misleading information/references
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: T2
   type: prime
-- name: "-"
-  type: other
 - name: SMG04
   type: former
 radiotechnology: 2G

@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.803:Rel-7/0.0.0
+  id: 3GPP TR 33.803:Rel-7/0.0.0
   type: 3GPP
-- id: '31441'
-  type: rapporteurId
 docnumber: TR 33.803:Rel-7/0.0.0
 date:
 - type: created
   value: '2006-07-19'
 - type: confirmed
   value: '2006-07-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: FOUQUET, Sylvie
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: S3-060385
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

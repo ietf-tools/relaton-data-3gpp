@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.007:Rel-11/0.2.0
+  id: 3GPP TR 30.007:Rel-11/0.2.0
   type: 3GPP
-- id: '45662'
-  type: rapporteurId
 docnumber: TR 30.007:Rel-11/0.2.0
 date:
   type: created
   value: '2011-10-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: TEJEDOR, Erika
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-113646
+  content: R4-113646
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

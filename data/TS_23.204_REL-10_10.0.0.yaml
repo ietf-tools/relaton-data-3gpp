@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.204:Rel-10/10.0.0
+  id: 3GPP TS 23.204:Rel-10/10.0.0
   type: 3GPP
-- id: '26771'
-  type: rapporteurId
 docnumber: TS 23.204:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-03-26'
 - type: confirmed
   value: '2008-05-06'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Wenlin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

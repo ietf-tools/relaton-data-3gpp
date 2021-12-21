@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.973:Rel-16/0.0.0
+  id: 3GPP TR 23.973:Rel-16/0.0.0
   type: 3GPP
-- id: '40863'
-  type: rapporteurId
 docnumber: TR 23.973:Rel-16/0.0.0
 date:
   type: confirmed
   value: '2019-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: JIANG, Yi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Derived from 23.732. ^ 2019-03-28: Bears wrong TR number on cover. Spec
+  content: 'Derived from 23.732. ^ 2019-03-28: Bears wrong TR number on cover. Spec
     Manager''s fault!'
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.331:Rel-16/16.1.0
+  id: 3GPP TS 38.331:Rel-16/16.1.0
   type: 3GPP
-- id: '18830'
-  type: rapporteurId
 docnumber: TS 38.331:Rel-16/16.1.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PALM, Hakan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: A UE or network vendor wishing to support Rel-16 must use version 16.2.0
+  content: A UE or network vendor wishing to support Rel-16 must use version 16.2.0
     or later of TS 38.331.
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

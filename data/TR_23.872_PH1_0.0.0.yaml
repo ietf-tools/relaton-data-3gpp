@@ -7,17 +7,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.872:Ph1/0.0.0
+  id: 3GPP TR 23.872:Ph1/0.0.0
   type: 3GPP
-- id: '53080'
-  type: rapporteurId
 docnumber: TR 23.872:Ph1/0.0.0
 date:
   type: confirmed
   value: '2008-06-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Jing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

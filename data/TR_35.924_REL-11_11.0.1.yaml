@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 35.924:Rel-11/11.0.1
+  id: 3GPP TR 35.924:Rel-11/11.0.1
   type: 3GPP
-- id: '32208'
-  type: rapporteurId
 docnumber: TR 35.924:Rel-11/11.0.1
 date:
 - type: created
   value: '2012-05-10'
 - type: confirmed
   value: '2012-01-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: QI, Yuan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: RITT
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: WG decision to make reference specific as an editorial update.
+  content: WG decision to make reference specific as an editorial update.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

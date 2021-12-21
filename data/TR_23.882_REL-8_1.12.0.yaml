@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.882:Rel-8/1.12.0
+  id: 3GPP TR 23.882:Rel-8/1.12.0
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TR 23.882:Rel-8/1.12.0
 date:
 - type: created
   value: '2007-10-25'
 - type: confirmed
   value: '2005-07-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: Timed out of Rel-7.
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

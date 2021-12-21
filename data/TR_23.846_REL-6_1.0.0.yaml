@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.846:Rel-6/1.0.0
+  id: 3GPP TR 23.846:Rel-6/1.0.0
   type: 3GPP
-- id: '7108'
-  type: rapporteurId
 docnumber: TR 23.846:Rel-6/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: JARVIS, Andre
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
 - content: 'SP-15: To be a Rel-6 service, not Rel-5.'
   type: remark
@@ -21,7 +30,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

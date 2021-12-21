@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 43.900:Rel-5/1.0.0
+  id: 3GPP TR 43.900:Rel-5/1.0.0
   type: 3GPP
-- id: '18872'
-  type: rapporteurId
 docnumber: TR 43.900:Rel-5/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GUARINO, Bernard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: '2003-01-14: WG Secretary reports that this doc is unlkely to be completed.  GP-06:
     stopped.'
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: G1

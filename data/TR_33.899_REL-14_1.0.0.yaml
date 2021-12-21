@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.899:Rel-14/1.0.0
+  id: 3GPP TR 33.899:Rel-14/1.0.0
   type: 3GPP
-- id: '28179'
-  type: rapporteurId
 docnumber: TR 33.899:Rel-14/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TORVINEN, Vesa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-170096
+  content: SP-170096
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

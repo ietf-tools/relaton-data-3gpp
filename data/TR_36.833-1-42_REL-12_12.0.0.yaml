@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.833-1-42:Rel-12/12.0.0
+  id: 3GPP TR 36.833-1-42:Rel-12/12.0.0
   type: 3GPP
-- id: '34261'
-  type: rapporteurId
 docnumber: TR 36.833-1-42:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-07-04'
 - type: confirmed
   value: '2014-04-03'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Yuexia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

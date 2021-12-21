@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.885:Rel-16/0.1.0
+  id: 3GPP TR 38.885:Rel-16/0.1.0
   type: 3GPP
-- id: '45858'
-  type: rapporteurId
 docnumber: TR 38.885:Rel-16/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WEBB, Matthew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: MCC clean-up based on endorsed R1-1811096
+  content: MCC clean-up based on endorsed R1-1811096
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

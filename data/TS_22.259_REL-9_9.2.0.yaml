@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.259:Rel-9/9.2.0
+  id: 3GPP TS 22.259:Rel-9/9.2.0
   type: 3GPP
-- id: '35011'
-  type: rapporteurId
 docnumber: TS 22.259:Rel-9/9.2.0
 date:
 - type: created
   value: '2009-12-19'
 - type: confirmed
   value: '2006-03-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: MUSTAPHA, Mona
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: 'SP-40: Release upgrade.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

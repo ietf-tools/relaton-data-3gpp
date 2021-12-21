@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.071:Rel-10/10.0.1
+  id: 3GPP TS 44.071:Rel-10/10.0.1
   type: 3GPP
-- id: '718'
-  type: rapporteurId
 docnumber: TS 44.071:Rel-10/10.0.1
 date:
 - type: created
   value: '2011-04-06'
 - type: confirmed
   value: '2005-02-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Anemone Technology
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -29,13 +38,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: "-"
-  type: other
 - name: " SMG02A"
   type: former
 radiotechnology: 2G

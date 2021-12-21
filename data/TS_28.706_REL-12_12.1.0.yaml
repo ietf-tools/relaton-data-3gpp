@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.706:Rel-12/12.1.0
+  id: 3GPP TS 28.706:Rel-12/12.1.0
   type: 3GPP
-- id: '7599'
-  type: rapporteurId
 docnumber: TS 28.706:Rel-12/12.1.0
 date:
   type: confirmed
   value: '2012-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: CORNILY, Jean Michel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Automatic numbering (of clauses, figures, tables, notes, examples etc…) should
     be disabled in the document'
   type: comment
@@ -30,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

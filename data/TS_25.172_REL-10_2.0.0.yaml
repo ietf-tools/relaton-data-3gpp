@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.172:Rel-10/2.0.0
+  id: 3GPP TS 25.172:Rel-10/2.0.0
   type: 3GPP
-- id: '38856'
-  type: rapporteurId
 docnumber: TS 25.172:Rel-10/2.0.0
 date:
 - type: created
   value: '2010-06-04'
 - type: confirmed
   value: '2010-06-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: MONNERAT, Michel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: THALES
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-100664
+  content: RP-100664
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

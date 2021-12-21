@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.220:Rel-9/0.3.0
+  id: 3GPP TS 22.220:Rel-9/0.3.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TS 22.220:Rel-9/0.3.0
 date:
 - type: created
   value: '2008-09-24'
 - type: confirmed
   value: '2009-01-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
   content: S1-082224
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

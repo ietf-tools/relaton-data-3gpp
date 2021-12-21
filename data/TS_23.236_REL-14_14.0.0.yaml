@@ -10,31 +10,36 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.236:Rel-14/14.0.0
+  id: 3GPP TS 23.236:Rel-14/14.0.0
   type: 3GPP
-- id: '18848'
-  type: rapporteurId
 docnumber: TS 23.236:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2001-10-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: TERRILL, Stephen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Created from approved Rel-14 CRs at SP-73
+  content: Created from approved Rel-14 CRs at SP-73
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: e

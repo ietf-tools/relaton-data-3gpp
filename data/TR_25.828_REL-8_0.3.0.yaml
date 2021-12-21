@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.828:Rel-8/0.3.0
+  id: 3GPP TR 25.828:Rel-8/0.3.0
   type: 3GPP
-- id: '34261'
-  type: rapporteurId
 docnumber: TR 25.828:Rel-8/0.3.0
 date:
   type: created
   value: '2008-09-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Yuexia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

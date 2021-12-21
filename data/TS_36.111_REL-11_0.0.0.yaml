@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 36.111:Rel-11/0.0.0
+  id: 3GPP TS 36.111:Rel-11/0.0.0
   type: 3GPP
-- id: '37234'
-  type: rapporteurId
 docnumber: TS 36.111:Rel-11/0.0.0
 date:
   type: confirmed
   value: '2013-07-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: BROOKS, Terri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TruePosition
+  role: author
 biblionote:
   content: R4-124988 & R4-124500 & al bear different instances of "version 0.0.0"
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

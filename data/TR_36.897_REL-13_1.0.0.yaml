@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.897:Rel-13/1.0.0
+  id: 3GPP TR 36.897:Rel-13/1.0.0
   type: 3GPP
-- id: '60053'
-  type: rapporteurId
 docnumber: TR 36.897:Rel-13/1.0.0
 date:
   type: created
   value: '2015-06-09'
+contributor:
+  person:
+    name:
+      completename:
+        content: ONGGOSANUSI, Eko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Research America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-153674
+  content: R1-153674
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

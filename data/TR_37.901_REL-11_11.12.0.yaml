@@ -9,25 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.901:Rel-11/11.12.0
+  id: 3GPP TR 37.901:Rel-11/11.12.0
   type: 3GPP
-- id: '86682'
-  type: rapporteurId
 docnumber: TR 37.901:Rel-11/11.12.0
 date:
 - type: created
   value: '2014-09-22'
 - type: confirmed
   value: '2011-09-26'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BORSATO, Ronald
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

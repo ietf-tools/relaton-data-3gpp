@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.713:Rel-13/1.3.0
+  id: 3GPP TR 23.713:Rel-13/1.3.0
   type: 3GPP
-- id: '41602'
-  type: rapporteurId
 docnumber: TR 23.713:Rel-13/1.3.0
 date:
 - type: created
   value: '2015-05-13'
 - type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZISIMOPOULOS, Haris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: draft
+  content: draft
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

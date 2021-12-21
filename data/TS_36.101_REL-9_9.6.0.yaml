@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.101:Rel-9/9.6.0
+  id: 3GPP TS 36.101:Rel-9/9.6.0
   type: 3GPP
-- id: '46654'
-  type: rapporteurId
 docnumber: TS 36.101:Rel-9/9.6.0
 date:
 - type: created
   value: '2011-01-06'
 - type: confirmed
   value: '2007-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIM, Suhwan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

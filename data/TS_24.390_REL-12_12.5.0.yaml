@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.390:Rel-12/12.5.0
+  id: 3GPP TS 24.390:Rel-12/12.5.0
   type: 3GPP
-- id: '36348'
-  type: rapporteurId
 docnumber: TS 24.390:Rel-12/12.5.0
 date:
   type: confirmed
   value: '2012-09-21'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LAUSTER, Reinhard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

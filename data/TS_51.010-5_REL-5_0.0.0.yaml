@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 51.010-5:Rel-5/0.0.0
+  id: 3GPP TS 51.010-5:Rel-5/0.0.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 51.010-5:Rel-5/0.0.0
 date:
   type: confirmed
   value: '2005-01-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
 - content: 'GP-23: Decided not to back create v5.0.0 from Rel-6.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5

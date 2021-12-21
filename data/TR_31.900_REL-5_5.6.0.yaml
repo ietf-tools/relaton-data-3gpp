@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 31.900:Rel-5/5.6.0
+  id: 3GPP TR 31.900:Rel-5/5.6.0
   type: 3GPP
-- id: '15584'
-  type: rapporteurId
 docnumber: TR 31.900:Rel-5/5.6.0
 date:
 - type: created
   value: '2006-03-21'
 - type: confirmed
   value: '2004-09-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: KALINER, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
   content: 'TP-26: withdrawn, will continue Rel-6. CP-30: Expect CT6 to unwithdraw
     older Releases at CP-31 (CP-050683). CP-31: This Rel unwithdrawn and becomes pointer
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C6

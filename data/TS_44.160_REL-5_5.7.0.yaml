@@ -11,20 +11,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.160:Rel-5/5.7.0
+  id: 3GPP TS 44.160:Rel-5/5.7.0
   type: 3GPP
-- id: '45073'
-  type: rapporteurId
 docnumber: TS 44.160:Rel-5/5.7.0
 date:
   type: confirmed
   value: '2011-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: SEBIRE, Guillaume
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: MediaTek Inc.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: RP

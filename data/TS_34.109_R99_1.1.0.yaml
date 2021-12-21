@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.109:R99/1.1.0
+  id: 3GPP TS 34.109:R99/1.1.0
   type: 3GPP
-- id: '59618'
-  type: rapporteurId
 docnumber: TS 34.109:R99/1.1.0
 date:
   type: confirmed
   value: '2002-01-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: EKLOF, Cecilia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 language: en
 script: Latn
 abstract:
@@ -26,7 +35,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R2

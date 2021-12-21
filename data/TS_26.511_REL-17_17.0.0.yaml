@@ -9,15 +9,22 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.511:Rel-17/17.0.0
+  id: 3GPP TS 26.511:Rel-17/17.0.0
   type: 3GPP
-- id: '41772'
-  type: rapporteurId
 docnumber: TS 26.511:Rel-17/17.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TENIOU, Gilles
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'approved CR0006r4 was actually a CR to 26.118. It is therefore not implemented
+  content: 'approved CR0006r4 was actually a CR to 26.118. It is therefore not implemented
     in this version. ^ 2021-04-13: approved CR0006r4 was actually a CR to 26.118.
     It is therefore not implemented in this version.'
   type: comment
@@ -26,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S4

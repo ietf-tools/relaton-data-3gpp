@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.145-2:Rel-16/16.4.0
+  id: 3GPP TS 37.145-2:Rel-16/16.4.0
   type: 3GPP
-- id: '47339'
-  type: rapporteurId
 docnumber: TS 37.145-2:Rel-16/16.4.0
 date:
   type: confirmed
   value: '2016-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: KYBETT, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: One or more CRs not implemented - not based on latest spec version
+  content: One or more CRs not implemented - not based on latest spec version
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

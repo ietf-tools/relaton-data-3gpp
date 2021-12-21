@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.849:Rel-13/1.1.0
+  id: 3GPP TR 33.849:Rel-13/1.1.0
   type: 3GPP
-- id: '57352'
-  type: rapporteurId
 docnumber: TR 33.849:Rel-13/1.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GAO, Feng
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-160336
+  content: S3-160336
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

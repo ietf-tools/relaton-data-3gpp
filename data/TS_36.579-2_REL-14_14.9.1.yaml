@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.579-2:Rel-14/14.9.1
+  id: 3GPP TS 36.579-2:Rel-14/14.9.1
   type: 3GPP
-- id: '75979'
-  type: rapporteurId
 docnumber: TS 36.579-2:Rel-14/14.9.1
 date:
   type: confirmed
   value: '2018-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: KAHN, Jason
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NIST
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: re-implementation of lost void-ed specific message contents of R5-204536,
+  content: re-implementation of lost void-ed specific message contents of R5-204536,
     R5-204537, R5-204538, and R5-204539, and of lost changes of R5-204540-1
   type: comment
 language: en
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

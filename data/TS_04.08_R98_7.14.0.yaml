@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 04.08:R98/7.14.0
+  id: 3GPP TS 04.08:R98/7.14.0
   type: 3GPP
-- id: '14160'
-  type: rapporteurId
 docnumber: TS 04.08:R98/7.14.0
 date:
   type: confirmed
   value: '2010-08-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: BURBIDGE, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1

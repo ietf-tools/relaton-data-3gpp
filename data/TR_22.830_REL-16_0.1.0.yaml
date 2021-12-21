@@ -6,17 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.830:Rel-16/0.1.0
+  id: 3GPP TR 22.830:Rel-16/0.1.0
   type: 3GPP
-- id: '68109'
-  type: rapporteurId
 docnumber: TR 22.830:Rel-16/0.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: COVELL, Betsy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia UK
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

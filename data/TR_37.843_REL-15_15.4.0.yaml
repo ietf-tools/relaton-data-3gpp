@@ -11,20 +11,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.843:Rel-15/15.4.0
+  id: 3GPP TR 37.843:Rel-15/15.4.0
   type: 3GPP
-- id: '47339'
-  type: rapporteurId
 docnumber: TR 37.843:Rel-15/15.4.0
 date:
   type: confirmed
   value: '2019-06-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KYBETT, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

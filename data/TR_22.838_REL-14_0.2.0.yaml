@@ -6,19 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.838:Rel-14/0.2.0
+  id: 3GPP TR 22.838:Rel-14/0.2.0
   type: 3GPP
-- id: '45882'
-  type: rapporteurId
 docnumber: TR 22.838:Rel-14/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Zhuoyun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-152347
+  content: S1-152347
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

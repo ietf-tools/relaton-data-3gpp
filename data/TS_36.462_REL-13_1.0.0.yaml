@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.462:Rel-13/1.0.0
+  id: 3GPP TS 36.462:Rel-13/1.0.0
   type: 3GPP
-- id: '56689'
-  type: rapporteurId
 docnumber: TS 36.462:Rel-13/1.0.0
 date:
   type: created
   value: '2016-01-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KIMBA DIT ADAMOU, Boubacar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Zip file in RP-151865 indicates v2.0.0 but enclosed Word file indicates
+  content: Zip file in RP-151865 indicates v2.0.0 but enclosed Word file indicates
     v1.0.0 (though its history box shows latest version as 0.3.0 !!)
   type: comment
 language: en
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R3

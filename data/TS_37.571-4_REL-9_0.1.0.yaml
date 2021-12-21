@@ -7,25 +7,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 37.571-4:Rel-9/0.1.0
+  id: 3GPP TS 37.571-4:Rel-9/0.1.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 37.571-4:Rel-9/0.1.0
 date:
   type: confirmed
   value: '2011-12-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R5-113037
+  content: R5-113037
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.978:R99/2.0.0
+  id: 3GPP TR 21.978:R99/2.0.0
   type: 3GPP
-- id: '7014'
-  type: rapporteurId
 docnumber: TR 21.978:R99/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SMITH, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Telefonica Germany GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N2
   type: former
 radiotechnology: 2G

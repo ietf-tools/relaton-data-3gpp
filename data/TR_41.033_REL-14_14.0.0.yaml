@@ -9,31 +9,36 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 41.033:Rel-14/14.0.0
+  id: 3GPP TR 41.033:Rel-14/14.0.0
   type: 3GPP
-- id: '23753'
-  type: rapporteurId
 docnumber: TR 41.033:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2001-11-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEADBEATER, Alex
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BT Group Plc
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Upgraded by accident. Spec is withdrawn from Rel-13 onwards.
+  content: Upgraded by accident. Spec is withdrawn from Rel-13 onwards.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: SMG10
   type: former
 radiotechnology: 2G

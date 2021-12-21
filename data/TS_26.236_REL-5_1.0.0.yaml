@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.236:Rel-5/1.0.0
+  id: 3GPP TS 26.236:Rel-5/1.0.0
   type: 3GPP
-- id: '38881'
-  type: rapporteurId
 docnumber: TS 26.236:Rel-5/1.0.0
 date:
   type: confirmed
   value: '2005-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: JUNG, Kyunghun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 biblionote:
   content: SP-010694
   type: comment
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S4
+  name: S4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '5'

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.942:Rel-11/11.0.0
+  id: 3GPP TR 36.942:Rel-11/11.0.0
   type: 3GPP
-- id: '24261'
-  type: rapporteurId
 docnumber: TR 36.942:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-24'
 - type: confirmed
   value: '2009-06-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: LAMPRECHT, Frank
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BIOTRONIK SE & Co. KG
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.773:Rel-14/0.1.1
+  id: 3GPP TR 23.773:Rel-14/0.1.1
   type: 3GPP
-- id: '46717'
-  type: rapporteurId
 docnumber: TR 23.773:Rel-14/0.1.1
 date:
   type: confirmed
   value: '2018-06-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: WON, Sung Hwan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Editorial corrections added
+  content: Editorial corrections added
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.722:Rel-15/0.0.1
+  id: 3GPP TR 23.722:Rel-15/0.0.1
   type: 3GPP
-- id: '61285'
-  type: rapporteurId
 docnumber: TR 23.722:Rel-15/0.0.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: PATTAN, Basavaraj (Basu)
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: ".0.0 however TR template was already uploaded as v0.0.0 hence uploaded
+  content: ".0.0 however TR template was already uploaded as v0.0.0 hence uploaded
     as v0.0.1 ^ 2017-04-11: During SA6#16, S6-170398 has been approved as skeleton
     for TR 23.722 V0.0.0 however the TR skeleton had already been uploaded as v0.0.0
     hence uploaded as v0.0.1"
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S6

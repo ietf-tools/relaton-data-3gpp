@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.809:Rel-7/0.2.9
+  id: 3GPP TR 23.809:Rel-7/0.2.9
   type: 3GPP
-- id: '7652'
-  type: rapporteurId
 docnumber: TR 23.809:Rel-7/0.2.9
+contributor:
+  person:
+    name:
+      completename:
+        content: PASANEN, Antti
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

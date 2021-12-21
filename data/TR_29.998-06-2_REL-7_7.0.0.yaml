@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.998-06-2:Rel-7/7.0.0
+  id: 3GPP TR 29.998-06-2:Rel-7/7.0.0
   type: 3GPP
-- id: '37557'
-  type: rapporteurId
 docnumber: TR 29.998-06-2:Rel-7/7.0.0
 date:
 - type: created
   value: '2007-03-22'
 - type: confirmed
   value: '2008-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: NADOUR, Tarek
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: " CP-42: No upgrade to Rel-8 (see CP-080896)."
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: CP

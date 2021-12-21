@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.836:Rel-7/0.5.1
+  id: 3GPP TR 23.836:Rel-7/0.5.1
   type: 3GPP
-- id: '32039'
-  type: rapporteurId
 docnumber: TR 23.836:Rel-7/0.5.1
 date:
 - type: created
   value: '2005-12-12'
 - type: confirmed
   value: '2005-05-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Osok
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 biblionote:
   content: 'SP-31: S2 indicates it will not place  this TR under change control; the
     normative work will be captured in the I-WLAN and PCC specifications. Thus anticipate
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

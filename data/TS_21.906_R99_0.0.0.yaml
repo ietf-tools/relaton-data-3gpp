@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 21.906:R99/0.0.0
+  id: 3GPP TS 21.906:R99/0.0.0
   type: 3GPP
-- id: '12770'
-  type: rapporteurId
 docnumber: TS 21.906:R99/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CLAYTON, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: EMCOM Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: "-"

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.216:Rel-7/2.0.0
+  id: 3GPP TS 24.216:Rel-7/2.0.0
   type: 3GPP
-- id: '25577'
-  type: rapporteurId
 docnumber: TS 24.216:Rel-7/2.0.0
 date:
 - type: created
   value: '2007-03-04'
 - type: confirmed
   value: '2007-09-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: LU, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
   content: 'Rapporteur''s draft: this pre-dates v1.0.0 and should be ignored'
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

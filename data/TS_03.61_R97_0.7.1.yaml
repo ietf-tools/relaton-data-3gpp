@@ -10,23 +10,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.61:R97/0.7.1
+  id: 3GPP TS 03.61:R97/0.7.1
   type: 3GPP
-- id: '6251'
-  type: rapporteurId
 docnumber: TS 03.61:R97/0.7.1
+contributor:
+  person:
+    name:
+      completename:
+        content: NAPER, Hans Petter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: "-"
+  name: "-"
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

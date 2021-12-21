@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.123-2:R99/1.0.0
+  id: 3GPP TS 34.123-2:R99/1.0.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 34.123-2:R99/1.0.0
 date:
   type: confirmed
   value: '2010-06-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: 'TSG#8: aprvl target postponed to end-00;TP-000137 TSG#9:2.0.0->3.1.0 (no
     3.0.0 to keep in step with part 1).'
@@ -35,13 +44,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

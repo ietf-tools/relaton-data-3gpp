@@ -8,14 +8,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.521:Rel-8/0.0.7
+  id: 3GPP TS 23.521:Rel-8/0.0.7
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TS 23.521:Rel-8/0.0.7
 date:
   type: confirmed
   value: '2007-12-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: ETSI TS 182 021
   type: comment
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

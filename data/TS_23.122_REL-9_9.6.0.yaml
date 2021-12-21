@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.122:Rel-9/9.6.0
+  id: 3GPP TS 23.122:Rel-9/9.6.0
   type: 3GPP
-- id: '45210'
-  type: rapporteurId
 docnumber: TS 23.122:Rel-9/9.6.0
 date:
 - type: created
   value: '2011-06-15'
 - type: confirmed
   value: '2005-06-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: HERRERO-VERON, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 abstract:
@@ -32,13 +41,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: N1
   type: former
 radiotechnology: 2G

@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.555:Rel-17/1.0.1
+  id: 3GPP TS 28.555:Rel-17/1.0.1
   type: 3GPP
-- id: '78240'
-  type: rapporteurId
 docnumber: TS 28.555:Rel-17/1.0.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: GUO, Shasha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.826:Rel-7/1.0.1
+  id: 3GPP TR 25.826:Rel-7/1.0.1
   type: 3GPP
-- id: '45840'
-  type: rapporteurId
 docnumber: TR 25.826:Rel-7/1.0.1
 date:
   type: confirmed
   value: '2006-10-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: ANDERSON, Nicholas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

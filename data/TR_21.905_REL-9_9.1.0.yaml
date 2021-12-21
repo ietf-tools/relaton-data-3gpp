@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.905:Rel-9/9.1.0
+  id: 3GPP TR 21.905:Rel-9/9.1.0
   type: 3GPP
-- id: '53384'
-  type: rapporteurId
 docnumber: TR 21.905:Rel-9/9.1.0
 date:
 - type: created
   value: '2009-03-24'
 - type: confirmed
   value: '2004-06-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: FIRMIN, Frederic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 2G

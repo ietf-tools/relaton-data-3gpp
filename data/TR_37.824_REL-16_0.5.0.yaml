@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.824:Rel-16/0.5.0
+  id: 3GPP TR 37.824:Rel-16/0.5.0
   type: 3GPP
-- id: '82407'
-  type: rapporteurId
 docnumber: TR 37.824:Rel-16/0.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SUBRAMANI, Siva
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Futurewei Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'RP-200298 was withdrawn at RAN #87e'
+  content: 'RP-200298 was withdrawn at RAN #87e'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

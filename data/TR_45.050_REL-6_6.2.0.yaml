@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 45.050:Rel-6/6.2.0
+  id: 3GPP TR 45.050:Rel-6/6.2.0
   type: 3GPP
-- id: '27605'
-  type: rapporteurId
 docnumber: TR 45.050:Rel-6/6.2.0
 date:
 - type: created
   value: '2005-02-11'
 - type: confirmed
   value: '2011-04-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

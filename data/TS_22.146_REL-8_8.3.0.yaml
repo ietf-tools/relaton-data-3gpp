@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.146:Rel-8/8.3.0
+  id: 3GPP TS 22.146:Rel-8/8.3.0
   type: 3GPP
-- id: '43227'
-  type: rapporteurId
 docnumber: TS 22.146:Rel-8/8.3.0
 date:
 - type: created
   value: '2007-06-22'
 - type: confirmed
   value: '2011-04-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: MIETTINEN, Natalia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

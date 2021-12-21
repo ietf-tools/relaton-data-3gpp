@@ -7,26 +7,33 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 11.11dcs:Ph1-DCS/3.3.2
+  id: 3GPP TS 11.11dcs:Ph1-DCS/3.3.2
   type: 3GPP
-- id: '16245'
-  type: rapporteurId
 docnumber: TS 11.11dcs:Ph1-DCS/3.3.2
 date:
   type: confirmed
   value: '2003-09-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: GUTHERY, Scott B.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: WorldCell
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: "-"
-  type: other
 - name: SMG09
   type: former
 radiotechnology: 2G

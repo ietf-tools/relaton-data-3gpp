@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.990:R99/0.0.2
+  id: 3GPP TR 25.990:R99/0.0.2
   type: 3GPP
-- id: '16974'
-  type: rapporteurId
 docnumber: TR 25.990:R99/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: OKRAH, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Inc.
+  role: author
 biblionote:
   content: Will be withdrawn when 21.905 is updated with all the contents of this
     TR. RP-15; the update was done at RP-13, so this can now be withdrawn.
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: R4
   type: former
 radiotechnology: 3G

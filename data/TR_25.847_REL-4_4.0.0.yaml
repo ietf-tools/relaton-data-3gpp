@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.847:Rel-4/4.0.0
+  id: 3GPP TR 25.847:Rel-4/4.0.0
   type: 3GPP
-- id: '20457'
-  type: rapporteurId
 docnumber: TR 25.847:Rel-4/4.0.0
 date:
   type: confirmed
   value: '2012-05-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: BECKMANN, Mark
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: 'RP-15: Not to be promoted to Rel-5.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

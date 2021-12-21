@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 21.111:Rel-11/11.0.0
+  id: 3GPP TS 21.111:Rel-11/11.0.0
   type: 3GPP
-- id: '12666'
-  type: rapporteurId
 docnumber: TS 21.111:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-28'
 - type: confirmed
   value: '2005-06-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: KRUSE, Heiko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Morpho Cards GmbH
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -35,13 +44,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: "-"
-  type: other
 - name: T3
   type: former
 radiotechnology: 3G

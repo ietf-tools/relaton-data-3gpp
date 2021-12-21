@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.300:Rel-8/0.0.4
+  id: 3GPP TS 36.300:Rel-8/0.0.4
   type: 3GPP
-- id: '69943'
-  type: rapporteurId
 docnumber: TS 36.300:Rel-8/0.0.4
 date:
   type: confirmed
   value: '2008-10-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: HENTTONEN, Tero
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
   content: RP-060603
   type: comment
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

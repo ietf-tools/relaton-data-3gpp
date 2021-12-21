@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.938:Rel-12/1.4.0
+  id: 3GPP TR 26.938:Rel-12/1.4.0
   type: 3GPP
-- id: '60397'
-  type: rapporteurId
 docnumber: TR 26.938:Rel-12/1.4.0
 date:
 - type: created
   value: '2013-10-02'
 - type: confirmed
   value: '2014-09-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: STOCKHAMMER, Thomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-131142. Errors in references, unwonted coloured text
+  content: S4-131142. Errors in references, unwonted coloured text
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

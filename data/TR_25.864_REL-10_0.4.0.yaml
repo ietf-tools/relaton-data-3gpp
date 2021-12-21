@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.864:Rel-10/0.4.0
+  id: 3GPP TR 25.864:Rel-10/0.4.0
   type: 3GPP
-- id: '41136'
-  type: rapporteurId
 docnumber: TR 25.864:Rel-10/0.4.0
 date:
   type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: BHARADWAJ, Arjun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Flarion Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-112908
+  content: R4-112908
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

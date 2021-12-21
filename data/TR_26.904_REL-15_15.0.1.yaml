@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.904:Rel-15/15.0.1
+  id: 3GPP TR 26.904:Rel-15/15.0.1
   type: 3GPP
-- id: '37548'
-  type: rapporteurId
 docnumber: TR 26.904:Rel-15/15.0.1
 date:
   type: confirmed
   value: '2011-04-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: BOUAZIZI, Imed
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Telecoms America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'TS->TR on the cover page heading ^ 2018-07-06: TS->TR on the cover page
+  content: 'TS->TR on the cover page heading ^ 2018-07-06: TS->TR on the cover page
     heading'
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

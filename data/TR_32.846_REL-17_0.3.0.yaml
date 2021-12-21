@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.846:Rel-17/0.3.0
+  id: 3GPP TR 32.846:Rel-17/0.3.0
   type: 3GPP
-- id: '83568'
-  type: rapporteurId
 docnumber: TR 32.846:Rel-17/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SHU, Min
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-211383
+  content: S5-211383
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

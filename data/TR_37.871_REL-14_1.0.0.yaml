@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.871:Rel-14/1.0.0
+  id: 3GPP TR 37.871:Rel-14/1.0.0
   type: 3GPP
-- id: '24612'
-  type: rapporteurId
 docnumber: TR 37.871:Rel-14/1.0.0
 date:
   type: confirmed
   value: '2017-01-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: NG, Man Hung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-160778
+  content: RP-160778
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

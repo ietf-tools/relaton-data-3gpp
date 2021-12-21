@@ -10,23 +10,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.817:Rel-6/6.1.0
+  id: 3GPP TR 33.817:Rel-6/6.1.0
   type: 3GPP
-- id: '26569'
-  type: rapporteurId
 docnumber: TR 33.817:Rel-6/6.1.0
 date:
   type: confirmed
   value: '2003-12-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: YAQUB, Raziq
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S3
+  name: S3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

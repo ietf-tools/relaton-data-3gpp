@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.838:Rel-11/11.0.0
+  id: 3GPP TR 33.838:Rel-11/11.0.0
   type: 3GPP
-- id: '31627'
-  type: rapporteurId
 docnumber: TR 33.838:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-03-16'
 - type: confirmed
   value: '2012-03-16'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: PRASAD, Anand
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

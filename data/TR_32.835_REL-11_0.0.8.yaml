@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.835:Rel-11/0.0.8
+  id: 3GPP TR 32.835:Rel-11/0.0.8
   type: 3GPP
-- id: '18829'
-  type: rapporteurId
 docnumber: TR 32.835:Rel-11/0.0.8
 date:
 - type: created
   value: '2012-12-02'
 - type: confirmed
   value: '2014-06-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUBINETTE, Ulf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: SP-64 timed out of Rel-11.
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

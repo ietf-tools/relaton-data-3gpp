@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.115:Rel-10/10.1.1
+  id: 3GPP TS 31.115:Rel-10/10.1.1
   type: 3GPP
-- id: '42268'
-  type: rapporteurId
 docnumber: TS 31.115:Rel-10/10.1.1
 date:
 - type: created
   value: '2013-08-05'
 - type: confirmed
   value: '2012-03-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: PHAN, Ly Thanh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Gemalto N.V.
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -36,13 +45,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C6
+  name: C6
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 common-ims-spec: true
 release:

@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.866:Rel-9/0.1.0
+  id: 3GPP TR 25.866:Rel-9/0.1.0
   type: 3GPP
-- id: '35026'
-  type: rapporteurId
 docnumber: TR 25.866:Rel-9/0.1.0
 date:
   type: confirmed
   value: '2010-01-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Rong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TD Tech Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.819:Rel-7/1.0.0
+  id: 3GPP TR 25.819:Rel-7/1.0.0
   type: 3GPP
-- id: '32650'
-  type: rapporteurId
 docnumber: TR 25.819:Rel-7/1.0.0
 date:
   type: created
   value: '2005-12-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: RICHARDS, Derek
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
 - content: '2008-03: WG proposes to abandon this TR at RP-40.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

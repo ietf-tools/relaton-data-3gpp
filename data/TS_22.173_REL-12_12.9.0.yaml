@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.173:Rel-12/12.9.0
+  id: 3GPP TS 22.173:Rel-12/12.9.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TS 22.173:Rel-12/12.9.0
 date:
   type: confirmed
   value: '2006-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Automatic numbering (of clauses, figures, tables, notes, examples etc…) should
     be disabled in the document;Annexes should be correctly styled as Heading 8(TS)
     or Heading 9(TR). ...'
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

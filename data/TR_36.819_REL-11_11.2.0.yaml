@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.819:Rel-11/11.2.0
+  id: 3GPP TR 36.819:Rel-11/11.2.0
   type: 3GPP
-- id: '37857'
-  type: rapporteurId
 docnumber: TR 36.819:Rel-11/11.2.0
 date:
 - type: created
   value: '2013-09-20'
 - type: confirmed
   value: '2011-09-27'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CLERCKX, Bruno
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

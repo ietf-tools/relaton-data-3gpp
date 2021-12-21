@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 07.01:Ph2/4.8.0
+  id: 3GPP TS 07.01:Ph2/4.8.0
   type: 3GPP
-- id: '41878'
-  type: rapporteurId
 docnumber: TS 07.01:Ph2/4.8.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BIONDIC, Nevenka
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
-- name: "-"
-  type: other
 - name: N3 / SMG03D
   type: former
 radiotechnology: 2G

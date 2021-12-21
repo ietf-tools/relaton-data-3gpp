@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.910:Rel-16/16.0.0
+  id: 3GPP TR 37.910:Rel-16/16.0.0
   type: 3GPP
-- id: '64269'
-  type: rapporteurId
 docnumber: TR 37.910:Rel-16/16.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: WU, Yong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

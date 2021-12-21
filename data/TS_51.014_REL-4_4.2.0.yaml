@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 51.014:Rel-4/4.2.0
+  id: 3GPP TS 51.014:Rel-4/4.2.0
   type: 3GPP
-- id: '12666'
-  type: rapporteurId
 docnumber: TS 51.014:Rel-4/4.2.0
 date:
   type: confirmed
   value: '2004-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: KRUSE, Heiko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Morpho Cards GmbH
+  role: author
 biblionote:
   content: 'RP-11: TSG-T agreed not to have a rel-4 version. The 3G equivalent (31.111)
     will be upgraded to include a GSM-only annex.  TP-18: This spec resurrected, based
@@ -29,13 +38,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: "-"
-  type: other
 - name: SMG09
   type: former
 radiotechnology: 2G

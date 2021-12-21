@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.022:Rel-5/5.0.0
+  id: 3GPP TS 22.022:Rel-5/5.0.0
   type: 3GPP
-- id: '5612'
-  type: rapporteurId
 docnumber: TS 22.022:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2008-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LOTTIN, Philippe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: identical to 4.1.0.
   type: comment
@@ -33,7 +42,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1

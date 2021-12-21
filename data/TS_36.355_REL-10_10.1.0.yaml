@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.355:Rel-10/10.1.0
+  id: 3GPP TS 36.355:Rel-10/10.1.0
   type: 3GPP
-- id: '29801'
-  type: rapporteurId
 docnumber: TS 36.355:Rel-10/10.1.0
 date:
 - type: created
   value: '2011-04-06'
 - type: confirmed
   value: '2010-05-03'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KITAZOE, Masato
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: QUALCOMM JAPAN LLC.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

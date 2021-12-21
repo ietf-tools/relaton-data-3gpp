@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.748:Rel-17/0.1.0
+  id: 3GPP TR 23.748:Rel-17/0.1.0
   type: 3GPP
-- id: '79738'
-  type: rapporteurId
 docnumber: TR 23.748:Rel-17/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: NI, Hui
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs at SA WG2#135
+  content: Updated with approved pCRs at SA WG2#135
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.00U:UMTS/1.3.0
+  id: 3GPP TS 22.00U:UMTS/1.3.0
   type: 3GPP
-- id: '13354'
-  type: rapporteurId
 docnumber: TS 22.00U:UMTS/1.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: VERRIER, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 release:

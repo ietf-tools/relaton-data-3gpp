@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.808:Rel-17/0.7.0
+  id: 3GPP TR 28.808:Rel-17/0.7.0
   type: 3GPP
-- id: '83300'
-  type: rapporteurId
 docnumber: TR 28.808:Rel-17/0.7.0
+contributor:
+  person:
+    name:
+      completename:
+        content: DRIJVER, Floris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TNO
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-205273
+  content: S5-205273
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

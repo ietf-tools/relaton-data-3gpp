@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.521-3:Rel-8/8.1.0
+  id: 3GPP TS 36.521-3:Rel-8/8.1.0
   type: 3GPP
-- id: '46658'
-  type: rapporteurId
 docnumber: TS 36.521-3:Rel-8/8.1.0
 date:
 - type: created
   value: '2009-10-09'
 - type: confirmed
   value: '2009-02-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: VORA, Mayur
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
   content: 'RP-43: Approval target RP-44.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

@@ -9,10 +9,8 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.76:R99/1.0.0
+  id: 3GPP TR 10.76:R99/1.0.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TR 10.76:R99/1.0.0
 biblionote:
 - content: '2002-01-23: Usai indicates "stopped".'
@@ -24,7 +22,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

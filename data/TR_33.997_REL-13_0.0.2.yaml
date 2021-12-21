@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.997:Rel-13/0.0.2
+  id: 3GPP TR 33.997:Rel-13/0.0.2
   type: 3GPP
-- id: '40957'
-  type: rapporteurId
 docnumber: TR 33.997:Rel-13/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: PIGGIN, Paul
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: General Dynamics UK Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: TR Number added
+  content: TR Number added
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

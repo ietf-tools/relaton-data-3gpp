@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.923:R99/1.2.0
+  id: 3GPP TR 25.923:R99/1.2.0
   type: 3GPP
-- id: '8291'
-  type: rapporteurId
 docnumber: TR 25.923:R99/1.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: STEER, David G
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: R2
   type: former
 radiotechnology: 3G

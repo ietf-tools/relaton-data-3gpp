@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.851:Rel-12/0.14.0
+  id: 3GPP TR 36.851:Rel-12/0.14.0
   type: 3GPP
-- id: '56794'
-  type: rapporteurId
 docnumber: TR 36.851:Rel-12/0.14.0
 date:
   type: confirmed
   value: '2013-03-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: KHAN, Asif Ali
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: '2015-01: This TR proposed to be superseded by 36.852-12 to harmonize TR
     numbering.'
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

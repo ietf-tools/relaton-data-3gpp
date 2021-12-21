@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.803:Rel-12/12.1.0
+  id: 3GPP TR 22.803:Rel-12/12.1.0
   type: 3GPP
-- id: '46085'
-  type: rapporteurId
 docnumber: TR 22.803:Rel-12/12.1.0
 date:
 - type: created
   value: '2013-03-15'
 - type: confirmed
   value: '2012-12-18'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HOVEY, Rich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Inc
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

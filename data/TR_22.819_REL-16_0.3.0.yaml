@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.819:Rel-16/0.3.0
+  id: 3GPP TR 22.819:Rel-16/0.3.0
   type: 3GPP
-- id: '65247'
-  type: rapporteurId
 docnumber: TR 22.819:Rel-16/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KOO, Hyounhee
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: SyncTechno Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Tdoc S1-172069 withdrawn at SA1#78, v0.3.0 not offered to this meeting.
+  content: Tdoc S1-172069 withdrawn at SA1#78, v0.3.0 not offered to this meeting.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

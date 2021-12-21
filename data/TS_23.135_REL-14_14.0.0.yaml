@@ -9,31 +9,36 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.135:Rel-14/14.0.0
+  id: 3GPP TS 23.135:Rel-14/14.0.0
   type: 3GPP
-- id: '38243'
-  type: rapporteurId
 docnumber: TS 23.135:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2009-12-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: MATSUURA, Takaaki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update to Rel-14 version (MCC)
+  content: Update to Rel-14 version (MCC)
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4 (ex NSS)
   type: former
 radiotechnology: 3G

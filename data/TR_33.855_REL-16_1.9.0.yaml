@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.855:Rel-16/1.9.0
+  id: 3GPP TR 33.855:Rel-16/1.9.0
   type: 3GPP
-- id: '49662'
-  type: rapporteurId
 docnumber: TR 33.855:Rel-16/1.9.0
+contributor:
+  person:
+    name:
+      completename:
+        content: JOST, Christine
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-194516
+  content: S3-194516
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

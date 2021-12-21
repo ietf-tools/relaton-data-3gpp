@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.826:Rel-17/0.2.0
+  id: 3GPP TR 37.826:Rel-17/0.2.0
   type: 3GPP
-- id: '82696'
-  type: rapporteurId
 docnumber: TR 37.826:Rel-17/0.2.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BASAIER, JIALADE
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

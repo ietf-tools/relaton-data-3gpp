@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.803:Rel-6/1.0.0
+  id: 3GPP TR 25.803:Rel-6/1.0.0
   type: 3GPP
-- id: '30120'
-  type: rapporteurId
 docnumber: TR 25.803:Rel-6/1.0.0
 date:
   type: confirmed
   value: '2005-09-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: MALLADI, Durga
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
 - content: '2003-06-25: anticipate approval at RP-22.'
   type: remark
@@ -24,7 +33,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

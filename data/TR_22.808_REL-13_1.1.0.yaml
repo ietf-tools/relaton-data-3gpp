@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.808:Rel-13/1.1.0
+  id: 3GPP TR 22.808:Rel-13/1.1.0
   type: 3GPP
-- id: '46745'
-  type: rapporteurId
 docnumber: TR 22.808:Rel-13/1.1.0
 date:
 - type: created
   value: '2014-09-02'
 - type: confirmed
   value: '2014-09-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: LU, Lu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-143402
+  content: S1-143402
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

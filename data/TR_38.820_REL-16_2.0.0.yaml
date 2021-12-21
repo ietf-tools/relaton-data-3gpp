@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.820:Rel-16/2.0.0
+  id: 3GPP TR 38.820:Rel-16/2.0.0
   type: 3GPP
-- id: '65553'
-  type: rapporteurId
 docnumber: TR 38.820:Rel-16/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SZYDELKO, Michal
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'RP-200291 was withdrawn as TR 38.820 was already provided for information
+  content: 'RP-200291 was withdrawn as TR 38.820 was already provided for information
     to RAN #86 in RP-192655'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

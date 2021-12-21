@@ -6,22 +6,18 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.858:Rel-11/0.6.0
+  id: 3GPP TR 23.858:Rel-11/0.6.0
   type: 3GPP
-- id: '39727'
-  type: rapporteurId
 docnumber: TR 23.858:Rel-11/0.6.0
 biblionote:
-- content: "."
-  type: remark
-- content: misleadikng history box entry
+  content: misleadikng history box entry
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 11.13:R99/8.2.1
+  id: 3GPP TS 11.13:R99/8.2.1
   type: 3GPP
-- id: '39428'
-  type: rapporteurId
 docnumber: TS 11.13:R99/8.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: MICHEL, Alexis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: OBERTHUR TECHNOLOGIES
+  role: author
 biblionote:
   content: 'No work on R99!  TP-14: Resurrected as identical copy of R98 v7.4.1.'
   type: remark
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C6
+  name: C6
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '8'

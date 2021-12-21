@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.133:Rel-12/12.4.0
+  id: 3GPP TS 36.133:Rel-12/12.4.0
   type: 3GPP
-- id: '79425'
-  type: rapporteurId
 docnumber: TS 36.133:Rel-12/12.4.0
 date:
 - type: created
   value: '2014-07-04'
 - type: confirmed
   value: '2011-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: THANGARASA, Santhan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Hungary Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CR2331r3 not implemented because written to wrong version of spec.
+  content: CR2331r3 not implemented because written to wrong version of spec.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

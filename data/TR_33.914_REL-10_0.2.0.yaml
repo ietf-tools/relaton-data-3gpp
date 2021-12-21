@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.914:Rel-10/0.2.0
+  id: 3GPP TR 33.914:Rel-10/0.2.0
   type: 3GPP
-- id: '33520'
-  type: rapporteurId
 docnumber: TR 33.914:Rel-10/0.2.0
 date:
   type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLTMANNS, Silke
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: Timed out of Rel-10.
   type: remark
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

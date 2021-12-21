@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.959:Rel-15/1.2.0
+  id: 3GPP TR 26.959:Rel-15/1.2.0
   type: 3GPP
-- id: '57650'
-  type: rapporteurId
 docnumber: TR 26.959:Rel-15/1.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ATTI, Venkatraman
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-180604
+  content: S4-180604
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

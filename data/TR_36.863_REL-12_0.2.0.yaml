@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.863:Rel-12/0.2.0
+  id: 3GPP TR 36.863:Rel-12/0.2.0
   type: 3GPP
-- id: '46382'
-  type: rapporteurId
 docnumber: TR 36.863:Rel-12/0.2.0
 date:
   type: confirmed
   value: '2013-11-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Shaohua
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-134463
+  content: R4-134463
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

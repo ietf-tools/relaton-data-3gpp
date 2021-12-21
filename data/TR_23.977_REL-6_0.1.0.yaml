@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.977:Rel-6/0.1.0
+  id: 3GPP TR 23.977:Rel-6/0.1.0
   type: 3GPP
-- id: '22832'
-  type: rapporteurId
 docnumber: TR 23.977:Rel-6/0.1.0
 date:
   type: confirmed
   value: '2004-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: SEISER, Franz
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
 - content: 'SP-23: anticipate v2.0.0 at SP-24.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

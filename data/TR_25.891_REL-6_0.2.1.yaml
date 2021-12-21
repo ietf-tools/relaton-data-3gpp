@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.891:Rel-6/0.2.1
+  id: 3GPP TR 25.891:Rel-6/0.2.1
   type: 3GPP
-- id: '19056'
-  type: rapporteurId
 docnumber: TR 25.891:Rel-6/0.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: HWANG, Woonhee
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
   content: '2005-09: no progress, so abandon.'
   type: remark
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

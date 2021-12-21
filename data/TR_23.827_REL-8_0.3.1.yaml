@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.827:Rel-8/0.3.1
+  id: 3GPP TR 23.827:Rel-8/0.3.1
   type: 3GPP
-- id: '13274'
-  type: rapporteurId
 docnumber: TR 23.827:Rel-8/0.3.1
 date:
 - type: created
   value: '2007-08-13'
 - type: confirmed
   value: '2008-08-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Xiaobao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
   content: 'SP-41: stopped, content implemented in TS 23.327.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

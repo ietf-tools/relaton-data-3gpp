@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.976:Rel-10/1.5.0
+  id: 3GPP TR 37.976:Rel-10/1.5.0
   type: 3GPP
-- id: '34540'
-  type: rapporteurId
 docnumber: TR 37.976:Rel-10/1.5.0
 date:
 - type: created
   value: '2011-10-10'
 - type: confirmed
   value: '2012-03-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: LING, Soonleh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
 - content: Timed out of Rel-10
   type: remark
@@ -31,7 +40,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

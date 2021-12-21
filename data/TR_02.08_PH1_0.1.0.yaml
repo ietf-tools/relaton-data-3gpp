@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 02.08:Ph1/0.1.0
+  id: 3GPP TR 02.08:Ph1/0.1.0
   type: 3GPP
-- id: '5396'
-  type: rapporteurId
 docnumber: TR 02.08:Ph1/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TWINGLER, Jonas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: inCode
+  role: author
 biblionote:
   content: SMG1 295/95
   type: comment
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: smg
+  name: smg
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '3'

@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.113:Rel-8/8.3.0
+  id: 3GPP TS 36.113:Rel-8/8.3.0
   type: 3GPP
-- id: '24612'
-  type: rapporteurId
 docnumber: TS 36.113:Rel-8/8.3.0
 date:
 - type: created
   value: '2011-01-07'
 - type: confirmed
   value: '2008-03-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: NG, Man Hung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.371:Rel-16/16.1.0
+  id: 3GPP TS 24.371:Rel-16/16.1.0
   type: 3GPP
-- id: '87003'
-  type: rapporteurId
 docnumber: TS 24.371:Rel-16/16.1.0
 date:
   type: confirmed
   value: '2014-12-21'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Xu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

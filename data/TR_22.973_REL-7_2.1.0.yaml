@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.973:Rel-7/2.1.0
+  id: 3GPP TR 22.973:Rel-7/2.1.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TR 22.973:Rel-7/2.1.0
 date:
 - type: created
   value: '2006-03-20'
 - type: confirmed
   value: '2006-03-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
 - content: 'SP-30: Initially thought to be Rel-8 timescale, but TR produced as Rel-7.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

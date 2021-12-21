@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.444:Rel-11/11.3.0
+  id: 3GPP TS 36.444:Rel-11/11.3.0
   type: 3GPP
-- id: '36270'
-  type: rapporteurId
 docnumber: TS 36.444:Rel-11/11.3.0
 date:
 - type: created
   value: '2012-09-21'
 - type: confirmed
   value: '2011-06-24'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MA, Zijiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R3

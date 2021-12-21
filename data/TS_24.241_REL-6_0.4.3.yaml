@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.241:Rel-6/0.4.3
+  id: 3GPP TS 24.241:Rel-6/0.4.3
   type: 3GPP
-- id: '19464'
-  type: rapporteurId
 docnumber: TS 24.241:Rel-6/0.4.3
 date:
   type: confirmed
   value: '2003-11-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: KYMALAINEN, Kimmo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: FSCOM
+  role: author
 biblionote:
   content: '2002-05-29 (jmm): Since stage 2 is moved to Rel-6, so should the stage
     3 be.'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

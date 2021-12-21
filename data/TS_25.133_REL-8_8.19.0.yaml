@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.133:Rel-8/8.19.0
+  id: 3GPP TS 25.133:Rel-8/8.19.0
   type: 3GPP
-- id: '24916'
-  type: rapporteurId
 docnumber: TS 25.133:Rel-8/8.19.0
 date:
 - type: created
   value: '2013-03-22'
 - type: confirmed
   value: '2005-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: GUERRINI, Claudio
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Netscout Systems Inc.
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: R4
   type: former
 radiotechnology: 3G

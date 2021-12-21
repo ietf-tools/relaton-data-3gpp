@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 28.543:Rel-15/1.1.0
+  id: 3GPP TS 28.543:Rel-15/1.1.0
   type: 3GPP
-- id: '68419'
-  type: rapporteurId
 docnumber: TS 28.543:Rel-15/1.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: PING, Jing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Version withdrawn, tdoc not presented at meeting.
+  content: Version withdrawn, tdoc not presented at meeting.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

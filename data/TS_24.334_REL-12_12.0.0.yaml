@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.334:Rel-12/12.0.0
+  id: 3GPP TS 24.334:Rel-12/12.0.0
   type: 3GPP
-- id: '38080'
-  type: rapporteurId
 docnumber: TS 24.334:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-09-26'
 - type: confirmed
   value: '2014-09-26'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CHAPONNIERE, Lena
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

@@ -9,10 +9,8 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 43.035:Rel-4/4.1.0
+  id: 3GPP TS 43.035:Rel-4/4.1.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 43.035:Rel-4/4.1.0
 biblionote:
   content: 'SP-16: withdrawn in favour of 23.035.'
@@ -22,13 +20,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: SMG10
   type: former
 radiotechnology: 2G

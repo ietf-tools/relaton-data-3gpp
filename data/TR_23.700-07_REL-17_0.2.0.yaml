@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.700-07:Rel-17/0.2.0
+  id: 3GPP TR 23.700-07:Rel-17/0.2.0
   type: 3GPP
-- id: '27550'
-  type: rapporteurId
 docnumber: TR 23.700-07:Rel-17/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HEDMAN, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs at SA WG2#136
+  content: Updated with approved pCRs at SA WG2#136
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2

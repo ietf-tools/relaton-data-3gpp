@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.849:Rel-11/1.1.0
+  id: 3GPP TR 23.849:Rel-11/1.1.0
   type: 3GPP
-- id: '21192'
-  type: rapporteurId
 docnumber: TR 23.849:Rel-11/1.1.0
 date:
   type: confirmed
   value: '2011-12-13'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: RUSSELL, Nick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

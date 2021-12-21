@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.880:Rel-8/1.3.0
+  id: 3GPP TR 24.880:Rel-8/1.3.0
   type: 3GPP
-- id: '720'
-  type: rapporteurId
 docnumber: TR 24.880:Rel-8/1.3.0
 date:
 - type: created
   value: '2007-09-24'
 - type: confirmed
   value: '2007-12-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: DRAGE, Keith
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Telecom Ltd
+  role: author
 biblionote:
   content: email circulation
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

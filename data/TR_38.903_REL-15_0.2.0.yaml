@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.903:Rel-15/0.2.0
+  id: 3GPP TR 38.903:Rel-15/0.2.0
   type: 3GPP
-- id: '65493'
-  type: rapporteurId
 docnumber: TR 38.903:Rel-15/0.2.0
 date:
   type: confirmed
   value: '2019-01-02'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: GU, Chunying
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

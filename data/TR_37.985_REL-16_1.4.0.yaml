@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.985:Rel-16/1.4.0
+  id: 3GPP TR 37.985:Rel-16/1.4.0
   type: 3GPP
-- id: '45858'
-  type: rapporteurId
 docnumber: TR 37.985:Rel-16/1.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WEBB, Matthew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Endorsed as v1.4.0 in R1-2004861
+  content: Endorsed as v1.4.0 in R1-2004861
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

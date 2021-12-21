@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.857:Rel-13/0.3.0
+  id: 3GPP TR 37.857:Rel-13/0.3.0
   type: 3GPP
-- id: '26101'
-  type: rapporteurId
 docnumber: TR 37.857:Rel-13/0.3.0
 date:
   type: created
   value: '2015-06-09'
+contributor:
+  person:
+    name:
+      completename:
+        content: VOGEDES, Jerome
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NextNav
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-152610
+  content: R1-152610
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

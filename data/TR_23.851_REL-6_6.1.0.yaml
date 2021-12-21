@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.851:Rel-6/6.1.0
+  id: 3GPP TR 23.851:Rel-6/6.1.0
   type: 3GPP
-- id: '21895'
-  type: rapporteurId
 docnumber: TR 23.851:Rel-6/6.1.0
 date:
   type: confirmed
   value: '2003-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: NILSSON, Ulf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TeliaSonera AB
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.903:Rel-7/0.3.1
+  id: 3GPP TR 25.903:Rel-7/0.3.1
   type: 3GPP
-- id: '21509'
-  type: rapporteurId
 docnumber: TR 25.903:Rel-7/0.3.1
 date:
 - type: created
   value: '2006-04-20'
 - type: confirmed
   value: '2006-04-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: BAKER, Matthew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: R1-061098
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

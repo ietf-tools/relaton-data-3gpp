@@ -7,20 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 32.317:Rel-7/0.3.1
+  id: 3GPP TS 32.317:Rel-7/0.3.1
   type: 3GPP
-- id: '37094'
-  type: rapporteurId
 docnumber: TS 32.317:Rel-7/0.3.1
 date:
   type: confirmed
   value: '2008-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

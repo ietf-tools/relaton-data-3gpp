@@ -6,19 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.738:Rel-16/0.0.0
+  id: 3GPP TR 23.738:Rel-16/0.0.0
   type: 3GPP
-- id: '42013'
-  type: rapporteurId
 docnumber: TR 23.738:Rel-16/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, Hyunsook
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Version allocated to allow pCRs to be created
+  content: Version allocated to allow pCRs to be created
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 42.017:Rel-4/4.0.0
+  id: 3GPP TS 42.017:Rel-4/4.0.0
   type: 3GPP
-- id: '42268'
-  type: rapporteurId
 docnumber: TS 42.017:Rel-4/4.0.0
 date:
   type: confirmed
   value: '2001-11-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: PHAN, Ly Thanh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Gemalto N.V.
+  role: author
 biblionote:
   content: '2003-07-15 (Dietze): will not progress to Rel-5, since no SIM device beyond
     Rel-4.'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 26.931:Rel-13/0.0.5
+  id: 3GPP TR 26.931:Rel-13/0.0.5
   type: 3GPP
-- id: '47443'
-  type: rapporteurId
 docnumber: TR 26.931:Rel-13/0.0.5
+contributor:
+  person:
+    name:
+      completename:
+        content: REIMES, Jan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HEAD acoustics GmbH
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-150362
+  content: S4-150362
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

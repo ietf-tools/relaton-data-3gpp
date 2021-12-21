@@ -10,24 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.862:Rel-12/1.0.0
+  id: 3GPP TR 23.862:Rel-12/1.0.0
   type: 3GPP
-- id: '36134'
-  type: rapporteurId
 docnumber: TR 23.862:Rel-12/1.0.0
 date:
 - type: created
   value: '2012-12-13'
 - type: confirmed
   value: '2013-12-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: GUPTA, Vivek
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-120729
+  content: SP-120729
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

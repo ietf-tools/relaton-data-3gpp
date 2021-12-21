@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 48.049:Rel-10/10.1.0
+  id: 3GPP TS 48.049:Rel-10/10.1.0
   type: 3GPP
-- id: '41509'
-  type: rapporteurId
 docnumber: TS 48.049:Rel-10/10.1.0
 date:
 - type: created
   value: '2012-03-16'
 - type: confirmed
   value: '2010-01-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: PERSSON, Claes-Göran
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: RP

@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.709:Rel-15/0.0.1
+  id: 3GPP TR 25.709:Rel-15/0.0.1
   type: 3GPP
-- id: '58678'
-  type: rapporteurId
 docnumber: TR 25.709:Rel-15/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: MEDINA, Gerardo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Japan K.K.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-1706210
+  content: R1-1706210
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

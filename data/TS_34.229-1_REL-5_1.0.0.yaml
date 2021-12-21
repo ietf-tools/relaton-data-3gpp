@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.229-1:Rel-5/1.0.0
+  id: 3GPP TS 34.229-1:Rel-5/1.0.0
   type: 3GPP
-- id: '50081'
-  type: rapporteurId
 docnumber: TS 34.229-1:Rel-5/1.0.0
 date:
 - type: created
   value: '2006-03-20'
 - type: confirmed
   value: '2010-04-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: ROHNERT, Hans
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
   content: RP-060052
   type: comment
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

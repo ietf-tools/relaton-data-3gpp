@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 09.94:R97/6.1.1
+  id: 3GPP TR 09.94:R97/6.1.1
   type: 3GPP
-- id: '13349'
-  type: rapporteurId
 docnumber: TR 09.94:R97/6.1.1
 date:
   type: confirmed
   value: '2002-04-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: HIETALAHTI, Hannu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
 - content: '2002-05-02 (Hietalahti): Anticipate resurrection as null document pointing
     to latest Release version.'
@@ -29,13 +38,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: N1  /  SMG03A
   type: former
 radiotechnology: 2G

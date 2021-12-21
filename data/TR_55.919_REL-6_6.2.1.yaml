@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 55.919:Rel-6/6.2.1
+  id: 3GPP TR 55.919:Rel-6/6.2.1
   type: 3GPP
-- id: '31085'
-  type: rapporteurId
 docnumber: TR 55.919:Rel-6/6.2.1
 date:
 - type: created
   value: '2008-01-23'
 - type: confirmed
   value: '2011-04-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: SAHLIN, Bengt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Correct version shown on cover
   type: comment
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

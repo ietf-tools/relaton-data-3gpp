@@ -9,21 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.896:Rel-11/2.0.0
+  id: 3GPP TR 23.896:Rel-11/2.0.0
   type: 3GPP
-- id: '8356'
-  type: rapporteurId
 docnumber: TR 23.896:Rel-11/2.0.0
 date:
   type: created
   value: '2015-03-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: SPINI, Marco
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
   content: 'SP-150033 ^ 2015-03-11: Not clear whether this should be approved at Rel-12
     (already frozen) or Rel-13.'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.852:Rel-12/0.4.1
+  id: 3GPP TR 22.852:Rel-12/0.4.1
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TR 22.852:Rel-12/0.4.1
 date:
 - type: created
   value: '2012-12-30'
 - type: confirmed
   value: '2013-06-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-124482 shows v0.4.0 on cover and history; post-dates v1.0.0 but not
+  content: S1-124482 shows v0.4.0 on cover and history; post-dates v1.0.0 but not
     based on v1.0.0.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

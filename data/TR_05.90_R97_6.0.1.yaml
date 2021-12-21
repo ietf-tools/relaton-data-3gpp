@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 05.90:R97/6.0.1
+  id: 3GPP TR 05.90:R97/6.0.1
   type: 3GPP
-- id: '3209'
-  type: rapporteurId
 docnumber: TR 05.90:R97/6.0.1
 date:
   type: confirmed
   value: '2001-11-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: "#27: 6.0.0 Withdrawn, since never created. 2001-01-31: GERAN convenor
     asks for its re-instatement."
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 09.01U:UMTS/0.0.0
+  id: 3GPP TS 09.01U:UMTS/0.0.0
   type: 3GPP
-- id: '596'
-  type: rapporteurId
 docnumber: TS 09.01U:UMTS/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WALKER, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: SMG5

@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 10.00:R96/5.0.0
+  id: 3GPP TS 10.00:R96/5.0.0
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TS 10.00:R96/5.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: 'Jun00: version we have is actually 5.1.2 !'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: SMG12
   type: former
 radiotechnology: 2G

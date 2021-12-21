@@ -6,18 +6,25 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 25.102:Rel-11/11.0.0
+  id: 3GPP TS 25.102:Rel-11/11.0.0
   type: 3GPP
-- id: '10415'
-  type: rapporteurId
 docnumber: TS 25.102:Rel-11/11.0.0
 date:
   type: confirmed
   value: '2003-06-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOTTKAMP, Meik
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Created by CR 0360 rev 1 but this is not implementable due to inconsistent
+  content: Created by CR 0360 rev 1 but this is not implementable due to inconsistent
     revision marks; this version of the spec will not be produced.
   type: comment
 language: en
@@ -32,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: R4
   type: former
 radiotechnology: 3G

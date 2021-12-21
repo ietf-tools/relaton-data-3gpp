@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.172:Rel-6/2.0.0
+  id: 3GPP TS 32.172:Rel-6/2.0.0
   type: 3GPP
-- id: '3654'
-  type: rapporteurId
 docnumber: TS 32.172:Rel-6/2.0.0
 date:
   type: confirmed
   value: '2004-12-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: TOVINGER, Thomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: SP-040546, not approved
   type: comment
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.229-3:Rel-7/7.1.0
+  id: 3GPP TS 34.229-3:Rel-7/7.1.0
   type: 3GPP
-- id: '58316'
-  type: rapporteurId
 docnumber: TS 34.229-3:Rel-7/7.1.0
 date:
 - type: created
   value: '2008-10-10'
 - type: confirmed
   value: '2010-04-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: GENOUD, Olivier
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: '2008-03: Rel-7 record created in readiness.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

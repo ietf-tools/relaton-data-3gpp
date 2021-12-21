@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.865:Rel-8/8.0.0
+  id: 3GPP TR 29.865:Rel-8/8.0.0
   type: 3GPP
-- id: '26163'
-  type: rapporteurId
 docnumber: TR 29.865:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-09-24'
 - type: confirmed
   value: '2008-07-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: ASCOLESE, Antonio
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C3

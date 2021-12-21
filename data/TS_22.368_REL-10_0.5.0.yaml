@@ -6,20 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 22.368:Rel-10/0.5.0
+  id: 3GPP TS 22.368:Rel-10/0.5.0
   type: 3GPP
-- id: '8605'
-  type: rapporteurId
 docnumber: TS 22.368:Rel-10/0.5.0
 date:
   type: confirmed
   value: '2010-04-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: NORP, Toon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TNO
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

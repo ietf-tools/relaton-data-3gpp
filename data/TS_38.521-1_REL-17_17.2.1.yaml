@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.521-1:Rel-17/17.2.1
+  id: 3GPP TS 38.521-1:Rel-17/17.2.1
   type: 3GPP
-- id: '62904'
-  type: rapporteurId
 docnumber: TS 38.521-1:Rel-17/17.2.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHI, Yu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: "me misplaced / forgotten tables of R5-216029 and \r\nR5-216030 and editorial
+  content: "me misplaced / forgotten tables of R5-216029 and \r\nR5-216030 and editorial
     table numbering in clause 6.3A.3.1.4.3\r\n ^ 2021-10-21: Correct some misplaced
     / forgotten tables of R5-216029 and \r\nR5-216030 and editorial table numbering
     in clause 6.3A.3.1.4.3\r\n"
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

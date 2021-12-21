@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.113:Rel-5/5.0.0
+  id: 3GPP TS 31.113:Rel-5/5.0.0
   type: 3GPP
-- id: '35617'
-  type: rapporteurId
 docnumber: TS 31.113:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2009-02-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: MASSASCUSA, Sofia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: STMicroelectronics
+  role: author
 biblionote:
   content: started life as Rel-4 draft, but ran out of time so ended up Rel-5.
   type: remark
@@ -31,7 +40,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C6

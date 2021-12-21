@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.704:Rel-12/0.2.0
+  id: 3GPP TR 25.704:Rel-12/0.2.0
   type: 3GPP
-- id: '41915'
-  type: rapporteurId
 docnumber: TR 25.704:Rel-12/0.2.0
 date:
 - type: created
   value: '2014-02-26'
 - type: confirmed
   value: '2014-01-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: MARTIN, Van der zee
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Japan K.K.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-134543
+  content: R2-134543
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

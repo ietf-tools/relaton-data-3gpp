@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 25.346:Rel-6/1.5.0
+  id: 3GPP TS 25.346:Rel-6/1.5.0
   type: 3GPP
-- id: '68332'
-  type: rapporteurId
 docnumber: TS 25.346:Rel-6/1.5.0
 date:
   type: confirmed
   value: '2005-08-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 biblionote:
   content: R2-030707
   type: comment
@@ -27,7 +36,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

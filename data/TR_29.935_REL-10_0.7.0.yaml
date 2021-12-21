@@ -9,25 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.935:Rel-10/0.7.0
+  id: 3GPP TR 29.935:Rel-10/0.7.0
   type: 3GPP
-- id: '33080'
-  type: rapporteurId
 docnumber: TR 29.935:Rel-10/0.7.0
 date:
 - type: created
   value: '2011-09-17'
 - type: confirmed
   value: '2012-09-28'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: FICACCIO, Mauro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

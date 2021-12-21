@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.855:Rel-12/0.3.0
+  id: 3GPP TR 36.855:Rel-12/0.3.0
   type: 3GPP
-- id: '45796'
-  type: rapporteurId
 docnumber: TR 36.855:Rel-12/0.3.0
 date:
   type: confirmed
   value: '2015-01-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: CUI, Jie
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
 - content: Timed out of Rel-12
   type: remark
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

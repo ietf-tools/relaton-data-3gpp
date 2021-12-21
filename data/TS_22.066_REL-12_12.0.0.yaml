@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.066:Rel-12/12.0.0
+  id: 3GPP TS 22.066:Rel-12/12.0.0
   type: 3GPP
-- id: '4035'
-  type: rapporteurId
 docnumber: TS 22.066:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-10-03'
 - type: confirmed
   value: '2011-04-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCARRONE, Enrico
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -35,13 +44,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 2G

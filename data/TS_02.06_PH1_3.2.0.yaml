@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.06:Ph1/3.2.0
+  id: 3GPP TS 02.06:Ph1/3.2.0
   type: 3GPP
-- id: '17856'
-  type: rapporteurId
 docnumber: TS 02.06:Ph1/3.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: TOFABI, Amin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: SONY
+  role: author
 biblionote:
   content: Dated 1992-02
   type: comment
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 radiotechnology: 2G

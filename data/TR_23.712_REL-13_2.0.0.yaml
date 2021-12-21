@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.712:Rel-13/2.0.0
+  id: 3GPP TR 23.712:Rel-13/2.0.0
   type: 3GPP
-- id: '33850'
-  type: rapporteurId
 docnumber: TR 23.712:Rel-13/2.0.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SANDERS, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: one2many B.V.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: "CP-150810\r\n"
+  content: "CP-150810\r\n"
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

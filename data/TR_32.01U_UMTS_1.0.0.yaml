@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 32.01U:UMTS/1.0.0
+  id: 3GPP TR 32.01U:UMTS/1.0.0
   type: 3GPP
-- id: '36060'
-  type: rapporteurId
 docnumber: TR 32.01U:UMTS/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SZELAZEK, Bill
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: No progress since SMG#22.
   type: remark
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: SMG12
+  name: SMG12
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '3'

@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.852:Rel-12/1.0.0
+  id: 3GPP TR 37.852:Rel-12/1.0.0
   type: 3GPP
-- id: '46324'
-  type: rapporteurId
 docnumber: TR 37.852:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-12-16'
 - type: confirmed
   value: '2013-12-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Meng
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-131760 for approval
+  content: RP-131760 for approval
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

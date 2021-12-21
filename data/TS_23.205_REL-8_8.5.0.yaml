@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.205:Rel-8/8.5.0
+  id: 3GPP TS 23.205:Rel-8/8.5.0
   type: 3GPP
-- id: '41878'
-  type: rapporteurId
 docnumber: TS 23.205:Rel-8/8.5.0
 date:
 - type: created
   value: '2008-12-16'
 - type: confirmed
   value: '2005-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: BIONDIC, Nevenka
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C4
+  name: C4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '8'

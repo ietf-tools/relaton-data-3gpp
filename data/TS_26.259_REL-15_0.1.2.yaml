@@ -9,15 +9,22 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.259:Rel-15/0.1.2
+  id: 3GPP TS 26.259:Rel-15/0.1.2
   type: 3GPP
-- id: '44155'
-  type: rapporteurId
 docnumber: TS 26.259:Rel-15/0.1.2
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHEVCIW, Andre
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Correct document reflecting agreements at SA4#98. NOTE: v011 contains
+  content: 'Correct document reflecting agreements at SA4#98. NOTE: v011 contains
     an incorrect document.'
   type: comment
 language: en
@@ -25,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S4

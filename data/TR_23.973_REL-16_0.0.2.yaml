@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.973:Rel-16/0.0.2
+  id: 3GPP TR 23.973:Rel-16/0.0.2
   type: 3GPP
-- id: '40863'
-  type: rapporteurId
 docnumber: TR 23.973:Rel-16/0.0.2
 date:
   type: confirmed
   value: '2019-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: JIANG, Yi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: MCC re-creation of 23.973 base version from TS 23.732 version 16.0.0.
+  content: MCC re-creation of 23.973 base version from TS 23.732 version 16.0.0.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.912:R99/3.0.0
+  id: 3GPP TR 23.912:R99/3.0.0
   type: 3GPP
-- id: '3055'
-  type: rapporteurId
 docnumber: TR 23.912:R99/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SHARP, Iain
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Hillebrand GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 2G

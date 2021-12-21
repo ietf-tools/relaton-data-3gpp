@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.821:Rel-9/2.0.0
+  id: 3GPP TR 36.821:Rel-9/2.0.0
   type: 3GPP
-- id: '34462'
-  type: rapporteurId
 docnumber: TR 36.821:Rel-9/2.0.0
 date:
 - type: created
   value: '2010-01-04'
 - type: confirmed
   value: '2010-01-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SUWA, Shingo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: RP-091215
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4

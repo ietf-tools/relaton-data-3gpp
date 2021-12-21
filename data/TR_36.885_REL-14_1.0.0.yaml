@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.885:Rel-14/1.0.0
+  id: 3GPP TR 36.885:Rel-14/1.0.0
   type: 3GPP
-- id: '57341'
-  type: rapporteurId
 docnumber: TR 36.885:Rel-14/1.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SEO, Hanbyul
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

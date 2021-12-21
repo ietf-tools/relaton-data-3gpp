@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.916:Rel-16/16.0.1
+  id: 3GPP TR 21.916:Rel-16/16.0.1
   type: 3GPP
-- id: '10343'
-  type: rapporteurId
 docnumber: TR 21.916:Rel-16/16.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: SULTAN, Alain
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: editorial change on cover page
+  content: editorial change on cover page
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: SP

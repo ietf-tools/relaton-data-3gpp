@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.802:Rel-14/0.3.1
+  id: 3GPP TR 38.802:Rel-14/0.3.1
   type: 3GPP
-- id: '57838'
-  type: rapporteurId
 docnumber: TR 38.802:Rel-14/0.3.1
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: TAKEDA, Fred
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-1612707
+  content: R1-1612707
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.803:Rel-8/0.5.0
+  id: 3GPP TR 29.803:Rel-8/0.5.0
   type: 3GPP
-- id: '25671'
-  type: rapporteurId
 docnumber: TR 29.803:Rel-8/0.5.0
 date:
 - type: created
   value: '2007-11-19'
 - type: confirmed
   value: '2007-07-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: LAVASANI, Shahab
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

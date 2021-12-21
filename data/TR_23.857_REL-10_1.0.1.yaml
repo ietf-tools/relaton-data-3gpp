@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.857:Rel-10/1.0.1
+  id: 3GPP TR 23.857:Rel-10/1.0.1
   type: 3GPP
-- id: '39755'
-  type: rapporteurId
 docnumber: TR 23.857:Rel-10/1.0.1
 date:
 - type: created
   value: '2010-12-20'
 - type: confirmed
   value: '2012-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LU, Fei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CP-100816
+  content: CP-100816
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

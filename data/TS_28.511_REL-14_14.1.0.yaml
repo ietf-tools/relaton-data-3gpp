@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.511:Rel-14/14.1.0
+  id: 3GPP TS 28.511:Rel-14/14.1.0
   type: 3GPP
-- id: '34325'
-  type: rapporteurId
 docnumber: TS 28.511:Rel-14/14.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHU, Weihong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

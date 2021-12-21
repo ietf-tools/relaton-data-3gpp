@@ -10,26 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.902:Rel-4/4.0.2
+  id: 3GPP TR 30.902:Rel-4/4.0.2
   type: 3GPP
-- id: '6963'
-  type: rapporteurId
 docnumber: TR 30.902:Rel-4/4.0.2
 date:
   type: confirmed
   value: '2005-01-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (S)
+  role: author
 biblionote:
   content: Technically identical to 30.002 v4.0.1.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: C4
+  name: C4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '4'

@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.815:Rel-15/0.0.1
+  id: 3GPP TR 38.815:Rel-15/0.0.1
   type: 3GPP
-- id: '71310'
-  type: rapporteurId
 docnumber: TR 38.815:Rel-15/0.0.1
 date:
   type: confirmed
   value: '2019-01-02'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, Taekhoon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

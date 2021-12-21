@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.121-2:Rel-14/14.0.0
+  id: 3GPP TS 34.121-2:Rel-14/14.0.0
   type: 3GPP
-- id: '35491'
-  type: rapporteurId
 docnumber: TS 34.121-2:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2006-03-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZIRÉN, Mikael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Administrative release upgrade to match the release of 3GPP TS 34.121-1
+  content: Administrative release upgrade to match the release of 3GPP TS 34.121-1
     which was upgraded at RAN#74 to Rel-14 due to Rel-14 relevant CR(s)
   type: comment
 language: en
@@ -29,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: R5
+  name: R5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: e

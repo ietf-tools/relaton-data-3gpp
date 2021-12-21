@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 38.340:Rel-16/0.2.0
+  id: 3GPP TS 38.340:Rel-16/0.2.0
   type: 3GPP
-- id: '78274'
-  type: rapporteurId
 docnumber: TS 38.340:Rel-16/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SHI, Yulong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Not provided.
+  content: Not provided.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R2

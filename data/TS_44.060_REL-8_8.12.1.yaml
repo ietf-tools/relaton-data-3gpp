@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.060:Rel-8/8.12.1
+  id: 3GPP TS 44.060:Rel-8/8.12.1
   type: 3GPP
-- id: '714'
-  type: rapporteurId
 docnumber: TS 44.060:Rel-8/8.12.1
 date:
 - type: created
   value: '2011-04-01'
 - type: confirmed
   value: '2005-02-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOWELL, Andrew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HOME OFFICE
+  role: author
 biblionote:
   content: correction of typos
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: RP

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.802:Rel-7/0.0.2
+  id: 3GPP TR 33.802:Rel-7/0.0.2
   type: 3GPP
-- id: '31085'
-  type: rapporteurId
 docnumber: TR 33.802:Rel-7/0.0.2
 date:
 - type: created
   value: '2005-07-08'
 - type: confirmed
   value: '2005-07-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SAHLIN, Bengt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: '2008-05: to be declared obsolete at SP-40.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

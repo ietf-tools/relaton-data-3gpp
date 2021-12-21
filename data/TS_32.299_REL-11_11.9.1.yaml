@@ -9,33 +9,38 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.299:Rel-11/11.9.1
+  id: 3GPP TS 32.299:Rel-11/11.9.1
   type: 3GPP
-- id: '33757'
-  type: rapporteurId
 docnumber: TS 32.299:Rel-11/11.9.1
 date:
 - type: created
   value: '2013-10-09'
 - type: confirmed
   value: '2004-03-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: GARDELLA, Maryse
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: corrects history table
+  content: corrects history table
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 common-ims-spec: true
 release:

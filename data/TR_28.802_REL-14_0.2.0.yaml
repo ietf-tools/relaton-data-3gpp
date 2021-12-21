@@ -7,25 +7,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 28.802:Rel-14/0.2.0
+  id: 3GPP TR 28.802:Rel-14/0.2.0
   type: 3GPP
-- id: '73206'
-  type: rapporteurId
 docnumber: TR 28.802:Rel-14/0.2.0
 date:
   type: confirmed
   value: '2017-09-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Weixing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: This version was not produced, and the associated tdoc was withdrawn.
+  content: This version was not produced, and the associated tdoc was withdrawn.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -10,17 +10,15 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.602-5:Rel-4/2.0.0
+  id: 3GPP TS 32.602-5:Rel-4/2.0.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 32.602-5:Rel-4/2.0.0
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

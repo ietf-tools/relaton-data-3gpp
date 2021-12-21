@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.813:Rel-16/0.5.0
+  id: 3GPP TR 33.813:Rel-16/0.5.0
   type: 3GPP
-- id: '70166'
-  type: rapporteurId
 docnumber: TR 33.813:Rel-16/0.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: NAIR, Suresh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-192364
+  content: S3-192364
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

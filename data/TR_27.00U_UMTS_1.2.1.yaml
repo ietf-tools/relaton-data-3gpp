@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 27.00U:UMTS/1.2.1
+  id: 3GPP TR 27.00U:UMTS/1.2.1
   type: 3GPP
-- id: '9523'
-  type: rapporteurId
 docnumber: TR 27.00U:UMTS/1.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: GABE, Axel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 release:
   version2g: '3'
   version3g: '3'

@@ -10,17 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.816:Rel-8/1.3.1
+  id: 3GPP TR 32.816:Rel-8/1.3.1
   type: 3GPP
-- id: '14104'
-  type: rapporteurId
 docnumber: TR 32.816:Rel-8/1.3.1
 date:
   type: created
   value: '2007-11-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: PETERSEN, Robert
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

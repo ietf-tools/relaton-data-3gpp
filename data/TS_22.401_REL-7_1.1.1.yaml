@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 22.401:Rel-7/1.1.1
+  id: 3GPP TS 22.401:Rel-7/1.1.1
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TS 22.401:Rel-7/1.1.1
 date:
   type: confirmed
   value: '2008-06-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
   content: ETSI TS 181 001
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

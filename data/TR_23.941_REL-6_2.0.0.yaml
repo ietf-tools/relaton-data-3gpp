@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.941:Rel-6/2.0.0
+  id: 3GPP TR 23.941:Rel-6/2.0.0
   type: 3GPP
-- id: '31372'
-  type: rapporteurId
 docnumber: TR 23.941:Rel-6/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KOZA, Yvette
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
 - content: '2007-06-28: CT4 decided no upgrade to Rel-7 required.'
   type: remark
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

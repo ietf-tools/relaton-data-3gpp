@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.895:Rel-6/1.4.1
+  id: 3GPP TR 25.895:Rel-6/1.4.1
   type: 3GPP
-- id: '24689'
-  type: rapporteurId
 docnumber: TR 25.895:Rel-6/1.4.1
 date:
   type: confirmed
   value: '2004-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: BEALE, Martin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: '2002-10-07: anticipate approval at RP-20. RP-23: anticipate approval RP-25.'
   type: remark
@@ -24,7 +33,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

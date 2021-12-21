@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.843:Rel-12/0.3.1
+  id: 3GPP TR 36.843:Rel-12/0.3.1
   type: 3GPP
-- id: '57026'
-  type: rapporteurId
 docnumber: TR 36.843:Rel-12/0.3.1
 date:
 - type: created
   value: '2014-01-16'
 - type: confirmed
   value: '2014-03-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: PATIL, Shailesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-135910
+  content: R1-135910
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

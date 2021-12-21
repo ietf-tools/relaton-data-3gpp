@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 03.26:R97/6.0.0
+  id: 3GPP TR 03.26:R97/6.0.0
   type: 3GPP
-- id: '718'
-  type: rapporteurId
 docnumber: TR 03.26:R97/6.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Anemone Technology
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: G1

@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.008:Rel-7/7.2.0
+  id: 3GPP TS 23.008:Rel-7/7.2.0
   type: 3GPP
-- id: '13753'
-  type: rapporteurId
 docnumber: TS 23.008:Rel-7/7.2.0
 date:
 - type: created
   value: '2006-06-13'
 - type: confirmed
   value: '2005-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHMITT, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 2G

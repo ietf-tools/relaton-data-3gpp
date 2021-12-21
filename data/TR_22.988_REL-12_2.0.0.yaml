@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.988:Rel-12/2.0.0
+  id: 3GPP TR 22.988:Rel-12/2.0.0
   type: 3GPP
-- id: '8864'
-  type: rapporteurId
 docnumber: TR 22.988:Rel-12/2.0.0
 date:
 - type: created
   value: '2012-03-08'
 - type: confirmed
   value: '2012-03-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: JONES, Gary
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: T-Mobile USA Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-120107
+  content: SP-120107
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

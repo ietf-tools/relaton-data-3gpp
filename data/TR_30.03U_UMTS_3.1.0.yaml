@@ -10,26 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.03U:UMTS/3.1.0
+  id: 3GPP TR 30.03U:UMTS/3.1.0
   type: 3GPP
-- id: '19552'
-  type: rapporteurId
 docnumber: TR 30.03U:UMTS/3.1.0
 date:
   type: confirmed
   value: '2004-09-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: BLANC, Patrick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 release:

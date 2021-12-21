@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.207:Rel-5/5.6.0
+  id: 3GPP TS 23.207:Rel-5/5.6.0
   type: 3GPP
-- id: '18991'
-  type: rapporteurId
 docnumber: TS 23.207:Rel-5/5.6.0
 date:
   type: confirmed
   value: '2002-06-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: OYAMA, Johnson
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nippon Ericsson K.K.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '5'

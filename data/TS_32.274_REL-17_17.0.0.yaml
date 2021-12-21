@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.274:Rel-17/17.0.0
+  id: 3GPP TS 32.274:Rel-17/17.0.0
   type: 3GPP
-- id: '33757'
-  type: rapporteurId
 docnumber: TS 32.274:Rel-17/17.0.0
 date:
   type: confirmed
   value: '2007-12-17'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: GARDELLA, Maryse
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

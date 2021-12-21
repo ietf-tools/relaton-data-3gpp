@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.832:Rel-9/0.1.0
+  id: 3GPP TR 23.832:Rel-9/0.1.0
   type: 3GPP
-- id: '16459'
-  type: rapporteurId
 docnumber: TR 23.832:Rel-9/0.1.0
 date:
 - type: created
   value: '2009-01-28'
 - type: confirmed
   value: '2010-03-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: DREVON, Nicolas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
   content: 'SP-47: timed out of Rel-9'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

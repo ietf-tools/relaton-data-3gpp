@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.925:R99/0.0.0
+  id: 3GPP TR 25.925:R99/0.0.0
   type: 3GPP
-- id: '14181'
-  type: rapporteurId
 docnumber: TR 25.925:R99/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KRISCHAN, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 29.804:Rel-8/0.0.0
+  id: 3GPP TR 29.804:Rel-8/0.0.0
   type: 3GPP
-- id: '42321'
-  type: rapporteurId
 docnumber: TR 29.804:Rel-8/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: FERNANDEZ, Susana
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C3

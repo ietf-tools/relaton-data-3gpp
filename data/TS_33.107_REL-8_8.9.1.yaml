@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.107:Rel-8/8.9.1
+  id: 3GPP TS 33.107:Rel-8/8.9.1
   type: 3GPP
-- id: '9291'
-  type: rapporteurId
 docnumber: TS 33.107:Rel-8/8.9.1
 date:
 - type: created
   value: '2009-10-10'
 - type: confirmed
   value: '2001-10-09'
+contributor:
+  person:
+    name:
+      completename:
+        content: JASPERS, Koen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: PIDS
+  role: author
 biblionote:
   content: Correction of misimplementation of CR0084
   type: comment
@@ -27,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 2G

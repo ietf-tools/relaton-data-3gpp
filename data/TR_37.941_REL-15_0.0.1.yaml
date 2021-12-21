@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 37.941:Rel-15/0.0.1
+  id: 3GPP TR 37.941:Rel-15/0.0.1
   type: 3GPP
-- id: '65553'
-  type: rapporteurId
 docnumber: TR 37.941:Rel-15/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: SZYDELKO, Michal
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: First draft
+  content: First draft
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

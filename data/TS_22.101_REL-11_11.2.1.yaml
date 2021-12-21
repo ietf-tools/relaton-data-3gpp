@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.101:Rel-11/11.2.1
+  id: 3GPP TS 22.101:Rel-11/11.2.1
   type: 3GPP
-- id: '21463'
-  type: rapporteurId
 docnumber: TS 22.101:Rel-11/11.2.1
 date:
 - type: created
   value: '2011-07-19'
 - type: confirmed
   value: '2006-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: corrects typo in version number shown on cover
+  content: corrects typo in version number shown on cover
   type: comment
 language: en
 script: Latn
@@ -32,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

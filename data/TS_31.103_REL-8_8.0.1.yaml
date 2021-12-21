@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.103:Rel-8/8.0.1
+  id: 3GPP TS 31.103:Rel-8/8.0.1
   type: 3GPP
-- id: '42268'
-  type: rapporteurId
 docnumber: TS 31.103:Rel-8/8.0.1
 date:
 - type: created
   value: '2009-01-26'
 - type: confirmed
   value: '2004-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: PHAN, Ly Thanh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Gemalto N.V.
+  role: author
 biblionote:
   content: editorials
   type: comment
@@ -33,7 +42,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C6

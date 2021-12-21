@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.720:Rel-13/0.1.0
+  id: 3GPP TR 23.720:Rel-13/0.1.0
   type: 3GPP
-- id: '36283'
-  type: rapporteurId
 docnumber: TR 23.720:Rel-13/0.1.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: JAIN, Puneet
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Created after S2-110 ^ 2015-08-06: First version created after S2-110'
+  content: 'Created after S2-110 ^ 2015-08-06: First version created after S2-110'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

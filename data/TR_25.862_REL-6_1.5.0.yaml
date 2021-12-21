@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.862:Rel-6/1.5.0
+  id: 3GPP TR 25.862:Rel-6/1.5.0
   type: 3GPP
-- id: '19626'
-  type: rapporteurId
 docnumber: TR 25.862:Rel-6/1.5.0
 date:
 - type: created
   value: '2005-05-20'
 - type: confirmed
   value: '2005-07-01'
+contributor:
+  person:
+    name:
+      completename:
+        content: MIKOLA, Juha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

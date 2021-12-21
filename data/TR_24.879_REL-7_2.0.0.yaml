@@ -10,20 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.879:Rel-7/2.0.0
+  id: 3GPP TR 24.879:Rel-7/2.0.0
   type: 3GPP
-- id: '32699'
-  type: rapporteurId
 docnumber: TR 24.879:Rel-7/2.0.0
 date:
   type: created
   value: '2006-03-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: DAWES, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
   content: CP-060098.  WG reports that no further modification of this TR is envisaged.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

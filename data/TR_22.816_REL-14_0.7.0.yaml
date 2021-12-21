@@ -6,19 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.816:Rel-14/0.7.0
+  id: 3GPP TR 22.816:Rel-14/0.7.0
   type: 3GPP
-- id: '56553'
-  type: rapporteurId
 docnumber: TR 22.816:Rel-14/0.7.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Zhiming
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-152346
+  content: S1-152346
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

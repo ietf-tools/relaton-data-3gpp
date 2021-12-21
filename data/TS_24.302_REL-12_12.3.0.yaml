@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.302:Rel-12/12.3.0
+  id: 3GPP TS 24.302:Rel-12/12.3.0
   type: 3GPP
-- id: '80545'
-  type: rapporteurId
 docnumber: TS 24.302:Rel-12/12.3.0
 date:
 - type: created
   value: '2013-12-20'
 - type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Guangdong OPPO Mobile Telecom.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Implementation does not include disputed CR0256r3.
+  content: Implementation does not include disputed CR0256r3.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

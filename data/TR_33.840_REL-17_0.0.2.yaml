@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.840:Rel-17/0.0.2
+  id: 3GPP TR 33.840:Rel-17/0.0.2
   type: 3GPP
-- id: '83316'
-  type: rapporteurId
 docnumber: TR 33.840:Rel-17/0.0.2
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, sen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Telecommunications
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.228:Rel-5/5.10.0
+  id: 3GPP TS 24.228:Rel-5/5.10.0
   type: 3GPP
-- id: '9175'
-  type: rapporteurId
 docnumber: TS 24.228:Rel-5/5.10.0
 date:
   type: confirmed
   value: '2003-07-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: MAYER, Georg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
   content: 'Post NP-25: not to be upgraded to Rel-6.  NP-26: confirmed: contents subsumed
     by other specs.'
@@ -27,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C1
+  name: C1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '5'

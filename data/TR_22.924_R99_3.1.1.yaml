@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.924:R99/3.1.1
+  id: 3GPP TR 22.924:R99/3.1.1
   type: 3GPP
-- id: '7006'
-  type: rapporteurId
 docnumber: TR 22.924:R99/3.1.1
+contributor:
+  person:
+    name:
+      completename:
+        content: MONTEGROSSO, Emanuele
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: S1
   type: former
 radiotechnology: 3G

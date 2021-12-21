@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.900:Rel-14/0.4.0
+  id: 3GPP TR 38.900:Rel-14/0.4.0
   type: 3GPP
-- id: '47333'
-  type: rapporteurId
 docnumber: TR 38.900:Rel-14/0.4.0
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAM, Young-han
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Research America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-165966
+  content: R1-165966
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

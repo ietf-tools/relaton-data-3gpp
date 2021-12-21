@@ -9,17 +9,15 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 13.02-2:Ph2/4.0.0
+  id: 3GPP TS 13.02-2:Ph2/4.0.0
   type: 3GPP
-- id: '12011'
-  type: rapporteurId
 docnumber: TS 13.02-2:Ph2/4.0.0
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: MSG-GSM

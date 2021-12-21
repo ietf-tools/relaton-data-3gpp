@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.975:Rel-10/0.3.0
+  id: 3GPP TR 23.975:Rel-10/0.3.0
   type: 3GPP
-- id: '33002'
-  type: rapporteurId
 docnumber: TR 23.975:Rel-10/0.3.0
 date:
 - type: created
   value: '2010-02-01'
 - type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Lianyuan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
   content: 'SP-52: timed out of Rel-10.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

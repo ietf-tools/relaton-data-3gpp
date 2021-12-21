@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.913:Rel-7/0.0.1
+  id: 3GPP TR 25.913:Rel-7/0.0.1
   type: 3GPP
-- id: '16800'
-  type: rapporteurId
 docnumber: TR 25.913:Rel-7/0.0.1
 date:
   type: confirmed
   value: '2005-06-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAKAMURA, Takehiro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
 - content: Initial draft filed under 25.812.
   type: remark
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

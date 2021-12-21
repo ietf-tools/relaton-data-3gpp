@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.880:Rel-8/0.2.0
+  id: 3GPP TR 23.880:Rel-8/0.2.0
   type: 3GPP
-- id: '38539'
-  type: rapporteurId
 docnumber: TR 23.880:Rel-8/0.2.0
 date:
   type: created
   value: '2008-03-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: TANAKA, Itsuma
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: '2009-04: WG chairman indicates work may continue in Rel-10; WI changed
     to make it more specific: 350014 -> 370031.'
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

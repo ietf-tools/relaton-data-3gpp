@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 24.615:Rel-8/0.0.0
+  id: 3GPP TS 24.615:Rel-8/0.0.0
   type: 3GPP
-- id: '43940'
-  type: rapporteurId
 docnumber: TS 24.615:Rel-8/0.0.0
 date:
   type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: KREIPL, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
   content: C1-080486 derived from ETSI DTS/TISPAN-03027-NGN-R2 (draft TS 183 015)
     v1.0.1
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

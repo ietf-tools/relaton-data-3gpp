@@ -6,17 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.755:Rel-15/0.1.0
+  id: 3GPP TR 36.755:Rel-15/0.1.0
   type: 3GPP
-- id: '66129'
-  type: rapporteurId
 docnumber: TR 36.755:Rel-15/0.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: TESTA, Patrizia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson GmbH, Eurolab
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

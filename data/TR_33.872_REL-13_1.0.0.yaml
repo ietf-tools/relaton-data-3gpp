@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.872:Rel-13/1.0.0
+  id: 3GPP TR 33.872:Rel-13/1.0.0
   type: 3GPP
-- id: '32764'
-  type: rapporteurId
 docnumber: TR 33.872:Rel-13/1.0.0
 date:
   type: created
   value: '2015-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEHTOVIRTA, Vesa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-150294
+  content: SP-150294
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

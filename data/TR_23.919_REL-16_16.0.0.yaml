@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.919:Rel-16/16.0.0
+  id: 3GPP TR 23.919:Rel-16/16.0.0
   type: 3GPP
-- id: '35266'
-  type: rapporteurId
 docnumber: TR 23.919:Rel-16/16.0.0
 date:
   type: confirmed
   value: '2007-06-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Lan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Update to Rel-16 version after Rel-16 stage 3 freeze (TSG SA#88E)
+  content: Update to Rel-16 version after Rel-16 stage 3 freeze (TSG SA#88E)
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

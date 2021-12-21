@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.980:Rel-11/11.0.0
+  id: 3GPP TR 33.980:Rel-11/11.0.0
   type: 3GPP
-- id: '33520'
-  type: rapporteurId
 docnumber: TR 33.980:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-27'
 - type: confirmed
   value: '2005-07-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLTMANNS, Silke
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -31,7 +40,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

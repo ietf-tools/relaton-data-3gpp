@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.834:Rel-10/1.0.0
+  id: 3GPP TR 23.834:Rel-10/1.0.0
   type: 3GPP
-- id: '17613'
-  type: rapporteurId
 docnumber: TR 23.834:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-05-20'
 - type: confirmed
   value: '2010-06-14'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LANDAIS, Bruno
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

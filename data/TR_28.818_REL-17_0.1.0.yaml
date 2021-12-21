@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.818:Rel-17/0.1.0
+  id: 3GPP TR 28.818:Rel-17/0.1.0
   type: 3GPP
-- id: '81420'
-  type: rapporteurId
 docnumber: TR 28.818:Rel-17/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LENGYEL, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Hungary Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-214664
+  content: S5-214664
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

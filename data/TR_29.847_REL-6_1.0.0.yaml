@@ -10,23 +10,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.847:Rel-6/1.0.0
+  id: 3GPP TR 29.847:Rel-6/1.0.0
   type: 3GPP
-- id: '9175'
-  type: rapporteurId
 docnumber: TR 29.847:Rel-6/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MAYER, Georg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
   content: NP-030425
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: C1
+  name: C1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

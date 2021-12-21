@@ -10,31 +10,36 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.151:Rel-14/14.0.0
+  id: 3GPP TS 32.151:Rel-14/14.0.0
   type: 3GPP
-- id: '21049'
-  type: rapporteurId
 docnumber: TS 32.151:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2005-03-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: TSE, Edwin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: This version withdrawn. For Rel-14, see instead 32.156.
+  content: This version withdrawn. For Rel-14, see instead 32.156.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: e

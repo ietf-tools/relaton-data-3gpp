@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.164:Rel-7/0.3.0
+  id: 3GPP TS 29.164:Rel-7/0.3.0
   type: 3GPP
-- id: '23293'
-  type: rapporteurId
 docnumber: TS 29.164:Rel-7/0.3.0
 date:
 - type: created
   value: '2007-02-23'
 - type: confirmed
   value: '2009-03-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: BELLING, Thomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: C3-070274
   type: comment
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C3

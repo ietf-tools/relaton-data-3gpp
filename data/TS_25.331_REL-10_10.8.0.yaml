@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.331:Rel-10/10.8.0
+  id: 3GPP TS 25.331:Rel-10/10.8.0
   type: 3GPP
-- id: '69655'
-  type: rapporteurId
 docnumber: TS 25.331:Rel-10/10.8.0
 date:
 - type: created
   value: '2012-07-04'
 - type: confirmed
   value: '2006-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Warning: due to an error in CR4669r1 (RP-110838) the feature 1.28 Mcps
+  content: 'Warning: due to an error in CR4669r1 (RP-110838) the feature 1.28 Mcps
     TDD E-DCH does not work properly with this version of TS 25.331. Use v10.11.0
     or v11.5.0 or higher where CRs 5374 (RP-130319) and 5375r1 (RP-130349) solved
     the problem.'
@@ -38,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

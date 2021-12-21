@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.799:Rel-14/1.0.0
+  id: 3GPP TR 23.799:Rel-14/1.0.0
   type: 3GPP
-- id: '54129'
-  type: rapporteurId
 docnumber: TR 23.799:Rel-14/1.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SUN, Tao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile US Research Cente
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

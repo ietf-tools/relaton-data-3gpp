@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.102:Rel-9/9.9.0
+  id: 3GPP TS 31.102:Rel-9/9.9.0
   type: 3GPP
-- id: '74299'
-  type: rapporteurId
 docnumber: TS 31.102:Rel-9/9.9.0
 date:
 - type: created
   value: '2012-01-06'
 - type: confirmed
   value: '2005-10-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: ESPI, Sergi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: G+D MS
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
-- name: "-"
-  type: other
 - name: T3
   type: former
 radiotechnology: 3G

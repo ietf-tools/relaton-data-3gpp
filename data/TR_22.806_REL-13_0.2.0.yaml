@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.806:Rel-13/0.2.0
+  id: 3GPP TR 22.806:Rel-13/0.2.0
   type: 3GPP
-- id: '26474'
-  type: rapporteurId
 docnumber: TR 22.806:Rel-13/0.2.0
 date:
 - type: created
   value: '2012-12-30'
 - type: confirmed
   value: '2014-06-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: MINOKUCHI, Atsushi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-124272
+  content: S1-124272
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -10,22 +10,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.821:Rel-11/0.4.0
+  id: 3GPP TR 30.821:Rel-11/0.4.0
   type: 3GPP
-- id: '41957'
-  type: rapporteurId
 docnumber: TR 30.821:Rel-11/0.4.0
 date:
 - type: created
   value: '2012-01-09'
 - type: confirmed
   value: '2011-01-11'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CANO SOVERI, Mirko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

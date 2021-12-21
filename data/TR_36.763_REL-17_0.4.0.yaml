@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.763:Rel-17/0.4.0
+  id: 3GPP TR 36.763:Rel-17/0.4.0
   type: 3GPP
-- id: '8081'
-  type: rapporteurId
 docnumber: TR 36.763:Rel-17/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CHARBIT, Gilles
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: MediaTek Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: "Endorsed in R1-2106379 (R1-2106379 cover page is updated to show correct
+  content: "Endorsed in R1-2106379 (R1-2106379 cover page is updated to show correct
     version number)\r\n"
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

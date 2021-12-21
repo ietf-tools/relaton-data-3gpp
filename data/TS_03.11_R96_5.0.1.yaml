@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.11:R96/5.0.1
+  id: 3GPP TS 03.11:R96/5.0.1
   type: 3GPP
-- id: '31372'
-  type: rapporteurId
 docnumber: TS 03.11:R96/5.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: KOZA, Yvette
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4  /  SMG03?
   type: former
 radiotechnology: 2G

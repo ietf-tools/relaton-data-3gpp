@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.741:Rel-14/1.0.3
+  id: 3GPP TR 36.741:Rel-14/1.0.3
   type: 3GPP
-- id: '45738'
-  type: rapporteurId
 docnumber: TR 36.741:Rel-14/1.0.3
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: ALEXEI, Davydov
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Version withdrawn
+  content: Version withdrawn
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

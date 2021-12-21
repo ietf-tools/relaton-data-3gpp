@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 08.58:R96/5.4.0
+  id: 3GPP TS 08.58:R96/5.4.0
   type: 3GPP
-- id: '718'
-  type: rapporteurId
 docnumber: TS 08.58:R96/5.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Anemone Technology
+  role: author
 biblionote:
   content: "#16: 5.0.0  #17: 5.1.0  #19: 5.2.0  #21: 5.3.0  #22: 5.4.0  #23: 5.5.0
     \ #24: 5.6.0  #25: 5.7.0  #26: 5.8.0  #29: 5.9.0 #30: 5.10.0"
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G2
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

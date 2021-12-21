@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.750:Rel-14/14.0.0
+  id: 3GPP TR 23.750:Rel-14/14.0.0
   type: 3GPP
-- id: '40358'
-  type: rapporteurId
 docnumber: TR 23.750:Rel-14/14.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WU, Xiaobo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HuaWei Technologies Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Approved at TSG SA#72 and placed under change control
+  content: Approved at TSG SA#72 and placed under change control
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

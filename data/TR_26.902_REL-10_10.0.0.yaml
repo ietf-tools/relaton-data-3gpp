@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.902:Rel-10/10.0.0
+  id: 3GPP TR 26.902:Rel-10/10.0.0
   type: 3GPP
-- id: '60397'
-  type: rapporteurId
 docnumber: TR 26.902:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-04-05'
 - type: confirmed
   value: '2007-12-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: STOCKHAMMER, Thomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

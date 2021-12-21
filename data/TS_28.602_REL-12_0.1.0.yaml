@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.602:Rel-12/0.1.0
+  id: 3GPP TS 28.602:Rel-12/0.1.0
   type: 3GPP
-- id: '41436'
-  type: rapporteurId
 docnumber: TS 28.602:Rel-12/0.1.0
 date:
 - type: created
   value: '2012-12-06'
 - type: confirmed
   value: '2013-12-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile US Research Cente
+  role: author
 biblionote:
   content: 'SP-65: to be withdrawn from this Release onwards.'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

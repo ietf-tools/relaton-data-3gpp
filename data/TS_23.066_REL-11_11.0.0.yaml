@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.066:Rel-11/11.0.0
+  id: 3GPP TS 23.066:Rel-11/11.0.0
   type: 3GPP
-- id: '21984'
-  type: rapporteurId
 docnumber: TS 23.066:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-28'
 - type: confirmed
   value: '2008-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: HODGES, Phil
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 2G

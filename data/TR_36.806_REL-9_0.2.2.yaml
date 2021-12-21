@@ -10,20 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.806:Rel-9/0.2.2
+  id: 3GPP TR 36.806:Rel-9/0.2.2
   type: 3GPP
-- id: '35800'
-  type: rapporteurId
 docnumber: TR 36.806:Rel-9/0.2.2
 date:
   type: confirmed
   value: '2010-04-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: STATTIN, Magnus
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: R2-101608
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2

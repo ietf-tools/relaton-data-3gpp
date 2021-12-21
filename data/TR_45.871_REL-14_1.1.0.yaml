@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 45.871:Rel-14/1.1.0
+  id: 3GPP TR 45.871:Rel-14/1.1.0
   type: 3GPP
-- id: '27605'
-  type: rapporteurId
 docnumber: TR 45.871:Rel-14/1.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'R6-160091 ^ 2016-08-30: R6-160091'
+  content: 'R6-160091 ^ 2016-08-30: R6-160091'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: RP

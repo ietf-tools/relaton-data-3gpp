@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.141:Rel-13/13.1.0
+  id: 3GPP TS 23.141:Rel-13/13.1.0
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TS 23.141:Rel-13/13.1.0
 date:
   type: confirmed
   value: '2011-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

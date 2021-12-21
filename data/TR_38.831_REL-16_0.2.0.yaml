@@ -7,17 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.831:Rel-16/0.2.0
+  id: 3GPP TR 38.831:Rel-16/0.2.0
   type: 3GPP
-- id: '69954'
-  type: rapporteurId
 docnumber: TR 38.831:Rel-16/0.2.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: VASENKARI, Petri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

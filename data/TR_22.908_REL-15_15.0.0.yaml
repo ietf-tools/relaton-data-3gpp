@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.908:Rel-15/15.0.0
+  id: 3GPP TR 22.908:Rel-15/15.0.0
   type: 3GPP
-- id: '26965'
-  type: rapporteurId
 docnumber: TR 22.908:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2007-12-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: NOGUCHI, Katsuhiro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

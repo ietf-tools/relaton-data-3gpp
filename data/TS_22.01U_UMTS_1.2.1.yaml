@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 22.01U:UMTS/1.2.1
+  id: 3GPP TS 22.01U:UMTS/1.2.1
   type: 3GPP
-- id: '6374'
-  type: rapporteurId
 docnumber: TS 22.01U:UMTS/1.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: DWYER, Paul
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: August 1996, Stuttgart
   type: comment
@@ -20,13 +29,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: SMG01
   type: former
 release:

@@ -10,11 +10,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.065:R99/3.1.0
+  id: 3GPP TS 24.065:R99/3.1.0
   type: 3GPP
-- id: '9500'
-  type: rapporteurId
 docnumber: TS 24.065:R99/3.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BOSWARTHICK, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: '2000-02-14: To revert to 2g only 04.65, 24.165 may be required. 2000-11-08
     withdrawn; not required for 3G.'
@@ -24,13 +33,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: N1
   type: prime
-- name: "-"
-  type: other
 - name: N1
   type: former
 radiotechnology: 3G

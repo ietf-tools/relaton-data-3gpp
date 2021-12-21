@@ -7,17 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.884:Rel-16/0.0.2
+  id: 3GPP TR 38.884:Rel-16/0.0.2
   type: 3GPP
-- id: '76818'
-  type: rapporteurId
 docnumber: TR 38.884:Rel-16/0.0.2
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: IOFFE, Anatoliy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Apple Italia S.R.L.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

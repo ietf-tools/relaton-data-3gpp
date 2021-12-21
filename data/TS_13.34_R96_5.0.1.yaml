@@ -10,17 +10,15 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 13.34:R96/5.0.1
+  id: 3GPP TS 13.34:R96/5.0.1
   type: 3GPP
-- id: '2766'
-  type: rapporteurId
 docnumber: TS 13.34:R96/5.0.1
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: MSG

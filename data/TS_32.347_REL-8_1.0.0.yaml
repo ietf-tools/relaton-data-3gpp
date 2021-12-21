@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.347:Rel-8/1.0.0
+  id: 3GPP TS 32.347:Rel-8/1.0.0
   type: 3GPP
-- id: '37094'
-  type: rapporteurId
 docnumber: TS 32.347:Rel-8/1.0.0
 date:
   type: created
   value: '2009-03-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: SP-090060
   type: comment
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

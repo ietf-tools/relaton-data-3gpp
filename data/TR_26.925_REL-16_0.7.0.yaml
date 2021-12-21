@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.925:Rel-16/0.7.0
+  id: 3GPP TR 26.925:Rel-16/0.7.0
   type: 3GPP
-- id: '18030'
-  type: rapporteurId
 docnumber: TR 26.925:Rel-16/0.7.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GABIN, Frederic
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-191237
+  content: S4-191237
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.861:Rel-16/0.4.0
+  id: 3GPP TR 28.861:Rel-16/0.4.0
   type: 3GPP
-- id: '45463'
-  type: rapporteurId
 docnumber: TR 28.861:Rel-16/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CHOU, Joey
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-192424
+  content: S5-192424
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

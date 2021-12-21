@@ -6,23 +6,18 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 01.34:Ph1/0.5.0
+  id: 3GPP TS 01.34:Ph1/0.5.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 01.34:Ph1/0.5.0
 date:
   type: confirmed
   value: '2011-01-11'
-biblionote:
-  content: "."
-  type: remark
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: "-"

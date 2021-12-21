@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.334:Rel-12/12.1.1
+  id: 3GPP TS 24.334:Rel-12/12.1.1
   type: 3GPP
-- id: '38080'
-  type: rapporteurId
 docnumber: TS 24.334:Rel-12/12.1.1
 date:
 - type: created
   value: '2015-01-06'
 - type: confirmed
   value: '2014-09-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHAPONNIERE, Lena
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Correct implementation of CR0018.
+  content: Correct implementation of CR0018.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

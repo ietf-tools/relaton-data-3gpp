@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.994:R99/3.0.1
+  id: 3GPP TR 29.994:R99/3.0.1
   type: 3GPP
-- id: '78831'
-  type: rapporteurId
 docnumber: TR 29.994:R99/3.0.1
 date:
   type: confirmed
   value: '2002-04-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: GKATZIKIS, Lazaros
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia France
+  role: author
 biblionote:
   content: minor editorials to change style from TS to TR.
   type: comment
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C1

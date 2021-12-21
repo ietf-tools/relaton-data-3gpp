@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.979:Rel-6/6.2.0
+  id: 3GPP TR 23.979:Rel-6/6.2.0
   type: 3GPP
-- id: '21207'
-  type: rapporteurId
 docnumber: TR 23.979:Rel-6/6.2.0
 date:
 - type: created
   value: '2005-06-17'
 - type: confirmed
   value: '2011-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: SULTANA, Shabnam
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'SP-23: will be stabilized 3 months after OMA PoC AD work completed. SP-25:
     anticipate approval at SP-26.'
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

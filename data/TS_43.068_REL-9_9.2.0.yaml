@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 43.068:Rel-9/9.2.0
+  id: 3GPP TS 43.068:Rel-9/9.2.0
   type: 3GPP
-- id: '36348'
-  type: rapporteurId
 docnumber: TS 43.068:Rel-9/9.2.0
 date:
 - type: created
   value: '2010-09-28'
 - type: confirmed
   value: '2005-06-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: LAUSTER, Reinhard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -27,13 +36,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: N1  /  SMG03A
   type: former
 radiotechnology: 2G

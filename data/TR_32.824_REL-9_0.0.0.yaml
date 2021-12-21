@@ -7,20 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 32.824:Rel-9/0.0.0
+  id: 3GPP TR 32.824:Rel-9/0.0.0
   type: 3GPP
-- id: '21049'
-  type: rapporteurId
 docnumber: TR 32.824:Rel-9/0.0.0
 date:
   type: confirmed
   value: '2009-06-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: TSE, Edwin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'SP-43: Timed out of Rel-8.'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

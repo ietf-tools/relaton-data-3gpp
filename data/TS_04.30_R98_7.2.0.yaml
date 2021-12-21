@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 04.30:R98/7.2.0
+  id: 3GPP TS 04.30:R98/7.2.0
   type: 3GPP
-- id: '33294'
-  type: rapporteurId
 docnumber: TS 04.30:R98/7.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HUTTON, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: GSM Association
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: SMG02a
   type: former
 radiotechnology: 2G

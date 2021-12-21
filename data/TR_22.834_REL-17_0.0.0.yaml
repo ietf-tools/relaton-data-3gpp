@@ -7,20 +7,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.834:Rel-17/0.0.0
+  id: 3GPP TR 22.834:Rel-17/0.0.0
   type: 3GPP
-- id: '54895'
-  type: rapporteurId
 docnumber: TR 22.834:Rel-17/0.0.0
 date:
   type: confirmed
   value: '2019-06-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LIAO, Ellen C.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

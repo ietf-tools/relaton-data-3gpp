@@ -11,25 +11,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.924:Rel-12/0.1.6
+  id: 3GPP TR 26.924:Rel-12/0.1.6
   type: 3GPP
-- id: '25766'
-  type: rapporteurId
 docnumber: TR 26.924:Rel-12/0.1.6
 date:
   type: created
   value: '2014-11-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: FRANKKILA, Tomas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S4-141312
+  content: S4-141312
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

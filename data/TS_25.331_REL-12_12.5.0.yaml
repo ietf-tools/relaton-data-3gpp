@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.331:Rel-12/12.5.0
+  id: 3GPP TS 25.331:Rel-12/12.5.0
   type: 3GPP
-- id: '69655'
-  type: rapporteurId
 docnumber: TS 25.331:Rel-12/12.5.0
 date:
 - type: created
   value: '2015-03-27'
 - type: confirmed
   value: '2006-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Keyword OPTIONAL missing from ASN.1 in one place. DO NOT USE this version
+  content: Keyword OPTIONAL missing from ASN.1 in one place. DO NOT USE this version
     of the ASN.1 without first incorporating the patch detailed in the readme file
     at http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-c50_README.txt
   type: comment
@@ -37,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.809:Rel-16/0.10.0
+  id: 3GPP TR 33.809:Rel-16/0.10.0
   type: 3GPP
-- id: '76339'
-  type: rapporteurId
 docnumber: TR 33.809:Rel-16/0.10.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: GUO, Ivy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Apple Computer Trading Co. Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

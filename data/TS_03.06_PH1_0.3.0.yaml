@@ -6,17 +6,15 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 03.06:Ph1/0.3.0
+  id: 3GPP TS 03.06:Ph1/0.3.0
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TS 03.06:Ph1/0.3.0
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: SMG3

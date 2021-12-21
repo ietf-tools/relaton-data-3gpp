@@ -8,23 +8,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 37.171:Rel-13/0.1.0
+  id: 3GPP TS 37.171:Rel-13/0.1.0
   type: 3GPP
-- id: '59576'
-  type: rapporteurId
 docnumber: TS 37.171:Rel-13/0.1.0
 date:
   type: confirmed
   value: '2017-09-22'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SEIBERT, Cristina
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NextNav
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

@@ -9,17 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 12.05:Ph2/4.2.0
+  id: 3GPP TS 12.05:Ph2/4.2.0
   type: 3GPP
-- id: '25566'
-  type: rapporteurId
 docnumber: TS 12.05:Ph2/4.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GOERMER, Gerald
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S5

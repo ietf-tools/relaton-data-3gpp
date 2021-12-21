@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.234:Rel-6/2.0.0
+  id: 3GPP TS 23.234:Rel-6/2.0.0
   type: 3GPP
-- id: '26058'
-  type: rapporteurId
 docnumber: TS 23.234:Rel-6/2.0.0
 date:
   type: confirmed
   value: '2008-07-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: MARTIQUET, Nicolas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
 - content: 'SP-18: Anticipate approval SP-19.  SP-19: Doc has been split into scenario
     2 and scenario 3 parts, and will be for approval at SP-20.'
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

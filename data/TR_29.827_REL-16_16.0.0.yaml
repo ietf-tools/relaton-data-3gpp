@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.827:Rel-16/16.0.0
+  id: 3GPP TR 29.827:Rel-16/16.0.0
   type: 3GPP
-- id: '60086'
-  type: rapporteurId
 docnumber: TR 29.827:Rel-16/16.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Zhenning
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Automatic upgrade
+  content: Automatic upgrade
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C3

@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.874:Rel-12/2.1.0
+  id: 3GPP TR 36.874:Rel-12/2.1.0
   type: 3GPP
-- id: '44636'
-  type: rapporteurId
 docnumber: TR 36.874:Rel-12/2.1.0
 date:
   type: confirmed
   value: '2013-12-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Hyojin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Electronics Co., Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-131977 withdrawn
+  content: RP-131977 withdrawn
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.875:Rel-13/2.0.0
+  id: 3GPP TR 36.875:Rel-13/2.0.0
   type: 3GPP
-- id: '50973'
-  type: rapporteurId
 docnumber: TR 36.875:Rel-13/2.0.0
 date:
   type: created
   value: '2015-06-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: XU, Lixiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-150852 replaced by RP-150939.
+  content: RP-150852 replaced by RP-150939.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

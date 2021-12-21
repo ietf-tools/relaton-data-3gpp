@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.855:Rel-5/1.0.0
+  id: 3GPP TR 25.855:Rel-5/1.0.0
   type: 3GPP
-- id: '19414'
-  type: rapporteurId
 docnumber: TR 25.855:Rel-5/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: KUCHIBHOTLA, Ravi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Mobility UK Ltd.
+  role: author
 biblionote:
 - content: 'RP-13: This TR has been  replaced by TS 25.308.'
   type: remark
@@ -24,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

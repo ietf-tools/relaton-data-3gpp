@@ -6,26 +6,33 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 03.60:R96/5.0.0
+  id: 3GPP TS 03.60:R96/5.0.0
   type: 3GPP
-- id: '19414'
-  type: rapporteurId
 docnumber: TS 03.60:R96/5.0.0
 date:
   type: confirmed
   value: '2004-04-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KUCHIBHOTLA, Ravi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Mobility UK Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2  /  SMG12
   type: former
 radiotechnology: 2G

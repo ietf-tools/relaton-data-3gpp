@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.211:Rel-14/14.13.1
+  id: 3GPP TS 36.211:Rel-14/14.13.1
   type: 3GPP
-- id: '28759'
-  type: rapporteurId
 docnumber: TS 36.211:Rel-14/14.13.1
 date:
   type: confirmed
   value: '2007-09-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: PARKVALL, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: MCC clean-up to fix clause numbering issue – 6.10.2.2.1 used twice in previous
+  content: MCC clean-up to fix clause numbering issue – 6.10.2.2.1 used twice in previous
     version
   type: comment
 language: en
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

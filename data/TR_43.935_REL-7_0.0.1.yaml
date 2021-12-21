@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 43.935:Rel-7/0.0.1
+  id: 3GPP TR 43.935:Rel-7/0.0.1
   type: 3GPP
-- id: '22717'
-  type: rapporteurId
 docnumber: TR 43.935:Rel-7/0.0.1
 date:
   type: confirmed
   value: '2005-09-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: ERIKSSON LÖWENMARK, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Text incorporated from GP-042532
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: G1

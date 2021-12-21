@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.868:Rel-8/0.4.0
+  id: 3GPP TR 22.868:Rel-8/0.4.0
   type: 3GPP
-- id: '5865'
-  type: rapporteurId
 docnumber: TR 22.868:Rel-8/0.4.0
 date:
   type: confirmed
   value: '2009-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: MERKEL, Jürgen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
 - content: 'SP-34: anticipate approval at SP-35.'
   type: remark
@@ -21,7 +30,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S1

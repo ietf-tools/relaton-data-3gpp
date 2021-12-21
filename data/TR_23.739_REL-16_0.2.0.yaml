@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.739:Rel-16/0.2.0
+  id: 3GPP TR 23.739:Rel-16/0.2.0
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TR 23.739:Rel-16/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Version created to allow correct version for pCRs at SA WG2#127 ^ 2018-04-04:
+  content: 'Version created to allow correct version for pCRs at SA WG2#127 ^ 2018-04-04:
     Updated with approved pCRs at SA WG2#126'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

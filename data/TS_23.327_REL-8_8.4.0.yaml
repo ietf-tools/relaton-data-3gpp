@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.327:Rel-8/8.4.0
+  id: 3GPP TS 23.327:Rel-8/8.4.0
   type: 3GPP
-- id: '13274'
-  type: rapporteurId
 docnumber: TS 23.327:Rel-8/8.4.0
 date:
 - type: created
   value: '2009-10-01'
 - type: confirmed
   value: '2009-01-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Xiaobao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

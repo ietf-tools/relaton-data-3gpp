@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.323:Rel-9/9.0.0
+  id: 3GPP TS 24.323:Rel-9/9.0.0
   type: 3GPP
-- id: '25577'
-  type: rapporteurId
 docnumber: TS 24.323:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-12-15'
 - type: confirmed
   value: '2009-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: LU, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

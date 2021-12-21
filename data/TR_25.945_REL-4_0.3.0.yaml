@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.945:Rel-4/0.3.0
+  id: 3GPP TR 25.945:Rel-4/0.3.0
   type: 3GPP
-- id: '50130'
-  type: rapporteurId
 docnumber: TR 25.945:Rel-4/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Dajiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Beijing T3G Technology Co.Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
-- name: "-"
-  type: other
 - name: R4
   type: former
 radiotechnology: 3G

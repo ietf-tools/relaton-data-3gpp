@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.521-1:Rel-15/0.5.1
+  id: 3GPP TS 38.521-1:Rel-15/0.5.1
   type: 3GPP
-- id: '62904'
-  type: rapporteurId
 docnumber: TS 38.521-1:Rel-15/0.5.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHI, Yu
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Corrected Table numbering issues in subclause 6.5.2.4.1.4.2 Test procedure  to
+  content: 'Corrected Table numbering issues in subclause 6.5.2.4.1.4.2 Test procedure  to
     capture R5-183960 changes. ^ 2018-07-12: Corrected Table numbering issues in subclause
     6.5.2.4.1.4.2 Test procedure  to capture R5-183960 changes.'
   type: comment
@@ -30,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

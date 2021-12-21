@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.894:Rel-13/13.0.0
+  id: 3GPP TR 36.894:Rel-13/13.0.0
   type: 3GPP
-- id: '56725'
-  type: rapporteurId
 docnumber: TR 36.894:Rel-13/13.0.0
 date:
   type: created
   value: '2016-01-08'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: TANG, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

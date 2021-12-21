@@ -9,29 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 42.069:Rel-16/16.0.0
+  id: 3GPP TS 42.069:Rel-16/16.0.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TS 42.069:Rel-16/16.0.0
 date:
   type: confirmed
   value: '2001-11-14'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1  /  SMG01
   type: former
 radiotechnology: 2G

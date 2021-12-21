@@ -10,20 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.225:Rel-5/5.6.0
+  id: 3GPP TS 32.225:Rel-5/5.6.0
   type: 3GPP
-- id: '46800'
-  type: rapporteurId
 docnumber: TS 32.225:Rel-5/5.6.0
 date:
   type: confirmed
   value: '2002-03-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHRADER, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

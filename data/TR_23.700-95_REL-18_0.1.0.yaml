@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.700-95:Rel-18/0.1.0
+  id: 3GPP TR 23.700-95:Rel-18/0.1.0
   type: 3GPP
-- id: '89241'
-  type: rapporteurId
 docnumber: TR 23.700-95:Rel-18/0.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SUZUKI, Yuji
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S6

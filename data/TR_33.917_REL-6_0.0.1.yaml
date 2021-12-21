@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.917:Rel-6/0.0.1
+  id: 3GPP TR 33.917:Rel-6/0.0.1
   type: 3GPP
-- id: '26569'
-  type: rapporteurId
 docnumber: TR 33.917:Rel-6/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: YAQUB, Raziq
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: 'Original WID = SP-030341  2003-11-26: S3 Secretary indicates that the
     TR is to be internal, so number changed to 33.817.'
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S3
+  name: S3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

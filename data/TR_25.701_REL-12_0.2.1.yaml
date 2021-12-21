@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.701:Rel-12/0.2.1
+  id: 3GPP TR 25.701:Rel-12/0.2.1
   type: 3GPP
-- id: '46713'
-  type: rapporteurId
 docnumber: TR 25.701:Rel-12/0.2.1
 date:
   type: confirmed
   value: '2013-12-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: HAN, Xiao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-133951
+  content: R1-133951
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

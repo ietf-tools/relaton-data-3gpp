@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.123:Rel-5/0.3.0
+  id: 3GPP TS 31.123:Rel-5/0.3.0
   type: 3GPP
-- id: '3467'
-  type: rapporteurId
 docnumber: TS 31.123:Rel-5/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BARNES, Nigel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: T3-030912
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: T3

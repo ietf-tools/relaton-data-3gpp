@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.331:Rel-9/9.4.0
+  id: 3GPP TS 25.331:Rel-9/9.4.0
   type: 3GPP
-- id: '69655'
-  type: rapporteurId
 docnumber: TS 25.331:Rel-9/9.4.0
 date:
 - type: created
   value: '2010-10-08'
 - type: confirmed
   value: '2006-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,7 +39,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

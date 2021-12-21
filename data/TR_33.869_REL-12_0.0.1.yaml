@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.869:Rel-12/0.0.1
+  id: 3GPP TR 33.869:Rel-12/0.0.1
   type: 3GPP
-- id: '43478'
-  type: rapporteurId
 docnumber: TR 33.869:Rel-12/0.0.1
 date:
   type: created
   value: '2012-06-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: MATTSSON, John
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: draft of S3-120546
+  content: draft of S3-120546
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

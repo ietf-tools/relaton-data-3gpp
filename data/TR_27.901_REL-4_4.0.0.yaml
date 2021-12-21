@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 27.901:Rel-4/4.0.0
+  id: 3GPP TR 27.901:Rel-4/4.0.0
   type: 3GPP
-- id: '31227'
-  type: rapporteurId
 docnumber: TR 27.901:Rel-4/4.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: NEAL, Adrian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
-- name: "-"
-  type: other
 - name: T2
   type: former
 radiotechnology: 3G

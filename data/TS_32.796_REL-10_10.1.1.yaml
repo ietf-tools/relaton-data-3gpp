@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.796:Rel-10/10.1.1
+  id: 3GPP TS 32.796:Rel-10/10.1.1
   type: 3GPP
-- id: '37094'
-  type: rapporteurId
 docnumber: TS 32.796:Rel-10/10.1.1
 date:
 - type: created
   value: '2012-09-24'
 - type: confirmed
   value: '2011-06-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Gang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Editorial: Changed in clause A.2.2 the Page Set-up from Portrait to Landscape
+  content: 'Editorial: Changed in clause A.2.2 the Page Set-up from Portrait to Landscape
     due to tables going outside the printable area'
   type: comment
 language: en
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -7,23 +7,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 32.301-1:Rel-5/2.0.0
+  id: 3GPP TS 32.301-1:Rel-5/2.0.0
   type: 3GPP
-- id: '27664'
-  type: rapporteurId
 docnumber: TS 32.301-1:Rel-5/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: PIRT, Trevor
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S5
+  name: S5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '5'

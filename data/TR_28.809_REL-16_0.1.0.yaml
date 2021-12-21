@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.809:Rel-16/0.1.0
+  id: 3GPP TR 28.809:Rel-16/0.1.0
   type: 3GPP
-- id: '66963'
-  type: rapporteurId
 docnumber: TR 28.809:Rel-16/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: YAO, Yizhi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-196875
+  content: S5-196875
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.144:Rel-11/11.0.0
+  id: 3GPP TS 25.144:Rel-11/11.0.0
   type: 3GPP
-- id: '21143'
-  type: rapporteurId
 docnumber: TS 25.144:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-01-06'
 - type: confirmed
   value: '2007-06-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: BERGLJUNG, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'Not to be promoted to Rel-12: will be superseded by 37.144.'
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

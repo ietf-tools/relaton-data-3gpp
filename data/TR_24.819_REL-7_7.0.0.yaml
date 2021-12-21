@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.819:Rel-7/7.0.0
+  id: 3GPP TR 24.819:Rel-7/7.0.0
   type: 3GPP
-- id: '26616'
-  type: rapporteurId
 docnumber: TR 24.819:Rel-7/7.0.0
 date:
 - type: created
   value: '2005-12-15'
 - type: confirmed
   value: '2005-05-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEIS, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: All important content will be fed to TSs and this TR will not be maintained.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

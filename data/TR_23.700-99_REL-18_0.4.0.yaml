@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.700-99:Rel-18/0.4.0
+  id: 3GPP TR 23.700-99:Rel-18/0.4.0
   type: 3GPP
-- id: '88683'
-  type: rapporteurId
 docnumber: TR 23.700-99:Rel-18/0.4.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHENG, Shaowen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S6

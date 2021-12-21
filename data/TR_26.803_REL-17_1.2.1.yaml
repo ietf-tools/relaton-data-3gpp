@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.803:Rel-17/1.2.1
+  id: 3GPP TR 26.803:Rel-17/1.2.1
   type: 3GPP
-- id: '84417'
-  type: rapporteurId
 docnumber: TR 26.803:Rel-17/1.2.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BOUAZIZI, Imed
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm Incorporated
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

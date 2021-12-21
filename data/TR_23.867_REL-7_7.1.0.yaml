@@ -9,28 +9,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.867:Rel-7/7.1.0
+  id: 3GPP TR 23.867:Rel-7/7.1.0
   type: 3GPP
-- id: '13470'
-  type: rapporteurId
 docnumber: TR 23.867:Rel-7/7.1.0
 date:
 - type: created
   value: '2005-12-15'
 - type: confirmed
   value: '2005-10-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIEBHART, Rainer
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: Timed out of Rel-6.
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '7'

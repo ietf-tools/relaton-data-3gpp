@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.974:Rel-5/2.0.0
+  id: 3GPP TR 23.974:Rel-5/2.0.0
   type: 3GPP
-- id: '19442'
-  type: rapporteurId
 docnumber: TR 23.974:Rel-5/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: UDA, Nobuyuki
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT COMWARE Corporation
+  role: author
 biblionote:
 - content: " May-2001: Sultan wonders whether this spec is needed. SP-13: Concern
     that this is a poor title - it is NOT a real stage 2."
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

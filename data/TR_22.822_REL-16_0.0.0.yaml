@@ -6,19 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.822:Rel-16/0.0.0
+  id: 3GPP TR 22.822:Rel-16/0.0.0
   type: 3GPP
-- id: '66699'
-  type: rapporteurId
 docnumber: TR 22.822:Rel-16/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MICHEL, Cyril
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: THALES
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Withdrawn, not provided to SA1#80.
+  content: Withdrawn, not provided to SA1#80.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

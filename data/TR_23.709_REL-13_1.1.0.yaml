@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.709:Rel-13/1.1.0
+  id: 3GPP TR 23.709:Rel-13/1.1.0
   type: 3GPP
-- id: '25844'
-  type: rapporteurId
 docnumber: TR 23.709:Rel-13/1.1.0
 date:
 - type: created
   value: '2015-03-18'
 - type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: RONNEKE, Hans
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-150110
+  content: SP-150110
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

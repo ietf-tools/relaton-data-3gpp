@@ -11,14 +11,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.909:R99/1.0.0
+  id: 3GPP TR 33.909:R99/1.0.0
   type: 3GPP
-- id: '596'
-  type: rapporteurId
 docnumber: TR 33.909:R99/1.0.0
 date:
   type: confirmed
   value: '2014-05-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: WALKER, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: 'TSG#7: refered to in 33.908. Had been withdrawn, but reinstated at TSG#10.
     SA#13: 2001-09-23 withdrawn.'
@@ -30,13 +39,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
-- name: "-"
-  type: other
 - name: S3
   type: former
 radiotechnology: 3G

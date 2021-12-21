@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.805:Rel-6/0.3.0
+  id: 3GPP TR 25.805:Rel-6/0.3.0
   type: 3GPP
-- id: '16800'
-  type: rapporteurId
 docnumber: TR 25.805:Rel-6/0.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: NAKAMURA, Takehiro
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
 - content: 'RP-19: Work Item has been closed as "completed" but no decision taken
     on the fate of this TR.  2006-01: To be formally stopped at RP-31? 2007-08: ...
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

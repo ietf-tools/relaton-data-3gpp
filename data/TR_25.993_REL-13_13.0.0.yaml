@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.993:Rel-13/13.0.0
+  id: 3GPP TR 25.993:Rel-13/13.0.0
   type: 3GPP
-- id: '69857'
-  type: rapporteurId
 docnumber: TR 25.993:Rel-13/13.0.0
 date:
 - type: created
   value: '2016-01-08'
 - type: confirmed
   value: '2004-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: AHMED, Ayaz
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (I)
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Automatic update from Rel-12 produced in error. DO NOT USE.
+  content: Automatic update from Rel-12 produced in error. DO NOT USE.
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

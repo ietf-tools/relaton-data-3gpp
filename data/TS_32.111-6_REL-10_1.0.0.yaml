@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.111-6:Rel-10/1.0.0
+  id: 3GPP TS 32.111-6:Rel-10/1.0.0
   type: 3GPP
-- id: '23029'
-  type: rapporteurId
 docnumber: TS 32.111-6:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-06-14'
 - type: confirmed
   value: '2010-10-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: TOCHE, Christian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-100284
+  content: SP-100284
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

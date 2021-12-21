@@ -10,23 +10,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.741:Rel-14/0.0.1
+  id: 3GPP TR 36.741:Rel-14/0.0.1
   type: 3GPP
-- id: '45738'
-  type: rapporteurId
 docnumber: TR 36.741:Rel-14/0.0.1
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: ALEXEI, Davydov
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Skeleton TR ^ 2016-06-09: Endorsed in R1-164298 with updates (see RAN1#85
+  content: 'Skeleton TR ^ 2016-06-09: Endorsed in R1-164298 with updates (see RAN1#85
     minutes)'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

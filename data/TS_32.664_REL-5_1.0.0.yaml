@@ -11,14 +11,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.664:Rel-5/1.0.0
+  id: 3GPP TS 32.664:Rel-5/1.0.0
   type: 3GPP
-- id: '23323'
-  type: rapporteurId
 docnumber: TS 32.664:Rel-5/1.0.0
 date:
   type: confirmed
   value: '2004-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: POLLAKOWSKI, Olaf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
 - content: 'SP-15: will not exist in Rel-5.  SP-17: Yes it will!'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -6,17 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.859:Rel-18/1.1.0
+  id: 3GPP TR 22.859:Rel-18/1.1.0
   type: 3GPP
-- id: '81014'
-  type: rapporteurId
 docnumber: TR 22.859:Rel-18/1.1.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: BUCKLEY, Adrian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: vivo Mobile Communication Co.,
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

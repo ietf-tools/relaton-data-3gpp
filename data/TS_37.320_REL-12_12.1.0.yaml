@@ -11,25 +11,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.320:Rel-12/12.1.0
+  id: 3GPP TS 37.320:Rel-12/12.1.0
   type: 3GPP
-- id: '40563'
-  type: rapporteurId
 docnumber: TS 37.320:Rel-12/12.1.0
 date:
 - type: created
   value: '2014-07-04'
 - type: confirmed
   value: '2010-04-16'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: TOMALA, Malgorzata
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.845:Rel-16/16.0.0
+  id: 3GPP TR 32.845:Rel-16/16.0.0
   type: 3GPP
-- id: '47584'
-  type: rapporteurId
 docnumber: TR 32.845:Rel-16/16.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, SHAN
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.01U:UMTS/3.0.0
+  id: 3GPP TR 21.01U:UMTS/3.0.0
   type: 3GPP
-- id: '10954'
-  type: rapporteurId
 docnumber: TR 21.01U:UMTS/3.0.0
 date:
   type: confirmed
   value: '2003-05-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: MOULSLEY, Tim
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: FUJITSU Laboratories of Europe
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R6
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 3G

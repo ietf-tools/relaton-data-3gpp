@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 33.904:Rel-4/2.0.0
+  id: 3GPP TR 33.904:Rel-4/2.0.0
   type: 3GPP
-- id: '2766'
-  type: rapporteurId
 docnumber: TR 33.904:Rel-4/2.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: 'VACANT,  '
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: " "
+  role: author
 biblionote:
 - content: 'SP-15: Not to be promoted to Rel-5.  In fact, replaced by 33.908.'
   type: remark
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S3

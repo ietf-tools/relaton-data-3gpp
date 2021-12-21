@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.857-13:Rel-13/1.0.0
+  id: 3GPP TR 36.857-13:Rel-13/1.0.0
   type: 3GPP
-- id: '57164'
-  type: rapporteurId
 docnumber: TR 36.857-13:Rel-13/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ANDO, Kei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-151740
+  content: RP-151740
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

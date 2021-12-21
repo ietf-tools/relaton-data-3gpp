@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.301:Rel-8/0.1.1
+  id: 3GPP TS 24.301:Rel-8/0.1.1
   type: 3GPP
-- id: '70307'
-  type: rapporteurId
 docnumber: TS 24.301:Rel-8/0.1.1
 date:
 - type: created
   value: '2008-03-20'
 - type: confirmed
   value: '2009-03-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: WON, Sung Hwan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Korea
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

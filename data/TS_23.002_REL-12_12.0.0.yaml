@@ -9,19 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.002:Rel-12/12.0.0
+  id: 3GPP TS 23.002:Rel-12/12.0.0
   type: 3GPP
-- id: '11642'
-  type: rapporteurId
 docnumber: TS 23.002:Rel-12/12.0.0
 date:
 - type: created
   value: '2012-09-14'
 - type: confirmed
   value: '2002-09-24'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MILINSKI, Alexander
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 abstract:
@@ -30,13 +36,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

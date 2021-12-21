@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.819:Rel-17/0.4.0
+  id: 3GPP TR 28.819:Rel-17/0.4.0
   type: 3GPP
-- id: '88015'
-  type: rapporteurId
 docnumber: TR 28.819:Rel-17/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: VAISHNAVI, Ishan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Lenovo (Beijing) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-216609
+  content: S5-216609
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

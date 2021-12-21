@@ -12,27 +12,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.229-4:Rel-11/2.1.0
+  id: 3GPP TS 34.229-4:Rel-11/2.1.0
   type: 3GPP
-- id: '26952'
-  type: rapporteurId
 docnumber: TS 34.229-4:Rel-11/2.1.0
 date:
 - type: created
   value: '2014-09-22'
 - type: confirmed
   value: '2014-09-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: CATMUR, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Spirent Communications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-141156
+  content: RP-141156
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

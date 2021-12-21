@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 24.883:Rel-16/0.4.0
+  id: 3GPP TR 24.883:Rel-16/0.4.0
   type: 3GPP
-- id: '82870'
-  type: rapporteurId
 docnumber: TR 24.883:Rel-16/0.4.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MONNES, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: L3Harris Technologies
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C1

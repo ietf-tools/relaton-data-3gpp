@@ -9,18 +9,14 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.858:Rel-11/0.2.0
+  id: 3GPP TR 23.858:Rel-11/0.2.0
   type: 3GPP
-- id: '39727'
-  type: rapporteurId
 docnumber: TR 23.858:Rel-11/0.2.0
 date:
   type: created
   value: '2012-03-14'
 biblionote:
-- content: "."
-  type: remark
-- content: S1-113437. Based on v0.1.0 not on v0.1.1, and still shows version 0.1.0
+  content: S1-113437. Based on v0.1.0 not on v0.1.1, and still shows version 0.1.0
     on cover
   type: comment
 language: en
@@ -28,7 +24,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2

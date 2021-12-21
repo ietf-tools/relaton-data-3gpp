@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.800:Rel-6/0.1.0
+  id: 3GPP TR 22.800:Rel-6/0.1.0
   type: 3GPP
-- id: '26559'
-  type: rapporteurId
 docnumber: TR 22.800:Rel-6/0.1.0
 date:
   type: confirmed
   value: '2003-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: FRANK, Robert
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TeliaSonera AB
+  role: author
 biblionote:
 - content: 'SP-20: seems difficult to reach agreement; expect it for info at SP-21,
     simply cleaned up but technically incomplete.'
@@ -25,7 +34,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.057:Rel-10/10.0.0
+  id: 3GPP TS 23.057:Rel-10/10.0.0
   type: 3GPP
-- id: '17903'
-  type: rapporteurId
 docnumber: TS 23.057:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-03-29'
 - type: confirmed
   value: '2001-10-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: BRENK, Lars
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -33,13 +42,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: T2
   type: former
 radiotechnology: 2G

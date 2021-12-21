@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.273:Rel-7/2.0.0
+  id: 3GPP TS 22.273:Rel-7/2.0.0
   type: 3GPP
-- id: '4035'
-  type: rapporteurId
 docnumber: TS 22.273:Rel-7/2.0.0
 date:
 - type: created
   value: '2007-12-11'
 - type: confirmed
   value: '2007-10-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCARRONE, Enrico
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 biblionote:
 - content: 'SP-27: WI created and TISPAN TS endorsed. Thus no draft phase for this
     spec.'
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

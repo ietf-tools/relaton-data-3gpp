@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 11.10-1:R98/7.0.1
+  id: 3GPP TS 11.10-1:R98/7.0.1
   type: 3GPP
-- id: '2367'
-  type: rapporteurId
 docnumber: TS 11.10-1:R98/7.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: BAEV, Stoyan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 biblionote:
   content: "#31bis: closed (R99 version serves all releases). GP-06: Rel-4 serves
     all releases."
@@ -20,7 +29,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G3new

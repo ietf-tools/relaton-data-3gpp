@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.179:Rel-16/16.4.0
+  id: 3GPP TS 22.179:Rel-16/16.4.0
   type: 3GPP
-- id: '47344'
-  type: rapporteurId
 docnumber: TS 22.179:Rel-16/16.4.0
 date:
   type: confirmed
   value: '2014-12-19'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CYPHER, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: U.S. Department of Commerce
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

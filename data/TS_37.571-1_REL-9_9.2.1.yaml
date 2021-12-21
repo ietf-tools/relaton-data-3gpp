@@ -10,27 +10,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.571-1:Rel-9/9.2.1
+  id: 3GPP TS 37.571-1:Rel-9/9.2.1
   type: 3GPP
-- id: '26952'
-  type: rapporteurId
 docnumber: TS 37.571-1:Rel-9/9.2.1
 date:
 - type: created
   value: '2012-06-29'
 - type: confirmed
   value: '2011-12-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: CATMUR, Richard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Spirent Communications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Added missing contents from R5-121126, R5-121127, R5-121128
+  content: Added missing contents from R5-121126, R5-121127, R5-121128
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

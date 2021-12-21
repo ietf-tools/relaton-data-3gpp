@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.932:Rel-14/0.2.0
+  id: 3GPP TR 26.932:Rel-14/0.2.0
   type: 3GPP
-- id: '6640'
-  type: rapporteurId
 docnumber: TR 26.932:Rel-14/0.2.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: PROUST, Stephane
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

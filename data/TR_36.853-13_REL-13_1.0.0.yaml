@@ -10,17 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.853-13:Rel-13/1.0.0
+  id: 3GPP TR 36.853-13:Rel-13/1.0.0
   type: 3GPP
-- id: '34540'
-  type: rapporteurId
 docnumber: TR 36.853-13:Rel-13/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LING, Soonleh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
   content: To be approved at end of Rel-13.
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

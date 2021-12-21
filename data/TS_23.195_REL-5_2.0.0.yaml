@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.195:Rel-5/2.0.0
+  id: 3GPP TS 23.195:Rel-5/2.0.0
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TS 23.195:Rel-5/2.0.0
 date:
   type: confirmed
   value: '2003-06-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
 - content: 'SP-20: approved as a Rel-5 document, not Rel-6.'
   type: remark
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

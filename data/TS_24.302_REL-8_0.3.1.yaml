@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.302:Rel-8/0.3.1
+  id: 3GPP TS 24.302:Rel-8/0.3.1
   type: 3GPP
-- id: '80545'
-  type: rapporteurId
 docnumber: TS 24.302:Rel-8/0.3.1
 date:
 - type: created
   value: '2008-04-22'
 - type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Guangdong OPPO Mobile Telecom.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

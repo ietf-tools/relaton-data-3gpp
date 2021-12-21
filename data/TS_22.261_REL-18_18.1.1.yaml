@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.261:Rel-18/18.1.1
+  id: 3GPP TS 22.261:Rel-18/18.1.1
   type: 3GPP
-- id: '62675'
-  type: rapporteurId
 docnumber: TS 22.261:Rel-18/18.1.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: LI, Alice
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Incorrect CR478r3 corrected
+  content: Incorrect CR478r3 corrected
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S1

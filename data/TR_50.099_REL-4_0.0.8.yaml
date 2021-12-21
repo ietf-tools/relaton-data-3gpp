@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 50.099:Rel-4/0.0.8
+  id: 3GPP TR 50.099:Rel-4/0.0.8
   type: 3GPP
-- id: '16986'
-  type: rapporteurId
 docnumber: TR 50.099:Rel-4/0.0.8
+contributor:
+  person:
+    name:
+      completename:
+        content: GRANT, Marc
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 biblionote:
   content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
     numbered and were not subsequent at all, so do not appear in history; latest draft
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: GP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

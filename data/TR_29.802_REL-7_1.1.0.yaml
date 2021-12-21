@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.802:Rel-7/1.1.0
+  id: 3GPP TR 29.802:Rel-7/1.1.0
   type: 3GPP
-- id: '33294'
-  type: rapporteurId
 docnumber: TR 29.802:Rel-7/1.1.0
 date:
 - type: created
   value: '2007-04-18'
 - type: confirmed
   value: '2006-09-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUTTON, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: GSM Association
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

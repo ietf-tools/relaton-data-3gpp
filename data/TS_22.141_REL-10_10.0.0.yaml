@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 22.141:Rel-10/10.0.0
+  id: 3GPP TS 22.141:Rel-10/10.0.0
   type: 3GPP
-- id: '714'
-  type: rapporteurId
 docnumber: TS 22.141:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-04-08'
 - type: confirmed
   value: '2011-08-10'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOWELL, Andrew
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HOME OFFICE
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -29,13 +38,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 common-ims-spec: true
 release:

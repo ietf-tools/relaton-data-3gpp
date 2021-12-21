@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.069:R99/3.0.0
+  id: 3GPP TS 23.069:R99/3.0.0
   type: 3GPP
-- id: '2078'
-  type: rapporteurId
 docnumber: TS 23.069:R99/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: DETTNER, Harald
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Hillebrand GmbH
+  role: author
 biblionote:
   content: 3.0.0 Apr 99 - Reverts to 03.69 R99.
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: N1
+  name: N1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '8'

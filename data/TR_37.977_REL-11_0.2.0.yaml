@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.977:Rel-11/0.2.0
+  id: 3GPP TR 37.977:Rel-11/0.2.0
   type: 3GPP
-- id: '46360'
-  type: rapporteurId
 docnumber: TR 37.977:Rel-11/0.2.0
 date:
 - type: created
   value: '2012-09-28'
 - type: confirmed
   value: '2014-01-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: ANAYA, Luis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone España SA
+  role: author
 biblionote:
 - content: 'RP-59: timed out of Rel-11.'
   type: remark
@@ -31,7 +40,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

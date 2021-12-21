@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.174:Rel-13/13.1.0
+  id: 3GPP TS 26.174:Rel-13/13.1.0
   type: 3GPP
-- id: '13944'
-  type: rapporteurId
 docnumber: TS 26.174:Rel-13/13.1.0
 date:
   type: confirmed
   value: '2005-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: BRUHN, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S4
+  name: S4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: d

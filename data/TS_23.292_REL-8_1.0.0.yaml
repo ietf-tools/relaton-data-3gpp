@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.292:Rel-8/1.0.0
+  id: 3GPP TS 23.292:Rel-8/1.0.0
   type: 3GPP
-- id: '28943'
-  type: rapporteurId
 docnumber: TS 23.292:Rel-8/1.0.0
 date:
 - type: created
   value: '2008-06-06'
 - type: confirmed
   value: '2010-03-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: BENNETT, Andy
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Cisco Systems Belgium
+  role: author
 biblionote:
   content: SP-080360 for approval
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

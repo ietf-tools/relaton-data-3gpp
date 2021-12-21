@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.826:Rel-13/1.0.0
+  id: 3GPP TR 29.826:Rel-13/1.0.0
   type: 3GPP
-- id: '17613'
-  type: rapporteurId
 docnumber: TR 29.826:Rel-13/1.0.0
 date:
   type: created
   value: '2015-06-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: LANDAIS, Bruno
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Presented for information and approval in CT-68 ^ 2015-06-19: CP-150277'
+  content: 'Presented for information and approval in CT-68 ^ 2015-06-19: CP-150277'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.893:Rel-8/0.1.1
+  id: 3GPP TR 23.893:Rel-8/0.1.1
   type: 3GPP
-- id: '33743'
-  type: rapporteurId
 docnumber: TR 23.893:Rel-8/0.1.1
 date:
 - type: created
   value: '2007-08-13'
 - type: confirmed
   value: '2008-08-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Jae seung
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

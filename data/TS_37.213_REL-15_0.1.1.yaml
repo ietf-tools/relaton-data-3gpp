@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 37.213:Rel-15/0.1.1
+  id: 3GPP TS 37.213:Rel-15/0.1.1
   type: 3GPP
-- id: '58325'
-  type: rapporteurId
 docnumber: TS 37.213:Rel-15/0.1.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: FALAHATI, Sorour
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 10.60:R96/5.2.1
+  id: 3GPP TS 10.60:R96/5.2.1
   type: 3GPP
-- id: '29859'
-  type: rapporteurId
 docnumber: TS 10.60:R96/5.2.1
+contributor:
+  person:
+    name:
+      completename:
+        content: PETERSEN, Johan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Apica IT
+  role: author
 biblionote:
   content: "#25: (5.x.y withdrawn)"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: SMG12
   type: former
 radiotechnology: 2G

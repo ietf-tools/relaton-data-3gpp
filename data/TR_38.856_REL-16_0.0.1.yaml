@@ -6,19 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 38.856:Rel-16/0.0.1
+  id: 3GPP TR 38.856:Rel-16/0.0.1
   type: 3GPP
-- id: '61867'
-  type: rapporteurId
 docnumber: TR 38.856:Rel-16/0.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Liang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile International Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: This version is withdrawn (Corresponding Tdoc number is not available)
+  content: This version is withdrawn (Corresponding Tdoc number is not available)
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R3

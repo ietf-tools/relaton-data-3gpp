@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 45.902:Rel-6/1.0.0
+  id: 3GPP TR 45.902:Rel-6/1.0.0
   type: 3GPP
-- id: '18856'
-  type: rapporteurId
 docnumber: TR 45.902:Rel-6/1.0.0
 date:
   type: confirmed
   value: '2004-12-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SEBIRE, Benoist
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: RP
+  name: RP
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

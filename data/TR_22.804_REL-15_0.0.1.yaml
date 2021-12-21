@@ -6,17 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.804:Rel-15/0.0.1
+  id: 3GPP TR 22.804:Rel-15/0.0.1
   type: 3GPP
-- id: '69751'
-  type: rapporteurId
 docnumber: TR 22.804:Rel-15/0.0.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: WALEWSKI, Joachim
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Siemens AG
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

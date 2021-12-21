@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.826:Rel-9/1.0.0
+  id: 3GPP TR 32.826:Rel-9/1.0.0
   type: 3GPP
-- id: '39515'
-  type: rapporteurId
 docnumber: TR 32.826:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-12-12'
 - type: confirmed
   value: '2010-03-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: GOMPAKIS, Panagiotis
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
 - content: 'SP-47: timed out of Rel-9'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

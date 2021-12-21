@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.17:R97/1.0.0
+  id: 3GPP TR 10.17:R97/1.0.0
   type: 3GPP
-- id: '6188'
-  type: rapporteurId
 docnumber: TR 10.17:R97/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HEATON, Graham
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Empower Interactive Group Ltd
+  role: author
 biblionote:
   content: "#25: 1.0.0  #26: replaced by 12.15 or 12.04 (v7)"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG06
   type: former
 radiotechnology: 2G

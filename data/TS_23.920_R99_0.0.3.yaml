@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.920:R99/0.0.3
+  id: 3GPP TS 23.920:R99/0.0.3
   type: 3GPP
-- id: '6848'
-  type: rapporteurId
 docnumber: TS 23.920:R99/0.0.3
+contributor:
+  person:
+    name:
+      completename:
+        content: DANIEL, Elizabeth
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Telecom Ltd
+  role: author
 biblionote:
   content: Stopped TSG#6
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: "-"
+  name: "-"
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '8'

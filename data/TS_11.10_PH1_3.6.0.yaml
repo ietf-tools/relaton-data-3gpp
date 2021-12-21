@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 11.10:Ph1/3.6.0
+  id: 3GPP TS 11.10:Ph1/3.6.0
   type: 3GPP
-- id: '1229'
-  type: rapporteurId
 docnumber: TS 11.10:Ph1/3.6.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LEGRAND, Walter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Airbus Group SAS
+  role: author
 biblionote:
   content: 1991-10
   type: comment
@@ -19,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G3new

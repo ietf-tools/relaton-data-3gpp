@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.31:R99/8.0.0
+  id: 3GPP TS 02.31:R99/8.0.0
   type: 3GPP
-- id: '31085'
-  type: rapporteurId
 docnumber: TS 02.31:R99/8.0.0
 date:
   type: confirmed
   value: '2002-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: SAHLIN, Bengt
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'SP-18: decided FIGS is joint GERAN/UTRAN so -> 22.031.'
   type: remark
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3

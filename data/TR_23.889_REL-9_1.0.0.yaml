@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.889:Rel-9/1.0.0
+  id: 3GPP TR 23.889:Rel-9/1.0.0
   type: 3GPP
-- id: '33294'
-  type: rapporteurId
 docnumber: TR 23.889:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-12-12'
 - type: confirmed
   value: '2010-09-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUTTON, David
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: GSM Association
+  role: author
 biblionote:
 - content: 'CP-49: timed out of Rel-9'
   type: remark
@@ -29,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

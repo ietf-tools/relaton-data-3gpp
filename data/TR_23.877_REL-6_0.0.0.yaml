@@ -9,26 +9,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.877:Rel-6/0.0.0
+  id: 3GPP TR 23.877:Rel-6/0.0.0
   type: 3GPP
-- id: '24611'
-  type: rapporteurId
 docnumber: TR 23.877:Rel-6/0.0.0
 date:
   type: confirmed
   value: '2004-03-16'
+contributor:
+  person:
+    name:
+      completename:
+        content: XUAN, Qing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: S2-033088
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

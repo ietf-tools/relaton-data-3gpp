@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.401:Rel-13/13.6.1
+  id: 3GPP TS 23.401:Rel-13/13.6.1
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TS 23.401:Rel-13/13.6.1
 date:
   type: confirmed
   value: '2007-09-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'rrectly styled as Heading 8(TS) or Heading 9(TR). In case of TS, (normative)
+  content: 'rrectly styled as Heading 8(TS) or Heading 9(TR). In case of TS, (normative)
     or (informative) should appear immediately after annexure heading ^ 2016-03-24:
     MCC correction to change positions of (new) clauses 4.10 and 4.11 for more logical
     clause ordering'
@@ -31,7 +38,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

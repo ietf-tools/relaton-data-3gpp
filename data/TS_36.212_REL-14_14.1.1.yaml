@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.212:Rel-14/14.1.1
+  id: 3GPP TS 36.212:Rel-14/14.1.1
   type: 3GPP
-- id: '83417'
-  type: rapporteurId
 docnumber: TS 36.212:Rel-14/14.1.1
 date:
   type: confirmed
   value: '2007-09-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: CLASSON, Brian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Futurewei Technologies
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'MCC clean-up to correct corruption in text formatting (wrong line spacing)
+  content: 'MCC clean-up to correct corruption in text formatting (wrong line spacing)
     ^ 2017-01-04: MCC clean-up to correct corruption in text formatting (wrong line
     spacing)'
   type: comment
@@ -30,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

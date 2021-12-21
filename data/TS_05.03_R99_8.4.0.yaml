@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 05.03:R99/8.4.0
+  id: 3GPP TS 05.03:R99/8.4.0
   type: 3GPP
-- id: '18856'
-  type: rapporteurId
 docnumber: TS 05.03:R99/8.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SEBIRE, Benoist
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: "#29: 8.0.0 #30: 8.1.0 #30b: 8.2.0 #31:8.3.0 #31b:8.3.0 #32:8.5.0 GERAN#2:8.6.0"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: G1
   type: prime
-- name: "-"
-  type: other
 - name: SMG02
   type: former
 radiotechnology: 2G

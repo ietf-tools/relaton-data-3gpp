@@ -10,29 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.121-2:Rel-15/15.1.0
+  id: 3GPP TS 34.121-2:Rel-15/15.1.0
   type: 3GPP
-- id: '35491'
-  type: rapporteurId
 docnumber: TS 34.121-2:Rel-15/15.1.0
 date:
   type: confirmed
   value: '2006-03-08'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZIRÉN, Mikael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nanjing Ericsson Panda Com Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: R5
+  name: R5
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: f

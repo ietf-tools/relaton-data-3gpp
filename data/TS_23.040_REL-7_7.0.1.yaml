@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.040:Rel-7/7.0.1
+  id: 3GPP TS 23.040:Rel-7/7.0.1
   type: 3GPP
-- id: '87799'
-  type: rapporteurId
 docnumber: TS 23.040:Rel-7/7.0.1
 date:
 - type: created
   value: '2007-03-21'
 - type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: NASSAR, Mohamed Amin
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Germany
+  role: author
 biblionote:
   content: fix overlapping CRs implementation (fig 3)
   type: comment
@@ -30,13 +39,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: T2
   type: former
 radiotechnology: 2G

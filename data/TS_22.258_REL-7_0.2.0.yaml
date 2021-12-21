@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 22.258:Rel-7/0.2.0
+  id: 3GPP TS 22.258:Rel-7/0.2.0
   type: 3GPP
-- id: '25259'
-  type: rapporteurId
 docnumber: TS 22.258:Rel-7/0.2.0
 date:
   type: confirmed
   value: '2005-07-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: SACHNO, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: '2005-08-02: May be postponed to Rel-8 since later stages will not be ready
     for Rel-7. SP-31: Withdrawn from Rel-7, becomes Rel-8.'
@@ -23,13 +32,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '7'

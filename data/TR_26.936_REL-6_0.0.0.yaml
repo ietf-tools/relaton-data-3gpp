@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.936:Rel-6/0.0.0
+  id: 3GPP TR 26.936:Rel-6/0.0.0
   type: 3GPP
-- id: '13944'
-  type: rapporteurId
 docnumber: TR 26.936:Rel-6/0.0.0
 date:
 - type: created
   value: '2005-11-15'
 - type: confirmed
   value: '2005-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: BRUHN, Stefan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: Anticipated to be complete at SP-30.
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.967:Rel-8/8.0.0
+  id: 3GPP TR 25.967:Rel-8/8.0.0
   type: 3GPP
-- id: '12284'
-  type: rapporteurId
 docnumber: TR 25.967:Rel-8/8.0.0
 date:
   type: confirmed
   value: '2010-02-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: THOMAS, Howard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: invalid version
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

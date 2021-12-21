@@ -10,23 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.286:Rel-16/1.2.0
+  id: 3GPP TS 23.286:Rel-16/1.2.0
   type: 3GPP
-- id: '39608'
-  type: rapporteurId
 docnumber: TS 23.286:Rel-16/1.2.0
 date:
   type: confirmed
   value: '2019-01-02'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: AMOGH, Niranth
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S6

@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.831:R99/0.0.2
+  id: 3GPP TR 25.831:R99/0.0.2
   type: 3GPP
-- id: '16459'
-  type: rapporteurId
 docnumber: TR 25.831:R99/0.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: DREVON, Nicolas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
   content: 'RP-19 (post R3-31): stopped.'
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: 3G

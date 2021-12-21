@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.905:Rel-15/15.0.0
+  id: 3GPP TR 33.905:Rel-15/15.0.0
   type: 3GPP
-- id: '33520'
-  type: rapporteurId
 docnumber: TR 33.905:Rel-15/15.0.0
 date:
   type: confirmed
   value: '2007-03-14'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: HOLTMANNS, Silke
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

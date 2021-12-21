@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.802:Rel-17/0.2.0
+  id: 3GPP TR 26.802:Rel-17/0.2.0
   type: 3GPP
-- id: '82945'
-  type: rapporteurId
 docnumber: TR 26.802:Rel-17/0.2.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: TAN, PENG
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELUS
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

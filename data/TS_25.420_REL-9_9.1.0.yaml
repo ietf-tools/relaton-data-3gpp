@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.420:Rel-9/9.1.0
+  id: 3GPP TS 25.420:Rel-9/9.1.0
   type: 3GPP
-- id: '42396'
-  type: rapporteurId
 docnumber: TS 25.420:Rel-9/9.1.0
 date:
 - type: created
   value: '2010-09-28'
 - type: confirmed
   value: '2006-03-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: HELMERS, Hakon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: Upgraded from previous Release without technical change
   type: remark
@@ -32,13 +41,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: 3G

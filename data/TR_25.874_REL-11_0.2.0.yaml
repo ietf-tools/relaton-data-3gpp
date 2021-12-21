@@ -10,24 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.874:Rel-11/0.2.0
+  id: 3GPP TR 25.874:Rel-11/0.2.0
   type: 3GPP
-- id: '44653'
-  type: rapporteurId
 docnumber: TR 25.874:Rel-11/0.2.0
 date:
 - type: created
   value: '2012-09-20'
 - type: confirmed
   value: '2012-09-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: WEI, Limei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TD Tech Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R1-121983
+  content: R1-121983
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

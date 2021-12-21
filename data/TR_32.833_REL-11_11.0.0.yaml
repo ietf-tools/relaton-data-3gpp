@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.833:Rel-11/11.0.0
+  id: 3GPP TR 32.833:Rel-11/11.0.0
   type: 3GPP
-- id: '36428'
-  type: rapporteurId
 docnumber: TR 32.833:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-26'
 - type: confirmed
   value: '2012-09-26'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SCHMIDT, Jörg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Siemens Networks LLC
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.921:Rel-10/10.0.0
+  id: 3GPP TR 36.921:Rel-10/10.0.0
   type: 3GPP
-- id: '41335'
-  type: rapporteurId
 docnumber: TR 36.921:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-04-12'
 - type: confirmed
   value: '2010-01-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: CAI, Ying
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

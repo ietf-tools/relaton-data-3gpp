@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.998:Rel-17/0.0.1
+  id: 3GPP TR 26.998:Rel-17/0.0.1
   type: 3GPP
-- id: '66259'
-  type: rapporteurId
 docnumber: TR 26.998:Rel-17/0.0.1
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Hakju Ryan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung R&D Institute UK
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

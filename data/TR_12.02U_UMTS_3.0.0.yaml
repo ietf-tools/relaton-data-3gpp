@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 12.02U:UMTS/3.0.0
+  id: 3GPP TR 12.02U:UMTS/3.0.0
   type: 3GPP
-- id: '2798'
-  type: rapporteurId
 docnumber: TR 12.02U:UMTS/3.0.0
 date:
   type: confirmed
   value: '2006-01-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILDEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NOKIA UK R&D Ltd
+  role: author
 biblionote:
   content: Report noted and put on hold.
   type: comment
@@ -26,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: SMG5

@@ -9,24 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.865:Rel-10/1.0.1
+  id: 3GPP TR 25.865:Rel-10/1.0.1
   type: 3GPP
-- id: '43874'
-  type: rapporteurId
 docnumber: TR 25.865:Rel-10/1.0.1
 date:
 - type: created
   value: '2010-12-20'
 - type: confirmed
   value: '2011-03-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, He
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-101286 for approval
+  content: RP-101286 for approval
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

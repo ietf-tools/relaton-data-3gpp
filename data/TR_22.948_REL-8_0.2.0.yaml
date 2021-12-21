@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.948:Rel-8/0.2.0
+  id: 3GPP TR 22.948:Rel-8/0.2.0
   type: 3GPP
-- id: '40927'
-  type: rapporteurId
 docnumber: TR 22.948:Rel-8/0.2.0
 date:
   type: confirmed
   value: '2007-09-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: HUANG, Qing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
   content: S1-060941
   type: comment
@@ -23,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

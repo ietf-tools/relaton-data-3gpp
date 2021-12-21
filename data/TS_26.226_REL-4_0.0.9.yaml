@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 26.226:Rel-4/0.0.9
+  id: 3GPP TS 26.226:Rel-4/0.0.9
   type: 3GPP
-- id: '5722'
-  type: rapporteurId
 docnumber: TS 26.226:Rel-4/0.0.9
 date:
   type: confirmed
   value: '2004-07-27'
+contributor:
+  person:
+    name:
+      completename:
+        content: HELLSTROM, Gunnar
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Omnitor AB
+  role: author
 biblionote:
   content: TSG#11:withdrawn->rel-5
   type: remark
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
-- name: "-"
-  type: other
 - name: S4
   type: former
 radiotechnology: 2G

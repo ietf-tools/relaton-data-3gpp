@@ -10,18 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.101-1:Rel-15/15.9.0
+  id: 3GPP TS 38.101-1:Rel-15/15.9.0
   type: 3GPP
-- id: '44963'
-  type: rapporteurId
 docnumber: TS 38.101-1:Rel-15/15.9.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: VINTOLA, Ville
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm UK Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'The following CRs not implemented in creating this version: 0221, 0275.
+  content: 'The following CRs not implemented in creating this version: 0221, 0275.
     For explanations, see the comment against the corresponding WG tdocs.'
   type: comment
 language: en
@@ -29,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R4

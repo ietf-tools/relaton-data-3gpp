@@ -11,26 +11,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 44.035:Rel-4/4.1.0
+  id: 3GPP TS 44.035:Rel-4/4.1.0
   type: 3GPP
-- id: '25840'
-  type: rapporteurId
 docnumber: TS 44.035:Rel-4/4.1.0
 date:
   type: confirmed
   value: '2005-02-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: DIACHINA, John
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Inc.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP
   type: prime
-- name: "-"
-  type: other
 - name: SMG02a
   type: former
 radiotechnology: 2G

@@ -11,16 +11,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.978:Rel-12/1.0.0
+  id: 3GPP TR 36.978:Rel-12/1.0.0
   type: 3GPP
-- id: '6630'
-  type: rapporteurId
 docnumber: TR 36.978:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-09-22'
 - type: confirmed
   value: '2014-12-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: RUMNEY, Moray
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Keysight Technologies UK Ltd
+  role: author
 biblionote:
 - content: 'Not certain to be completed within Rel-12 time frame. RP-66: timed out
     of Rel-12.'
@@ -32,7 +41,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R5

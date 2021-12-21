@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.901:Rel-14/14.1.1
+  id: 3GPP TR 38.901:Rel-14/14.1.1
   type: 3GPP
-- id: '47333'
-  type: rapporteurId
 docnumber: TR 38.901:Rel-14/14.1.1
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAM, Young-han
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Samsung Research America
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Table formatting issue: UMa LOS probability in Table 7.4-2 is made fully
+  content: 'Table formatting issue: UMa LOS probability in Table 7.4-2 is made fully
     visible'
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

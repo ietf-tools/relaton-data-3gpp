@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.919:Rel-6/1.3.0
+  id: 3GPP TR 33.919:Rel-6/1.3.0
   type: 3GPP
-- id: '30454'
-  type: rapporteurId
 docnumber: TR 33.919:Rel-6/1.3.0
 date:
   type: confirmed
   value: '2006-03-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: VAN MOFFAERT, Annelies
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent Bell NV
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

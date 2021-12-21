@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.888:Rel-10/0.5.0
+  id: 3GPP TR 23.888:Rel-10/0.5.0
   type: 3GPP
-- id: '36283'
-  type: rapporteurId
 docnumber: TR 23.888:Rel-10/0.5.0
 date:
 - type: created
   value: '2010-07-19'
 - type: confirmed
   value: '2010-10-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: JAIN, Puneet
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.856:Rel-10/0.4.1
+  id: 3GPP TR 23.856:Rel-10/0.4.1
   type: 3GPP
-- id: '53710'
-  type: rapporteurId
 docnumber: TR 23.856:Rel-10/0.4.1
 date:
 - type: created
   value: '2010-03-10'
 - type: confirmed
   value: '2010-09-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: HOU, Zhiqiang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

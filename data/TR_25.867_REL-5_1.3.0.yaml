@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.867:Rel-5/1.3.0
+  id: 3GPP TR 25.867:Rel-5/1.3.0
   type: 3GPP
-- id: '25410'
-  type: rapporteurId
 docnumber: TR 25.867:Rel-5/1.3.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MATARASSO, Carlo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Mikom - Andrew
+  role: author
 biblionote:
 - content: '2003-11-28: WG secretary reports: Timed out of Rel-5, moved to Rel-6.'
   type: remark
@@ -21,7 +30,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

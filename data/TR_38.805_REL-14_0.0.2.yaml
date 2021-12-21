@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.805:Rel-14/0.0.2
+  id: 3GPP TR 38.805:Rel-14/0.0.2
   type: 3GPP
-- id: '23460'
-  type: rapporteurId
 docnumber: TR 38.805:Rel-14/0.0.2
 date:
   type: confirmed
   value: '2017-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: SÄYNÄJÄKANGAS, Tuomo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: circulated by email
+  content: circulated by email
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: RP

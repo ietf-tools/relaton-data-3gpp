@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.876:Rel-6/0.2.0
+  id: 3GPP TR 23.876:Rel-6/0.2.0
   type: 3GPP
-- id: '28301'
-  type: rapporteurId
 docnumber: TR 23.876:Rel-6/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: YOON, Sang-Ui
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: KT Corp.
+  role: author
 biblionote:
   content: '2003-02-04: -> 23.976'
   type: remark
@@ -19,13 +28,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

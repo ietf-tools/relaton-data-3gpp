@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.201:Rel-15/0.0.1
+  id: 3GPP TS 38.201:Rel-15/0.0.1
   type: 3GPP
-- id: '41528'
-  type: rapporteurId
 docnumber: TS 38.201:Rel-15/0.0.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: NAGATA, Satoshi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: "Capture decisions up to and incl. RAN1#AH_NR2 (R1-1712012)\r\n"
+  content: "Capture decisions up to and incl. RAN1#AH_NR2 (R1-1712012)\r\n"
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R1

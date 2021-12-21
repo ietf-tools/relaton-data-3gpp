@@ -6,22 +6,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.879:Rel-14/0.2.0
+  id: 3GPP TR 22.879:Rel-14/0.2.0
   type: 3GPP
-- id: '9795'
-  type: rapporteurId
 docnumber: TR 22.879:Rel-14/0.2.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: VILLEBRUN, Emmanuelle
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: MINISTERE DE L'INTERIEUR
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S1-152340
+  content: S1-152340
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

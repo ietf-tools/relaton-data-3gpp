@@ -10,28 +10,35 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.229:Rel-7/7.14.0
+  id: 3GPP TS 24.229:Rel-7/7.14.0
   type: 3GPP
-- id: '26616'
-  type: rapporteurId
 docnumber: TS 24.229:Rel-7/7.14.0
 date:
 - type: created
   value: '2008-12-18'
 - type: confirmed
   value: '2010-03-31'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEIS, Peter
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C1
+  name: C1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 common-ims-spec: true
 release:

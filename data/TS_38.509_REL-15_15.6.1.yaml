@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 38.509:Rel-15/15.6.1
+  id: 3GPP TS 38.509:Rel-15/15.6.1
   type: 3GPP
-- id: '33272'
-  type: rapporteurId
 docnumber: TS 38.509:Rel-15/15.6.1
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: THIRUVATHIRAI, Ramakrishnan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ROHDE & SCHWARZ
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Removal of duplicated rows in table 6.5.2 SS-RSRPB REPORT RESPONSE ^ 2020-01-14:
+  content: 'Removal of duplicated rows in table 6.5.2 SS-RSRPB REPORT RESPONSE ^ 2020-01-14:
     Removal of duplicated rows in table 6.5.2 SS-RSRPB REPORT RESPONSE'
   type: comment
 language: en
@@ -28,7 +35,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R5

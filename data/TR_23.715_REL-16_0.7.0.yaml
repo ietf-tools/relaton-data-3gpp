@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.715:Rel-16/0.7.0
+  id: 3GPP TR 23.715:Rel-16/0.7.0
   type: 3GPP
-- id: '16459'
-  type: rapporteurId
 docnumber: TR 23.715:Rel-16/0.7.0
 date:
   type: confirmed
   value: '2019-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: DREVON, Nicolas
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs at SA WG2#128BIS
+  content: Updated with approved pCRs at SA WG2#128BIS
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

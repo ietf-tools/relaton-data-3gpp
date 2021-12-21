@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.632:Rel-12/12.0.1
+  id: 3GPP TS 28.632:Rel-12/12.0.1
   type: 3GPP
-- id: '34325'
-  type: rapporteurId
 docnumber: TS 28.632:Rel-12/12.0.1
 date:
 - type: created
   value: '2014-10-29'
 - type: confirmed
   value: '2012-12-21'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHU, Weihong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ZTE Corporation
+  role: author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.859:Rel-5/1.0.1
+  id: 3GPP TR 25.859:Rel-5/1.0.1
   type: 3GPP
-- id: '27187'
-  type: rapporteurId
 docnumber: TR 25.859:Rel-5/1.0.1
 date:
   type: confirmed
   value: '2002-03-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: MEI, Xiaohua
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATT
+  role: author
 biblionote:
   content: RP-010560
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

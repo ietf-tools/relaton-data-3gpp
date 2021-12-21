@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.806:Rel-13/0.8.1
+  id: 3GPP TR 33.806:Rel-13/0.8.1
   type: 3GPP
-- id: '52494'
-  type: rapporteurId
 docnumber: TR 33.806:Rel-13/0.8.1
 date:
   type: created
   value: '2015-05-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZUGENMAIER, Alf
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Editorial changes by MCC and EditHelp
+  content: Editorial changes by MCC and EditHelp
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 45.860:Rel-10/0.3.0
+  id: 3GPP TR 45.860:Rel-10/0.3.0
   type: 3GPP
-- id: '37909'
-  type: rapporteurId
 docnumber: TR 45.860:Rel-10/0.3.0
 date:
 - type: created
   value: '2010-12-01'
 - type: confirmed
   value: '2011-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: SUNDBERG, Marten
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: Timed out of Rel-10
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

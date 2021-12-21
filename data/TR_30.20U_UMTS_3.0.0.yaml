@@ -7,11 +7,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 30.20U:UMTS/3.0.0
+  id: 3GPP TR 30.20U:UMTS/3.0.0
   type: 3GPP
-- id: '2261'
-  type: rapporteurId
 docnumber: TR 30.20U:UMTS/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: RAPELI, Juha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: PHILIPS CONSUMER COMMUNICATION
+  role: author
 biblionote:
 - content: "#24: 3.1.0"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG
   type: former
 release:

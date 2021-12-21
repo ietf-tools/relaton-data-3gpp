@@ -9,19 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 38.808:Rel-17/0.2.0
+  id: 3GPP TR 38.808:Rel-17/0.2.0
   type: 3GPP
-- id: '67319'
-  type: rapporteurId
 docnumber: TR 38.808:Rel-17/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: LEE, Daewon
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Endorsed in R1-2009849
+  content: Endorsed in R1-2009849
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R1

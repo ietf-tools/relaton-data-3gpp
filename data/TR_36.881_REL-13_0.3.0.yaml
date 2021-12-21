@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.881:Rel-13/0.3.0
+  id: 3GPP TR 36.881:Rel-13/0.3.0
   type: 3GPP
-- id: '32991'
-  type: rapporteurId
 docnumber: TR 36.881:Rel-13/0.3.0
 date:
   type: created
   value: '2015-09-22'
+contributor:
+  person:
+    name:
+      completename:
+        content: ENBUSKE, Henrik
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson Japan K.K.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-153984
+  content: R2-153984
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

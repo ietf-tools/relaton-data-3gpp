@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.813:Rel-7/0.9.0
+  id: 3GPP TR 25.813:Rel-7/0.9.0
   type: 3GPP
-- id: '18856'
-  type: rapporteurId
 docnumber: TR 25.813:Rel-7/0.9.0
 date:
 - type: created
   value: '2006-05-15'
 - type: confirmed
   value: '2006-01-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: SEBIRE, Benoist
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: R2-061769
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

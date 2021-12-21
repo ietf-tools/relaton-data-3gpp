@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.978:Rel-7/0.3.0
+  id: 3GPP TR 22.978:Rel-7/0.3.0
   type: 3GPP
-- id: '40449'
-  type: rapporteurId
 docnumber: TR 22.978:Rel-7/0.3.0
 date:
   type: confirmed
   value: '2004-06-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: ISOBE, Shin-ichi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: S1-040678
   type: comment
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '7'

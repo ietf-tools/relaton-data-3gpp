@@ -7,22 +7,29 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.853:Rel-12/2.1.0
+  id: 3GPP TR 36.853:Rel-12/2.1.0
   type: 3GPP
-- id: '16986'
-  type: rapporteurId
 docnumber: TR 36.853:Rel-12/2.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: GRANT, Marc
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T GNS Belgium SPRL
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-146862
+  content: R4-146862
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

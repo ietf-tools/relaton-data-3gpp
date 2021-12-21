@@ -9,20 +9,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.717-03-01:Rel-17/0.3.0
+  id: 3GPP TR 36.717-03-01:Rel-17/0.3.0
   type: 3GPP
-- id: '73473'
-  type: rapporteurId
 docnumber: TR 36.717-03-01:Rel-17/0.3.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Qian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HiSilicon Technologies Co. Ltd
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

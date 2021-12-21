@@ -9,22 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.816:Rel-10/10.0.0
+  id: 3GPP TR 33.816:Rel-10/10.0.0
   type: 3GPP
-- id: '24089'
-  type: rapporteurId
 docnumber: TR 33.816:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-03-29'
 - type: confirmed
   value: '2011-03-29'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: ESCOTT, Adrian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.182:Rel-9/9.0.0
+  id: 3GPP TS 23.182:Rel-9/9.0.0
   type: 3GPP
-- id: '648'
-  type: rapporteurId
 docnumber: TS 23.182:Rel-9/9.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: POPE, Maurice
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: Automatic upgrade from previous Release
   type: comment
@@ -19,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

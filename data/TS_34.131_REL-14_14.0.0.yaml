@@ -10,17 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 34.131:Rel-14/14.0.0
+  id: 3GPP TS 34.131:Rel-14/14.0.0
   type: 3GPP
-- id: '12666'
-  type: rapporteurId
 docnumber: TS 34.131:Rel-14/14.0.0
 date:
   type: confirmed
   value: '2005-01-31'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KRUSE, Heiko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Morpho Cards GmbH
+  role: author
 language: en
 script: Latn
 abstract:
@@ -31,13 +37,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C6
+  name: C6
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: e

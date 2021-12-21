@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 31.901:Rel-13/2.0.0
+  id: 3GPP TR 31.901:Rel-13/2.0.0
   type: 3GPP
-- id: '1533'
-  type: rapporteurId
 docnumber: TR 31.901:Rel-13/2.0.0
 date:
 - type: created
   value: '2015-01-06'
 - type: confirmed
   value: '2015-01-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: DOIG, Ian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BlackBerry UK Limited
+  role: author
 biblionote:
   content: CP-140952
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C6

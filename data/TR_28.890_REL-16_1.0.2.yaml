@@ -10,20 +10,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.890:Rel-16/1.0.2
+  id: 3GPP TR 28.890:Rel-16/1.0.2
   type: 3GPP
-- id: '7599'
-  type: rapporteurId
 docnumber: TR 28.890:Rel-16/1.0.2
+contributor:
+  person:
+    name:
+      completename:
+        content: CORNILY, Jean Michel
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Based on predecessor TR 28.900 v1.0.1. ^ 2019-01-04: First version of
+  content: 'Based on predecessor TR 28.900 v1.0.1. ^ 2019-01-04: First version of
     TR 28.890 (was previously TR 28.900)'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.899:Rel-6/1.0.0
+  id: 3GPP TR 23.899:Rel-6/1.0.0
   type: 3GPP
-- id: '6144'
-  type: rapporteurId
 docnumber: TR 23.899:Rel-6/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WATSON, Mark
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Digital Fountain
+  role: author
 biblionote:
   content: SP-040748
   type: comment
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S2
+  name: S2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '6'

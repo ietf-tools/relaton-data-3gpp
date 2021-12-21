@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.816:Rel-10/0.3.1
+  id: 3GPP TR 36.816:Rel-10/0.3.1
   type: 3GPP
-- id: '36615'
-  type: rapporteurId
 docnumber: TR 36.816:Rel-10/0.3.1
 date:
   type: confirmed
   value: '2011-06-24'
+contributor:
+  person:
+    name:
+      completename:
+        content: HU, Zhenping
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
 - content: 'RP-52: timed out of Rel-10.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R2

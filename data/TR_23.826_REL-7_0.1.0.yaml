@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.826:Rel-7/0.1.0
+  id: 3GPP TR 23.826:Rel-7/0.1.0
   type: 3GPP
-- id: '15534'
-  type: rapporteurId
 docnumber: TR 23.826:Rel-7/0.1.0
 date:
 - type: created
   value: '2007-09-24'
 - type: confirmed
   value: '2006-08-11'
+contributor:
+  person:
+    name:
+      completename:
+        content: EDGE, Stephen
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
 - content: 'SP-41: timed out of Rel-7.'
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

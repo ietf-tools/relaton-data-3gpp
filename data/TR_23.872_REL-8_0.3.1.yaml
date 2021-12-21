@@ -7,14 +7,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.872:Rel-8/0.3.1
+  id: 3GPP TR 23.872:Rel-8/0.3.1
   type: 3GPP
-- id: '53080'
-  type: rapporteurId
 docnumber: TR 23.872:Rel-8/0.3.1
 date:
   type: confirmed
   value: '2008-06-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: WANG, Jing
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
 - content: 'SP-41: WI had been moved to Rel-9 in view of projected FS completion date,
     but finished early, so reverted to Rel-8.'
@@ -23,7 +32,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

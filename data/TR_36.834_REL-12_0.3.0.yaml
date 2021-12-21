@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.834:Rel-12/0.3.0
+  id: 3GPP TR 36.834:Rel-12/0.3.0
   type: 3GPP
-- id: '45686'
-  type: rapporteurId
 docnumber: TR 36.834:Rel-12/0.3.0
 date:
   type: created
   value: '2013-04-25'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: CUI, Fei
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

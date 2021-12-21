@@ -9,17 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.820:Rel-17/0.7.0
+  id: 3GPP TR 29.820:Rel-17/0.7.0
   type: 3GPP
-- id: '57977'
-  type: rapporteurId
 docnumber: TR 29.820:Rel-17/0.7.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SONG, Yue
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

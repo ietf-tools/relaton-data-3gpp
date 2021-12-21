@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.980:Rel-7/0.1.0
+  id: 3GPP TR 22.980:Rel-7/0.1.0
   type: 3GPP
-- id: '12543'
-  type: rapporteurId
 docnumber: TR 22.980:Rel-7/0.1.0
 date:
 - type: created
   value: '2006-03-20'
 - type: confirmed
   value: '2009-02-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: SWETINA, Joerg
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NEC Europe Ltd
+  role: author
 biblionote:
   content: Timed out of Rel-7.
   type: remark
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

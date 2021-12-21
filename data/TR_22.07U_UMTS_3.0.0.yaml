@@ -6,23 +6,30 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 22.07U:UMTS/3.0.0
+  id: 3GPP TR 22.07U:UMTS/3.0.0
   type: 3GPP
-- id: '13046'
-  type: rapporteurId
 docnumber: TR 22.07U:UMTS/3.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SMOLANDER, Jouni
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Corporation
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG01 / SMG09 / SMG02
   type: former
 radiotechnology: 2G

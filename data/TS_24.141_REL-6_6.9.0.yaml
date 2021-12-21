@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.141:Rel-6/6.9.0
+  id: 3GPP TS 24.141:Rel-6/6.9.0
   type: 3GPP
-- id: '36348'
-  type: rapporteurId
 docnumber: TS 24.141:Rel-6/6.9.0
 date:
 - type: created
   value: '2007-09-25'
 - type: confirmed
   value: '2004-06-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: LAUSTER, Reinhard
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
   content: 'NP-26: Expect completion by NP-27.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

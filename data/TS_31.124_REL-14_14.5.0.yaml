@@ -10,29 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 31.124:Rel-14/14.5.0
+  id: 3GPP TS 31.124:Rel-14/14.5.0
   type: 3GPP
-- id: '62635'
-  type: rapporteurId
 docnumber: TS 31.124:Rel-14/14.5.0
 date:
   type: confirmed
   value: '2010-04-13'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: MARQUORDT, Arne
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Comprion GmbH
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: C6
+  name: C6
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: e

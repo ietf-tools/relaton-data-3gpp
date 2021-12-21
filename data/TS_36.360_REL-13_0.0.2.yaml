@@ -10,25 +10,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 36.360:Rel-13/0.0.2
+  id: 3GPP TS 36.360:Rel-13/0.0.2
   type: 3GPP
-- id: '20814'
-  type: rapporteurId
 docnumber: TS 36.360:Rel-13/0.0.2
 date:
   type: confirmed
   value: '2017-04-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: YI, SeungJune
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: LG Electronics Inc.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R2-161986
+  content: R2-161986
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: R2

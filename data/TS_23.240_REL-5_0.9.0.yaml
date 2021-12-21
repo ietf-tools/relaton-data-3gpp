@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 23.240:Rel-5/0.9.0
+  id: 3GPP TS 23.240:Rel-5/0.9.0
   type: 3GPP
-- id: '3777'
-  type: rapporteurId
 docnumber: TS 23.240:Rel-5/0.9.0
 date:
   type: confirmed
   value: '2011-03-29'
+contributor:
+  person:
+    name:
+      completename:
+        content: KOSKINEN, Harri
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VTT
+  role: author
 biblionote:
   content: "-> Rel-6"
   type: remark
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

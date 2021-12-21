@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.873:Rel-12/12.5.1
+  id: 3GPP TR 36.873:Rel-12/12.5.1
   type: 3GPP
-- id: '55798'
-  type: rapporteurId
 docnumber: TR 36.873:Rel-12/12.5.1
 date:
   type: confirmed
   value: '2014-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: MONDAL, Bishwarup
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (I)
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'Table formatting issue: UMa LOS probability in Table 7.2-2 is made fully
+  content: 'Table formatting issue: UMa LOS probability in Table 7.2-2 is made fully
     visible'
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R1

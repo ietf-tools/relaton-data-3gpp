@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.808:Rel-7/2.0.0
+  id: 3GPP TR 32.808:Rel-7/2.0.0
   type: 3GPP
-- id: '26910'
-  type: rapporteurId
 docnumber: TR 32.808:Rel-7/2.0.0
 date:
 - type: created
   value: '2007-05-23'
 - type: confirmed
   value: '2006-07-17'
+contributor:
+  person:
+    name:
+      completename:
+        content: ABA, Istvan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies Sweden AB
+  role: author
 biblionote:
 - content: 'SP-36: WI is Rel-7, but draft presented for approval as Rel-8 because
     no extension granted to the WI.'
@@ -31,7 +40,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 44.933:Rel-6/1.3.0
+  id: 3GPP TR 44.933:Rel-6/1.3.0
   type: 3GPP
-- id: '20650'
-  type: rapporteurId
 docnumber: TR 44.933:Rel-6/1.3.0
 date:
   type: confirmed
   value: '2003-05-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: GESSNER, Christina
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: Work stopped at GP-32.
   type: comment
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: G2
+  name: G2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

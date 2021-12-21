@@ -10,19 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.874:Rel-18/0.2.0
+  id: 3GPP TR 22.874:Rel-18/0.2.0
   type: 3GPP
-- id: '67727'
-  type: rapporteurId
 docnumber: TR 22.874:Rel-18/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: SHEN, Jia
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Guangdong OPPO Mobile Telecom.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: from S1-204352
+  content: from S1-204352
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.414:Rel-5/5.0.0
+  id: 3GPP TS 25.414:Rel-5/5.0.0
   type: 3GPP
-- id: '45408'
-  type: rapporteurId
 docnumber: TS 25.414:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2009-01-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHI, Nianshan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 abstract:
@@ -27,13 +36,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: 3G

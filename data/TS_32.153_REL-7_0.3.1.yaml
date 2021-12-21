@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 32.153:Rel-7/0.3.1
+  id: 3GPP TS 32.153:Rel-7/0.3.1
   type: 3GPP
-- id: '14104'
-  type: rapporteurId
 docnumber: TS 32.153:Rel-7/0.3.1
 date:
 - type: created
   value: '2008-01-23'
 - type: confirmed
   value: '2008-01-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: PETERSEN, Robert
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: 'SP-39: work moved to Rel-8.'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

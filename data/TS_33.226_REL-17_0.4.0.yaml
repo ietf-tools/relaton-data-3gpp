@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 33.226:Rel-17/0.4.0
+  id: 3GPP TS 33.226:Rel-17/0.4.0
   type: 3GPP
-- id: '49401'
-  type: rapporteurId
 docnumber: TS 33.226:Rel-17/0.4.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZHANG, Bo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: HUAWEI TECHNOLOGIES Co. Ltd.
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S3-210754
+  content: S3-210754
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S3

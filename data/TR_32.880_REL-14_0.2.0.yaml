@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.880:Rel-14/0.2.0
+  id: 3GPP TR 32.880:Rel-14/0.2.0
   type: 3GPP
-- id: '53694'
-  type: rapporteurId
 docnumber: TR 32.880:Rel-14/0.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HU, Yaxi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Com. Corporation
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'S5-163400 ^ 2016-06-28: S5-163400'
+  content: 'S5-163400 ^ 2016-06-28: S5-163400'
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

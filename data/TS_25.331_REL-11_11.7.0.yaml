@@ -9,20 +9,27 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 25.331:Rel-11/11.7.0
+  id: 3GPP TS 25.331:Rel-11/11.7.0
   type: 3GPP
-- id: '69655'
-  type: rapporteurId
 docnumber: TS 25.331:Rel-11/11.7.0
 date:
 - type: created
   value: '2013-09-19'
 - type: confirmed
   value: '2006-04-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson India Private Limited
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: See important information at http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331_readme.txt
+  content: See important information at http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331_readme.txt
     .
   type: comment
 language: en
@@ -36,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: RP

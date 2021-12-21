@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.108:Rel-5/5.0.0
+  id: 3GPP TS 23.108:Rel-5/5.0.0
   type: 3GPP
-- id: '80545'
-  type: rapporteurId
 docnumber: TS 23.108:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2008-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Guangdong OPPO Mobile Telecom.
+  role: author
 biblionote:
   content: '2002-04-15: N1-23 decision to continue to Rel-5.'
   type: remark
@@ -31,13 +40,11 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
-- name: "-"
-  type: other
 - name: N1
   type: former
 radiotechnology: 2G

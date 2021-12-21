@@ -9,18 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.003:Rel-12/12.9.0
+  id: 3GPP TS 23.003:Rel-12/12.9.0
   type: 3GPP
-- id: '15130'
-  type: rapporteurId
 docnumber: TS 23.003:Rel-12/12.9.0
 date:
   type: confirmed
   value: '2004-01-12'
+contributor:
+  person:
+    name:
+      completename:
+        content: WILD, Peter A.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Vodafone GmbH
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: 'This version was uploaded with the following quality checks failures:
+  content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing date in cover page;Automatic numbering (of clauses, figures, tables,
     notes, examples etc…) should be disabled in the document;The first two lines of
     the title mu...'
@@ -30,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
-- name: "-"
-  type: other
 - name: N4
   type: former
 radiotechnology: 2G

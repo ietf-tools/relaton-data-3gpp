@@ -9,27 +9,34 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 24.525:Rel-12/1.0.0
+  id: 3GPP TS 24.525:Rel-12/1.0.0
   type: 3GPP
-- id: '43940'
-  type: rapporteurId
 docnumber: TS 24.525:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-06-13'
 - type: confirmed
   value: '2014-09-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: KREIPL, Michael
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Deutsche Telekom AG
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CP-140280
+  content: CP-140280
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C1

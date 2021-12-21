@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.992:Rel-6/1.3.0
+  id: 3GPP TR 25.992:Rel-6/1.3.0
   type: 3GPP
-- id: '25740'
-  type: rapporteurId
 docnumber: TR 25.992:Rel-6/1.3.0
 date:
   type: confirmed
   value: '2011-04-06'
+contributor:
+  person:
+    name:
+      completename:
+        content: PIRSKANEN, Juho
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
   content: RP-030016
   type: comment
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

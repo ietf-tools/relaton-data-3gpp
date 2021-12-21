@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.01U:UMTS/3.5.1
+  id: 3GPP TR 30.01U:UMTS/3.5.1
   type: 3GPP
-- id: '9883'
-  type: rapporteurId
 docnumber: TR 30.01U:UMTS/3.5.1
+contributor:
+  person:
+    name:
+      completename:
+        content: SAMUKIC, Antun
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
   content: "#22: 3.0.0  #23: 3.1.0  #24: 3.2.0  #25: 3.3.0  #26: 3.4.0  #27: 3.5.1"
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
-- name: "-"
-  type: other
 - name: SMG
   type: former
 release:

@@ -10,26 +10,33 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.998:R99/3.1.0
+  id: 3GPP TR 29.998:R99/3.1.0
   type: 3GPP
-- id: '16701'
-  type: rapporteurId
 docnumber: TR 29.998:R99/3.1.0
 date:
   type: confirmed
   value: '2005-09-30'
+contributor:
+  person:
+    name:
+      completename:
+        content: UNMEHOPA, Musa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Philips International B.V.
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: CP
   type: prime
-- name: "-"
-  type: other
 - name: N5
   type: former
 radiotechnology: 2G

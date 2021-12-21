@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 26.951:Rel-11/2.0.0
+  id: 3GPP TR 26.951:Rel-11/2.0.0
   type: 3GPP
-- id: '45144'
-  type: rapporteurId
 docnumber: TR 26.951:Rel-11/2.0.0
 date:
   type: created
   value: '2012-12-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: LIU, Hang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: InterDigital Communications
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: SP-120762 Not suitable for .9xx TR, so converted to .8xx internal document
+  content: SP-120762 Not suitable for .9xx TR, so converted to .8xx internal document
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S4

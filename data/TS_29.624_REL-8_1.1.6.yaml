@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 29.624:Rel-8/1.1.6
+  id: 3GPP TS 29.624:Rel-8/1.1.6
   type: 3GPP
-- id: '637'
-  type: rapporteurId
 docnumber: TS 29.624:Rel-8/1.1.6
 date:
 - type: created
   value: '2008-03-28'
 - type: confirmed
   value: '2008-03-28'
+contributor:
+  person:
+    name:
+      completename:
+        content: MEREDITH, John M
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: 'CP-46: Identical to 29.424 v8.0.0.  Stop?'
   type: remark
@@ -28,7 +37,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: C4

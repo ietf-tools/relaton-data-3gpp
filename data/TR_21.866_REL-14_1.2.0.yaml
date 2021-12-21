@@ -9,22 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 21.866:Rel-14/1.2.0
+  id: 3GPP TR 21.866:Rel-14/1.2.0
   type: 3GPP
-- id: '13274'
-  type: rapporteurId
 docnumber: TR 21.866:Rel-14/1.2.0
+contributor:
+  person:
+    name:
+      completename:
+        content: CHEN, Xiaobao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Orange
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: Updated with approved pCRs after TSG SA#75
+  content: Updated with approved pCRs after TSG SA#75
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: SP

@@ -9,23 +9,19 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 10.01:R97/0.0.2
+  id: 3GPP TR 10.01:R97/0.0.2
   type: 3GPP
-- id: '0'
-  type: rapporteurId
 docnumber: TR 10.01:R97/0.0.2
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: SMG3
+  name: SMG3
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

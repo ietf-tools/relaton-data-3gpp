@@ -11,17 +11,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 37.825:Rel-16/16.0.0
+  id: 3GPP TR 37.825:Rel-16/16.0.0
   type: 3GPP
-- id: '61868'
-  type: rapporteurId
 docnumber: TR 37.825:Rel-16/16.0.0
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: SHAO, Zhe
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Mobile Group Device Co.
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

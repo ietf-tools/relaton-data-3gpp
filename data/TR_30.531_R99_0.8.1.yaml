@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.531:R99/0.8.1
+  id: 3GPP TR 30.531:R99/0.8.1
   type: 3GPP
-- id: '21609'
-  type: rapporteurId
 docnumber: TR 30.531:R99/0.8.1
 date:
   type: confirmed
   value: '2011-09-05'
+contributor:
+  person:
+    name:
+      completename:
+        content: KORHONEN, Juha
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: '2003-01-14: R99 stopped. Work continues, but for later Release.  Skip
     straight to Rel-6'
@@ -26,13 +35,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
-- name: "-"
-  type: other
 - name: R3
   type: former
 radiotechnology: LTE

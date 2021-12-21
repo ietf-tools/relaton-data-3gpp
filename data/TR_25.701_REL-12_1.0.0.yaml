@@ -9,25 +9,32 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.701:Rel-12/1.0.0
+  id: 3GPP TR 25.701:Rel-12/1.0.0
   type: 3GPP
-- id: '46713'
-  type: rapporteurId
 docnumber: TR 25.701:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-09-12'
 - type: confirmed
   value: '2013-12-20'
+contributor:
+  person:
+    name:
+      completename:
+        content: HAN, Xiao
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: RP-131261 shows v0.3.0 on cover, but no update to history box; is a rapporteur's
+  content: RP-131261 shows v0.3.0 on cover, but no update to history box; is a rapporteur's
     draft, not agreed by WG.
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: RP

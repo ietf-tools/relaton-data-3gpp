@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 27.104:Rel-5/0.1.1
+  id: 3GPP TS 27.104:Rel-5/0.1.1
   type: 3GPP
-- id: '19918'
-  type: rapporteurId
 docnumber: TS 27.104:Rel-5/0.1.1
+contributor:
+  person:
+    name:
+      completename:
+        content: LOCKHART, Rob
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Motorola Inc.
+  role: author
 biblionote:
 - content: 'TSG#11:Rel4->Rel5.  2003-01-31: T2 Secretary confirmst that this spec
     is scrapped.'
@@ -25,13 +34,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
-- name: T2
+  name: T2
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 3G
 release:
   version2g: '5'

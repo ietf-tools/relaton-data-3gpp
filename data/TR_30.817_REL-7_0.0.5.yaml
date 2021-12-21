@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.817:Rel-7/0.0.5
+  id: 3GPP TR 30.817:Rel-7/0.0.5
   type: 3GPP
-- id: '915'
-  type: rapporteurId
 docnumber: TR 30.817:Rel-7/0.0.5
 date:
 - type: created
   value: '2006-05-24'
 - type: confirmed
   value: '2006-03-03'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZOICAS, Adrian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: ETSI
+  role: author
 biblionote:
   content: S5-060212, S5-060312
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

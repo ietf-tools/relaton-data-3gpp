@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 30.002:Rel-4/4.0.0
+  id: 3GPP TR 30.002:Rel-4/4.0.0
   type: 3GPP
-- id: '6963'
-  type: rapporteurId
 docnumber: TR 30.002:Rel-4/4.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (S)
+  role: author
 biblionote:
   content: '2002-03-10: WG Chairman: Unwithdrawn.  post-NP-16: No Rel-5 needed.'
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: N4
+  name: N4
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '4'

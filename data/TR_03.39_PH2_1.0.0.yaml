@@ -8,11 +8,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 03.39:Ph2/1.0.0
+  id: 3GPP TR 03.39:Ph2/1.0.0
   type: 3GPP
-- id: '1201'
-  type: rapporteurId
 docnumber: TR 03.39:Ph2/1.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HARRIS, Ian
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: "#16: 4.0.0 TSG#9:withdrawn cos contains misleading information/references"
   type: remark
@@ -21,13 +30,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: T2
   type: prime
-- name: "-"
-  type: other
 - name: T2  /  SMG04
   type: former
 radiotechnology: 2G

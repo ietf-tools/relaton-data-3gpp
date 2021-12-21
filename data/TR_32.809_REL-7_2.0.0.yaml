@@ -10,22 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 32.809:Rel-7/2.0.0
+  id: 3GPP TR 32.809:Rel-7/2.0.0
   type: 3GPP
-- id: '35675'
-  type: rapporteurId
 docnumber: TR 32.809:Rel-7/2.0.0
 date:
 - type: created
   value: '2006-11-19'
 - type: confirmed
   value: '2006-12-15'
+contributor:
+  person:
+    name:
+      completename:
+        content: DUGUAY, Jean
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: SP-060755
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

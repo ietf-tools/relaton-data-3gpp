@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 28.553:Rel-15/0.0.0
+  id: 3GPP TS 28.553:Rel-15/0.0.0
   type: 3GPP
-- id: '66963'
-  type: rapporteurId
 docnumber: TS 28.553:Rel-15/0.0.0
+contributor:
+  person:
+    name:
+      completename:
+        content: YAO, Yizhi
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Intel Corporation (UK) Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5-176547
+  content: S5-176547
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S5

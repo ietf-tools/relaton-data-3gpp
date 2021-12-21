@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 03.01:Ph2/4.0.1
+  id: 3GPP TS 03.01:Ph2/4.0.1
   type: 3GPP
-- id: '1718'
-  type: rapporteurId
 docnumber: TS 03.01:Ph2/4.0.1
+contributor:
+  person:
+    name:
+      completename:
+        content: GAASVIK, Per-Ola
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: COMVIQ GSM AB
+  role: author
 biblionote:
   content: "#7: 4.0.1"
   type: remark
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2

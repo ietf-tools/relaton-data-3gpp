@@ -9,23 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 36.789:Rel-13/1.0.0
+  id: 3GPP TR 36.789:Rel-13/1.0.0
   type: 3GPP
-- id: '57720'
-  type: rapporteurId
 docnumber: TR 36.789:Rel-13/1.0.0
 date:
   type: confirmed
   value: '2017-06-22'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: IMADUR, Rahman
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

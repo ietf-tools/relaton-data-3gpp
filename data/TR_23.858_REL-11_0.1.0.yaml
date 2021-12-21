@@ -9,25 +9,21 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.858:Rel-11/0.1.0
+  id: 3GPP TR 23.858:Rel-11/0.1.0
   type: 3GPP
-- id: '39727'
-  type: rapporteurId
 docnumber: TR 23.858:Rel-11/0.1.0
 date:
   type: created
   value: '2011-08-16'
 biblionote:
-- content: "."
-  type: remark
-- content: S1-112423, shows wrong TR number on cover
+  content: S1-112423, shows wrong TR number on cover
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2

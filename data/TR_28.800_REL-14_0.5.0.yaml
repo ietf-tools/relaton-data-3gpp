@@ -10,22 +10,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 28.800:Rel-14/0.5.0
+  id: 3GPP TR 28.800:Rel-14/0.5.0
   type: 3GPP
-- id: '35534'
-  type: rapporteurId
 docnumber: TR 28.800:Rel-14/0.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: ZOU, Lan
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Tech.(UK) Co.. Ltd
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: S5A-170276
+  content: S5A-170276
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S5

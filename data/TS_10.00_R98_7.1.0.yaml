@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 10.00:R98/7.1.0
+  id: 3GPP TS 10.00:R98/7.1.0
   type: 3GPP
-- id: '23377'
-  type: rapporteurId
 docnumber: TS 10.00:R98/7.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: BERTENYI, Balazs
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks
+  role: author
 biblionote:
 - content: "#27: 7D1.0"
   type: remark
@@ -18,13 +27,11 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: SMG12
   type: former
 radiotechnology: 2G

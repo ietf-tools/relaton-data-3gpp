@@ -9,23 +9,30 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 02.04:R96/5.7.3
+  id: 3GPP TS 02.04:R96/5.7.3
   type: 3GPP
-- id: '33195'
-  type: rapporteurId
 docnumber: TS 02.04:R96/5.7.3
+contributor:
+  person:
+    name:
+      completename:
+        content: KIM, Youngae
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
-- name: "-"
-  type: other
 - name: S1  /  SMG01
   type: former
 radiotechnology: 2G

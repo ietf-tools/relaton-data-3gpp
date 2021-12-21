@@ -7,25 +7,32 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 36.844:Rel-12/0.0.1
+  id: 3GPP TR 36.844:Rel-12/0.0.1
   type: 3GPP
-- id: '54858'
-  type: rapporteurId
 docnumber: TR 36.844:Rel-12/0.0.1
 date:
   type: confirmed
   value: '2014-07-04'
+contributor:
+  person:
+    name:
+      completename:
+        content: ALIANI, Maqbool
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ligado Networks
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: R4-131688, R4-131979
+  content: R4-131688, R4-131979
   type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

@@ -6,11 +6,20 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 23.822:Rel-8/0.1.0
+  id: 3GPP TR 23.822:Rel-8/0.1.0
   type: 3GPP
-- id: '50657'
-  type: rapporteurId
 docnumber: TR 23.822:Rel-8/0.1.0
+contributor:
+  person:
+    name:
+      completename:
+        content: MAZZARELLA, Nick
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Alcatel-Lucent
+  role: author
 biblionote:
   content: 'SP-43: work abandoned.'
   type: remark
@@ -19,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

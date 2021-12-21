@@ -10,25 +10,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 23.401:Rel-11/11.2.0
+  id: 3GPP TS 23.401:Rel-11/11.2.0
   type: 3GPP
-- id: '1122'
-  type: rapporteurId
 docnumber: TS 23.401:Rel-11/11.2.0
 date:
 - type: created
   value: '2012-06-22'
 - type: confirmed
   value: '2007-09-18'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: PUDNEY, Chris
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: VODAFONE Group Plc
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
   name: S2

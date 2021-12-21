@@ -9,11 +9,20 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.923:R99/0.5.0
+  id: 3GPP TR 23.923:R99/0.5.0
   type: 3GPP
-- id: '13092'
-  type: rapporteurId
 docnumber: TR 23.923:R99/0.5.0
+contributor:
+  person:
+    name:
+      completename:
+        content: HUBBARD, Elisabeth
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Waiting for new Company
+  role: author
 biblionote:
   content: 'July 2001: (Sultan) contents out of date. Replaced by 23.228.'
   type: remark
@@ -22,13 +31,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
-- name: "-"
-  type: other
 - name: S2
   type: former
 radiotechnology: 2G

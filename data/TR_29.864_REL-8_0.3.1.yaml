@@ -9,19 +9,28 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 29.864:Rel-8/0.3.1
+  id: 3GPP TR 29.864:Rel-8/0.3.1
   type: 3GPP
-- id: '6963'
-  type: rapporteurId
 docnumber: TR 29.864:Rel-8/0.3.1
 date:
 - type: created
   value: '2008-03-20'
 - type: confirmed
   value: '2009-02-13'
+contributor:
+  person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Solutions & Networks (S)
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: C4

@@ -6,14 +6,23 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TS 01.02:Ph2/1.1.0
+  id: 3GPP TS 01.02:Ph2/1.1.0
   type: 3GPP
-- id: '4035'
-  type: rapporteurId
 docnumber: TS 01.02:Ph2/1.1.0
 date:
   type: confirmed
   value: '2011-01-26'
+contributor:
+  person:
+    name:
+      completename:
+        content: SCARRONE, Enrico
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: TELECOM ITALIA S.p.A.
+  role: author
 biblionote:
   content: 156/88r1
   type: comment
@@ -22,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S1

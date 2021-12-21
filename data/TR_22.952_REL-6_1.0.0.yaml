@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.952:Rel-6/1.0.0
+  id: 3GPP TR 22.952:Rel-6/1.0.0
   type: 3GPP
-- id: '14754'
-  type: rapporteurId
 docnumber: TR 22.952:Rel-6/1.0.0
 date:
   type: confirmed
   value: '2003-09-23'
+contributor:
+  person:
+    name:
+      completename:
+        content: GARRAHAN, James
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Applied Communication Sciences
+  role: author
 biblionote:
 - content: 'SP-21: S2: "No stage 2 TS needed." Target is to approve at SP-22.  SP-22:
     Concerns that the TR may have been drafted  to meet US legislation only.'
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
-- name: S1
+  name: S1
   type: prime
-- name: "-"
-  type: other
 radiotechnology: 2G
 release:
   version2g: '6'

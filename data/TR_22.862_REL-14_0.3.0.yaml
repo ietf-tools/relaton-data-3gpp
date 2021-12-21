@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.862:Rel-14/0.3.0
+  id: 3GPP TR 22.862:Rel-14/0.3.0
   type: 3GPP
-- id: '6922'
-  type: rapporteurId
 docnumber: TR 22.862:Rel-14/0.3.0
 date:
   type: confirmed
   value: '2018-06-22'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: KANERVA, Mikko
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

@@ -6,17 +6,26 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 25.810:Rel-7/0.0.1
+  id: 3GPP TR 25.810:Rel-7/0.0.1
   type: 3GPP
-- id: '23460'
-  type: rapporteurId
 docnumber: TR 25.810:Rel-7/0.0.1
 date:
   type: confirmed
   value: '2005-06-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: SÄYNÄJÄKANGAS, Tuomo
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Nokia Networks Oy
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

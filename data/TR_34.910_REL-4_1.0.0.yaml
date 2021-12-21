@@ -10,14 +10,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 34.910:Rel-4/1.0.0
+  id: 3GPP TR 34.910:Rel-4/1.0.0
   type: 3GPP
-- id: '16176'
-  type: rapporteurId
 docnumber: TR 34.910:Rel-4/1.0.0
 date:
   type: confirmed
   value: '2001-10-25'
+contributor:
+  person:
+    name:
+      completename:
+        content: NIELSEN, Bjarke
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Qualcomm CDMA Technologies
+  role: author
 biblionote:
 - content: '2007-08-20: Propose to abaondon at RP-37.'
   type: remark
@@ -28,13 +37,11 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R5
   type: prime
-- name: "-"
-  type: other
 - name: T1
   type: former
 radiotechnology: 3G

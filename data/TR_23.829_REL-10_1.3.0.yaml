@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.829:Rel-10/1.3.0
+  id: 3GPP TR 23.829:Rel-10/1.3.0
   type: 3GPP
-- id: '25646'
-  type: rapporteurId
 docnumber: TR 23.829:Rel-10/1.3.0
 date:
 - type: created
   value: '2010-09-28'
 - type: confirmed
   value: '2011-10-18'
+contributor:
+  person:
+    name:
+      completename:
+        content: HÉDÉ, Patrice
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Huawei Technologies France
+  role: author
 biblionote:
 - content: 'SP-51: Decided to approve TR at Rel-10.'
   type: remark
@@ -26,7 +35,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

@@ -10,16 +10,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.812:Rel-8/0.4.0
+  id: 3GPP TR 33.812:Rel-8/0.4.0
   type: 3GPP
-- id: '32764'
-  type: rapporteurId
 docnumber: TR 33.812:Rel-8/0.4.0
 date:
 - type: created
   value: '2008-07-23'
 - type: confirmed
   value: '2009-12-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEHTOVIRTA, Vesa
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Ericsson LM
+  role: author
 biblionote:
 - content: 'SP-43: timed out of Rel-8.'
   type: remark
@@ -30,7 +39,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

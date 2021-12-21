@@ -9,14 +9,23 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 33.849:Rel-12/0.3.0
+  id: 3GPP TR 33.849:Rel-12/0.3.0
   type: 3GPP
-- id: '57352'
-  type: rapporteurId
 docnumber: TR 33.849:Rel-12/0.3.0
 date:
   type: created
   value: '2014-08-19'
+contributor:
+  person:
+    name:
+      completename:
+        content: GAO, Feng
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: China Unicom
+  role: author
 biblionote:
   content: 'SP-65: timed out of Rel-12.'
   type: remark
@@ -25,7 +34,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S3

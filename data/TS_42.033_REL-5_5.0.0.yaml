@@ -9,20 +9,29 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TS 42.033:Rel-5/5.0.0
+  id: 3GPP TS 42.033:Rel-5/5.0.0
   type: 3GPP
-- id: '23753'
-  type: rapporteurId
 docnumber: TS 42.033:Rel-5/5.0.0
 date:
   type: confirmed
   value: '2001-11-14'
+contributor:
+  person:
+    name:
+      completename:
+        content: LEADBEATER, Alex
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: BT Group Plc
+  role: author
 language: en
 script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TS
 editorialgroup:
 - name: S3

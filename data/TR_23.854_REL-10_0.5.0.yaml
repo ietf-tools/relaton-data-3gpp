@@ -9,22 +9,31 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 23.854:Rel-10/0.5.0
+  id: 3GPP TR 23.854:Rel-10/0.5.0
   type: 3GPP
-- id: '54776'
-  type: rapporteurId
 docnumber: TR 23.854:Rel-10/0.5.0
 date:
 - type: created
   value: '2010-09-13'
 - type: confirmed
   value: '2011-06-08'
+contributor:
+  person:
+    name:
+      completename:
+        content: KATSUTOSHI, Nishida
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: NTT DOCOMO INC.
+  role: author
 biblionote:
   content: '2011-05: Timed out of Rel-10 and now depends from new WI #480135'
   type: remark
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S2

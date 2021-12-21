@@ -7,18 +7,25 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: 3GPP TR 37.902:Rel-11/11.2.0
+  id: 3GPP TR 37.902:Rel-11/11.2.0
   type: 3GPP
-- id: '43214'
-  type: rapporteurId
 docnumber: TR 37.902:Rel-11/11.2.0
 date:
   type: confirmed
   value: '2012-10-02'
+contributor:
+  person:
+    name:
+      completename:
+        content: AN, Xudong
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: CATR
+  role: author
 biblionote:
-- content: "."
-  type: remark
-- content: CR0003r1 written to wrong version, unimplementable. This version cannot
+  content: CR0003r1 written to wrong version, unimplementable. This version cannot
     be produced.
   type: comment
 language: en
@@ -26,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: R4

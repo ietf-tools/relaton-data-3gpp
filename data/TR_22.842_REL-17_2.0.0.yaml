@@ -10,20 +10,26 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 22.842:Rel-17/2.0.0
+  id: 3GPP TR 22.842:Rel-17/2.0.0
   type: 3GPP
-- id: '76756'
-  type: rapporteurId
 docnumber: TR 22.842:Rel-17/2.0.0
 date:
   type: confirmed
   value: '2019-06-20'
-biblionote:
-  content: "."
-  type: remark
+contributor:
+  person:
+    name:
+      completename:
+        content: NING, Yang
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: Beijing OPPO Com. corp., ltd
+  role: author
 language: en
 script: Latn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
   name: S1

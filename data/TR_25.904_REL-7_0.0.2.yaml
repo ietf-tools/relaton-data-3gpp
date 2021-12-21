@@ -9,16 +9,25 @@ link:
   type: src
 type: standard
 docid:
-- id: 3GPP TR 25.904:Rel-7/0.0.2
+  id: 3GPP TR 25.904:Rel-7/0.0.2
   type: 3GPP
-- id: '17264'
-  type: rapporteurId
 docnumber: TR 25.904:Rel-7/0.0.2
 date:
 - type: created
   value: '2006-09-07'
 - type: confirmed
   value: '2006-09-07'
+contributor:
+  person:
+    name:
+      completename:
+        content: ZELMER, Donald E.
+        language: en
+        script: Latn
+    affiliation:
+      organization:
+        name: AT&T
+  role: author
 biblionote:
   content: R2-062295 claims to be "version 0,0,1 draft 2!"
   type: comment
@@ -27,7 +36,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-13'
+fetched: '2021-12-21'
 doctype: TR
 editorialgroup:
 - name: R2
