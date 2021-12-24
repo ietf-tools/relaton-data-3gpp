@@ -2,7 +2,7 @@
 id: 3GPPTR33.916-Rel-13/0.6.0
 title:
   type: main
-  content: Security Assurance Methodology (SCAS) for 3GPP network products
+  content: Security Assurance Methodology (SECAM) for 3GPP network products
   format: text/plain
 link:
   content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.916/33916-060.zip
@@ -31,7 +31,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: S3

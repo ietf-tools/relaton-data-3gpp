@@ -2,7 +2,7 @@
 id: 3GPPTR29.829-Rel-17/1.1.0
 title:
   type: main
-  content: Study on Service-based support for SMS in 5GC
+  content: Service-based support for SMS in 5GC
   format: text/plain
 type: standard
 docid:
@@ -22,7 +22,7 @@ contributor:
   role: author
 language: en
 script: Latn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: C4

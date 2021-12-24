@@ -2,7 +2,7 @@
 id: 3GPPTR28.811-Rel-17/0.1.0
 title:
   type: main
-  content: Study on network slice management enhancement
+  content: Management and orchestration; Study on Network Slice Management Enhancement
   format: text/plain
 link:
   content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.811/28811-010.zip
@@ -28,7 +28,7 @@ biblionote:
   type: comment
 language: en
 script: Latn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: S5

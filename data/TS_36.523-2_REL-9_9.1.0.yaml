@@ -15,9 +15,7 @@ docid:
   type: 3GPP
 docnumber: TS 36.523-2:Rel-9/9.1.0
 date:
-- type: created
-  value: '2010-06-18'
-- type: confirmed
+  type: confirmed
   value: '2010-04-11'
 contributor:
   person:
@@ -35,7 +33,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TS
 editorialgroup:
   name: R5

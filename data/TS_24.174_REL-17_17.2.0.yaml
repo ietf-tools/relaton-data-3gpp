@@ -13,6 +13,9 @@ docid:
   id: 3GPP TS 24.174:Rel-17/17.2.0
   type: 3GPP
 docnumber: TS 24.174:Rel-17/17.2.0
+date:
+  type: confirmed
+  value: '2021-12-17'
 contributor:
   person:
     name:
@@ -29,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TS
 editorialgroup:
   name: C1

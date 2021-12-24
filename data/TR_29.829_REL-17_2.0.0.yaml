@@ -2,7 +2,7 @@
 id: 3GPPTR29.829-Rel-17/2.0.0
 title:
   type: main
-  content: Study on Service-based support for SMS in 5GC
+  content: Service-based support for SMS in 5GC
   format: text/plain
 link:
   content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.829/29829-200.zip
@@ -25,7 +25,7 @@ contributor:
   role: author
 language: en
 script: Latn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: C4

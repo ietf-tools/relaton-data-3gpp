@@ -5,6 +5,9 @@ title:
   content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT)
     Use Cases, Requirements and Potential Solutions
   format: text/plain
+link:
+  content: https://ftp.3gpp.org//Specs/archive/26_series/26.862/26862-005.zip
+  type: src
 type: standard
 docid:
   id: 3GPP TR 26.862:Rel-17/0.0.5
@@ -23,7 +26,7 @@ contributor:
   role: author
 language: en
 script: Latn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: S4

@@ -3,7 +3,7 @@ id: 3GPPTS33.522-Rel-17/0.0.0
 title:
   type: main
   content: 5G Security Assurance Specification (SCAS); Service Communication Proxy
-    (SECOP)
+    (SCP)
   format: text/plain
 link:
   content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.522/33522-000.zip
@@ -32,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TS
 editorialgroup:
   name: S3

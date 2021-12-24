@@ -24,15 +24,17 @@ contributor:
         name: Ericsson LM
   role: author
 biblionote:
-  content: '2015-01: This TR proposed to be superseded by 36.852-12 to harmonize TR
+- content: '2015-01: This TR proposed to be superseded by 36.852-12 to harmonize TR
     numbering.'
   type: remark
+- content: R4-125796
+  type: comment
 language: en
 script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: R4

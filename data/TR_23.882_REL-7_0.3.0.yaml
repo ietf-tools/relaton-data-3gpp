@@ -5,9 +5,6 @@ title:
   content: '3GPP system architecture evolution (SAE): Report on technical options
     and conclusions'
   format: text/plain
-link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-030.zip
-  type: src
 type: standard
 docid:
   id: 3GPP TR 23.882:Rel-7/0.3.0
@@ -35,7 +32,7 @@ script: Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: S2

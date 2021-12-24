@@ -4,6 +4,9 @@ title:
   type: main
   content: Uncrewed Aerial System Service Supplier (USS) Services; Stage 3
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.255/29255-100.zip
+  type: src
 type: standard
 docid:
   id: 3GPP TS 29.255:Rel-17/1.0.0
@@ -25,7 +28,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TS
 editorialgroup:
   name: C3

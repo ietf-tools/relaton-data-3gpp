@@ -2,7 +2,8 @@
 id: 3GPPTR32.846-Rel-17/1.0.0
 title:
   type: main
-  content: Study on charging aspects of Proximity-based Services (ProSe) in 5GS
+  content: Charging management; Study on charging aspects of Proximity-based Services
+    (ProSe) in 5GS
   format: text/plain
 link:
   content: https://ftp.3gpp.org//Specs/archive/32_series/32.846/32846-100.zip
@@ -25,7 +26,7 @@ contributor:
   role: author
 language: en
 script: Latn
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TR
 editorialgroup:
   name: S5

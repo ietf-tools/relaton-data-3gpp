@@ -5,6 +5,9 @@ title:
   content: 5G System; Time Sensitive Communication and Time Synchronization Function
     Services; Stage 3
   format: text/plain
+link:
+  content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.565/29565-100.zip
+  type: src
 type: standard
 docid:
   id: 3GPP TS 29.565:Rel-17/1.0.0
@@ -26,7 +29,7 @@ script: Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-21'
+fetched: '2021-12-24'
 doctype: TS
 editorialgroup:
   name: C3
