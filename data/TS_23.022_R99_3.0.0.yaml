@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS23.022-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Functions related to Mobile Station (MS) in idle mode and group receive
     mode
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.022/23022-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.022/23022-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.022:R99/3.0.0
+- id: 3GPP TS 23.022:R99/3.0.0
   type: 3GPP
 docnumber: TS 23.022:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: 3.1.0 dates from June 99
+- content: 3.1.0 dates from June 99
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: "-"

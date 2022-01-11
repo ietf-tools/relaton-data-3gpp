@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR26.916-Rel-13/0.1.0
 title:
-  type: main
+- type: main
   content: Media handling and Quality aspects of SRVCC
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.916/26916-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.916/26916-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.916:Rel-13/0.1.0
+- id: 3GPP TR 26.916:Rel-13/0.1.0
   type: 3GPP
 docnumber: TR 26.916:Rel-13/0.1.0
 date:
-  type: created
+- type: created
   value: '2015-07-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GABIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'S4-150664 ^ 2015-07-29: S4-150807'
+- content: 'S4-150664 ^ 2015-07-29: S4-150807'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

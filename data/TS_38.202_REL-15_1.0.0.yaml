@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS38.202-Rel-15/1.0.0
 title:
-  type: main
+- type: main
   content: NR; Services provided by the physical layer
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.202/38202-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.202/38202-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.202:Rel-15/1.0.0
+- id: 3GPP TS 38.202:Rel-15/1.0.0
   type: 3GPP
 docnumber: TS 38.202:Rel-15/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MANOLAKOS, Alexandros
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: For info to plenary in RP-172006
+- content: For info to plenary in RP-172006
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 5G
 release:

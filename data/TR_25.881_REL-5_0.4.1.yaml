@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.881-Rel-5/0.4.1
 title:
-  type: main
+- type: main
   content: Improvement of Radio Resource Management (RRM) across RNS and RNS/BSS
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.881:Rel-5/0.4.1
+- id: 3GPP TR 25.881:Rel-5/0.4.1
   type: 3GPP
 docnumber: TR 25.881:Rel-5/0.4.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HWANG, Woonhee
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: 04/12/2001
+- content: 04/12/2001
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

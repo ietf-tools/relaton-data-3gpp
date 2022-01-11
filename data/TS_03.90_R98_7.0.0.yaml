@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.90-R98/7.0.0
 title:
-  type: main
+- type: main
   content: Unstructured Supplementary Service Data (USSD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.90/0390-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.90/0390-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.90:R98/7.0.0
+- id: 3GPP TS 03.90:R98/7.0.0
   type: 3GPP
 docnumber: TS 03.90:R98/7.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GAY, Emmanuel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: "#29: 7.0.0"
+- content: "#29: 7.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

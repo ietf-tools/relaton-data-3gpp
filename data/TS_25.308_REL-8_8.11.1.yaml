@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.308-Rel-8/8.11.1
 title:
-  type: main
+- type: main
   content: High Speed Downlink Packet Access (HSDPA); Overall description; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-8b1.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.308/25308-8b1.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.308:Rel-8/8.11.1
+- id: 3GPP TS 25.308:Rel-8/8.11.1
   type: 3GPP
 docnumber: TS 25.308:Rel-8/8.11.1
 date:
@@ -18,29 +18,35 @@ date:
 - type: confirmed
   value: '2006-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
 biblionote:
-  content: editorial
+- content: editorial
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document is a technical specification of the overall support of High
+- content: This document is a technical specification of the overall support of High
     Speed Downlink Packet Access in U0.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

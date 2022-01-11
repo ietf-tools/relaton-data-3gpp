@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR37.876-Rel-15/0.1.0
 title:
-  type: main
+- type: main
   content: Study on eNB(s) Architecture Evolution for E-UTRAN and NG-RAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.876/37876-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.876/37876-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.876:Rel-15/0.1.0
+- id: 3GPP TR 37.876:Rel-15/0.1.0
   type: 3GPP
 docnumber: TR 37.876:Rel-15/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CAO, Gen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS32.272-Rel-6/0.0.2
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Push-to-talk over Cellular
     (PoC) charging
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.272/32272-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.272/32272-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.272:Rel-6/0.0.2
+- id: 3GPP TS 32.272:Rel-6/0.0.2
   type: 3GPP
 docnumber: TS 32.272:Rel-6/0.0.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARDELLA, Maryse
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: History claims that this is v0.1.0.
+- content: History claims that this is v0.1.0.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

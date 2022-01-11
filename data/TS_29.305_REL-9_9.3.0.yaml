@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS29.305-Rel-9/9.3.0
 title:
-  type: main
+- type: main
   content: InterWorking Function (IWF) between MAP based and Diameter based interfaces
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.305/29305-930.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.305/29305-930.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.305:Rel-9/9.3.0
+- id: 3GPP TS 29.305:Rel-9/9.3.0
   type: 3GPP
 docnumber: TS 29.305:Rel-9/9.3.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2008-12-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHI, Susan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

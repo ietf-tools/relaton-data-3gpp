@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR38.856-Rel-16/0.2.0
 title:
-  type: main
+- type: main
   content: Study on local NR positioning in NG-RAN
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/38_series/38.856/38856-020.zip
+- content: http://ftp.3gpp.org//Specs/archive/38_series/38.856/38856-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.856:Rel-16/0.2.0
+- id: 3GPP TR 38.856:Rel-16/0.2.0
   type: 3GPP
 docnumber: TR 38.856:Rel-16/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Liang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile International Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile International Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 5G
 release:

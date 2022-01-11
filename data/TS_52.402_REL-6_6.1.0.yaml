@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS52.402-Rel-6/6.1.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Performance Management (PM); Performance
     measurements - GSM
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/52_series/52.402/52402-610.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/52_series/52.402/52402-610.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 52.402:Rel-6/6.1.0
+- id: 3GPP TS 52.402:Rel-6/6.1.0
   type: 3GPP
 docnumber: TS 52.402:Rel-6/6.1.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2005-12-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

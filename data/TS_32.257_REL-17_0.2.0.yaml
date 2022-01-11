@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS32.257-Rel-17/0.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Edge Computing domain
     charging; stage 2
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-020.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.257:Rel-17/0.2.0
+- id: 3GPP TS 32.257:Rel-17/0.2.0
   type: 3GPP
 docnumber: TS 32.257:Rel-17/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YAO, Yizhi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: S5-216484
+- content: S5-216484
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

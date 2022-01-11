@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR09.94-Ph2/4.3.0
 title:
-  type: main
+- type: main
   content: Recommended infrastructure measures to overcome specific Mobile Station
     (MS) faults
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.94/0994-430.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.94/0994-430.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 09.94:Ph2/4.3.0
+- id: 3GPP TR 09.94:Ph2/4.3.0
   type: 3GPP
 docnumber: TR 09.94:Ph2/4.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-04-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HIETALAHTI, Hannu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: 'v4.x.x belongs to all releases from ph2 onwards.  2002-05-02 (Hietalahti):
+- content: 'v4.x.x belongs to all releases from ph2 onwards.  2002-05-02 (Hietalahti):
     Anticipate recast as null document pointing to latest Release version.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C1

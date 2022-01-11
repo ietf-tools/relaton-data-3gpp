@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.836-Rel-11/0.0.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.836:Rel-11/0.0.1
+- id: 3GPP TR 36.836:Rel-11/0.0.1
   type: 3GPP
 docnumber: TR 36.836:Rel-11/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HU, Haijing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
-  content: 'RP-57: moved to Rel-12.'
+- content: 'RP-57: moved to Rel-12.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

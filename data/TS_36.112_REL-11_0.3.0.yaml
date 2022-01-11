@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS36.112-Rel-11/0.3.0
 title:
-  type: main
+- type: main
   content: Location Measurement Unit (LMU) conformance specification;  Network based
     positioning systems in Evolved Universal Terrestrial Radio Access Network (E-UTRAN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.112/36112-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.112/36112-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.112:Rel-11/0.3.0
+- id: 3GPP TS 36.112:Rel-11/0.3.0
   type: 3GPP
 docnumber: TS 36.112:Rel-11/0.3.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2014-07-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BROOKS, Terri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TruePosition
-  role: author
+    - organization:
+        name:
+        - TruePosition
+  role:
+  - author
 biblionote:
-  content: R4-141379
+- content: R4-141379
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

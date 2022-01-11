@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR45.820-Rel-13/1.2.1
 title:
-  type: main
+- type: main
   content: Cellular system support for ultra-low complexity and low throughput Internet
     of Things (CIoT)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.820/45820-121.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.820/45820-121.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 45.820:Rel-13/1.2.1
+- id: 3GPP TR 45.820:Rel-13/1.2.1
   type: 3GPP
 docnumber: TR 45.820:Rel-13/1.2.1
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PUDNEY, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: draft
+- content: draft
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

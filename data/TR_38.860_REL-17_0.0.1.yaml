@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR38.860-Rel-17/0.0.1
 title:
-  type: main
+- type: main
   content: 'Study on extended 600MHz NR band '
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 38.860:Rel-17/0.0.1
+- id: 3GPP TR 38.860:Rel-17/0.0.1
   type: 3GPP
 docnumber: TR 38.860:Rel-17/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHAFI, Mansoor
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Spark NZ Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Spark NZ Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

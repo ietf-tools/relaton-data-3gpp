@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS29.172-Rel-12/12.6.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Evolved Packet Core (EPC) LCS Protocol (ELP) between
     the Gateway Mobile Location Centre (GMLC) and the Mobile Management Entity (MME);
     SLg interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/29_series/29.172/29172-c60.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/29_series/29.172/29172-c60.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.172:Rel-12/12.6.0
+- id: 3GPP TS 29.172:Rel-12/12.6.0
   type: 3GPP
 docnumber: TS 29.172:Rel-12/12.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DE GREGORIO, Jesus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

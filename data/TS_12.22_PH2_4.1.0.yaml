@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS12.22-Ph2/4.1.0
 title:
-  type: main
+- type: main
   content: Interworking of GSM Network Management (NM) Procedures and Messages at
     the Base Station Controller (BSC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.22/1222-410.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.22/1222-410.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 12.22:Ph2/4.1.0
+- id: 3GPP TS 12.22:Ph2/4.1.0
   type: 3GPP
 docnumber: TS 12.22:Ph2/4.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YUHAN, Albert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile USA Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile USA Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS08.01-R97/6.0.0
 title:
-  type: main
+- type: main
   content: General Aspects on the BSS-MSC Interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.01/0801-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.01/0801-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.01:R97/6.0.0
+- id: 3GPP TS 08.01:R97/6.0.0
   type: 3GPP
 docnumber: TS 08.01:R97/6.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

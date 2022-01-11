@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS44.035-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: GSM/EDGE Location Services (LCS); Broadcast network assistance for Enhanced
     Observed Time Difference (E-OTD) and Global Positioning System (GPS) positioning
     methods
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.035/44035-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.035/44035-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.035:Rel-11/11.0.0
+- id: 3GPP TS 44.035:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 44.035:Rel-11/11.0.0
 date:
@@ -20,27 +20,33 @@ date:
 - type: confirmed
   value: '2005-02-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DIACHINA, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Inc.
-  role: author
+    - organization:
+        name:
+        - Ericsson Inc.
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 10.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

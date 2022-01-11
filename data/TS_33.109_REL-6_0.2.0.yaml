@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS33.109-Rel-6/0.2.0
 title:
-  type: main
+- type: main
   content: Bootstrapping of application security using AKA and support for subscriber
     certificates; System description
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 33.109:Rel-6/0.2.0
+- id: 3GPP TS 33.109:Rel-6/0.2.0
   type: 3GPP
 docnumber: TS 33.109:Rel-6/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HAUKKA, Tao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: 'S3-30: to be split into four separate documents.'
+- content: 'S3-30: to be split into four separate documents.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.224-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Physical layer procedures (TDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.224/25224-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.224/25224-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.224:R99/3.0.0
+- id: 3GPP TS 25.224:R99/3.0.0
   type: 3GPP
 docnumber: TS 25.224:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOFMANN, Juergen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the physical layer procedures in the TDD mode
+- content: This specification describes the physical layer procedures in the TDD mode
     of UTRA.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS43.063-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Packet Data on Signalling channels service (PDS) Service description, Stage
     2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.063/43063-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.063/43063-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 43.063:Rel-4/4.0.0
+- id: 3GPP TS 43.063:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 43.063:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JACOBSOHN, Dieter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: '2002-02: Jorgensen: Not to be propagated to Rel-5.  2002-02-26: Hietalahti:
+- content: '2002-02: Jorgensen: Not to be propagated to Rel-5.  2002-02-26: Hietalahti:
     stage 1 work not continued beyond R99, so proposes to withdraw.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N1

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS25.307-Rel-5/5.13.0
 title:
-  type: main
+- type: main
   content: Requirements on User Equipments (UEs) supporting a release-independent
     frequency band
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.307/25307-5d0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.307/25307-5d0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.307:Rel-5/5.13.0
+- id: 3GPP TS 25.307:Rel-5/5.13.0
   type: 3GPP
 docnumber: TS 25.307:Rel-5/5.13.0
 date:
@@ -19,29 +19,35 @@ date:
 - type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOFMANN, Juergen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
 biblionote:
-  content: Expect continual updates each time a new band is allowed.
+- content: Expect continual updates each time a new band is allowed.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies requirements on UEs supporting a frequency band
+- content: This document specifies requirements on UEs supporting a frequency band
     that is independent of release.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

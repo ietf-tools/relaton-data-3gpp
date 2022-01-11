@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS37.571-4-Rel-13/13.1.0
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification for UE positioning; Part
     4: Test suites'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-4/37571-4-d10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-4/37571-4-d10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.571-4:Rel-13/13.1.0
+- id: 3GPP TS 37.571-4:Rel-13/13.1.0
   type: 3GPP
 docnumber: TS 37.571-4:Rel-13/13.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-12-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GENOUD, Olivier
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: 's owned by other specifications but used by TS 37.571-4 Test Suite’s common
+- content: 's owned by other specifications but used by TS 37.571-4 Test Suite’s common
     TTCN files:  - TS 34.123-3: R5s160835, R5s160836, R5s160865, R5s160867, - TS 34.229-3:
     R5s160855, R5s160879,  - TS 36.523-3: R5s160843, R5s160851, R5s160858, R5s160870,
     R5s160897.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

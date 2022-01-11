@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS36.523-1-Rel-10/10.3.1
 title:
-  type: main
+- type: main
   content: 'Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance
     specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-a31.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-a31.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.523-1:Rel-10/10.3.1
+- id: 3GPP TS 36.523-1:Rel-10/10.3.1
   type: 3GPP
 docnumber: TS 36.523-1:Rel-10/10.3.1
 date:
@@ -20,28 +20,34 @@ date:
 - type: confirmed
   value: '2009-02-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WU, Yuchun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: Corrects history table
+- content: Corrects history table
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

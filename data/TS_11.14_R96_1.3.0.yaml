@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS11.14-R96/1.3.0
 title:
-  type: main
+- type: main
   content: Specification of the SIM Application Toolkit (SAT) for the Subscriber Identity
     Module - Mobile Equipment (SIM-ME) interface
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 11.14:R96/1.3.0
+- id: 3GPP TS 11.14:R96/1.3.0
   type: 3GPP
 docnumber: TS 11.14:R96/1.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Morpho Cards GmbH
-  role: author
+    - organization:
+        name:
+        - Morpho Cards GmbH
+  role:
+  - author
 biblionote:
-  content: SMG9-96-009A
+- content: SMG9-96-009A
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

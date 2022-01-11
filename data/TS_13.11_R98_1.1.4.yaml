@@ -1,13 +1,13 @@
 ---
 id: 3GPPTS13.11-R98/1.1.4
 title:
-  type: main
+- type: main
   content: Mobiles stations in the GSM 900 and DCS 1800 bands covering essential requirements
     under article 3.2 of the R&TTE Directive
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 13.11:R98/1.1.4
+- id: 3GPP TS 13.11:R98/1.1.4
   type: 3GPP
 docnumber: TS 13.11:R98/1.1.4
 biblionote:
@@ -15,12 +15,14 @@ biblionote:
   type: remark
 - content: '2000-02-16'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

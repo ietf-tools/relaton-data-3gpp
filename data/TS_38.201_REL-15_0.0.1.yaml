@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS38.201-Rel-15/0.0.1
 title:
-  type: main
+- type: main
   content: NR; Physical layer; General description
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.201/38201-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.201/38201-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.201:Rel-15/0.0.1
+- id: 3GPP TS 38.201:Rel-15/0.0.1
   type: 3GPP
 docnumber: TS 38.201:Rel-15/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAGATA, Satoshi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
-  content: "Capture decisions up to and incl. RAN1#AH_NR2 (R1-1712012)\r\n"
+- content: "Capture decisions up to and incl. RAN1#AH_NR2 (R1-1712012)\r\n"
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 5G
 release:

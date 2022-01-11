@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS32.541-Rel-9/1.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Self-Organizing Networks (SON); Self-healing
     concepts and requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.541/32541-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.541/32541-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.541:Rel-9/1.2.0
+- id: 3GPP TS 32.541:Rel-9/1.2.0
   type: 3GPP
 docnumber: TS 32.541:Rel-9/1.2.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2011-03-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Weihong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: 'SP-48: timed out of Rel-9.'
+- content: 'SP-48: timed out of Rel-9.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

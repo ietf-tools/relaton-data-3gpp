@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS23.073-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Support of Localised Service Area (SoLSA); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.073/23073-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.073/23073-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.073:Rel-4/4.0.0
+- id: 3GPP TS 23.073:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 23.073:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KYMALAINEN, Kimmo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: FSCOM
-  role: author
+    - organization:
+        name:
+        - FSCOM
+  role:
+  - author
 biblionote:
 - content: 'SP-16: ->43.073 since applies to GERAN systems only.'
   type: remark
 - content: 'SP-16: ->43.073 since applies to GERAN systems only.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N4

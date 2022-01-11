@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.306-Rel-7/7.8.0
 title:
-  type: main
+- type: main
   content: UE Radio Access capabilities
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.306/25306-780.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.306/25306-780.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.306:Rel-7/7.8.0
+- id: 3GPP TS 25.306:Rel-7/7.8.0
   type: 3GPP
 docnumber: TS 25.306:Rel-7/7.8.0
 date:
@@ -18,20 +18,26 @@ date:
 - type: confirmed
   value: '2006-03-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EKLOF, Cecilia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document identifies the parameters of the access stratum part of the
+- content: This document identifies the parameters of the access stratum part of the
     UE radio access capabilities. Furthermore, some reference configurations of these
     values are defined. The intention is that these configurations will be used for
     test specifications.
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

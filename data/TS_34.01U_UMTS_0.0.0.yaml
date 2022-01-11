@@ -1,23 +1,25 @@
 ---
 id: 3GPPTS34.01U-UMTS/0.0.0
 title:
-  type: main
+- type: main
   content: Application integration and application programming interfaces
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 34.01U:UMTS/0.0.0
+- id: 3GPP TS 34.01U:UMTS/0.0.0
   type: 3GPP
 docnumber: TS 34.01U:UMTS/0.0.0
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 3G
 release:

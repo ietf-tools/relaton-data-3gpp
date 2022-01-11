@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR49.995-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Interworking between modified Public
     Land Mobile Network (PLMN) supporting GPRS and legacy GPRS mobiles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/49_series/49.995/49995-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/49_series/49.995/49995-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 49.995:Rel-7/7.0.0
+- id: 3GPP TR 49.995:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 49.995:Rel-7/7.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2005-04-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: Decision to upgrade taken at GP-34.
+- content: Decision to upgrade taken at GP-34.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

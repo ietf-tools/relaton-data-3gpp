@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.840-Rel-16/0.0.0
 title:
-  type: main
+- type: main
   content: Study on User Equipment (UE) power saving in NR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.840/38840-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.840/38840-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.840:Rel-16/0.0.0
+- id: 3GPP TR 38.840:Rel-16/0.0.0
   type: 3GPP
 docnumber: TR 38.840:Rel-16/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHENG, Fang-chen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
-  content: Endorsed in R1-1811896
+- content: Endorsed in R1-1811896
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

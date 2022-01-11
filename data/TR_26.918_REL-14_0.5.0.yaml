@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.918-Rel-14/0.5.0
 title:
-  type: main
+- type: main
   content: Virtual Reality (VR) media services over 3GPP
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.918/26918-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.918/26918-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.918:Rel-14/0.5.0
+- id: 3GPP TR 26.918:Rel-14/0.5.0
   type: 3GPP
 docnumber: TR 26.918:Rel-14/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TENIOU, Gilles
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: S4-170125
+- content: S4-170125
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

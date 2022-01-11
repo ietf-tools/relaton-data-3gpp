@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS06.20-Ph2/4.3.0
 title:
-  type: main
+- type: main
   content: Half Rate Speech Transcoding
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.20/0620-430.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.20/0620-430.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 06.20:Ph2/4.3.0
+- id: 3GPP TS 06.20:Ph2/4.3.0
   type: 3GPP
 docnumber: TS 06.20:Ph2/4.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AFTELAK, Steve
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: "#13: 4.0.0  #14: 4.1.0  #17: 4.3.0"
+- content: "#13: 4.0.0  #14: 4.1.0  #17: 4.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

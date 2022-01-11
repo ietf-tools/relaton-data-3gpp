@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.833-4-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
     non-contiguous Carrier Aggregation (CA) for 2 uplinks (2UL); Framework
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-4/36833-4-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-4/36833-4-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.833-4:Rel-12/1.0.0
+- id: 3GPP TR 36.833-4:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 36.833-4:Rel-12/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-04-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VASENKARI, Petri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: RP-141960 (history box shows v2.0.0)
+- content: RP-141960 (history box shows v2.0.0)
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.981-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Interworking aspects and migration scenarios for IPv4-based IP Multimedia
     Subsystem (IMS) implementations
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.981/23981-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.981/23981-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.981:Rel-7/7.0.0
+- id: 3GPP TR 23.981:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 23.981:Rel-7/7.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2003-11-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MILINSKI, Alexander
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-6
+- content: Upgraded unchanged from Rel-6
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

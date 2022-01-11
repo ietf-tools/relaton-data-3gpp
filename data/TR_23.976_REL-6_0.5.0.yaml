@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR23.976-Rel-6/0.5.0
 title:
-  type: main
+- type: main
   content: Push architecture
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.976/23976-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.976/23976-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.976:Rel-6/0.5.0
+- id: 3GPP TR 23.976:Rel-6/0.5.0
   type: 3GPP
 docnumber: TR 23.976:Rel-6/0.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ALFANO, Nicholas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BlackBerry UK Limited
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

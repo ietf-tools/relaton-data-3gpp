@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS23.110-R99/3.4.0
 title:
-  type: main
+- type: main
   content: Universal Mobile Telecommunications System (UMTS) access stratum; Services
     and functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.110/23110-340.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.110/23110-340.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.110:R99/3.4.0
+- id: 3GPP TS 23.110:R99/3.4.0
   type: 3GPP
 docnumber: TS 23.110:R99/3.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOPEZ-TORRES, Oscar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the detailed specifications of the protocols
+- content: This specification describes the detailed specifications of the protocols
     which rule the information flows, both control and user data, between the access
     stratum and the parts of UMTS outside the access stratum, and of the detailed
     specifications of the UTRAN. These detailed specifications are to be found in
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

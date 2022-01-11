@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR25.801-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study for improved access to User Equipment (UE) measurement
     data for Controlling Radio Network Controller (CRNC) to support Time Division
     Duplex (TDD) Radio Resource Management (RRM)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.801/25801-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.801/25801-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.801:Rel-6/1.0.0
+- id: 3GPP TR 25.801:Rel-6/1.0.0
   type: 3GPP
 docnumber: TR 25.801:Rel-6/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-01-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MILLER, James
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Interdigital Asia LLC
-  role: author
+    - organization:
+        name:
+        - Interdigital Asia LLC
+  role:
+  - author
 biblionote:
-  content: RP-030342
+- content: RP-030342
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

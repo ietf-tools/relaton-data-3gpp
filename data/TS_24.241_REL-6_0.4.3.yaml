@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS24.241-Rel-6/0.4.3
 title:
-  type: main
+- type: main
   content: 3GPP Generic User Profile (GUP) Common objects; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.241/24241-043.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.241/24241-043.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.241:Rel-6/0.4.3
+- id: 3GPP TS 24.241:Rel-6/0.4.3
   type: 3GPP
 docnumber: TS 24.241:Rel-6/0.4.3
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-11-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KYMALAINEN, Kimmo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: FSCOM
-  role: author
+    - organization:
+        name:
+        - FSCOM
+  role:
+  - author
 biblionote:
-  content: '2002-05-29 (jmm): Since stage 2 is moved to Rel-6, so should the stage
+- content: '2002-05-29 (jmm): Since stage 2 is moved to Rel-6, so should the stage
     3 be.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

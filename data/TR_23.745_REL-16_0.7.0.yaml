@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR23.745-Rel-16/0.7.0
 title:
-  type: main
+- type: main
   content: Study on application layer support for Factories of the Future in 5G network
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.745/23745-070.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.745/23745-070.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.745:Rel-16/0.7.0
+- id: 3GPP TR 23.745:Rel-16/0.7.0
   type: 3GPP
 docnumber: TR 23.745:Rel-16/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHAO, Weixiang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 radiotechnology: 5G
 release:

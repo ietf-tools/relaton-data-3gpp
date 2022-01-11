@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.815-Rel-15/15.1.0
 title:
-  type: main
+- type: main
   content: New frequency range for NR (24.25-29.5 GHz)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.815/38815-f10.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.815/38815-f10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.815:Rel-15/15.1.0
+- id: 3GPP TR 38.815:Rel-15/15.1.0
   type: 3GPP
 docnumber: TR 38.815:Rel-15/15.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Taekhoon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Electronics Co., Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Samsung Electronics Co., Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

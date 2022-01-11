@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR26.957-Rel-14/1.1.1
 title:
-  type: main
+- type: main
   content: Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP
     (DASH) (SAND) for 3GPP multimedia services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-111.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-111.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.957:Rel-14/1.1.1
+- id: 3GPP TR 26.957:Rel-14/1.1.1
   type: 3GPP
 docnumber: TR 26.957:Rel-14/1.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: OYMAN, Ozgur
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: Second version marked 1.1.0
+- content: Second version marked 1.1.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

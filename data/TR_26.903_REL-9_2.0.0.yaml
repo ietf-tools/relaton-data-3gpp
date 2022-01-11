@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR26.903-Rel-9/2.0.0
 title:
-  type: main
+- type: main
   content: Improved video support for Packet Switched Streaming (PSS) and Multimedia
     Broadcast/Multicast Service (MBMS) Services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.903/26903-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.903/26903-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.903:Rel-9/2.0.0
+- id: 3GPP TR 26.903:Rel-9/2.0.0
   type: 3GPP
 docnumber: TR 26.903:Rel-9/2.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2009-12-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOUAZIZI, Imed
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Telecoms America
-  role: author
+    - organization:
+        name:
+        - Samsung Telecoms America
+  role:
+  - author
 biblionote:
-  content: S4-100194, SP-100023
+- content: S4-100194, SP-100023
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

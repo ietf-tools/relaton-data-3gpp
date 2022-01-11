@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS36.143-Rel-12/12.1.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); FDD repeater conformance
     testing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.143/36143-c10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.143/36143-c10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.143:Rel-12/12.1.0
+- id: 3GPP TS 36.143:Rel-12/12.1.0
   type: 3GPP
 docnumber: TS 36.143:Rel-12/12.1.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2009-07-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHLSTRÖM, Alf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

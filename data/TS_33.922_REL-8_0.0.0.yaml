@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS33.922-Rel-8/0.0.0
 title:
-  type: main
+- type: main
   content: Security aspects for inter-access mobility between non 3GPP and 3GPP access
     network
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 33.922:Rel-8/0.0.0
+- id: 3GPP TS 33.922:Rel-8/0.0.0
   type: 3GPP
 docnumber: TS 33.922:Rel-8/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Dajiang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Microsoft Europe SARL
-  role: author
+    - organization:
+        name:
+        - Microsoft Europe SARL
+  role:
+  - author
 biblionote:
-  content: For drafting and approval versions, see 22.822.
+- content: For drafting and approval versions, see 22.822.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

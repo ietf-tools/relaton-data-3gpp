@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR29.802-Rel-7/0.1.0
 title:
-  type: main
+- type: main
   content: "(G)MSC-S - (G)MSC-S Nc Interface based on the SIP-I protocol"
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.802/29802-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.802/29802-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.802:Rel-7/0.1.0
+- id: 3GPP TR 29.802:Rel-7/0.1.0
   type: 3GPP
 docnumber: TR 29.802:Rel-7/0.1.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2006-09-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUTTON, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: GSM Association
-  role: author
+    - organization:
+        name:
+        - GSM Association
+  role:
+  - author
 biblionote:
-  content: C4-060974
+- content: C4-060974
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

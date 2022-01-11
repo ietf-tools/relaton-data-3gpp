@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR26.917-Rel-14/0.1.0
 title:
-  type: main
+- type: main
   content: Multimedia Broadcast Multicast Services (MBMS) and Packet-switched Streaming
     Service (PSS) enhancements to support television services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.917/26917-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.917/26917-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.917:Rel-14/0.1.0
+- id: 3GPP TR 26.917:Rel-14/0.1.0
   type: 3GPP
 docnumber: TR 26.917:Rel-14/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOCKHAMMER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: 'S4-160853 ^ 2016-07-10: S4-160853'
+- content: 'S4-160853 ^ 2016-07-10: S4-160853'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: LTE
 release:

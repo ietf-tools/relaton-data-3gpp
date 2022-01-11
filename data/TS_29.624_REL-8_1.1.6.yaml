@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.624-Rel-8/1.1.6
 title:
-  type: main
+- type: main
   content: TISPAN; H.248 Profile for controlling Trunking Media Gateways; Protocol
     specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.624/29624-116.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.624/29624-116.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.624:Rel-8/1.1.6
+- id: 3GPP TS 29.624:Rel-8/1.1.6
   type: 3GPP
 docnumber: TS 29.624:Rel-8/1.1.6
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2008-03-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEREDITH, John M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: 'CP-46: Identical to 29.424 v8.0.0.  Stop?'
+- content: 'CP-46: Identical to 29.424 v8.0.0.  Stop?'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

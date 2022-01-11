@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS23.142-Rel-9/9.0.1
 title:
-  type: main
+- type: main
   content: Value-added Services for SMS (VAS4SMS); Interface and signalling flow
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.142/23142-901.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.142/23142-901.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.142:Rel-9/9.0.1
+- id: 3GPP TS 23.142:Rel-9/9.0.1
   type: 3GPP
 docnumber: TS 23.142:Rel-9/9.0.1
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2009-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Hao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: editorial clean up
+- content: editorial clean up
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

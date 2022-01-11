@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS03.63-R99/8.0.0
 title:
-  type: main
+- type: main
   content: Packet Data on Signalling channels service (PDS) Service description, Stage
     2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.63/0363-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.63/0363-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.63:R99/8.0.0
+- id: 3GPP TS 03.63:R99/8.0.0
   type: 3GPP
 docnumber: TS 03.63:R99/8.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JACOBSOHN, Dieter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
 - content: 'TP-15: proposed to withdraw, since stage 1 (02.63) not promoted to R99.'
   type: remark
 - content: NP-15 withdrawn
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

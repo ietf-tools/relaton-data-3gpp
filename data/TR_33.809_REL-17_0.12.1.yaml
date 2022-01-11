@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.809-Rel-17/0.12.1
 title:
-  type: main
+- type: main
   content: Study on 5G security enhancements against False Base Stations (FBS)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/33_series/33.809/33809-0c1.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/33_series/33.809/33809-0c1.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.809:Rel-17/0.12.1
+- id: 3GPP TR 33.809:Rel-17/0.12.1
   type: 3GPP
 docnumber: TR 33.809:Rel-17/0.12.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GUO, Ivy
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Apple Computer Trading Co. Ltd
-  role: author
+    - organization:
+        name:
+        - Apple Computer Trading Co. Ltd
+  role:
+  - author
 biblionote:
-  content: EditHelp review
+- content: EditHelp review
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

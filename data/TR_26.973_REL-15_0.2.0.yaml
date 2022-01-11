@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR26.973-Rel-15/0.2.0
 title:
-  type: main
+- type: main
   content: Update to fixed-point basic operators
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 26.973:Rel-15/0.2.0
+- id: 3GPP TR 26.973:Rel-15/0.2.0
   type: 3GPP
 docnumber: TR 26.973:Rel-15/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PAWATE, Raj
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Cadence Design Systems Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Cadence Design Systems Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS02.32-R99/8.0.0
 title:
-  type: main
+- type: main
   content: Immediate Service Termination (IST); Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.32/0232-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.32/0232-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 02.32:R99/8.0.0
+- id: 3GPP TS 02.32:R99/8.0.0
   type: 3GPP
 docnumber: TS 02.32:R99/8.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'SP-16: withdrawn in favour of 22.032 R99.'
+- content: 'SP-16: withdrawn in favour of 22.032 R99.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S3

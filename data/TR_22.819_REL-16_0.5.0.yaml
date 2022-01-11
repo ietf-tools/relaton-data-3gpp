@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR22.819-Rel-16/0.5.0
 title:
-  type: main
+- type: main
   content: Feasibility Study on Maritime Communication Services over 3GPP system
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.819:Rel-16/0.5.0
+- id: 3GPP TR 22.819:Rel-16/0.5.0
   type: 3GPP
 docnumber: TR 22.819:Rel-16/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOO, Hyounhee
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SyncTechno Inc.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - SyncTechno Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

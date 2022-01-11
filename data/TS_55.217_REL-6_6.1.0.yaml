@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS55.217-Rel-6/6.1.0
 title:
-  type: main
+- type: main
   content: '3G Security; Specification of the A5/3 encryption algorithms for GSM and
     ECSD, and the GEA3 encryption algorithm for GPRS; Document 2: Implementors'' test
     data'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/55_series/55.217/55217-610.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/55_series/55.217/55217-610.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 55.217:Rel-6/6.1.0
+- id: 3GPP TS 55.217:Rel-6/6.1.0
   type: 3GPP
 docnumber: TS 55.217:Rel-6/6.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

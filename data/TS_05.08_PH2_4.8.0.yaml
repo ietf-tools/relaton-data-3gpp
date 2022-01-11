@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS05.08-Ph2/4.8.0
 title:
-  type: main
+- type: main
   content: Radio subsystem link control
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 05.08:Ph2/4.8.0
+- id: 3GPP TS 05.08:Ph2/4.8.0
   type: 3GPP
 docnumber: TS 05.08:Ph2/4.8.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EL-SAIGH, Amer
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: OOREDOO
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - OOREDOO
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

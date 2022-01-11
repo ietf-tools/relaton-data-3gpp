@@ -1,26 +1,28 @@
 ---
 id: 3GPPTS13.56-R96/1.0.0
 title:
-  type: main
+- type: main
   content: Cordless Telephony System Mobile Stations (CTS-MS); Access
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.56/1356-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.56/1356-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 13.56:R96/1.0.0
+- id: 3GPP TS 13.56:R96/1.0.0
   type: 3GPP
 docnumber: TS 13.56:R96/1.0.0
 biblionote:
-  content: "#30: 1.0.0"
+- content: "#30: 1.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: "-"

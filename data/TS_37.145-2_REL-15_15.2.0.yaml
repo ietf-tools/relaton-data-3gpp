@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS37.145-2-Rel-15/15.2.0
 title:
-  type: main
+- type: main
   content: 'Active Antenna System (AAS) Base Station (BS) conformance testing;  Part
     2: radiated conformance testing'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-f20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.145-2/37145-2-f20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.145-2:Rel-15/15.2.0
+- id: 3GPP TS 37.145-2:Rel-15/15.2.0
   type: 3GPP
 docnumber: TS 37.145-2:Rel-15/15.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2016-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KYBETT, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

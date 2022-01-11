@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR30.504-Rel-4/1.0.0
 title:
-  type: main
+- type: main
   content: Work Plan and Study Items - RAN WG4
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.504/30504-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.504/30504-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.504:Rel-4/1.0.0
+- id: 3GPP TR 30.504:Rel-4/1.0.0
   type: 3GPP
 docnumber: TR 30.504:Rel-4/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: IWASA, Masaaki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MOTOROLA JAPAN LTD
-  role: author
+    - organization:
+        name:
+        - MOTOROLA JAPAN LTD
+  role:
+  - author
 biblionote:
-  content: 'RP-15: Not to be promoted to Rel-5.  RP-20: stopped'
+- content: 'RP-15: Not to be promoted to Rel-5.  RP-20: stopped'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R4

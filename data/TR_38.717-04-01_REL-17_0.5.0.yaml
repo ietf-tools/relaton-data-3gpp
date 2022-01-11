@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR38.717-04-01-Rel-17/0.5.0
 title:
-  type: main
+- type: main
   content: Rel-17 NR inter-band Carrier Aggregation for 4 bands DL with 1 band UL
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-04-01/38717-04-01-050.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-04-01/38717-04-01-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.717-04-01:Rel-17/0.5.0
+- id: 3GPP TR 38.717-04-01:Rel-17/0.5.0
   type: 3GPP
 docnumber: TR 38.717-04-01:Rel-17/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LINDELL, Per
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

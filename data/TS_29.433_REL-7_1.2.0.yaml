@@ -1,7 +1,7 @@
 ---
 id: 3GPPTS29.433-Rel-7/1.2.0
 title:
-  type: main
+- type: main
   content: TISPAN; IP Multimedia; Diameter based protocol for the interfaces between
     the Call Session Control Function and the User Profile Server Function/Subscription
     Locator Function; Signalling flows and protocol details [3GPP TS 29.228 and 29.229
@@ -9,35 +9,41 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 29.433:Rel-7/1.2.0
+- id: 3GPP TS 29.433:Rel-7/1.2.0
   type: 3GPP
 docnumber: TS 29.433:Rel-7/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-04-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEREDITH, John M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: TISPAN R1 frozen
+- content: TISPAN R1 frozen
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

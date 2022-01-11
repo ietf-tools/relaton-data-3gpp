@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.932-Rel-4/2.0.0
 title:
-  type: main
+- type: main
   content: Delay budget within the access stratum
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.932/25932-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.932/25932-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.932:Rel-4/2.0.0
+- id: 3GPP TR 25.932:Rel-4/2.0.0
   type: 3GPP
 docnumber: TR 25.932:Rel-4/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PENAS, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: TSG#10:2.0.0; approved renumbered as 25.853.
+- content: TSG#10:2.0.0; approved renumbered as 25.853.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

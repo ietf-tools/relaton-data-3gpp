@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS36.523-1-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: 'Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); User Equipment (UE) conformance specification; Part 1: Protocol conformance
     specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.523-1/36523-1-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.523-1:Rel-15/15.0.0
+- id: 3GPP TS 36.523-1:Rel-15/15.0.0
   type: 3GPP
 docnumber: TS 36.523-1:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-02-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WU, Yuchun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: 'To keep all parts in step. No technical change wrt v14.3.0. ^ 2018-01-12:
+- content: 'To keep all parts in step. No technical change wrt v14.3.0. ^ 2018-01-12:
     Administrative release upgrade to match the release of 3GPP TS 36.508 which was
     upgraded at RAN#78 to Rel-15 due to Rel-15 relevant CR(s)'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

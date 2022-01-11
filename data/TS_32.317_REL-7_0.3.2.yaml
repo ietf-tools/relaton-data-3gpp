@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS32.317-Rel-7/0.3.2
 title:
-  type: main
+- type: main
   content: Telecommunication management; Generic Integration Reference Point (IRP)
     management; SOAP Solution Set (SS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 32.317:Rel-7/0.3.2
+- id: 3GPP TS 32.317:Rel-7/0.3.2
   type: 3GPP
 docnumber: TS 32.317:Rel-7/0.3.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Gang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

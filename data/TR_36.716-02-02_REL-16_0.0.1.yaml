@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR36.716-02-02-Rel-16/0.0.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-16 for 2 bands Down Link (DL) / 2 band Up Link (UL)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-02-02/36716-02-02-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.716-02-02/36716-02-02-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.716-02-02:Rel-16/0.0.1
+- id: 3GPP TR 36.716-02-02:Rel-16/0.0.1
   type: 3GPP
 docnumber: TR 36.716-02-02:Rel-16/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Ye
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

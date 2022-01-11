@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS38.351-Rel-17/0.0.0
 title:
-  type: main
+- type: main
   content: NR; Sidelink Adaptation Layer Protocol
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-000.zip
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.351:Rel-17/0.0.0
+- id: 3GPP TS 38.351:Rel-17/0.0.0
   type: 3GPP
 docnumber: TS 38.351:Rel-17/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LU, Qianxi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Guangdong OPPO Mobile Telecom.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 5G
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR37.804-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Study on UMTS/LTE in 900 MHz band and coexistence with 850 MHz band
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.804/37804-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.804/37804-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.804:Rel-11/11.0.0
+- id: 3GPP TR 37.804:Rel-11/11.0.0
   type: 3GPP
 docnumber: TR 37.804:Rel-11/11.0.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2012-07-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FUJII, Masahiro
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

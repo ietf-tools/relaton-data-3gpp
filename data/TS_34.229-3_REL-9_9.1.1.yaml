@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS34.229-3-Rel-9/9.1.1
 title:
-  type: main
+- type: main
   content: 'Internet Protocol (IP) multimedia call control protocol based on Session
     Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
     (UE) conformance specification; Part 3: Abstract test suite (ATS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-911.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-911.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.229-3:Rel-9/9.1.1
+- id: 3GPP TS 34.229-3:Rel-9/9.1.1
   type: 3GPP
 docnumber: TS 34.229-3:Rel-9/9.1.1
 date:
@@ -20,25 +20,31 @@ date:
 - type: confirmed
   value: '2010-04-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GENOUD, Olivier
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 common-ims-spec: true

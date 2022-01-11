@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS25.327-Rel-9/1.0.0
 title:
-  type: main
+- type: main
   content: High Speed Packet Access (HSPA); Requirements on User Equipments (UEs)
     supporting a release-independent frequency band and multi-carrier configuration
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.327/25327-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.327/25327-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.327:Rel-9/1.0.0
+- id: 3GPP TS 25.327:Rel-9/1.0.0
   type: 3GPP
 docnumber: TS 25.327:Rel-9/1.0.0
 date:
@@ -19,27 +19,33 @@ date:
 - type: confirmed
   value: '2013-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
 biblionote:
-  content: RP-131629 for approval,  brought together with CRs to raise immediately
+- content: RP-131629 for approval,  brought together with CRs to raise immediately
     to Rels 10 & 11. TDoc also contains a rev-marked comparison between this new spec
     and its predecessor, 25.317.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

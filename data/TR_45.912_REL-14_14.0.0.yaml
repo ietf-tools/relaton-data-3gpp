@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR45.912-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study for evolved GSM/EDGE Radio Access Network (GERAN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.912/45912-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.912/45912-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 45.912:Rel-14/14.0.0
+- id: 3GPP TR 45.912:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 45.912:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-09-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RIDDINGTON, Eddie
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

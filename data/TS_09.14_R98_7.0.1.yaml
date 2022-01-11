@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS09.14-R98/7.0.1
 title:
-  type: main
+- type: main
   content: 'Application of ISDN User Part (ISUP) Version 3 for the Integrated Services
     Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface;
     Part 1: Protocol specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.14/0914-701.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.14/0914-701.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 09.14:R98/7.0.1
+- id: 3GPP TS 09.14:R98/7.0.1
   type: 3GPP
 docnumber: TS 09.14:R98/7.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-11-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SPORTON, Simon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: "(SPS1)"
+- content: "(SPS1)"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: TISPAN

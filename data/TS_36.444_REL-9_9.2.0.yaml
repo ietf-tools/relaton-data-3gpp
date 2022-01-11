@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS36.444-Rel-9/9.2.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); M3 Application
     Protocol (M3AP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.444/36444-920.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.444/36444-920.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.444:Rel-9/9.2.0
+- id: 3GPP TS 36.444:Rel-9/9.2.0
   type: 3GPP
 docnumber: TS 36.444:Rel-9/9.2.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2011-06-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MA, Zijiang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

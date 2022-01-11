@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR36.828-Rel-11/2.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Further enhancements
     to LTE Time Division Duplex (TDD)  for Downlink-Uplink (DL-UL) interference management
     and traffic adaptation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.828/36828-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.828/36828-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.828:Rel-11/2.0.0
+- id: 3GPP TR 36.828:Rel-11/2.0.0
   type: 3GPP
 docnumber: TR 36.828:Rel-11/2.0.0
 date:
@@ -19,12 +19,29 @@ date:
   value: '2012-06-15'
 - type: confirmed
   value: '2012-06-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: SHEN, Zukang
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Lenovo (Beijing) Ltd
+  role:
+  - author
 biblionote:
-  content: RP-120693
+- content: RP-120693
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS22.101-R99/3.17.0
 title:
-  type: main
+- type: main
   content: Service aspects; Service principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-3h0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-3h0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.101:R99/3.17.0
+- id: 3GPP TS 22.101:R99/3.17.0
   type: 3GPP
 docnumber: TS 22.101:R99/3.17.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DEOL, Amar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the service principles of the UMTS.
+- content: This specification describes the service principles of the UMTS.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

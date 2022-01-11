@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR36.861-Rel-13/1.0.0
 title:
-  type: main
+- type: main
   content: 'Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010
     MHz and 2170-2200 MHz'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.861/36861-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.861/36861-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.861:Rel-13/1.0.0
+- id: 3GPP TR 36.861:Rel-13/1.0.0
   type: 3GPP
 docnumber: TR 36.861:Rel-13/1.0.0
 date:
-  type: created
+- type: created
   value: '2015-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HWANG, Chungwoo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: KT Corp.
-  role: author
+    - organization:
+        name:
+        - KT Corp.
+  role:
+  - author
 biblionote:
-  content: A different instance of v1.0.0 later appeared in RP-151547, which also
+- content: A different instance of v1.0.0 later appeared in RP-151547, which also
     included a cover sheet. But the instance in RP-151277 should be considered as
     the official v1.0.0
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

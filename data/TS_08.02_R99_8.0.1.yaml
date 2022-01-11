@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS08.02-R99/8.0.1
 title:
-  type: main
+- type: main
   content: Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface
     - Interface Principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.02/0802-801.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.02/0802-801.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.02:R99/8.0.1
+- id: 3GPP TS 08.02:R99/8.0.1
   type: 3GPP
 docnumber: TS 08.02:R99/8.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

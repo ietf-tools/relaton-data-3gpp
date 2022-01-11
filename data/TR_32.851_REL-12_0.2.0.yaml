@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.851-Rel-12/0.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on Operations, Administration and Maintenance
     (OAM) aspects of Network Sharing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.851/32851-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.851/32851-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.851:Rel-12/0.2.0
+- id: 3GPP TR 32.851:Rel-12/0.2.0
   type: 3GPP
 docnumber: TR 32.851:Rel-12/0.2.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2013-09-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUDARSAN, Padma
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

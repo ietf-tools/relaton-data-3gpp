@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.234-Rel-8/8.1.1
 title:
-  type: main
+- type: main
   content: Requirements on 3GPP system to Wireless Local Area Network (WLAN) interworking
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.234/22234-811.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.234/22234-811.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.234:Rel-8/8.1.1
+- id: 3GPP TS 22.234:Rel-8/8.1.1
   type: 3GPP
 docnumber: TS 22.234:Rel-8/8.1.1
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2004-03-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOOTE, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: Corrects Release on cover page
+- content: Corrects Release on cover page
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR36.740-Rel-14/0.0.1
 title:
-  type: main
+- type: main
   content: Study of LTE bandwidth flexibility enhancements
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.740:Rel-14/0.0.1
+- id: 3GPP TR 36.740:Rel-14/0.0.1
   type: 3GPP
 docnumber: TR 36.740:Rel-14/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Liehai
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

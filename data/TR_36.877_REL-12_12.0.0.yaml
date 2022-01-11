@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR36.877-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: LTE Device to Device Proximity Services; User Equipment (UE) radio transmission
     and reception
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.877/36877-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.877/36877-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.877:Rel-12/12.0.0
+- id: 3GPP TR 36.877:Rel-12/12.0.0
   type: 3GPP
 docnumber: TR 36.877:Rel-12/12.0.0
 date:
-  type: created
+- type: created
   value: '2015-03-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GULATI, Kapil
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS32.663-Rel-5/5.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Configuration Management (CM); Kernel CM
     Integration Reference Point (IRP); Common Object Request Broker Architecture (CORBA)
     Solution Set (SS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.663/32663-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.663/32663-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.663:Rel-5/5.2.0
+- id: 3GPP TS 32.663:Rel-5/5.2.0
   type: 3GPP
 docnumber: TS 32.663:Rel-5/5.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOVINGER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'SP-15: will not exist in Rel-5.  SP-17 Oh yes it will!'
+- content: 'SP-15: will not exist in Rel-5.  SP-17 Oh yes it will!'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

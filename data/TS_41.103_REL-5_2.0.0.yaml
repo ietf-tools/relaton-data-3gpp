@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS41.103-Rel-5/2.0.0
 title:
-  type: main
+- type: main
   content: GSM Release 5 specifications
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 41.103:Rel-5/2.0.0
+- id: 3GPP TS 41.103:Rel-5/2.0.0
   type: 3GPP
 docnumber: TS 41.103:Rel-5/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEREDITH, John M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
 - content: " SP-20: Superseded by 41.101 Rel-5."
   type: remark
 - content: SP-020271
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 2G
 release:

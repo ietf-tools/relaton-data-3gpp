@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR22.813-Rel-10/1.0.0
 title:
-  type: main
+- type: main
   content: Study of use cases and requirements for enhanced voice codecs for the Evolved
     Packet System (EPS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.813/22813-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.813/22813-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.813:Rel-10/1.0.0
+- id: 3GPP TR 22.813:Rel-10/1.0.0
   type: 3GPP
 docnumber: TR 22.813:Rel-10/1.0.0
 date:
@@ -19,24 +19,30 @@ date:
 - type: confirmed
   value: '2010-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOTTIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
 - content: 'SP-47: approved at Rel-10.'
   type: remark
 - content: SP-100193, anticipate further stage 1 WI - see S4-100180
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S1

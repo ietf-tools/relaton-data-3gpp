@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR33.814-Rel-16/0.6.0
 title:
-  type: main
+- type: main
   content: Study on the security of the enhancement to the 5G Core (5GC) location
     services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.814/33814-060.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.814/33814-060.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.814:Rel-16/0.6.0
+- id: 3GPP TR 33.814:Rel-16/0.6.0
   type: 3GPP
 docnumber: TR 33.814:Rel-16/0.6.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHOU, Wei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
-  content: S3-193128
+- content: S3-193128
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

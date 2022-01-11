@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR23.710-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Study on improvement of awareness of user location change
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.710/23710-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.710/23710-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.710:Rel-14/14.0.0
+- id: 3GPP TR 23.710:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 23.710:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: XU, Yang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
 biblionote:
-  content: Approved at TSG SA#72 and placed under change control
+- content: Approved at TSG SA#72 and placed under change control
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

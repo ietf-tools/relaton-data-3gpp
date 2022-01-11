@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR33.802-Rel-7/0.1.1
 title:
-  type: main
+- type: main
   content: Feasibility study on IMS security extensions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.802/33802-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.802/33802-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.802:Rel-7/0.1.1
+- id: 3GPP TR 33.802:Rel-7/0.1.1
   type: 3GPP
 docnumber: TR 33.802:Rel-7/0.1.1
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2005-07-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: '2008-05: to be declared obsolete at SP-40.'
   type: remark
 - content: S3-050646
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

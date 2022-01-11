@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS55.241-Rel-13/0.0.2
 title:
-  type: main
+- type: main
   content: Specification of the GIA4 integrity algorithm for General Packet Radio
     Service (GPRS); GIA4 specification
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 55.241:Rel-13/0.0.2
+- id: 3GPP TS 55.241:Rel-13/0.0.2
   type: 3GPP
 docnumber: TS 55.241:Rel-13/0.0.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2016-10-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EVANS, Tim P.
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

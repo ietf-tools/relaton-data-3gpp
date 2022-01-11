@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS32.761-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Evolved Universal Terrestrial Radio Access
     Network (E-UTRAN) Network Resource Model (NRM) Integration Reference Point (IRP);
     Requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.761/32761-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.761/32761-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.761:Rel-11/11.0.0
+- id: 3GPP TS 32.761:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 32.761:Rel-11/11.0.0
 date:
@@ -20,31 +20,37 @@ date:
 - type: confirmed
   value: '2011-01-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZOU, Lan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
 - content: 'Upgraded from previous Release without technical change SP-65: No upgrade
     to next Release.'
   type: remark
 - content: Automatic upgrade from previous Release version 10.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

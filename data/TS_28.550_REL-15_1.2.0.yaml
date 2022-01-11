@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS28.550-Rel-15/1.2.0
 title:
-  type: main
+- type: main
   content: Management and orchestration; Performance assurance
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.550/28550-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.550/28550-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 28.550:Rel-15/1.2.0
+- id: 3GPP TS 28.550:Rel-15/1.2.0
   type: 3GPP
 docnumber: TS 28.550:Rel-15/1.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YAO, Yizhi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

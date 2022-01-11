@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.810-Rel-9/9.0.0
 title:
-  type: main
+- type: main
   content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
     Radio Access (E-UTRA); UMTS / LTE in 800 MHz for Europe
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.810/36810-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.810/36810-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.810:Rel-9/9.0.0
+- id: 3GPP TR 36.810:Rel-9/9.0.0
   type: 3GPP
 docnumber: TR 36.810:Rel-9/9.0.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2010-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: QUESETH, Olav
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

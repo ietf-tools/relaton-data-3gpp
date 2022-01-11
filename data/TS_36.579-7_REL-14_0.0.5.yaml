@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS36.579-7-Rel-14/0.0.5
 title:
-  type: main
+- type: main
   content: 'Mission Critical (MC) services over LTE; Part 7: Mission Critical Data
     (MCData) User Equipment (UE) Protocol conformance specification'
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/36_series/36.579-7/36579-7-005.zip
+- content: http://ftp.3gpp.org//Specs/archive/36_series/36.579-7/36579-7-005.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.579-7:Rel-14/0.0.5
+- id: 3GPP TS 36.579-7:Rel-14/0.0.5
   type: 3GPP
 docnumber: TS 36.579-7:Rel-14/0.0.5
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KAHN, Jason
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NIST
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NIST
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 common-ims-spec: true

@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS26.511-Rel-16/1.4.1
 title:
-  type: main
+- type: main
   content: 5G Media Streaming (5GMS); Profiles, codecs and formats
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.511/26511-141.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.511/26511-141.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.511:Rel-16/1.4.1
+- id: 3GPP TS 26.511:Rel-16/1.4.1
   type: 3GPP
 docnumber: TS 26.511:Rel-16/1.4.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TENIOU, Gilles
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: "Inclusion of CMAF references in presentation format capabilities\r\nImplementation
+- content: "Inclusion of CMAF references in presentation format capabilities\r\nImplementation
     of working assumption on video codec requirements for default downlink and TV
     profiles\r\nInclusion of 10-bit bit depth into the HD-HDR capability"
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

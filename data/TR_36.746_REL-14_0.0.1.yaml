@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR36.746-Rel-14/0.0.1
 title:
-  type: main
+- type: main
   content: Study on further enhancements to LTE Device to Device (D2D), UE to network
     relays for Internet of Things (IoT) and wearables
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.746:Rel-14/0.0.1
+- id: 3GPP TR 36.746:Rel-14/0.0.1
   type: 3GPP
 docnumber: TR 36.746:Rel-14/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEE, Jaewook
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: R2-165597
+- content: R2-165597
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R2

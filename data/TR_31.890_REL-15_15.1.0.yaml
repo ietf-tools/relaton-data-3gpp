@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR31.890-Rel-15/15.1.0
 title:
-  type: main
+- type: main
   content: CT WG6 aspects of 5G System Phase 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.890/31890-f10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.890/31890-f10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 31.890:Rel-15/15.1.0
+- id: 3GPP TR 31.890:Rel-15/15.1.0
   type: 3GPP
 docnumber: TR 31.890:Rel-15/15.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VIRK, Amandeep
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 5G
 release:

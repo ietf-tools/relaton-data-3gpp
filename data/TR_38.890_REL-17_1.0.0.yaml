@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR38.890-Rel-17/1.0.0
 title:
-  type: main
+- type: main
   content: Study on NR QoE (Quality of Experience) management and optimizations for
     diverse services
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.890/38890-100.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.890/38890-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.890:Rel-17/1.0.0
+- id: 3GPP TR 38.890:Rel-17/1.0.0
   type: 3GPP
 docnumber: TR 38.890:Rel-17/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CAO, Gen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR22.121-R99/0.1.0
 title:
-  type: main
+- type: main
   content: Service aspects; The Virtual Home Environment (VHE); Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.121/22121-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.121/22121-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.121:R99/0.1.0
+- id: 3GPP TR 22.121:R99/0.1.0
   type: 3GPP
 docnumber: TR 22.121:R99/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KURZ, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes the content of the Stage 1 requirement for
+- content: "This specification describes the content of the Stage 1 requirement for
     realization of VHE. VHE is defined as a concept for personal service environment
     (PSE) portability across network boundaries and between terminals. The concept
     of the VHE is such that users are consistently presented with the same personalized
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S1

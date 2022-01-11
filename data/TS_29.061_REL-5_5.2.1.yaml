@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS29.061-Rel-5/5.2.1
 title:
-  type: main
+- type: main
   content: Interworking between the Public Land Mobile Network (PLMN) supporting packet
     based services and Packet Data Networks (PDN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.061/29061-521.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.061/29061-521.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.061:Rel-5/5.2.1
+- id: 3GPP TS 29.061:Rel-5/5.2.1
   type: 3GPP
 docnumber: TS 29.061:Rel-5/5.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIANG, Tianmei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'NP-16: some indications from N3 report that this spec should not be considered
+- content: 'NP-16: some indications from N3 report that this spec should not be considered
     frozen yet.  So change freeze date from March 2002 to Sept 2002.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

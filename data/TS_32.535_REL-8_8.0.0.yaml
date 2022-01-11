@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS32.535-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Software Management Integration Reference
     Point (IRP); eXtensible Markup Language (XML) definitions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.535/32535-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.535/32535-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.535:Rel-8/8.0.0
+- id: 3GPP TS 32.535:Rel-8/8.0.0
   type: 3GPP
 docnumber: TS 32.535:Rel-8/8.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Shuqiang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: 'SP-45: WI @ SP-090553 - a forgotten Rel-8 spec!'
+- content: 'SP-45: WI @ SP-090553 - a forgotten Rel-8 spec!'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

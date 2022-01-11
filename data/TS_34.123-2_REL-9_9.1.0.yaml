@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS34.123-2-Rel-9/9.1.0
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification; Part 2: Implementation
     conformance statement (ICS) proforma specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-2/34123-2-910.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-2/34123-2-910.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.123-2:Rel-9/9.1.0
+- id: 3GPP TS 34.123-2:Rel-9/9.1.0
   type: 3GPP
 docnumber: TS 34.123-2:Rel-9/9.1.0
 date:
@@ -19,20 +19,26 @@ date:
 - type: confirmed
   value: '2010-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GENOUD, Olivier
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides the Implementation Conformance Statement (ICS) proforma
+- content: This document provides the Implementation Conformance Statement (ICS) proforma
     for 3rd Generation User Equipment (UE), in compliance with the relevant requirements,
     and in accordance with the relevant guidance given in ISO/IEC 9646-7 and ETS 300
     406. This document also specifies a recommended applicability statement for the
@@ -42,7 +48,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

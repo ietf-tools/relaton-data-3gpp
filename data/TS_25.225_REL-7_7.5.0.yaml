@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.225-Rel-7/7.5.0
 title:
-  type: main
+- type: main
   content: Physical layer; Measurements (TDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.225/25225-750.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.225/25225-750.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.225:Rel-7/7.5.0
+- id: 3GPP TS 25.225:Rel-7/7.5.0
   type: 3GPP
 docnumber: TS 25.225:Rel-7/7.5.0
 date:
@@ -18,27 +18,33 @@ date:
 - type: confirmed
   value: '2006-03-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MILLER, James
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Germany GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - InterDigital Germany GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the description of the measurements done at
+- content: This specification describes the description of the measurements done at
     the UE and network in order to support operation in idle mode and connected mode
     for TDD mode.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

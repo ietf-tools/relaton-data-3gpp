@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS36.579-2-Rel-14/14.9.1
 title:
-  type: main
+- type: main
   content: 'Mission Critical (MC) services over LTE; Part 2: Mission Critical Push
     To Talk (MCPTT) User Equipment (UE) Protocol conformance specification'
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/36_series/36.579-2/36579-2-e91.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/36_series/36.579-2/36579-2-e91.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.579-2:Rel-14/14.9.1
+- id: 3GPP TS 36.579-2:Rel-14/14.9.1
   type: 3GPP
 docnumber: TS 36.579-2:Rel-14/14.9.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KAHN, Jason
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NIST
-  role: author
+    - organization:
+        name:
+        - NIST
+  role:
+  - author
 biblionote:
-  content: re-implementation of lost void-ed specific message contents of R5-204536,
+- content: re-implementation of lost void-ed specific message contents of R5-204536,
     R5-204537, R5-204538, and R5-204539, and of lost changes of R5-204540-1
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 common-ims-spec: true

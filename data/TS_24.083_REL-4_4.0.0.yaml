@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS24.083-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Call Waiting (CW) and Call Hold (HOLD) supplementary services; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.083/24083-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.083/24083-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.083:Rel-4/4.0.0
+- id: 3GPP TS 24.083:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 24.083:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WILD, Peter A.
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.708-Rel-13/0.2.0
 title:
-  type: main
+- type: main
   content: Architecture enhancements for service capability exposure
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.708/23708-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.708/23708-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.708:Rel-13/0.2.0
+- id: 3GPP TR 23.708:Rel-13/0.2.0
   type: 3GPP
 docnumber: TR 23.708:Rel-13/0.2.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JAIN, Puneet
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

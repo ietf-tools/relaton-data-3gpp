@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR31.828-Rel-10/1.0.0
 title:
-  type: main
+- type: main
   content: UICC access to IMS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.828/31828-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.828/31828-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 31.828:Rel-10/1.0.0
+- id: 3GPP TR 31.828:Rel-10/1.0.0
   type: 3GPP
 docnumber: TR 31.828:Rel-10/1.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2011-03-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PRACA, Denis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Gemalto N.V.
-  role: author
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
 biblionote:
-  content: CP-100820
+- content: CP-100820
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 3G
 release:

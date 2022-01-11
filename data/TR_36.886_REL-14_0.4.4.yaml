@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR36.886-Rel-14/0.4.4
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Band 41 High Power
     UE (HPUE)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.886:Rel-14/0.4.4
+- id: 3GPP TR 36.886:Rel-14/0.4.4
   type: 3GPP
 docnumber: TR 36.886:Rel-14/0.4.4
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUMBERT, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SPRINT Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - SPRINT Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.812-Rel-10/1.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE TDD 2600MHz in
     US work item Technical Report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.812/36812-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.812/36812-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.812:Rel-10/1.0.0
+- id: 3GPP TR 36.812:Rel-10/1.0.0
   type: 3GPP
 docnumber: TR 36.812:Rel-10/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2010-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HART, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Clearwire
-  role: author
+    - organization:
+        name:
+        - Clearwire
+  role:
+  - author
 biblionote:
-  content: RP-100945
+- content: RP-100945
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

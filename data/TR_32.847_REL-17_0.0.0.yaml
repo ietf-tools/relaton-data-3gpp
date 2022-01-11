@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR32.847-Rel-17/0.0.0
 title:
-  type: main
+- type: main
   content: Study on Charging Aspects for Network Slicing Phase 2
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/32_series/32.847/32847-000.zip
+- content: https://ftp.3gpp.org//Specs/archive/32_series/32.847/32847-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.847:Rel-17/0.0.0
+- id: 3GPP TR 32.847:Rel-17/0.0.0
   type: 3GPP
 docnumber: TR 32.847:Rel-17/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GÖRMER, Gerald
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MATRIXX Software
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - MATRIXX Software
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS29.230-Rel-13/13.5.0
 title:
-  type: main
+- type: main
   content: Diameter applications; 3GPP specific codes and identifiers
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.230/29230-d50.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.230/29230-d50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.230:Rel-13/13.5.0
+- id: 3GPP TS 29.230:Rel-13/13.5.0
   type: 3GPP
 docnumber: TS 29.230:Rel-13/13.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-06-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

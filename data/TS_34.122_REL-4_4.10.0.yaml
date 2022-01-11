@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS34.122-Rel-4/4.10.0
 title:
-  type: main
+- type: main
   content: Terminal conformance specification; Radio transmission and reception (TDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-4a0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.122/34122-4a0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.122:Rel-4/4.10.0
+- id: 3GPP TS 34.122:Rel-4/4.10.0
   type: 3GPP
 docnumber: TS 34.122:Rel-4/4.10.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KARAJANI, Bledar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ROHDE & SCHWARZ
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ROHDE & SCHWARZ
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the Radio Frequency (RF) test methods and conformance
+- content: This document specifies the Radio Frequency (RF) test methods and conformance
     requirements for UTRA User Equipment (UE) operating in the TDD mode. These have
     been derived from, and are consistent with, the core UTRA specifications. The
     maximum acceptable measurement uncertainty is specified in the TS for each test,
@@ -38,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR37.716-11-11-Rel-16/0.1.0
 title:
-  type: main
+- type: main
   content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of 1 band  LTE (1 Down Link (DL) / 1 Up Link (UL)) and 1 NR band (1 DL
     / 1 UL)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-11-11/37716-11-11-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-11-11/37716-11-11-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.716-11-11:Rel-16/0.1.0
+- id: 3GPP TR 37.716-11-11:Rel-16/0.1.0
   type: 3GPP
 docnumber: TR 37.716-11-11:Rel-16/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: OGUMA, Yuta
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
-  content: File identical to v1.0.0, file shows v1.0.0 on cover and 0.9.0 in history.
+- content: File identical to v1.0.0, file shows v1.0.0 on cover and 0.9.0 in history.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS25.171-Rel-6/6.1.0
 title:
-  type: main
+- type: main
   content: Requirements for support of Assisted Global Positioning System (A-GPS);
     Frequency Division Duplex (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.171/25171-610.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.171/25171-610.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.171:Rel-6/6.1.0
+- id: 3GPP TS 25.171:Rel-6/6.1.0
   type: 3GPP
 docnumber: TS 25.171:Rel-6/6.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHEN, Donglin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The present document establishes the minimum performance requirements for
+- content: The present document establishes the minimum performance requirements for
     A-GPS for FDD mode of UTRA for the User Equipment (UE).
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

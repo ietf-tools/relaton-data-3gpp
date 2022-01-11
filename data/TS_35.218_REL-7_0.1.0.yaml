@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS35.218-Rel-7/0.1.0
 title:
-  type: main
+- type: main
   content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms UEA2
     & UIA2; Document 4: Design conformance test data'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.218/35218-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.218/35218-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 35.218:Rel-7/0.1.0
+- id: 3GPP TS 35.218:Rel-7/0.1.0
   type: 3GPP
 docnumber: TS 35.218:Rel-7/0.1.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2006-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: Not in 3GPP format
+- content: Not in 3GPP format
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

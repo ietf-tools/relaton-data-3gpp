@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR36.893-Rel-13/1.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); 700MHz band for Arab
     Region
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.893/36893-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.893/36893-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.893:Rel-13/1.0.0
+- id: 3GPP TR 36.893:Rel-13/1.0.0
   type: 3GPP
 docnumber: TR 36.893:Rel-13/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ABOUALMAL, Abdulhadi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETISALAT
-  role: author
+    - organization:
+        name:
+        - ETISALAT
+  role:
+  - author
 biblionote:
-  content: 'This version was uploaded with the following quality checks failures:
+- content: 'This version was uploaded with the following quality checks failures:
     No matching files inside zip. Quality checks cannot be executed'
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

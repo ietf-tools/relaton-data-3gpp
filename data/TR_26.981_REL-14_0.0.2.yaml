@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.981-Rel-14/0.0.2
 title:
-  type: main
+- type: main
   content: MBMS Extensions for Provisioning and Content Ingestion
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.981/26981-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.981/26981-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.981:Rel-14/0.0.2
+- id: 3GPP TR 26.981:Rel-14/0.0.2
   type: 3GPP
 docnumber: TR 26.981:Rel-14/0.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PARK, Kyungmo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Electronics Co., Ltd
-  role: author
+    - organization:
+        name:
+        - Samsung Electronics Co., Ltd
+  role:
+  - author
 biblionote:
-  content: 'S4-160844 ^ 2016-07-10: S4-160844'
+- content: 'S4-160844 ^ 2016-07-10: S4-160844'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: LTE
 release:

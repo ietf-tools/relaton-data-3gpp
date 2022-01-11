@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.802-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Architectural enhancements for end-to-end Quality of Service (QoS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.802/23802-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.802/23802-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.802:Rel-7/7.0.0
+- id: 3GPP TR 23.802:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 23.802:Rel-7/7.0.0
 date:
@@ -18,27 +18,33 @@ date:
 - type: confirmed
   value: '2004-10-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JAKSA, Robert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: 'SP-26: Estimate approval at SP-28.  Pre-SP-27: Estimate approval at SP-30.'
   type: remark
 - content: S2 has no intention to maintain this TR.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

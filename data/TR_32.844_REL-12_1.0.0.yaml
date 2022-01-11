@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.844-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Study of charging support of Proximity-based Services (ProSe) direct communication
     for public safety use
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.844/32844-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.844/32844-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.844:Rel-12/1.0.0
+- id: 3GPP TR 32.844:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 32.844:Rel-12/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHENG, Hong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: SP-140550
+- content: SP-140550
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

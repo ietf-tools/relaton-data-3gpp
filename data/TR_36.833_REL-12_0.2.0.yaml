@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.833-Rel-12/0.2.0
 title:
-  type: main
+- type: main
   content: Intra-band Non-contiguous CA for Band 4 for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833/36833-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833/36833-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.833:Rel-12/0.2.0
+- id: 3GPP TR 36.833:Rel-12/0.2.0
   type: 3GPP
 docnumber: TR 36.833:Rel-12/0.2.0
 date:
-  type: created
+- type: created
   value: '2013-04-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: UENG, Nelson
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile USA Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile USA Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,26 +1,43 @@
 ---
 id: 3GPPTR23.858-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Usage Monitoring Control PCC Enhancement
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.858/23858-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.858/23858-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.858:Rel-13/2.0.0
+- id: 3GPP TR 23.858:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 23.858:Rel-13/2.0.0
 date:
-  type: created
+- type: created
   value: '2015-03-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: ZONG, Zaifeng
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: SP-150032
+- content: SP-150032
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

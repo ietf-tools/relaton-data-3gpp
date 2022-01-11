@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.833-R99/2.0.0
 title:
-  type: main
+- type: main
   content: Physical layer items not for inclusion in Release 99
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.833:R99/2.0.0
+- id: 3GPP TR 25.833:R99/2.0.0
   type: 3GPP
 docnumber: TR 25.833:R99/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAKER, Matthew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: '2003-11-28: WG Chairman intends that this be brought under change control
     at RP-22.'
   type: remark
 - content: RP-030645
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

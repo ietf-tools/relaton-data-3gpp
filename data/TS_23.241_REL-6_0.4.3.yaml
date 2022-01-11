@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS23.241-Rel-6/0.4.3
 title:
-  type: main
+- type: main
   content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-043.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.241/23241-043.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.241:Rel-6/0.4.3
+- id: 3GPP TS 23.241:Rel-6/0.4.3
   type: 3GPP
 docnumber: TS 23.241:Rel-6/0.4.3
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOZA, Yvette
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: 'RP-15: Delayed from Rel-5.   2004-11-16: N4 intends to withdraw this spec
+- content: 'RP-15: Delayed from Rel-5.   2004-11-16: N4 intends to withdraw this spec
     and replace with TR 23.941.  NP-26: withdrawal confirmed.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N4

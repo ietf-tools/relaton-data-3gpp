@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS25.214-Rel-13/13.3.1
 title:
-  type: main
+- type: main
   content: Physical layer procedures (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.214/25214-d31.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.214/25214-d31.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.214:Rel-13/13.3.1
+- id: 3GPP TS 25.214:Rel-13/13.3.1
   type: 3GPP
 docnumber: TS 25.214:Rel-13/13.3.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: COZZO, Carmela
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
-  content: 'MCC clean-up removing left comments '
+- content: 'MCC clean-up removing left comments '
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes and establishes the characteristics of the
+- content: This specification describes and establishes the characteristics of the
     physical layer procedures in the FDD mode of UTRA.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -1,26 +1,28 @@
 ---
 id: 3GPPTS02.21-Ph1/3.3.3
 title:
-  type: main
+- type: main
   content: Transferred account procedure and billing information
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 02.21:Ph1/3.3.3
+- id: 3GPP TS 02.21:Ph1/3.3.3
   type: 3GPP
 docnumber: TS 02.21:Ph1/3.3.3
 biblionote:
-  content: Shows "v3.3.0 MoU rev 3"
+- content: Shows "v3.3.0 MoU rev 3"
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR32.860-Rel-14/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on enhancements of Operations, Administration
     and Maintenance (OAM) aspects of distributed Self-Organizing Networks (SON) functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.860/32860-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.860/32860-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.860:Rel-14/1.0.0
+- id: 3GPP TR 32.860:Rel-14/1.0.0
   type: 3GPP
 docnumber: TR 32.860:Rel-14/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YANOVER, Vladimir
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Cisco Systems Belgium
-  role: author
+    - organization:
+        name:
+        - Cisco Systems Belgium
+  role:
+  - author
 biblionote:
-  content: SP-160443
+- content: SP-160443
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

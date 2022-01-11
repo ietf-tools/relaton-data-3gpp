@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR25.993-Rel-6/6.4.0
 title:
-  type: main
+- type: main
   content: Typical examples of Radio Access Bearers (RABs) and Radio Bearers (RBs)
     supported by Universal Terrestrial Radio Access (UTRA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.993/25993-640.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.993/25993-640.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.993:Rel-6/6.4.0
+- id: 3GPP TR 25.993:Rel-6/6.4.0
   type: 3GPP
 docnumber: TR 25.993:Rel-6/6.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
 biblionote:
-  content: 'SP-17: Currently the latest release version.'
+- content: 'SP-17: Currently the latest release version.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

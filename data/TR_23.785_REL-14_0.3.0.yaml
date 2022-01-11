@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.785-Rel-14/0.3.0
 title:
-  type: main
+- type: main
   content: Study on architecture enhancements for LTE support of V2X services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.785/23785-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.785/23785-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.785:Rel-14/0.3.0
+- id: 3GPP TR 23.785:Rel-14/0.3.0
   type: 3GPP
 docnumber: TR 23.785:Rel-14/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Laeyoung
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: Update with agreed pCRs after SA WG2#114
+- content: Update with agreed pCRs after SA WG2#114
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

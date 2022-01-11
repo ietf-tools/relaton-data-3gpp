@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS10.78-R98/0.1.1
 title:
-  type: main
+- type: main
   content: 'Project scheduling and open issues: CAMEL'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.78/1078-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.78/1078-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 10.78:R98/0.1.1
+- id: 3GPP TS 10.78:R98/0.1.1
   type: 3GPP
 docnumber: TS 10.78:R98/0.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: APRATH, Stefan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
-  content: 'July 2002: abandoned'
+- content: 'July 2002: abandoned'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

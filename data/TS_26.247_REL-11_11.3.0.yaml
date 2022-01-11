@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS26.247-Rel-11/11.3.0
 title:
-  type: main
+- type: main
   content: Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive
     Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.247/26247-b30.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.247/26247-b30.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.247:Rel-11/11.3.0
+- id: 3GPP TS 26.247:Rel-11/11.3.0
   type: 3GPP
 docnumber: TS 26.247:Rel-11/11.3.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2011-06-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOCKHAMMER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

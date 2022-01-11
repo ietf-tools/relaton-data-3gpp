@@ -1,35 +1,26 @@
 ---
 id: 3GPPTS11.11-Ph2/4.8.0
 title:
-  type: main
+- type: main
   content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
     Interface
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 11.11:Ph2/4.8.0
+- id: 3GPP TS 11.11:Ph2/4.8.0
   type: 3GPP
 docnumber: TS 11.11:Ph2/4.8.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-14'
-contributor:
-  person:
-    name:
-      completename:
-        content: L'HERITEAU, Denis
-        language: en
-        script: Latn
-    affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

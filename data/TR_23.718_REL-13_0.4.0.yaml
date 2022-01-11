@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.718-Rel-13/0.4.0
 title:
-  type: main
+- type: main
   content: Architecture enhancement for flexible mobile service steering
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.718:Rel-13/0.4.0
+- id: 3GPP TR 23.718:Rel-13/0.4.0
   type: 3GPP
 docnumber: TR 23.718:Rel-13/0.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUN, Tao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile US Research Cente
-  role: author
+    - organization:
+        name:
+        - China Mobile US Research Cente
+  role:
+  - author
 biblionote:
-  content: Post S2-109 update
+- content: Post S2-109 update
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR32.826-Rel-9/0.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on Energy Savings Management (ESM)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 32.826:Rel-9/0.2.0
+- id: 3GPP TR 32.826:Rel-9/0.2.0
   type: 3GPP
 docnumber: TR 32.826:Rel-9/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-03-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOMPAKIS, Panagiotis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
-  content: 'SP-47: timed out of Rel-9'
+- content: 'SP-47: timed out of Rel-9'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

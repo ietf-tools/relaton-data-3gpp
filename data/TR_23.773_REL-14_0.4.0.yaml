@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR23.773-Rel-14/0.4.0
 title:
-  type: main
+- type: main
   content: Study on group based enhancements in the network capability exposure functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.773/23773-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.773/23773-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.773:Rel-14/0.4.0
+- id: 3GPP TR 23.773:Rel-14/0.4.0
   type: 3GPP
 docnumber: TR 23.773:Rel-14/0.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WON, Sung Hwan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
-  content: Update with approved pCRs at SA2#115
+- content: Update with approved pCRs at SA2#115
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: LTE
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR25.905-Rel-7/0.0.2
 title:
-  type: main
+- type: main
   content: Feasibility study on improvement of the Multimedia Broadcast/Multicast
     Service (MBMS) in UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.905/25905-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.905/25905-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.905:Rel-7/0.0.2
+- id: 3GPP TR 25.905:Rel-7/0.0.2
   type: 3GPP
 docnumber: TR 25.905:Rel-7/0.0.2
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2011-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEE, Youngdae
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: RP-060604 ex R2-062673 - Is sufficiently complete to be raised to v1.0.0
+- content: RP-060604 ex R2-062673 - Is sufficiently complete to be raised to v1.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

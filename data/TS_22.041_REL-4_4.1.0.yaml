@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.041-Rel-4/4.1.0
 title:
-  type: main
+- type: main
   content: Operator Determined Barring (ODB)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.041/22041-410.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.041/22041-410.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.041:Rel-4/4.1.0
+- id: 3GPP TS 22.041:Rel-4/4.1.0
   type: 3GPP
 docnumber: TS 22.041:Rel-4/4.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RODERMUND, Friedhelm
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The feature operator determined barring (ODB) allows the network operator
+- content: The feature operator determined barring (ODB) allows the network operator
     or service provider to regulate, by means of an exceptional procedure, access
     by the subscribers to 3G services, by the barring of certain categories of outgoing
     or incoming calls or of roaming. ODB shall take effect immediately and shall terminate
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

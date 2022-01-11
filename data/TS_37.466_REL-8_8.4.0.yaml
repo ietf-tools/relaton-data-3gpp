@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS37.466-Rel-8/8.4.0
 title:
-  type: main
+- type: main
   content: 'Iuant interface: Application part'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/37_series/37.466/37466-840.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/37_series/37.466/37466-840.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.466:Rel-8/8.4.0
+- id: 3GPP TS 37.466:Rel-8/8.4.0
   type: 3GPP
 docnumber: TS 37.466:Rel-8/8.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: REININGER, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: Successor to 25.466 v8.3.0
+- content: Successor to 25.466 v8.3.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

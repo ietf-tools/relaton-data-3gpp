@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS31.101-Rel-11/11.1.0
 title:
-  type: main
+- type: main
   content: UICC-terminal interface; Physical and logical characteristics
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.101/31101-b10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.101/31101-b10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.101:Rel-11/11.1.0
+- id: 3GPP TS 31.101:Rel-11/11.1.0
   type: 3GPP
 docnumber: TS 31.101:Rel-11/11.1.0
 date:
@@ -18,23 +18,29 @@ date:
 - type: confirmed
   value: '2003-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VIRK, Amandeep
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the interface between the UICC and the Terminal
+- content: This document specifies the interface between the UICC and the Terminal
     for 3G telecom network operation. This includes the requirements for the physical
     characteristics of the UICC, the electrical interface between the UICC and the
     Terminal, the initial communication establishment and the transport protocols,
@@ -44,7 +50,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

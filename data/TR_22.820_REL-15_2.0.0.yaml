@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR22.820-Rel-15/2.0.0
 title:
-  type: main
+- type: main
   content: Study on Provision of Local Operator Services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.820/22820-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.820/22820-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.820:Rel-15/2.0.0
+- id: 3GPP TR 22.820:Rel-15/2.0.0
   type: 3GPP
 docnumber: TR 22.820:Rel-15/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: COVELL, Betsy
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia UK
-  role: author
+    - organization:
+        name:
+        - Nokia UK
+  role:
+  - author
 biblionote:
-  content: SP-170167
+- content: SP-170167
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: LTE
 release:

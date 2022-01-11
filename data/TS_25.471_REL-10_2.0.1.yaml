@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS25.471-Rel-10/2.0.1
 title:
-  type: main
+- type: main
   content: UTRAN Iurh interface Radio Network Subsystem Application Part (RNSAP) User
     Adaption (RNA) signalling
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.471/25471-201.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.471/25471-201.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.471:Rel-10/2.0.1
+- id: 3GPP TS 25.471:Rel-10/2.0.1
   type: 3GPP
 docnumber: TS 25.471:Rel-10/2.0.1
 date:
@@ -19,29 +19,35 @@ date:
 - type: confirmed
   value: '2011-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CENTONZA, Angelo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson-LG Co., LTD
-  role: author
+    - organization:
+        name:
+        - Ericsson-LG Co., LTD
+  role:
+  - author
 biblionote:
-  content: Unofficial company contribution in RP-101367 (still shows v2.0.0 on cover),
+- content: Unofficial company contribution in RP-101367 (still shows v2.0.0 on cover),
     withdrawn.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

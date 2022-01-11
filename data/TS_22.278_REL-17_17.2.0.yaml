@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS22.278-Rel-17/17.2.0
 title:
-  type: main
+- type: main
   content: Service requirements for the Evolved Packet System (EPS)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.278/22278-h20.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.278/22278-h20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.278:Rel-17/17.2.0
+- id: 3GPP TS 22.278:Rel-17/17.2.0
   type: 3GPP
 docnumber: TS 22.278:Rel-17/17.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-10-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KURZ, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

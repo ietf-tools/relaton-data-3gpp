@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR36.837-Rel-11/0.3.0
 title:
-  type: main
+- type: main
   content: Public safety broadband high power User Equipment (UE) for band 14
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.837/36837-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.837/36837-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.837:Rel-11/0.3.0
+- id: 3GPP TR 36.837:Rel-11/0.3.0
   type: 3GPP
 docnumber: TR 36.837:Rel-11/0.3.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2013-01-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JIN, Xiaowei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Solutions UK Ltd.
-  role: author
+    - organization:
+        name:
+        - Motorola Solutions UK Ltd.
+  role:
+  - author
 biblionote:
-  content: R4-124975
+- content: R4-124975
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

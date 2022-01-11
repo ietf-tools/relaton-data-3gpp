@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.821-Rel-16/0.6.0
 title:
-  type: main
+- type: main
   content: Solutions for NR to support Non-Terrestrial Networks (NTN)
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/38_series/38.821/38821-060.zip
+- content: http://ftp.3gpp.org//Specs/archive/38_series/38.821/38821-060.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.821:Rel-16/0.6.0
+- id: 3GPP TR 38.821:Rel-16/0.6.0
   type: 3GPP
 docnumber: TR 38.821:Rel-16/0.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHUBERRE, Nicolas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: THALES
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - THALES
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 5G
 release:

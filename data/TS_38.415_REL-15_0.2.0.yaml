@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS38.415-Rel-15/0.2.0
 title:
-  type: main
+- type: main
   content: NG-RAN; PDU session user plane protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.415/38415-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.415/38415-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.415:Rel-15/0.2.0
+- id: 3GPP TS 38.415:Rel-15/0.2.0
   type: 3GPP
 docnumber: TS 38.415:Rel-15/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GODIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 5G
 release:

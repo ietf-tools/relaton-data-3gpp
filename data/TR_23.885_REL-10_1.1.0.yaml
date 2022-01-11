@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.885-Rel-10/1.1.0
 title:
-  type: main
+- type: main
   content: Feasibility Study of Single Radio Voice Call Continuity (SRVCC) from UTRAN/GERAN
     to E-UTRAN/HSPA; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.885/23885-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.885/23885-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.885:Rel-10/1.1.0
+- id: 3GPP TR 23.885:Rel-10/1.1.0
   type: 3GPP
 docnumber: TR 23.885:Rel-10/1.1.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2011-09-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARANKANIRA, Delphin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange SA
-  role: author
+    - organization:
+        name:
+        - Orange SA
+  role:
+  - author
 biblionote:
-  content: 'SP-54: timed out to Rel-11.'
+- content: 'SP-54: timed out to Rel-11.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

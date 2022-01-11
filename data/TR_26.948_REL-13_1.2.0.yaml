@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR26.948-Rel-13/1.2.0
 title:
-  type: main
+- type: main
   content: Study on video enhancements in 3GPP multimedia services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.948/26948-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.948/26948-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.948:Rel-13/1.2.0
+- id: 3GPP TR 26.948:Rel-13/1.2.0
   type: 3GPP
 docnumber: TR 26.948:Rel-13/1.2.0
 date:
-  type: created
+- type: created
   value: '2015-11-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Ye-kui
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: S4-151528
+- content: S4-151528
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 2G
 release:

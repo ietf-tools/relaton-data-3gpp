@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.458-Rel-8/8.1.0
 title:
-  type: main
+- type: main
   content: TISPAN; SIP Transfer of IP Multimedia Service Tariff Information; Protocol
     specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.458/29458-810.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.458/29458-810.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.458:Rel-8/8.1.0
+- id: 3GPP TS 29.458:Rel-8/8.1.0
   type: 3GPP
 docnumber: TS 29.458:Rel-8/8.1.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2008-01-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KREIPL, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: TISPAN R2 frozen
+- content: TISPAN R2 frozen
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

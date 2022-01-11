@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS29.005-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Interworking between the Public Land Mobile Network (PLMN) and the Packet
     Switched Public Data Network (PSPDN) for Packet Assembly/Disassembly (PAD) facility
     access
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.005/29005-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.005/29005-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.005:R99/3.0.0
+- id: 3GPP TS 29.005:R99/3.0.0
   type: 3GPP
 docnumber: TS 29.005:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOSWARTHICK, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N3

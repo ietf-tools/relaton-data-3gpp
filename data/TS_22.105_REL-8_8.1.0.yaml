@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.105-Rel-8/8.1.0
 title:
-  type: main
+- type: main
   content: Services and service capabilities
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.105/22105-810.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.105/22105-810.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.105:Rel-8/8.1.0
+- id: 3GPP TS 22.105:Rel-8/8.1.0
   type: 3GPP
 docnumber: TS 22.105:Rel-8/8.1.0
 date:
@@ -18,20 +18,26 @@ date:
 - type: confirmed
   value: '2002-09-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BISCHINGER, Kurt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile Austria GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile Austria GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Pre-UMTS systems have largely standardized the complete sets of bearer
+- content: Pre-UMTS systems have largely standardized the complete sets of bearer
     services, teleservices and supplementary services which they provide. One major
     difference between UMTS and pre-UMTS systems is that service capabilities rather
     than services are standardized for UMTS, allowing service differentiation and
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

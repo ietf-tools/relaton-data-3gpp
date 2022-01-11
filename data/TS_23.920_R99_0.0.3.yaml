@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS23.920-R99/0.0.3
 title:
-  type: main
+- type: main
   content: Evolution of the GSM platform towards UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.920/23920-003.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.920/23920-003.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.920:R99/0.0.3
+- id: 3GPP TS 23.920:R99/0.0.3
   type: 3GPP
 docnumber: TS 23.920:R99/0.0.3
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DANIEL, Elizabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: Stopped TSG#6
+- content: Stopped TSG#6
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: "-"
+- name: "-"
   type: prime
 radiotechnology: 2G
 release:

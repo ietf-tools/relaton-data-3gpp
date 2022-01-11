@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR37.814-Rel-12/0.6.0
 title:
-  type: main
+- type: main
   content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
     Radio Access (E-UTRA); L-band for Supplemental Downlink
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.814/37814-060.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.814/37814-060.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.814:Rel-12/0.6.0
+- id: 3GPP TR 37.814:Rel-12/0.6.0
   type: 3GPP
 docnumber: TR 37.814:Rel-12/0.6.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BEN HADDADA, Olfa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: R4-145551
+- content: R4-145551
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

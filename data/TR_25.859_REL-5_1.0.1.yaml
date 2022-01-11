@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.859-Rel-5/1.0.1
 title:
-  type: main
+- type: main
   content: User Equipment (UE) positioning enhancements for 1.28 Mcps TDD
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.859/25859-101.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.859/25859-101.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.859:Rel-5/1.0.1
+- id: 3GPP TR 25.859:Rel-5/1.0.1
   type: 3GPP
 docnumber: TR 25.859:Rel-5/1.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-03-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEI, Xiaohua
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
-  content: RP-010560
+- content: RP-010560
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

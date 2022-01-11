@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS32.106-1-R99/1.1.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Configuration Management (CM); Part 1: Concept
     and requirements'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-1/32106-1-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-1/32106-1-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.106-1:R99/1.1.0
+- id: 3GPP TS 32.106-1:R99/1.1.0
   type: 3GPP
 docnumber: TS 32.106-1:R99/1.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
 biblionote:
-  content: 'SP-08: multipart split from parent 3.0.1'
+- content: 'SP-08: multipart split from parent 3.0.1'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

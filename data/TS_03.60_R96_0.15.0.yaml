@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.60-R96/0.15.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Service description; Stage 2
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 03.60:R96/0.15.0
+- id: 3GPP TS 03.60:R96/0.15.0
   type: 3GPP
 docnumber: TS 03.60:R96/0.15.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-04-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KUCHIBHOTLA, Ravi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Mobility UK Ltd.
-  role: author
+    - organization:
+        name:
+        - Motorola Mobility UK Ltd.
+  role:
+  - author
 biblionote:
-  content: 1996-04
+- content: 1996-04
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

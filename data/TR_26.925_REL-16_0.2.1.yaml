@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.925-Rel-16/0.2.1
 title:
-  type: main
+- type: main
   content: Typical traffic characteristics of media services on 3GPP networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.925/26925-021.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.925/26925-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.925:Rel-16/0.2.1
+- id: 3GPP TR 26.925:Rel-16/0.2.1
   type: 3GPP
 docnumber: TR 26.925:Rel-16/0.2.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GABIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: Editorial updates agreed at 3GPP SA4 MBS telco 18th Feb. 2019
+- content: Editorial updates agreed at 3GPP SA4 MBS telco 18th Feb. 2019
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

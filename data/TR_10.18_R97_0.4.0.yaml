@@ -1,29 +1,31 @@
 ---
 id: 3GPPTR10.18-R97/0.4.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); O&M in GPRS
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 10.18:R97/0.4.0
+- id: 3GPP TR 10.18:R97/0.4.0
   type: 3GPP
 docnumber: TR 10.18:R97/0.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-08-12'
 biblionote:
-  content: 1997-11
+- content: 1997-11
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: smg
+- name: smg
   type: prime
 radiotechnology: 2G
 release:

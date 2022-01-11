@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR45.860-Rel-11/0.7.1
 title:
-  type: main
+- type: main
   content: Signal Precoding Enhancements for EGPRS2 DL
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.860/45860-071.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.860/45860-071.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 45.860:Rel-11/0.7.1
+- id: 3GPP TR 45.860:Rel-11/0.7.1
   type: 3GPP
 docnumber: TR 45.860:Rel-11/0.7.1
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2011-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUNDBERG, Marten
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: endorsed by G2, GP-111400
+- content: endorsed by G2, GP-111400
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

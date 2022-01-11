@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.824-Rel-9/0.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Service Oriented Architecture (SOA) Integration
     Reference Point (IRP) study
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 32.824:Rel-9/0.0.0
+- id: 3GPP TR 32.824:Rel-9/0.0.0
   type: 3GPP
 docnumber: TR 32.824:Rel-9/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-06-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TSE, Edwin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'SP-43: Timed out of Rel-8.'
+- content: 'SP-43: Timed out of Rel-8.'
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 common-ims-spec: true

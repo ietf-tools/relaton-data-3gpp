@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS23.014-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Support of Dual Tone Multi-Frequency (DTMF) signalling
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.014/23014-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.014/23014-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.014:Rel-10/10.0.0
+- id: 3GPP TS 23.014:Rel-10/10.0.0
   type: 3GPP
 docnumber: TS 23.014:Rel-10/10.0.0
 date:
@@ -18,27 +18,33 @@ date:
 - type: confirmed
   value: '2008-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEIS, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

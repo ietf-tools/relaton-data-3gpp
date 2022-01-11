@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS05.01-R99/8.4.0
 title:
-  type: main
+- type: main
   content: Physical layer on the radio path; General description
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.01/0501-840.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.01/0501-840.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 05.01:R99/8.4.0
+- id: 3GPP TS 05.01:R99/8.4.0
   type: 3GPP
 docnumber: TS 05.01:R99/8.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JOKINEN, Harri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BROADCOM CORPORATION
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - BROADCOM CORPORATION
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

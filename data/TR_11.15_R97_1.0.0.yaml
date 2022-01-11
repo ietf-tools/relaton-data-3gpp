@@ -1,30 +1,32 @@
 ---
 id: 3GPPTR11.15-R97/1.0.0
 title:
-  type: main
+- type: main
   content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility
     study
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 11.15:R97/1.0.0
+- id: 3GPP TR 11.15:R97/1.0.0
   type: 3GPP
 docnumber: TR 11.15:R97/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-08-12'
 biblionote:
-  content: 1997-06
+- content: 1997-06
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: smg9
+- name: smg9
   type: prime
 radiotechnology: 2G
 release:

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS24.088-Rel-4/4.0.2
 title:
-  type: main
+- type: main
   content: Call Barring (CB) supplementary service; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.088/24088-402.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.088/24088-402.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.088:Rel-4/4.0.2
+- id: 3GPP TS 24.088:Rel-4/4.0.2
   type: 3GPP
 docnumber: TS 24.088:Rel-4/4.0.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

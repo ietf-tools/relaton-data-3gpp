@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR36.860-13-Rel-13/0.3.0
 title:
-  type: main
+- type: main
   content: LTE-Advanced dual uplink inter-band Carrier Aggregation (CA)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.860-13:Rel-13/0.3.0
+- id: 3GPP TR 36.860-13:Rel-13/0.3.0
   type: 3GPP
 docnumber: TR 36.860-13:Rel-13/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Ye
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
 biblionote:
 - content: To be approved at end of Rel-13.
   type: remark
 - content: R4-153330
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

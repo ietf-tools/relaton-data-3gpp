@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR31.970-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: UICC power optimisation for Machine-Type Communication (MTC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/31_series/31.970/31970-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/31_series/31.970/31970-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 31.970:Rel-16/16.0.0
+- id: 3GPP TR 31.970:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 31.970:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-06-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VIRK, Amandeep
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 3G
 release:

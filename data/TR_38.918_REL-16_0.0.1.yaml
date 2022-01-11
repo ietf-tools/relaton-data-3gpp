@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.918-Rel-16/0.0.1
 title:
-  type: main
+- type: main
   content: Study on 5G NR UE full stack testing for Network Slicing
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 38.918:Rel-16/0.0.1
+- id: 3GPP TR 38.918:Rel-16/0.0.1
   type: 3GPP
 docnumber: TR 38.918:Rel-16/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SONG, Dan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: withdrawn - not needed
+- content: withdrawn - not needed
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

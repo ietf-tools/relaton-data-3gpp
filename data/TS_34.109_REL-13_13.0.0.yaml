@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS34.109-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Terminal logical test interface; Special conformance testing functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.109/34109-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.109:Rel-13/13.0.0
+- id: 3GPP TS 34.109:Rel-13/13.0.0
   type: 3GPP
 docnumber: TS 34.109:Rel-13/13.0.0
 date:
@@ -18,31 +18,37 @@ date:
 - type: confirmed
   value: '2002-01-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EKLOF, Cecilia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies for User Equipment (UE), in UMTS system, for FDD
+- content: This document specifies for User Equipment (UE), in UMTS system, for FDD
     and TDD modes, those UE functions that are required for conformance testing purposes.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R2

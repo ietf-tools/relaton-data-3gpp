@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR29.801-Rel-7/0.2.0
 title:
-  type: main
+- type: main
   content: Feasibility study of using M2PA in 3GPP networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.801/29801-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.801/29801-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.801:Rel-7/0.2.0
+- id: 3GPP TR 29.801:Rel-7/0.2.0
   type: 3GPP
 docnumber: TR 29.801:Rel-7/0.2.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2006-07-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHAO, Yuyi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: C4-060970
+- content: C4-060970
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS11.10-4-R96/5.2.0
 title:
-  type: main
+- type: main
   content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
     Module (SIM) application toolkit conformance test specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-4/1110-4-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-4/1110-4-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.10-4:R96/5.2.0
+- id: 3GPP TS 11.10-4:R96/5.2.0
   type: 3GPP
 docnumber: TS 11.10-4:R96/5.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-10-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WILLENBRINK, Udo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Comprion GmbH
-  role: author
+    - organization:
+        name:
+        - Comprion GmbH
+  role:
+  - author
 biblionote:
-  content: 'GP-13: doc becomes pointer to latest Rel version.'
+- content: 'GP-13: doc becomes pointer to latest Rel version.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR24.819-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Protocol impact from providing IMS services via fixed broadband; Stage-3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.819/24819-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.819/24819-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.819:Rel-7/7.0.0
+- id: 3GPP TR 24.819:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 24.819:Rel-7/7.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2005-05-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEIS, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: All important content will be fed to TSs and this TR will not be maintained.
+- content: All important content will be fed to TSs and this TR will not be maintained.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 release:

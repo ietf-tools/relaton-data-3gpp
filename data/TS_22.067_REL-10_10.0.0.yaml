@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS22.067-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: enhanced Multi Level Precedence and Pre-emption service (eMLPP); Stage
     1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.067/22067-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.067/22067-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.067:Rel-10/10.0.0
+- id: 3GPP TS 22.067:Rel-10/10.0.0
   type: 3GPP
 docnumber: TS 22.067:Rel-10/10.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2011-04-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This specification describes the Stage 1 description of the enhanced multi-level
+- content: 'This specification describes the Stage 1 description of the enhanced multi-level
     precedence and pre-emption (eMLPP) service. This service has two parts: precedence
     and pre-emption. Precedence involves assigning a priority level to a call in combination
     with fast call set-up. Pre-emption involves the seizing of resources, which are
@@ -48,7 +54,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

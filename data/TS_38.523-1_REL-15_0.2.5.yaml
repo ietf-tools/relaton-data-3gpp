@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS38.523-1-Rel-15/0.2.5
 title:
-  type: main
+- type: main
   content: '5GS; User Equipment (UE) conformance specification; Part 1: Protocol'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 38.523-1:Rel-15/0.2.5
+- id: 3GPP TS 38.523-1:Rel-15/0.2.5
   type: 3GPP
 docnumber: TS 38.523-1:Rel-15/0.2.5
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WU, Yuchun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HiSilicon Technologies Co. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HiSilicon Technologies Co. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

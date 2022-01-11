@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS02.94-R99/1.0.0
 title:
-  type: main
+- type: main
   content: Follow Me Service description; Stage 1
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 02.94:R99/1.0.0
+- id: 3GPP TS 02.94:R99/1.0.0
   type: 3GPP
 docnumber: TS 02.94:R99/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CLAYTON, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: EMCOM Ltd
-  role: author
+    - organization:
+        name:
+        - EMCOM Ltd
+  role:
+  - author
 biblionote:
-  content: "#28: 1.0.0 #30: 8.0.0 August 2001: still debating whether this is GSM-only
+- content: "#28: 1.0.0 #30: 8.0.0 August 2001: still debating whether this is GSM-only
     or common.  2003-07-21 (Clayton): S1 have decided to scrap this spec in favour
     of a common GSM/UMTS spec, 22.094."
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

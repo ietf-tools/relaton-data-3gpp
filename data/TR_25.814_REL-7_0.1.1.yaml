@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.814-Rel-7/0.1.1
 title:
-  type: main
+- type: main
   content: Physical layer aspect for evolved Universal Terrestrial Radio Access (UTRA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.814/25814-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.814/25814-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.814:Rel-7/0.1.1
+- id: 3GPP TR 25.814:Rel-7/0.1.1
   type: 3GPP
 docnumber: TR 25.814:Rel-7/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-06-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ABETA, Sadayuki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
-  content: R1-050682
+- content: R1-050682
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

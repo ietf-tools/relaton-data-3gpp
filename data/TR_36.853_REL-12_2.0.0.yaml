@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR36.853-Rel-12/2.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced
     3 Band Carrier Aggregation (CA) (3DL/1UL)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.853/36853-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.853/36853-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.853:Rel-12/2.0.0
+- id: 3GPP TR 36.853:Rel-12/2.0.0
   type: 3GPP
 docnumber: TR 36.853:Rel-12/2.0.0
 date:
-  type: created
+- type: created
   value: '2014-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GRANT, Marc
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: AT&T GNS Belgium SPRL
-  role: author
+    - organization:
+        name:
+        - AT&T GNS Belgium SPRL
+  role:
+  - author
 biblionote:
-  content: RP-141217 not approved
+- content: RP-141217 not approved
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

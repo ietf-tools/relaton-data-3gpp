@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR23.868-Rel-9/2.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study on extension of support for IP Multimedia Subsystem (IMS)
     emergency calls
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.868/23868-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.868/23868-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.868:Rel-9/2.0.0
+- id: 3GPP TR 23.868:Rel-9/2.0.0
   type: 3GPP
 docnumber: TR 23.868:Rel-9/2.0.0
 date:
-  type: created
+- type: created
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EDGE, Stephen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
 - content: 'SP-41: timed out of Rel-8.'
   type: remark
 - content: SP-080836
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

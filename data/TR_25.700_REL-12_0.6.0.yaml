@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.700-Rel-12/0.6.0
 title:
-  type: main
+- type: main
   content: Study on Further Enhanced Uplink (EUL) enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.700/25700-060.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.700/25700-060.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.700:Rel-12/0.6.0
+- id: 3GPP TR 25.700:Rel-12/0.6.0
   type: 3GPP
 docnumber: TR 25.700:Rel-12/0.6.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2014-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Jun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: R2-134542
+- content: R2-134542
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

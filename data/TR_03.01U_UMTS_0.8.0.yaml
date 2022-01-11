@@ -1,27 +1,29 @@
 ---
 id: 3GPPTR03.01U-UMTS/0.8.0
 title:
-  type: main
+- type: main
   content: Framework of network requirements, interworking and integration for the
     Universal Mobile Telecommunication System
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 03.01U:UMTS/0.8.0
+- id: 3GPP TR 03.01U:UMTS/0.8.0
   type: 3GPP
 docnumber: TR 03.01U:UMTS/0.8.0
 biblionote:
-  content: td 391/94, also smg04 td 267/94
+- content: td 391/94, also smg04 td 267/94
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 3G
 release:

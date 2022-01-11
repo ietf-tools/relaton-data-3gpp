@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR25.887-Rel-6/1.1.0
 title:
-  type: main
+- type: main
   content: Beamforming enhancements
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.887:Rel-6/1.1.0
+- id: 3GPP TR 25.887:Rel-6/1.1.0
   type: 3GPP
 docnumber: TR 25.887:Rel-6/1.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-02-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KAHTAVA, Jussi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Allied Spectrum Associates Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Allied Spectrum Associates Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

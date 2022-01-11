@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS25.303-R99/3.3.0
 title:
-  type: main
+- type: main
   content: Interlayer procedures in Connected Mode
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.303/25303-330.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.303/25303-330.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.303:R99/3.3.0
+- id: 3GPP TS 25.303:R99/3.3.0
   type: 3GPP
 docnumber: TS 25.303:R99/3.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEBIRE, Benoist
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes informative interlayer procedures to perform
+- content: "This specification describes informative interlayer procedures to perform
     the required tasks.\r\nThis specification attempts to provide a comprehensive
     overview of the different states and transitions within the connected mode of
     universal mobile telecommunications system (UMTS) terminal."
@@ -37,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

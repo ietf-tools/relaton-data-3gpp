@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR25.813-Rel-7/0.1.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Radio interface protocol aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.813/25813-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.813/25813-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.813:Rel-7/0.1.1
+- id: 3GPP TR 25.813:Rel-7/0.1.1
   type: 3GPP
 docnumber: TR 25.813:Rel-7/0.1.1
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2006-01-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEBIRE, Benoist
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: R2-060128 - includes annex on editorship for various topics
+- content: R2-060128 - includes annex on editorship for various topics
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

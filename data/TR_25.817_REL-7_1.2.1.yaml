@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.817-Rel-7/1.2.1
 title:
-  type: main
+- type: main
   content: UMTS 1700 Work item Technical Report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.817/25817-121.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.817/25817-121.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.817:Rel-7/1.2.1
+- id: 3GPP TR 25.817:Rel-7/1.2.1
   type: 3GPP
 docnumber: TR 25.817:Rel-7/1.2.1
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2005-09-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAKAMURA, Takehiro
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
-  content: R4-051449r2 (document still shows version as 1.2.0)
+- content: R4-051449r2 (document still shows version as 1.2.0)
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

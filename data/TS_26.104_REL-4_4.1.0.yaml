@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS26.104-Rel-4/4.1.0
 title:
-  type: main
+- type: main
   content: ANSI-C code for the floating-point Adaptive Multi-Rate (AMR) speech codec
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-410.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-410.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.104:Rel-4/4.1.0
+- id: 3GPP TS 26.104:Rel-4/4.1.0
   type: 3GPP
 docnumber: TS 26.104:Rel-4/4.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-04-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: USAI, Paolino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

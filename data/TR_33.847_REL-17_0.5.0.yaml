@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR33.847-Rel-17/0.5.0
 title:
-  type: main
+- type: main
   content: Study on security aspects of enhancement for proximity based services in
     the 5G System (5GS)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.847/33847-050.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.847/33847-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.847:Rel-17/0.5.0
+- id: 3GPP TR 33.847:Rel-17/0.5.0
   type: 3GPP
 docnumber: TR 33.847:Rel-17/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHOU, Wei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
-  content: S3-211274
+- content: S3-211274
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

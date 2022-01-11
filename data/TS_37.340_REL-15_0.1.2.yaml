@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS37.340-Rel-15/0.1.2
 title:
-  type: main
+- type: main
   content: NR; Multi-connectivity; Overall description; Stage-2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.340/37340-012.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.340/37340-012.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.340:Rel-15/0.1.2
+- id: 3GPP TS 37.340:Rel-15/0.1.2
   type: 3GPP
 docnumber: TS 37.340:Rel-15/0.1.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PAROLARI, Sergio
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 3G
 release:

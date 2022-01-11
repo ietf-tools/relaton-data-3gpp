@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR36.715-02-02-Rel-15/0.1.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-15 for 2 Down Link (DL) / 2 Up Link (UL)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-02-02/36715-02-02-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-02-02/36715-02-02-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.715-02-02:Rel-15/0.1.0
+- id: 3GPP TR 36.715-02-02:Rel-15/0.1.0
   type: 3GPP
 docnumber: TR 36.715-02-02:Rel-15/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Ye
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

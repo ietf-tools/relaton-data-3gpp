@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR22.941-Rel-5/0.1.0
 title:
-  type: main
+- type: main
   content: IP based multimedia framework; Stage 0
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.941/22941-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.941/22941-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.941:Rel-5/0.1.0
+- id: 3GPP TR 22.941:Rel-5/0.1.0
   type: 3GPP
 docnumber: TR 22.941:Rel-5/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-12-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WOHLERT, Randolph
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SBC Technology Resources
-  role: author
+    - organization:
+        name:
+        - SBC Technology Resources
+  role:
+  - author
 biblionote:
-  content: 'TP-16: likely to drop out of Rel-5 if no progress soon.  SP-18: annex
+- content: 'TP-16: likely to drop out of Rel-5 if no progress soon.  SP-18: annex
     C presented at "evolution" workshop (EV-020021).  2003-04-07 Clayton: scrapped.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

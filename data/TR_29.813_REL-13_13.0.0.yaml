@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR29.813-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Study on S6a/S6d Shared Data Update
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.813/29813-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.813/29813-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.813:Rel-13/13.0.0
+- id: 3GPP TR 29.813:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 29.813:Rel-13/13.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
 biblionote:
-  content: 'This version was uploaded with the following quality checks failures:
+- content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history;Automatic numbering (of clauses, figures, tables,
     notes, examples etc…) should be disabled in the document;The first two lines of
     the title mu...'
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

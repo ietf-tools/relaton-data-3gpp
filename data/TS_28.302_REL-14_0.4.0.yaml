@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS28.302-Rel-14/0.4.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Licensed Shared Access (LSA) Controller (LC)
     Integration Reference Point (IRP); Information Service (IS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.302/28302-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.302/28302-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 28.302:Rel-14/0.4.0
+- id: 3GPP TS 28.302:Rel-14/0.4.0
   type: 3GPP
 docnumber: TS 28.302:Rel-14/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: POLLAKOWSKI, Olaf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: S5-171968
+- content: S5-171968
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

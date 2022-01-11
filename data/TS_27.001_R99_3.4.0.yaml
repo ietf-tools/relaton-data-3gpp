@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS27.001-R99/3.4.0
 title:
-  type: main
+- type: main
   content: General on Terminal Adaptation Functions (TAF) for Mobile Stations (MS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-340.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-340.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 27.001:R99/3.4.0
+- id: 3GPP TS 27.001:R99/3.4.0
   type: 3GPP
 docnumber: TS 27.001:R99/3.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

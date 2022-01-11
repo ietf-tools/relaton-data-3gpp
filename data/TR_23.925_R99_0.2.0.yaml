@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR23.925-R99/0.2.0
 title:
-  type: main
+- type: main
   content: UMTS Core network based ATM transport
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.925/23925-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.925/23925-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.925:R99/0.2.0
+- id: 3GPP TR 23.925:R99/0.2.0
   type: 3GPP
 docnumber: TR 23.925:R99/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ROUZ, Adel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: FUJITSU Laboratories of Europe
-  role: author
+    - organization:
+        name:
+        - FUJITSU Laboratories of Europe
+  role:
+  - author
 biblionote:
 - content: 'SP-20: stopped'
   type: remark
 - content: "(caution: doc may be corrupted)"
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

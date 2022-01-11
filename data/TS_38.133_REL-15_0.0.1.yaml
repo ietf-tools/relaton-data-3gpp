@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS38.133-Rel-15/0.0.1
 title:
-  type: main
+- type: main
   content: NR; Requirements for support of radio resource management
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.133/38133-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.133:Rel-15/0.0.1
+- id: 3GPP TS 38.133:Rel-15/0.0.1
   type: 3GPP
 docnumber: TS 38.133:Rel-15/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YANG, Tang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Apple AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Apple AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

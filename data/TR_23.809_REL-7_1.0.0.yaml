@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR23.809-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: One Tunnel solution for Optimisation of Packet Data Traffic
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.809/23809-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.809/23809-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.809:Rel-7/1.0.0
+- id: 3GPP TR 23.809:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 23.809:Rel-7/1.0.0
 date:
-  type: created
+- type: created
   value: '2006-10-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PASANEN, Antti
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: SP-060585
+- content: SP-060585
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

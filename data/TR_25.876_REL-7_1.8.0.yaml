@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.876-Rel-7/1.8.0
 title:
-  type: main
+- type: main
   content: Multiple Input Multiple Output (MIMO) antennae in UTRA
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.876/25876-180.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.876/25876-180.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.876:Rel-7/1.8.0
+- id: 3GPP TR 25.876:Rel-7/1.8.0
   type: 3GPP
 docnumber: TR 25.876:Rel-7/1.8.0
 date:
@@ -18,24 +18,30 @@ date:
 - type: confirmed
   value: '2003-11-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Howard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: Timed out of Rel-6.
   type: remark
 - content: R5-051269
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

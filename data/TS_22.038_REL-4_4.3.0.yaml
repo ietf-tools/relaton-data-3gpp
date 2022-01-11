@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.038-Rel-4/4.3.0
 title:
-  type: main
+- type: main
   content: "(U)SIM Application Toolkit (USAT); Service description; Stage 1"
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.038/22038-430.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.038/22038-430.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.038:Rel-4/4.3.0
+- id: 3GPP TS 22.038:Rel-4/4.3.0
   type: 3GPP
 docnumber: TS 22.038:Rel-4/4.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-02-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the Stage 1 description of the SAT primarily
+- content: This specification describes the Stage 1 description of the SAT primarily
     from the subscriber’s and serving environment’s points of view, and does not deal
     with the details of the human interface itself. It includes information applicable
     to network operators, serving environments and terminal, switch and database manufacturers
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.839-Rel-11/1.0.0
 title:
-  type: main
+- type: main
   content: Study on support of Broadband Forum (BBF) access Interworking
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.839/23839-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.839/23839-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.839:Rel-11/1.0.0
+- id: 3GPP TR 23.839:Rel-11/1.0.0
   type: 3GPP
 docnumber: TR 23.839:Rel-11/1.0.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2013-06-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ROMMER, Stefan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: 'SP-49: Work item timed out of Rel-10. SP-56: timed out of Rel-11.'
   type: remark
 - content: SP-110353 for info
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

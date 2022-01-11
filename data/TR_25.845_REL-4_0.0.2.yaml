@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR25.845-Rel-4/0.0.2
 title:
-  type: main
+- type: main
   content: FDD RACH and AICH performance requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.845/25845-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.845/25845-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.845:Rel-4/0.0.2
+- id: 3GPP TR 25.845:Rel-4/0.0.2
   type: 3GPP
 docnumber: TR 25.845:Rel-4/0.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VIHRIÄLÄ, Jaakko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: 'RP-15: Not to be promoted to Rel-5.  RP-17: withdrawn.'
+- content: 'RP-15: Not to be promoted to Rel-5.  RP-17: withdrawn.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

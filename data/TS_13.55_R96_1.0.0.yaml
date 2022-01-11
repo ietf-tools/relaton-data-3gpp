@@ -1,13 +1,13 @@
 ---
 id: 3GPPTS13.55-R96/1.0.0
 title:
-  type: main
+- type: main
   content: Attachment requirements for Cordless Telephony System Fixed Part (CTS-FP);
     Access
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 13.55:R96/1.0.0
+- id: 3GPP TS 13.55:R96/1.0.0
   type: 3GPP
 docnumber: TS 13.55:R96/1.0.0
 biblionote:
@@ -15,12 +15,14 @@ biblionote:
   type: remark
 - content: '1999-11-11'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: "-"

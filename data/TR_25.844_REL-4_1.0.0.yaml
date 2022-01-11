@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR25.844-Rel-4/1.0.0
 title:
-  type: main
+- type: main
   content: Radio acces bearer support enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.844/25844-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.844/25844-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.844:Rel-4/1.0.0
+- id: 3GPP TR 25.844:Rel-4/1.0.0
   type: 3GPP
 docnumber: TR 25.844:Rel-4/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRISHNARAJAH, Ainkaran
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson AB
-  role: author
+    - organization:
+        name:
+        - Ericsson AB
+  role:
+  - author
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.'
   type: remark
 - content: RP-000560
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

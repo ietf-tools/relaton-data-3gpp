@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR36.885-Rel-14/0.2.0
 title:
-  type: main
+- type: main
   content: Study on LTE-based V2X services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.885:Rel-14/0.2.0
+- id: 3GPP TR 36.885:Rel-14/0.2.0
   type: 3GPP
 docnumber: TR 36.885:Rel-14/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEO, Hanbyul
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Inc.
-  role: author
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
 biblionote:
-  content: R1-156890
+- content: R1-156890
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

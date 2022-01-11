@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR32.848-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Study on Volume based charging aspects for Voice Over LTE (VoLTE)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.848/32848-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.848/32848-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.848:Rel-15/15.0.0
+- id: 3GPP TR 32.848:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 32.848:Rel-15/15.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHEN, Ai
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile US Research Cente
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile US Research Cente
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

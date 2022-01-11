@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.857-Rel-10/1.2.0
 title:
-  type: main
+- type: main
   content: Study of Evolved Packet Core (EPC) nodes restoration
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.857/23857-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.857/23857-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.857:Rel-10/1.2.0
+- id: 3GPP TR 23.857:Rel-10/1.2.0
   type: 3GPP
 docnumber: TR 23.857:Rel-10/1.2.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2012-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LU, Fei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: LTE
 release:

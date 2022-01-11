@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.852-Rel-12/0.4.1
 title:
-  type: main
+- type: main
   content: Study on Radio Access Network (RAN) sharing enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.852/22852-041.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.852/22852-041.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.852:Rel-12/0.4.1
+- id: 3GPP TR 22.852:Rel-12/0.4.1
   type: 3GPP
 docnumber: TR 22.852:Rel-12/0.4.1
 date:
@@ -18,26 +18,32 @@ date:
 - type: confirmed
   value: '2013-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
 biblionote:
-  content: S1-124482 shows v0.4.0 on cover and history; post-dates v1.0.0 but not
+- content: S1-124482 shows v0.4.0 on cover and history; post-dates v1.0.0 but not
     based on v1.0.0.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

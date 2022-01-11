@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.201-Rel-12/2.0.0
 title:
-  type: main
+- type: main
   content: Representational State Transfer (REST) reference point between Application
     Function (AF) and Protocol Converter (PC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.201/29201-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.201/29201-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.201:Rel-12/2.0.0
+- id: 3GPP TS 29.201:Rel-12/2.0.0
   type: 3GPP
 docnumber: TS 29.201:Rel-12/2.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2014-09-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BRINKMANN, Horst
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Deutschland AG
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Deutschland AG
+  role:
+  - author
 biblionote:
-  content: CP-140567
+- content: CP-140567
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 3G
 release:

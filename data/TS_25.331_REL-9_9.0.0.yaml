@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.331-Rel-9/9.0.0
 title:
-  type: main
+- type: main
   content: Radio Resource Control (RRC); Protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.331:Rel-9/9.0.0
+- id: 3GPP TS 25.331:Rel-9/9.0.0
   type: 3GPP
 docnumber: TS 25.331:Rel-9/9.0.0
 date:
@@ -18,20 +18,26 @@ date:
 - type: confirmed
   value: '2006-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHREEVASTAV, Ritesh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the RRC protocol for the radio system. The
+- content: This specification describes the RRC protocol for the radio system. The
     scope of this specification contains also the information to be transported in
     a transparent container between source RNC and target RNC in connection to SRNC
     relocation.
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

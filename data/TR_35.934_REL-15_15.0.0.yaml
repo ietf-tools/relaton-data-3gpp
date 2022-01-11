@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR35.934-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: 'Specification of the TUAK algorithm set: A second example algorithm set
     for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4,
     f5 and f5*; Document 4: Report on the design and evaluation'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.934/35934-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.934/35934-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 35.934:Rel-15/15.0.0
+- id: 3GPP TR 35.934:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 35.934:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARRY, Aguibou
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

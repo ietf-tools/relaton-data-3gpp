@@ -1,31 +1,35 @@
 ---
 id: 3GPPTR25.802-Rel-6/2.0.0
 title:
-  type: main
+- type: main
   content: Remote control of electrical tilting antennas
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.802/25802-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.802/25802-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.802:Rel-6/2.0.0
+- id: 3GPP TR 25.802:Rel-6/2.0.0
   type: 3GPP
 docnumber: TR 25.802:Rel-6/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HAUSER, Andreas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
 - content: 'RP-19: Completion target: RP-22.  Thus assume service will be implemented
     in Rel-7. RP-21: In fact, the work item is in Rel-6, so for now, move it to Rel-6.
@@ -33,15 +37,17 @@ biblionote:
   type: remark
 - content: RP-040305
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

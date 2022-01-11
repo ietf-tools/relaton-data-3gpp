@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR36.898-Rel-14/1.7.0
 title:
-  type: main
+- type: main
   content: Network Assistance for Network Synchronization
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-170.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.898/36898-170.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.898:Rel-14/1.7.0
+- id: 3GPP TR 36.898:Rel-14/1.7.0
   type: 3GPP
 docnumber: TR 36.898:Rel-14/1.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Yan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

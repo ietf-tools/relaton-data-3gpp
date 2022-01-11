@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS37.470-Rel-15/0.0.1
 title:
-  type: main
+- type: main
   content: W1 interface; General aspects and principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.470/37470-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.470/37470-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.470:Rel-15/0.0.1
+- id: 3GPP TS 37.470:Rel-15/0.0.1
   type: 3GPP
 docnumber: TS 37.470:Rel-15/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CAO, Gen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR28.804-Rel-16/0.7.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on tenancy concept in 5G networks and
     network slicing management
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 28.804:Rel-16/0.7.0
+- id: 3GPP TR 28.804:Rel-16/0.7.0
   type: 3GPP
 docnumber: TR 28.804:Rel-16/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Lei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

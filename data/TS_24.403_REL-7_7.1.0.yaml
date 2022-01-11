@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS24.403-Rel-7/7.1.0
 title:
-  type: main
+- type: main
   content: TISPAN; IP Multimedia Call Control Protocol based on Session Initiation
     Protocol (SIP) and Session Description Protocol (SDP) Stage 3 [3GPP TS 24.229
     (Release 7), modified]
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.403/24403-710.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.403/24403-710.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.403:Rel-7/7.1.0
+- id: 3GPP TS 24.403:Rel-7/7.1.0
   type: 3GPP
 docnumber: TS 24.403:Rel-7/7.1.0
 date:
@@ -20,28 +20,34 @@ date:
 - type: confirmed
   value: '2008-01-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DRAGE, Keith
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: TISPAN R1 frozen
+- content: TISPAN R1 frozen
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

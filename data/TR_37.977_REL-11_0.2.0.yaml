@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR37.977-Rel-11/0.2.0
 title:
-  type: main
+- type: main
   content: Universal Terrestrial Radio Access (UTRA) and Evolved Universal Terrestrial
     Radio Access (E-UTRA); Verification of radiated multi-antenna reception performance
     of User Equipment (UE)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.977/37977-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.977/37977-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.977:Rel-11/0.2.0
+- id: 3GPP TR 37.977:Rel-11/0.2.0
   type: 3GPP
 docnumber: TR 37.977:Rel-11/0.2.0
 date:
@@ -20,30 +20,36 @@ date:
 - type: confirmed
   value: '2014-01-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANAYA, Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone España SA
-  role: author
+    - organization:
+        name:
+        - Vodafone España SA
+  role:
+  - author
 biblionote:
 - content: 'RP-59: timed out of Rel-11.'
   type: remark
 - content: R4-124568
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

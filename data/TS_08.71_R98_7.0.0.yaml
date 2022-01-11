@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS08.71-R98/7.0.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Serving Mobile Location Centre - Base Station
     System (SMLC-BSS) interface; Layer 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.71/0871-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.71/0871-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.71:R98/7.0.0
+- id: 3GPP TS 08.71:R98/7.0.0
   type: 3GPP
 docnumber: TS 08.71:R98/7.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

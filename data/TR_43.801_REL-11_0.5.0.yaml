@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR43.801-Rel-11/0.5.0
 title:
-  type: main
+- type: main
   content: Solutions for Voice services over Adaptive Multi-user channels on One Slot
     (VAMOS) enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.801/43801-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.801/43801-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.801:Rel-11/0.5.0
+- id: 3GPP TR 43.801:Rel-11/0.5.0
   type: 3GPP
 docnumber: TR 43.801:Rel-11/0.5.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LUO, Chao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: GP-140115
+- content: GP-140115
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

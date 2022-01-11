@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR36.850-Rel-11/11.2.0
 title:
-  type: main
+- type: main
   content: Inter-band carrier aggregation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.850/36850-b20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.850/36850-b20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.850:Rel-11/11.2.0
+- id: 3GPP TR 36.850:Rel-11/11.2.0
   type: 3GPP
 docnumber: TR 36.850:Rel-11/11.2.0
 date:
@@ -18,26 +18,32 @@ date:
 - type: confirmed
   value: '2013-03-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KHAN, Asif Ali
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: '2015-01: This TR proposed to be superseded by 36.852-11 to harmonize TR
+- content: '2015-01: This TR proposed to be superseded by 36.852-11 to harmonize TR
     numbering.'
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

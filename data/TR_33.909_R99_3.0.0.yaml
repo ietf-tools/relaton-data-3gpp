@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR33.909-R99/3.0.0
 title:
-  type: main
+- type: main
   content: '3G Security; Report on the design and evaluation of the MILENAGE algorithm
     set; Deliverable 5: An example algorithm for the 3GPP authentication and key generation
     functions'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 33.909:R99/3.0.0
+- id: 3GPP TR 33.909:R99/3.0.0
   type: 3GPP
 docnumber: TR 33.909:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-05-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WALKER, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
 - content: 'TSG#7: refered to in 33.908. Had been withdrawn, but reinstated at TSG#10.
     SA#13: 2001-09-23 withdrawn.'
   type: remark
 - content: withdrawn, not needed for R99
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S3

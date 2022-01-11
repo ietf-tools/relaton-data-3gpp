@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS23.121-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Architectural requirements for Release 1999
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.121:Rel-5/5.0.0
+- id: 3GPP TS 23.121:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 23.121:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-06-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DANIEL, Elizabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: " Oct00: CRs were approved by accident, it seems. Intention was to create
+- content: " Oct00: CRs were approved by accident, it seems. Intention was to create
     23.221 v5.0.0 rather than a Rel-5 of this spec. CR will be retrospectively withdrawn."
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes architectural requirements for release 1999
+- content: This specification describes architectural requirements for release 1999
     related to the evolution of the GSM platform towards UMTS with the overall goal
     of fulfilling the UMTS service require¬ments, support of roaming and support of
     new functionality, signalling systems and interfaces.
@@ -38,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

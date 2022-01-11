@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS09.18-R98/7.4.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Serving GPRS Support Node (SGSN) -
     Visitors Location Register (VLR); Gs interface layer 3 specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.18/0918-740.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.18/0918-740.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 09.18:R98/7.4.0
+- id: 3GPP TS 09.18:R98/7.4.0
   type: 3GPP
 docnumber: TS 09.18:R98/7.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DAWES, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

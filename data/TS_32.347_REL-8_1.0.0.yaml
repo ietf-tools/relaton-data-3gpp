@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS32.347-Rel-8/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; File Transfer (FT) Integration Reference
     Point (IRP); SOAP Solution Set (SS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.347/32347-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.347/32347-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.347:Rel-8/1.0.0
+- id: 3GPP TS 32.347:Rel-8/1.0.0
   type: 3GPP
 docnumber: TS 32.347:Rel-8/1.0.0
 date:
-  type: created
+- type: created
   value: '2009-03-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Gang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: SP-090060
+- content: SP-090060
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

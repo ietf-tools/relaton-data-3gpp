@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR25.889-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study considering the viable deployment of UTRA in additional
     and diverse spectrum arrangements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.889/25889-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.889/25889-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.889:Rel-6/1.0.0
+- id: 3GPP TR 25.889:Rel-6/1.0.0
   type: 3GPP
 docnumber: TR 25.889:Rel-6/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-07-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STAHLFJALL, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: RP-020354
+- content: RP-020354
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.933-Rel-14/2.0.0
 title:
-  type: main
+- type: main
   content: Study on Context Aware Service Delivery in RAN for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.933/36933-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.933/36933-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.933:Rel-14/2.0.0
+- id: 3GPP TR 36.933:Rel-14/2.0.0
   type: 3GPP
 docnumber: TR 36.933:Rel-14/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIMBA DIT ADAMOU, Boubacar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

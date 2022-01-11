@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.328-Rel-11/11.7.0
 title:
-  type: main
+- type: main
   content: IP Multimedia (IM) Subsystem Sh interface; Signalling flows and message
     contents
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.328/29328-b70.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.328/29328-b70.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.328:Rel-11/11.7.0
+- id: 3GPP TS 29.328:Rel-11/11.7.0
   type: 3GPP
 docnumber: TS 29.328:Rel-11/11.7.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

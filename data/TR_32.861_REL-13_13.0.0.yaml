@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.861-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on application and partitioning of
     Interface N (Itf-N)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.861/32861-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.861/32861-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.861:Rel-13/13.0.0
+- id: 3GPP TR 32.861:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 32.861:Rel-13/13.0.0
 date:
-  type: created
+- type: created
   value: '2015-09-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Jian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

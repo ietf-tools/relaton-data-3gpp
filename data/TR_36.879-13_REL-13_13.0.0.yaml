@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.879-13-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: LTE Advanced 3DL/2UL inter-band Carrier Aggregation (CA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.879-13/36879-13-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.879-13/36879-13-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.879-13:Rel-13/13.0.0
+- id: 3GPP TR 36.879-13:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 36.879-13:Rel-13/13.0.0
 date:
-  type: created
+- type: created
   value: '2016-01-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIM, Suhwan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Inc.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

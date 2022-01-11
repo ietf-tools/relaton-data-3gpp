@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS23.048-Rel-4/4.3.0
 title:
-  type: main
+- type: main
   content: Security mechanisms for the (U)SIM application toolkit; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.048/23048-430.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.048/23048-430.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.048:Rel-4/4.3.0
+- id: 3GPP TS 23.048:Rel-4/4.3.0
   type: 3GPP
 docnumber: TS 23.048:Rel-4/4.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-10-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PHAN, Ly Thanh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Gemalto N.V.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the structure of the Secured Packets in a general
+- content: This document specifies the structure of the Secured Packets in a general
     format and in implementations using Short Message Service Point to Point (SMS-PP)
     and Short Message Service Cell Broadcast (SMS-CB).
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 release:

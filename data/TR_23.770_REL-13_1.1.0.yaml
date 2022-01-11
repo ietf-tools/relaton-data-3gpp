@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR23.770-Rel-13/1.1.0
 title:
-  type: main
+- type: main
   content: Study on system impacts of extended Discontinuous Reception (DRX) cycle
     for power consumption optimization
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.770/23770-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.770/23770-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.770:Rel-13/1.1.0
+- id: 3GPP TR 23.770:Rel-13/1.1.0
   type: 3GPP
 docnumber: TR 23.770:Rel-13/1.1.0
 date:
-  type: created
+- type: created
   value: '2015-07-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GRIOT, Miguel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Korea
-  role: author
+    - organization:
+        name:
+        - Qualcomm Korea
+  role:
+  - author
 biblionote:
-  content: Update after SA WG2#110
+- content: Update after SA WG2#110
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

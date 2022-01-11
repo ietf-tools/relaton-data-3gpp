@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR23.782-Rel-14/0.5.0
 title:
-  type: main
+- type: main
   content: Study on mission critical communication interworking between LTE and non-LTE
     systems
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.782/23782-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.782/23782-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.782:Rel-14/0.5.0
+- id: 3GPP TR 23.782:Rel-14/0.5.0
   type: 3GPP
 docnumber: TR 23.782:Rel-14/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONNES, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: L3Harris Technologies
-  role: author
+    - organization:
+        name:
+        - L3Harris Technologies
+  role:
+  - author
 biblionote:
-  content: post SA6#16
+- content: post SA6#16
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 radiotechnology: LTE
 release:

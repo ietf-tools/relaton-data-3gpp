@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.921-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); FDD Home eNode B (HeNB)
     Radio Frequency (RF) requirements analysis
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.921/36921-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.921/36921-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.921:Rel-13/13.0.0
+- id: 3GPP TR 36.921:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 36.921:Rel-13/13.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2010-01-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CAI, Ying
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

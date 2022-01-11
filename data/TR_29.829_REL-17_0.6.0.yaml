@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR29.829-Rel-17/0.6.0
 title:
-  type: main
+- type: main
   content: Service-based support for SMS in 5GC
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.829/29829-060.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.829/29829-060.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.829:Rel-17/0.6.0
+- id: 3GPP TR 29.829:Rel-17/0.6.0
   type: 3GPP
 docnumber: TR 29.829:Rel-17/0.6.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Liu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Telecom Corporation Ltd.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Telecom Corporation Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 5G
 release:

@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS32.106-R99/2.0.0
 title:
-  type: main
+- type: main
   content: Configuration Management
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 32.106:R99/2.0.0
+- id: 3GPP TS 32.106:R99/2.0.0
   type: 3GPP
 docnumber: TS 32.106:R99/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TSE, Edwin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'SP-08: multipart split from parent 3.0.1'
+- content: 'SP-08: multipart split from parent 3.0.1'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

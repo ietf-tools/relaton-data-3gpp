@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR28.805-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Study on management aspects of communication
     services '
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.805/28805-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.805/28805-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 28.805:Rel-16/16.0.0
+- id: 3GPP TR 28.805:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 28.805:Rel-16/16.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GROENENDIJK, Jan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

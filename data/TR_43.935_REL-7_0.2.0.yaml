@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR43.935-Rel-7/0.2.0
 title:
-  type: main
+- type: main
   content: Feasibility study of enhanced support for video telephony service over
     GERAN via the A interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.935/43935-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.935/43935-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.935:Rel-7/0.2.0
+- id: 3GPP TR 43.935:Rel-7/0.2.0
   type: 3GPP
 docnumber: TR 43.935:Rel-7/0.2.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2005-09-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ERIKSSON LÖWENMARK, Stefan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: GP-050903 at GP-24
+- content: GP-050903 at GP-24
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: G1
+- name: G1
   type: prime
 radiotechnology: 2G
 release:

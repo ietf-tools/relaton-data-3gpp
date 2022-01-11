@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS22.096-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Name identification supplementary services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.096/22096-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.096/22096-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.096:Rel-4/4.0.0
+- id: 3GPP TS 22.096:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 22.096:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DEOL, Amar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The CNAP supplementary service enables the called party to receive the
+- content: The CNAP supplementary service enables the called party to receive the
     calling name information of the calling party.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

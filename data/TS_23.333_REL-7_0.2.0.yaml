@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS23.333-Rel-7/0.2.0
 title:
-  type: main
+- type: main
   content: 'Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function
     Processor (MRFP) Mp interface: Procedures descriptions'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.333/23333-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.333/23333-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.333:Rel-7/0.2.0
+- id: 3GPP TS 23.333:Rel-7/0.2.0
   type: 3GPP
 docnumber: TS 23.333:Rel-7/0.2.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2010-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MORAND, Lionel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: C4-060969
+- content: C4-060969
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

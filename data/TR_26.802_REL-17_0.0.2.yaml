@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR26.802-Rel-17/0.0.2
 title:
-  type: main
+- type: main
   content: Multicast Architecture Enhancement for  5G Media Streaming
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/26_series/26.802/26802-002.zip
+- content: http://ftp.3gpp.org//Specs/archive/26_series/26.802/26802-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.802:Rel-17/0.0.2
+- id: 3GPP TR 26.802:Rel-17/0.0.2
   type: 3GPP
 docnumber: TR 26.802:Rel-17/0.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TAN, PENG
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELUS
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - TELUS
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

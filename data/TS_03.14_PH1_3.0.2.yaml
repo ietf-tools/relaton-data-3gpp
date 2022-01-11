@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS03.14-Ph1/3.0.2
 title:
-  type: main
+- type: main
   content: Support of Dual Tone Multi-Frequency Signalling (DTMF) via the GSM System
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.14/0314-302.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.14/0314-302.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.14:Ph1/3.0.2
+- id: 3GPP TS 03.14:Ph1/3.0.2
   type: 3GPP
 docnumber: TS 03.14:Ph1/3.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHANDRAMOULI, Devaki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

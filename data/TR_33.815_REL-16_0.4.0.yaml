@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR33.815-Rel-16/0.4.0
 title:
-  type: main
+- type: main
   content: Study on security aspects of Provision of Access to Restricted Local Operator
     Services by Unauthenticated UEs (PARLOS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.815/33815-040.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.815/33815-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.815:Rel-16/0.4.0
+- id: 3GPP TR 33.815:Rel-16/0.4.0
   type: 3GPP
 docnumber: TR 33.815:Rel-16/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHUMACHER, Greg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SPRINT Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - SPRINT Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: LTE
 release:

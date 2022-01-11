@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.889-Rel-16/0.1.0
 title:
-  type: main
+- type: main
   content: Study on NR-based access to unlicensed spectrum
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.889/38889-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.889/38889-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.889:Rel-16/0.1.0
+- id: 3GPP TR 38.889:Rel-16/0.1.0
   type: 3GPP
 docnumber: TR 38.889:Rel-16/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUN, Jing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 5G
 release:

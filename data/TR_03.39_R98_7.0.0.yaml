@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR03.39-R98/7.0.0
 title:
-  type: main
+- type: main
   content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
     for the Connection of Short Message Service Centers (SMSCs) to Short Message Entities
     (SMEs)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.39/0339-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.39/0339-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 03.39:R98/7.0.0
+- id: 3GPP TR 03.39:R98/7.0.0
   type: 3GPP
 docnumber: TR 03.39:R98/7.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HARRIS, Ian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: need identified 2000-03-29 TSG#9:withdrawn cos contains misleading information/references
+- content: need identified 2000-03-29 TSG#9:withdrawn cos contains misleading information/references
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: T2

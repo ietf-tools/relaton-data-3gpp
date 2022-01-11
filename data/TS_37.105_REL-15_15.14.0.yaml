@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS37.105-Rel-15/15.14.0
 title:
-  type: main
+- type: main
   content: Active Antenna System (AAS) Base Station (BS) transmission and reception
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-fe0.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.105/37105-fe0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.105:Rel-15/15.14.0
+- id: 3GPP TS 37.105:Rel-15/15.14.0
   type: 3GPP
 docnumber: TS 37.105:Rel-15/15.14.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KYBETT, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

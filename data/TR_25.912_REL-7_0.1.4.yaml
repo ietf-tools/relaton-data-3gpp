@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR25.912-Rel-7/0.1.4
 title:
-  type: main
+- type: main
   content: Feasibility study for evolved Universal Terrestrial Radio Access (UTRA)
     and Universal Terrestrial Radio Access Network (UTRAN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.912/25912-014.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.912/25912-014.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.912:Rel-7/0.1.4
+- id: 3GPP TR 25.912:Rel-7/0.1.4
   type: 3GPP
 docnumber: TR 25.912:Rel-7/0.1.4
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2005-03-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAKAMURA, Takehiro
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

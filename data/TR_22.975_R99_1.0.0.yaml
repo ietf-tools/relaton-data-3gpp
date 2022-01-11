@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR22.975-R99/1.0.0
 title:
-  type: main
+- type: main
   content: Advanced addressing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.975:R99/1.0.0
+- id: 3GPP TR 22.975:R99/1.0.0
   type: 3GPP
 docnumber: TR 22.975:R99/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MUSTAPHA, Mona
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This report describes the requirements for numbering and addressing for
+- content: This report describes the requirements for numbering and addressing for
     UMTS. This technical report is aimed at generating discussion and should be agreed
     with ETSI WG NA2. The respon¬sibility for developing of numbering and addressing
     schemes for all networks being in ETSI NA2.
@@ -37,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S1

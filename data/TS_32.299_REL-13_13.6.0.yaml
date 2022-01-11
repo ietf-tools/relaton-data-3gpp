@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS32.299-Rel-13/13.6.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Diameter charging applications
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-d60.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.299/32299-d60.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.299:Rel-13/13.6.0
+- id: 3GPP TS 32.299:Rel-13/13.6.0
   type: 3GPP
 docnumber: TS 32.299:Rel-13/13.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARDELLA, Maryse
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

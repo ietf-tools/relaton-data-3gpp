@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS11.24-Ph2/4.3.1
 title:
-  type: main
+- type: main
   content: 'GSM Transcoding and Rate Adaptation: Base Station System Equipment Specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.24/1124-431.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.24/1124-431.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.24:Ph2/4.3.1
+- id: 3GPP TS 11.24:Ph2/4.3.1
   type: 3GPP
 docnumber: TS 11.24:Ph2/4.3.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: 'VACANT,  '
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: " "
-  role: author
+    - organization:
+        name:
+        - " "
+  role:
+  - author
 biblionote:
-  content: "#14: 400  #20: 4.1.0  #25: 4.2.0  #27: 4.3.0"
+- content: "#14: 400  #20: 4.1.0  #25: 4.2.0  #27: 4.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

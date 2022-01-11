@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR29.806-Rel-12/2.0.0
 title:
-  type: main
+- type: main
   content: Study on IP Multimedia Subsystem (IMS) Proxy Call Session Control Function
     (P-CSCF) restoration procedures
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.806/29806-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.806/29806-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.806:Rel-12/2.0.0
+- id: 3GPP TR 29.806:Rel-12/2.0.0
   type: 3GPP
 docnumber: TR 29.806:Rel-12/2.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARTOLOME, Maria-Cruz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
 biblionote:
-  content: CP-140495
+- content: CP-140495
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

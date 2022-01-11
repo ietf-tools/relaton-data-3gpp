@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.931-R99/3.7.0
 title:
-  type: main
+- type: main
   content: UTRAN functions, examples on signalling procedures
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.931/25931-370.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.931/25931-370.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.931:R99/3.7.0
+- id: 3GPP TR 25.931:R99/3.7.0
   type: 3GPP
 docnumber: TR 25.931:R99/3.7.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CATALANO, Giuseppe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

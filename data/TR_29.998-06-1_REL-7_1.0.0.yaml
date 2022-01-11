@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR29.998-06-1-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Application Programming Interface (API) Mapping
     for Open Service Access; Part 6: User location - user status service mapping;
     Subpart 1: Mapping to Mobile Application Part (MAP)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-06-1/29998-06-1-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-06-1/29998-06-1-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.998-06-1:Rel-7/1.0.0
+- id: 3GPP TR 29.998-06-1:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 29.998-06-1:Rel-7/1.0.0
 date:
@@ -20,30 +20,36 @@ date:
 - type: confirmed
   value: '2008-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NADOUR, Tarek
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: " CP-42: No upgrade to Rel-8 (see CP-080896)."
   type: remark
 - content: CP-070055
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

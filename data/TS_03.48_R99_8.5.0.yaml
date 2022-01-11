@@ -1,37 +1,28 @@
 ---
 id: 3GPPTS03.48-R99/8.5.0
 title:
-  type: main
+- type: main
   content: Security mechanisms for SIM application toolkit; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.48/0348-850.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.48/0348-850.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.48:R99/8.5.0
+- id: 3GPP TS 03.48:R99/8.5.0
   type: 3GPP
 docnumber: TS 03.48:R99/8.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-01-07'
-contributor:
-  person:
-    name:
-      completename:
-        content: L'HERITEAU, Denis
-        language: en
-        script: Latn
-    affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

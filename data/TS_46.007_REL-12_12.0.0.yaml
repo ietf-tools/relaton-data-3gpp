@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS46.007-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Half rate speech; Test sequences for the GSM half rate speech codec
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.007/46007-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 46.007:Rel-12/12.0.0
+- id: 3GPP TS 46.007:Rel-12/12.0.0
   type: 3GPP
 docnumber: TS 46.007:Rel-12/12.0.0
 date:
@@ -18,27 +18,33 @@ date:
 - type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JÄRVINEN, Kari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 11.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

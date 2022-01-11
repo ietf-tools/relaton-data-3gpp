@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR10.02-R97/6.0.0
 title:
-  type: main
+- type: main
   content: Guidelines for the modification of the Mobile Application Part (MAP) in
     phase 2+
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 10.02:R97/6.0.0
+- id: 3GPP TR 10.02:R97/6.0.0
   type: 3GPP
 docnumber: TR 10.02:R97/6.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
 biblionote:
-  content: "#28: 6.0.0 TSG#5:6.1.0"
+- content: "#28: 6.0.0 TSG#5:6.1.0"
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C4

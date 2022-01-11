@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR26.904-Rel-10/1.0.1
 title:
-  type: main
+- type: main
   content: Improved video coding support
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.904/26904-101.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.904/26904-101.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.904:Rel-10/1.0.1
+- id: 3GPP TR 26.904:Rel-10/1.0.1
   type: 3GPP
 docnumber: TR 26.904:Rel-10/1.0.1
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2011-04-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOUAZIZI, Imed
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Telecoms America
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Samsung Telecoms America
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

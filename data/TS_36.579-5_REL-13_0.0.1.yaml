@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS36.579-5-Rel-13/0.0.1
 title:
-  type: main
+- type: main
   content: 'Mission Critical (MC) services over LTE; Part 5: Abstract test suite (ATS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-5/36579-5-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.579-5/36579-5-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.579-5:Rel-13/0.0.1
+- id: 3GPP TS 36.579-5:Rel-13/0.0.1
   type: 3GPP
 docnumber: TS 36.579-5:Rel-13/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GENOUD, Olivier
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: first draft created
+- content: first draft created
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 common-ims-spec: true

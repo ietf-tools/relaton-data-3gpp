@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS09.03-R98/7.0.0
 title:
-  type: main
+- type: main
   content: Signalling Requirements on Interworking between the Intergrated Services
     Digital Network (ISDN) or Public Switched Telephone Network (PSTN) and the Public
     Land Mobile Network (PLMN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.03/0903-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.03/0903-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 09.03:R98/7.0.0
+- id: 3GPP TS 09.03:R98/7.0.0
   type: 3GPP
 docnumber: TS 09.03:R98/7.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#29: 7.0.0"
+- content: "#29: 7.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

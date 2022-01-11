@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS31.213-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Test specification for (U)SIM; Application Programming Interface (API)
     for Java Card™
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.213/31213-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.213:Rel-14/14.0.0
+- id: 3GPP TS 31.213:Rel-14/14.0.0
   type: 3GPP
 docnumber: TS 31.213:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Morpho Cards GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Morpho Cards GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 3G
 release:

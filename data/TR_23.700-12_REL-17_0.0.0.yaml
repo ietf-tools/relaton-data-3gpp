@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR23.700-12-Rel-17/0.0.0
 title:
-  type: main
+- type: main
   content: Study on enhanced IP Multimedia Subsystem (IMS) to 5GC integration Phase
     2; CT WG4 aspects
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-12/23700-12-000.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-12/23700-12-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.700-12:Rel-17/0.0.0
+- id: 3GPP TR 23.700-12:Rel-17/0.0.0
   type: 3GPP
 docnumber: TR 23.700-12:Rel-17/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WEI, haitao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C4

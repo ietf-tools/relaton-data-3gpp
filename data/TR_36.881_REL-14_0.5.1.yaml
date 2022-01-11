@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.881-Rel-14/0.5.1
 title:
-  type: main
+- type: main
   content: Study on latency reduction techniques for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.881/36881-051.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.881/36881-051.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.881:Rel-14/0.5.1
+- id: 3GPP TR 36.881:Rel-14/0.5.1
   type: 3GPP
 docnumber: TR 36.881:Rel-14/0.5.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ENBUSKE, Henrik
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Japan K.K.
-  role: author
+    - organization:
+        name:
+        - Ericsson Japan K.K.
+  role:
+  - author
 biblionote:
-  content: R2-161869
+- content: R2-161869
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS25.102-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: User Equipment (UE) radio transmission and reception (TDD)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 25.102:Rel-11/11.0.0
+- id: 3GPP TS 25.102:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 25.102:Rel-11/11.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOTTKAMP, Meik
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ROHDE & SCHWARZ
-  role: author
+    - organization:
+        name:
+        - ROHDE & SCHWARZ
+  role:
+  - author
 biblionote:
-  content: Created by CR 0360 rev 1 but this is not implementable due to inconsistent
+- content: Created by CR 0360 rev 1 but this is not implementable due to inconsistent
     revision marks; this version of the spec will not be produced.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document establishes the minimum RF characteristics of the UTRA User
+- content: This document establishes the minimum RF characteristics of the UTRA User
     Equipment (UE) operating in the TDD mode. The values in the TS make no allowance
     for measurement uncertainty in conformance testing. Test limits to be used for
     conformance testing are specified separately in the UE conformance test specifications
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

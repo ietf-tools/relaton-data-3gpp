@@ -1,46 +1,52 @@
 ---
 id: 3GPPTS38.522-Rel-17/17.0.0
 title:
-  type: main
+- type: main
   content: NR; User Equipment (UE) conformance specification; Applicability of radio
     transmission, radio reception and radio resource management test cases
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-h00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.522/38522-h00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.522:Rel-17/17.0.0
+- id: 3GPP TS 38.522:Rel-17/17.0.0
   type: 3GPP
 docnumber: TS 38.522:Rel-17/17.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SONG, Dan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Research Inst.
-  role: author
+    - organization:
+        name:
+        - China Mobile Research Inst.
+  role:
+  - author
 biblionote:
-  content: Administrative release upgrade to match the release of TS 38.508-1, TS
+- content: Administrative release upgrade to match the release of TS 38.508-1, TS
     38.508-2 and TS 38.521-1 which were upgraded at RAN#91 to Rel-17 due to Rel-17
     relevant CRs
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

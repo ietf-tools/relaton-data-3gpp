@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS23.180-Rel-17/1.0.0
 title:
-  type: main
+- type: main
   content: Mission critical services support in the Isolated Operation for Public
     Safety (IOPS) mode of operation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.180/23180-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.180/23180-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.180:Rel-17/1.0.0
+- id: 3GPP TS 23.180:Rel-17/1.0.0
   type: 3GPP
 docnumber: TS 23.180:Rel-17/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SOLANO, Camilo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson GmbH, Eurolab
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson GmbH, Eurolab
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S6

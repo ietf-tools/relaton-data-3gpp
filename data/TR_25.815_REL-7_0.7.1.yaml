@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR25.815-Rel-7/0.7.1
 title:
-  type: main
+- type: main
   content: Signalling enhancements for Circuit Switched (CS) and Packet Switched (PS)
     connections; Analyses and recommendations
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.815:Rel-7/0.7.1
+- id: 3GPP TR 25.815:Rel-7/0.7.1
   type: 3GPP
 docnumber: TR 25.815:Rel-7/0.7.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PIRSKANEN, Juho
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

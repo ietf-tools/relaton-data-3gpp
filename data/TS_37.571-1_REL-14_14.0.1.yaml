@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS37.571-1-Rel-14/14.0.1
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification for UE positioning; Part
     1: Conformance test specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-e01.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-e01.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.571-1:Rel-14/14.0.1
+- id: 3GPP TS 37.571-1:Rel-14/14.0.1
   type: 3GPP
 docnumber: TS 37.571-1:Rel-14/14.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-12-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CATMUR, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Spirent Communications
-  role: author
+    - organization:
+        name:
+        - Spirent Communications
+  role:
+  - author
 biblionote:
-  content: correction of floating point of R5-169602 in Table 11.4.5-3
+- content: correction of floating point of R5-169602 in Table 11.4.5-3
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

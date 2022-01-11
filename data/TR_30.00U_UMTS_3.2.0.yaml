@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR30.00U-UMTS/3.2.0
 title:
-  type: main
+- type: main
   content: SMG - UMTS Work programme
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 30.00U:UMTS/3.2.0
+- id: 3GPP TR 30.00U:UMTS/3.2.0
   type: 3GPP
 docnumber: TR 30.00U:UMTS/3.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAMUKIC, Antun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#21: 3.0.0  #22: 3.1.0  #23: 3.2.0  #24: 3.3.0  #25: 3.4.0  #26: 3.5.0
+- content: "#21: 3.0.0  #22: 3.1.0  #23: 3.2.0  #24: 3.3.0  #25: 3.4.0  #26: 3.5.0
     \ #27: 3.6.1"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: "-"

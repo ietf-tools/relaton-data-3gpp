@@ -1,21 +1,23 @@
 ---
 id: 3GPPTS13.21-R98/2.0.0
 title:
-  type: main
+- type: main
   content: Base station systems and repeater equipment covering essential requirements
     under article 3.2 of the R&TTE directive
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 13.21:R98/2.0.0
+- id: 3GPP TS 13.21:R98/2.0.0
   type: 3GPP
 docnumber: TS 13.21:R98/2.0.0
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

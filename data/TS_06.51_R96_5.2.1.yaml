@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS06.51-R96/5.2.1
 title:
-  type: main
+- type: main
   content: 'GSM Enhanced full rate speech processing functions: General description'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 06.51:R96/5.2.1
+- id: 3GPP TS 06.51:R96/5.2.1
   type: 3GPP
 docnumber: TS 06.51:R96/5.2.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JÄRVINEN, Kari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: "#17: 5.0.0  #19: 5.1.0  #20: 5.1.1 #32:5.2.0 TSG#10:5.3.0"
+- content: "#17: 5.0.0  #19: 5.1.0  #20: 5.1.1 #32:5.2.0 TSG#10:5.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

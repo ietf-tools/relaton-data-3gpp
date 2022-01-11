@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.817-02-Rel-15/15.4.0
 title:
-  type: main
+- type: main
   content: General aspects for Base Station (BS) Radio Frequency (RF) for NR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.817-02/38817-02-f40.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.817-02/38817-02-f40.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.817-02:Rel-15/15.4.0
+- id: 3GPP TR 38.817-02:Rel-15/15.4.0
   type: 3GPP
 docnumber: TR 38.817-02:Rel-15/15.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SKOLD, Johan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

@@ -1,28 +1,32 @@
 ---
 id: 3GPPTR25.842-Rel-4/1.0.0
 title:
-  type: main
+- type: main
   content: Smart antenna
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.842/25842-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.842/25842-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.842:Rel-4/1.0.0
+- id: 3GPP TR 25.842:Rel-4/1.0.0
   type: 3GPP
 docnumber: TR 25.842:Rel-4/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HU, Jinling
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
 - content: ".RP-15: Not to be promoted to Rel-5.  Post-RP-20: info received that the
     corresponding work item was stopped at RP-10, so expect this TR to be scrapped
@@ -30,15 +34,17 @@ biblionote:
   type: remark
 - content: '2003-11-28: WG Chairman indicates that this item is stopped.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 3G
 release:

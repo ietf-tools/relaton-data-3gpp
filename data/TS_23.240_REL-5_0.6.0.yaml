@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS23.240-Rel-5/0.6.0
 title:
-  type: main
+- type: main
   content: 3GPP Generic User Profile (GUP); Architecture (Stage 2)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.240:Rel-5/0.6.0
+- id: 3GPP TS 23.240:Rel-5/0.6.0
   type: 3GPP
 docnumber: TS 23.240:Rel-5/0.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOSKINEN, Harri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VTT
-  role: author
+    - organization:
+        name:
+        - VTT
+  role:
+  - author
 biblionote:
-  content: "-> Rel-6"
+- content: "-> Rel-6"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

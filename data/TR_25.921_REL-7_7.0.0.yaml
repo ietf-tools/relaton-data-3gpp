@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR25.921-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Guidelines and principles for protocol description and error handling
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.921/25921-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.921/25921-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.921:Rel-7/7.0.0
+- id: 3GPP TR 25.921:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 25.921:Rel-7/7.0.0
 date:
-  type: created
+- type: created
   value: '2007-07-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARRETO, Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NOKIA UK R&D Ltd
-  role: author
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
 biblionote:
-  content: 'ssible typo in ASN.1 definition of Test-msg-r5-IEs sequence: newUseOfexistingIE-F-rF
+- content: 'ssible typo in ASN.1 definition of Test-msg-r5-IEs sequence: newUseOfexistingIE-F-rF
     should be newUseOfexistingIE-F-r5. ^ 2016-01-25: Possible typo in ASN.1 definition
     of Test-msg-r5-IEs sequence: newUseOfexistingIE-F-rF should be newUseOfexistingIE-F-r5.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.419-R99/3.11.0
 title:
-  type: main
+- type: main
   content: 'UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-3b0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-3b0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.419:R99/3.11.0
+- id: 3GPP TS 25.419:R99/3.11.0
   type: 3GPP
 docnumber: TS 25.419:R99/3.11.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MCWILLIAMS, Brendan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the Service Area Broadcast Protocol (SABP) between
+- content: This document specifies the Service Area Broadcast Protocol (SABP) between
     the Cell Broadcast Centre (CBC) and the Radio Network Controller (RNC).
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

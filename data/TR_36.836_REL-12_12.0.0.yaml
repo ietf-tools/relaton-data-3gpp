@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR36.836-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.836/36836-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.836:Rel-12/12.0.0
+- id: 3GPP TR 36.836:Rel-12/12.0.0
   type: 3GPP
 docnumber: TR 36.836:Rel-12/12.0.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2014-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HU, Haijing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
 biblionote:
 - content: 'RP-60: WI was stopped at RP-60, but this was probably an accident. Expect
     rescussitation at RP-61. Meanwhile, this TR is in limbo.'
   type: remark
 - content: approval based on v2.1.0
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

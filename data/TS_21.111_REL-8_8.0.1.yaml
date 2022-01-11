@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS21.111-Rel-8/8.0.1
 title:
-  type: main
+- type: main
   content: USIM and IC card requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.111/21111-801.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.111/21111-801.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 21.111:Rel-8/8.0.1
+- id: 3GPP TS 21.111:Rel-8/8.0.1
   type: 3GPP
 docnumber: TS 21.111:Rel-8/8.0.1
 date:
@@ -18,24 +18,30 @@ date:
 - type: confirmed
   value: '2005-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Morpho Cards GmbH
-  role: author
+    - organization:
+        name:
+        - Morpho Cards GmbH
+  role:
+  - author
 biblionote:
-  content: corrects cover page info; early SDO publication for referencing in ITU-R
+- content: corrects cover page info; early SDO publication for referencing in ITU-R
     M.1457
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the requirements of the USIM and the USIM
+- content: This specification describes the requirements of the USIM and the USIM
     IC card (UICC). These are derived from the service and security requirements defined
     in the respective specifications. The document is the basis for the detailed specification
     of the USIM and the UICC, and the interface to the terminal.
@@ -43,7 +49,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

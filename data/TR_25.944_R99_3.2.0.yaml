@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.944-R99/3.2.0
 title:
-  type: main
+- type: main
   content: Channel coding and multiplexing examples
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.944/25944-320.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.944/25944-320.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.944:R99/3.2.0
+- id: 3GPP TR 25.944:R99/3.2.0
   type: 3GPP
 docnumber: TR 25.944:R99/3.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAKER, Matthew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR10.59-R99/1.11.0
 title:
-  type: main
+- type: main
   content: Project scheduling and open issues for EDGE
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 10.59:R99/1.11.0
+- id: 3GPP TR 10.59:R99/1.11.0
   type: 3GPP
 docnumber: TR 10.59:R99/1.11.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MUELLER, Frank
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 2e99-003
+- content: 2e99-003
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: G1

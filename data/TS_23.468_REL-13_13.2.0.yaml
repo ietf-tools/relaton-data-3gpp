@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS23.468-Rel-13/13.2.0
 title:
-  type: main
+- type: main
   content: Group Communication System Enablers for LTE (GCSE_LTE); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.468/23468-d20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.468/23468-d20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.468:Rel-13/13.2.0
+- id: 3GPP TS 23.468:Rel-13/13.2.0
   type: 3GPP
 docnumber: TS 23.468:Rel-13/13.2.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2014-03-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIEBHART, Rainer
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: LTE
 release:

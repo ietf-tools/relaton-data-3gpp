@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS24.171-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Control Plane Location Services (LCS) procedures in the Evolved Packet
     System (EPS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.171/24171-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.171/24171-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.171:Rel-15/15.0.0
+- id: 3GPP TS 24.171:Rel-15/15.0.0
   type: 3GPP
 docnumber: TS 24.171:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RAMACHANDRAN, Shyamal
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
 biblionote:
-  content: Update to Rel-15 version (MCC)
+- content: Update to Rel-15 version (MCC)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS29.232-Rel-9/9.2.0
 title:
-  type: main
+- type: main
   content: Media Gateway Controller (MGC) - Media Gateway (MGW) interface; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.232/29232-920.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.232/29232-920.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.232:Rel-9/9.2.0
+- id: 3GPP TS 29.232:Rel-9/9.2.0
   type: 3GPP
 docnumber: TS 29.232:Rel-9/9.2.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2005-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PARK, Ian David Chalmers
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE LTD
-  role: author
+    - organization:
+        name:
+        - VODAFONE LTD
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

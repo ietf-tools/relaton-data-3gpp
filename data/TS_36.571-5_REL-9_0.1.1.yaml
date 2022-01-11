@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS36.571-5-Rel-9/0.1.1
 title:
-  type: main
+- type: main
   content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; UE positioning in E-UTRA; Part 5: UE positioning test
     scenarios and assistance data'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 36.571-5:Rel-9/0.1.1
+- id: 3GPP TS 36.571-5:Rel-9/0.1.1
   type: 3GPP
 docnumber: TS 36.571-5:Rel-9/0.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KHRAIS, Nidal
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: R5-106615
+- content: R5-106615
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

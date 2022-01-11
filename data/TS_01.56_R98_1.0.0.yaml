@@ -1,32 +1,38 @@
 ---
 id: 3GPPTS01.56-R98/1.0.0
 title:
-  type: main
+- type: main
   content: GSM Cordless Telephony System (CTS) (Phase 1); CTS Authentication and Key
     Generation Algorithms Requirements
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 01.56:R98/1.0.0
+- id: 3GPP TS 01.56:R98/1.0.0
   type: 3GPP
 docnumber: TS 01.56:R98/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

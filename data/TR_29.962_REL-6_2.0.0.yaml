@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR29.962-Rel-6/2.0.0
 title:
-  type: main
+- type: main
   content: Signalling interworking between the 3GPP profile of the Session Initiation
     Protocol (SIP) and non-3GPP SIP usage
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.962/29962-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.962/29962-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.962:Rel-6/2.0.0
+- id: 3GPP TR 29.962:Rel-6/2.0.0
   type: 3GPP
 docnumber: TR 29.962:Rel-6/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: NP-030197 -> NP-030293
+- content: NP-030197 -> NP-030293
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 3G
 release:

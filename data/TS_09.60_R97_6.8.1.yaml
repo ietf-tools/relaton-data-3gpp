@@ -1,32 +1,38 @@
 ---
 id: 3GPPTS09.60-R97/6.8.1
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); GPRS Tunnelling Protocol GPT) across
     the Gn and Gp Interface
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 09.60:R97/6.8.1
+- id: 3GPP TS 09.60:R97/6.8.1
   type: 3GPP
 docnumber: TS 09.60:R97/6.8.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHMITT, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

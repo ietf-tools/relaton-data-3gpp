@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.115-Rel-17/17.0.0
 title:
-  type: main
+- type: main
   content: Service aspects; Charging and billing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.115/22115-h00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.115/22115-h00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.115:Rel-17/17.0.0
+- id: 3GPP TS 22.115:Rel-17/17.0.0
   type: 3GPP
 docnumber: TS 22.115:Rel-17/17.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes the service aspects of charging and billing
+- content: "This specification describes the service aspects of charging and billing
     of the UMTS.\r\nThis standard is not intended to duplicate existing standards
     or standards being developed by other groups on these topics, and will reference
     these where appropriate. This standard will elaborate on the charging requirements
@@ -40,7 +46,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

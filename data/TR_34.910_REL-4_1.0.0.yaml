@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR34.910-Rel-4/1.0.0
 title:
-  type: main
+- type: main
   content: Identification of test requirements for regulatory purposes in different
     regions/countries
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.910/34910-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.910/34910-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.910:Rel-4/1.0.0
+- id: 3GPP TR 34.910:Rel-4/1.0.0
   type: 3GPP
 docnumber: TR 34.910:Rel-4/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-10-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NIELSEN, Bjarke
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
 - content: '2007-08-20: Propose to abaondon at RP-37.'
   type: remark
 - content: '2007-11: RAN5 indicates it will not progress this draft further.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R5

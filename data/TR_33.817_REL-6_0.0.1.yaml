@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR33.817-Rel-6/0.0.1
 title:
-  type: main
+- type: main
   content: Feasibility study on (Universal) Subscriber Interface Module (U)SIM security
     reuse by peripheral devices on local interfaces
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 33.817:Rel-6/0.0.1
+- id: 3GPP TR 33.817:Rel-6/0.0.1
   type: 3GPP
 docnumber: TR 33.817:Rel-6/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YAQUB, Raziq
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

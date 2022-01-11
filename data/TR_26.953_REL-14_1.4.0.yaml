@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.953-Rel-14/1.4.0
 title:
-  type: main
+- type: main
   content: Interactivity support for 3GPP-based streaming and download services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.953/26953-140.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.953/26953-140.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.953:Rel-14/1.4.0
+- id: 3GPP TR 26.953:Rel-14/1.4.0
   type: 3GPP
 docnumber: TR 26.953:Rel-14/1.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LO, Charles
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: S4-170232
+- content: S4-170232
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

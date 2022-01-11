@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS34.172-Rel-10/2.0.0
 title:
-  type: main
+- type: main
   content: Terminal conformance specification; Assisted Global Navigation Satellite
     Systems (A-GNSS); Frequency Division Duplex (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.172/34172-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.172/34172-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.172:Rel-10/2.0.0
+- id: 3GPP TS 34.172:Rel-10/2.0.0
   type: 3GPP
 docnumber: TS 34.172:Rel-10/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-03-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONNERAT, Michel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: THALES
-  role: author
+    - organization:
+        name:
+        - THALES
+  role:
+  - author
 biblionote:
 - content: '2012-02: WG proposes to empty contents into 37.571-series and then immediately
     stop this Spec.'
   type: remark
 - content: RP-110190 (Same as that presented to RP-50)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

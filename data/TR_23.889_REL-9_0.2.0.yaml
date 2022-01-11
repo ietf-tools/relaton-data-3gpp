@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR23.889-Rel-9/0.2.0
 title:
-  type: main
+- type: main
   content: Local Call Local Switch (LCLS) system impacts; Feasibility study
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.889:Rel-9/0.2.0
+- id: 3GPP TR 23.889:Rel-9/0.2.0
   type: 3GPP
 docnumber: TR 23.889:Rel-9/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUTTON, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: GSM Association
-  role: author
+    - organization:
+        name:
+        - GSM Association
+  role:
+  - author
 biblionote:
 - content: 'CP-49: timed out of Rel-9'
   type: remark
 - content: cited in report of GP-43
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

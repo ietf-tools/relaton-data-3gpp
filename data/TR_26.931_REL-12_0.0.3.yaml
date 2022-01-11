@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR26.931-Rel-12/0.0.3
 title:
-  type: main
+- type: main
   content: Evaluation of Additional Acoustic Tests for Speech Telephony
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.931/26931-003.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.931/26931-003.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.931:Rel-12/0.0.3
+- id: 3GPP TR 26.931:Rel-12/0.0.3
   type: 3GPP
 docnumber: TR 26.931:Rel-12/0.0.3
 date:
-  type: created
+- type: created
   value: '2014-11-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: REIMES, Jan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HEAD acoustics GmbH
-  role: author
+    - organization:
+        name:
+        - HEAD acoustics GmbH
+  role:
+  - author
 biblionote:
-  content: S4-141001
+- content: S4-141001
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

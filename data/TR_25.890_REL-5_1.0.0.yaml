@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR25.890-Rel-5/1.0.0
 title:
-  type: main
+- type: main
   content: High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission
     and reception (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.890/25890-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.890/25890-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.890:Rel-5/1.0.0
+- id: 3GPP TR 25.890:Rel-5/1.0.0
   type: 3GPP
 docnumber: TR 25.890:Rel-5/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FERNANDES, Edgar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Dish Network
-  role: author
+    - organization:
+        name:
+        - Dish Network
+  role:
+  - author
 biblionote:
 - content: 'RP-22: Went off the boil after RP-16. No need for it any more.'
   type: remark
 - content: RP-020376
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

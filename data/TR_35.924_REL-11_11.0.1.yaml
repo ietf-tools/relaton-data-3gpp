@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR35.924-Rel-11/11.0.1
 title:
-  type: main
+- type: main
   content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3
     & EIA3; Document 4: Design and Evaluation Report'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.924/35924-b01.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.924/35924-b01.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 35.924:Rel-11/11.0.1
+- id: 3GPP TR 35.924:Rel-11/11.0.1
   type: 3GPP
 docnumber: TR 35.924:Rel-11/11.0.1
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2012-01-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: QI, Yuan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: RITT
-  role: author
+    - organization:
+        name:
+        - RITT
+  role:
+  - author
 biblionote:
-  content: WG decision to make reference specific as an editorial update.
+- content: WG decision to make reference specific as an editorial update.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

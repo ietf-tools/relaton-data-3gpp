@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR23.835-Rel-6/0.0.1
 title:
-  type: main
+- type: main
   content: Study into applicability of Galileo in Location Services (LCS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.835/23835-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.835/23835-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.835:Rel-6/0.0.1
+- id: 3GPP TR 23.835:Rel-6/0.0.1
   type: 3GPP
 docnumber: TR 23.835:Rel-6/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DAMIDAUX, Jean-louis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: 'SP-26: May turn out to be Rel-7, may be clearer at SP-27.'
   type: remark
 - content: S2-031153
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

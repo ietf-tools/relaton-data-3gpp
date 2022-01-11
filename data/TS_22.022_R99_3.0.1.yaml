@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.022-R99/3.0.1
 title:
-  type: main
+- type: main
   content: Personalisation of Mobile Equipment (ME); Mobile functionality specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-301.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.022/22022-301.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.022:R99/3.0.1
+- id: 3GPP TS 22.022:R99/3.0.1
   type: 3GPP
 docnumber: TS 22.022:R99/3.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOTTIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes functional specifications of five features
+- content: "This specification describes functional specifications of five features
     to personalize UE. These features are called:\r\n- network personalization;\r\n-
     network subset personalization;\r\n- service provider (SP) personalization;\r\n-
     corporate personalization;\r\n- UMTS subscriber identity module (USIM) personalization.\r\nThis
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

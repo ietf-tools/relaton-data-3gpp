@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR25.871-Rel-11/0.1.1
 title:
-  type: main
+- type: main
   content: Uplink Multiple Input Multiple Output (MIMO) for High Speed Packet Access
     (HSPA)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.871:Rel-11/0.1.1
+- id: 3GPP TR 25.871:Rel-11/0.1.1
   type: 3GPP
 docnumber: TR 25.871:Rel-11/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-09-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAMBHWANI, Sharad
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

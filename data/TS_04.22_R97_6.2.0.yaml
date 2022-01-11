@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS04.22-R97/6.2.0
 title:
-  type: main
+- type: main
   content: Radio Link Protocol (RLP) for data and telematic services on the Mobile
     Station - Base Station System (MS - BSS) interface and the Base Station System
     - Mobile-services Switching Centre (BSS - MSC) interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.22/0422-620.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.22/0422-620.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.22:R97/6.2.0
+- id: 3GPP TS 04.22:R97/6.2.0
   type: 3GPP
 docnumber: TS 04.22:R97/6.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-10-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

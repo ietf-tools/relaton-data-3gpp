@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR22.832-Rel-17/0.0.0
 title:
-  type: main
+- type: main
   content: Study on enhancements for cyber-physical control applications in vertical
     domains
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.832:Rel-17/0.0.0
+- id: 3GPP TR 22.832:Rel-17/0.0.0
   type: 3GPP
 docnumber: TR 22.832:Rel-17/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAHR, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Siemens AG
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Siemens AG
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

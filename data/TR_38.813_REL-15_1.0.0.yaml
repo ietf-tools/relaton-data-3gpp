@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.813-Rel-15/1.0.0
 title:
-  type: main
+- type: main
   content: New frequency range for NR (3.3-4.2 GHz)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.813/38813-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.813/38813-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.813:Rel-15/1.0.0
+- id: 3GPP TR 38.813:Rel-15/1.0.0
   type: 3GPP
 docnumber: TR 38.813:Rel-15/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHAO, Zhe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Group Device Co.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Group Device Co.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

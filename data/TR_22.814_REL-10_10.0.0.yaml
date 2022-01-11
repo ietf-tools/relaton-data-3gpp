@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR22.814-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS) support in Evolved Packet Core (EPC) for non-3GPP
     accesses
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.814/22814-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.814/22814-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.814:Rel-10/10.0.0
+- id: 3GPP TR 22.814:Rel-10/10.0.0
   type: 3GPP
 docnumber: TR 22.814:Rel-10/10.0.0
 date:
-  type: created
+- type: created
   value: '2010-04-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SONG, Jin han
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SK Telecom
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - SK Telecom
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

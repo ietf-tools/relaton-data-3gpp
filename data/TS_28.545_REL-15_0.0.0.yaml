@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS28.545-Rel-15/0.0.0
 title:
-  type: main
+- type: main
   content: Management and orchestration; Fault Supervision (FS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.545/28545-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.545/28545-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 28.545:Rel-15/0.0.0
+- id: 3GPP TS 28.545:Rel-15/0.0.0
   type: 3GPP
 docnumber: TS 28.545:Rel-15/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Weihong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: S5-176540
+- content: S5-176540
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

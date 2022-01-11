@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS32.106-8-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Configuration Management (CM); Part 8: Name
     convention for Managed Objects'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-8/32106-8-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-8/32106-8-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.106-8:Rel-4/4.0.0
+- id: 3GPP TS 32.106-8:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 32.106-8:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-05-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
 biblionote:
 - content: 'SP-12: withdrawn. See 32.600.'
   type: remark
 - content: 'SP-12: withdrawn.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS33.234-Rel-7/7.3.0
 title:
-  type: main
+- type: main
   content: 3G security; Wireless Local Area Network (WLAN) interworking security
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.234/33234-730.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.234/33234-730.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.234:Rel-7/7.3.0
+- id: 3GPP TS 33.234:Rel-7/7.3.0
   type: 3GPP
 docnumber: TS 33.234:Rel-7/7.3.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2002-10-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEHTOVIRTA, Vesa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

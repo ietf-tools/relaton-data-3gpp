@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS34.123-1-Rel-12/12.2.0
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification; Part 1: Protocol conformance
     specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-1/34123-1-c20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.123-1/34123-1-c20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.123-1:Rel-12/12.2.0
+- id: 3GPP TS 34.123-1:Rel-12/12.2.0
   type: 3GPP
 docnumber: TS 34.123-1:Rel-12/12.2.0
 date:
@@ -19,26 +19,32 @@ date:
 - type: confirmed
   value: '2001-10-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHEN, Xiaozhong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the protocol conformance testing for the 3rd Generation
+- content: This document specifies the protocol conformance testing for the 3rd Generation
     User Equipment (UE). This is the first part of a multi-part test specification.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

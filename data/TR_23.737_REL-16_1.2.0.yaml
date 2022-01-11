@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.737-Rel-16/1.2.0
 title:
-  type: main
+- type: main
   content: Study on architecture aspects for using satellite access in 5G
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.737/23737-120.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.737/23737-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.737:Rel-16/1.2.0
+- id: 3GPP TR 23.737:Rel-16/1.2.0
   type: 3GPP
 docnumber: TR 23.737:Rel-16/1.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ROGNANT, Pierre
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: THALES
-  role: author
+    - organization:
+        name:
+        - THALES
+  role:
+  - author
 biblionote:
-  content: Updated with approved pCRs at SA WG2#136
+- content: Updated with approved pCRs at SA WG2#136
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 5G
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR29.803-Rel-8/0.4.0
 title:
-  type: main
+- type: main
   content: '3GPP System Architecture Evolution (SAE): CT WG4 aspects'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.803/29803-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.803/29803-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.803:Rel-8/0.4.0
+- id: 3GPP TR 29.803:Rel-8/0.4.0
   type: 3GPP
 docnumber: TR 29.803:Rel-8/0.4.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2007-07-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LAVASANI, Shahab
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

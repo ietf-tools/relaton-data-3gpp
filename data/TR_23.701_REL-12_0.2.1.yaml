@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.701-Rel-12/0.2.1
 title:
-  type: main
+- type: main
   content: Study on Web Real Time Communication (WebRTC) access to IP Multimedia Subsystem
     (IMS); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.701/23701-021.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.701/23701-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.701:Rel-12/0.2.1
+- id: 3GPP TR 23.701:Rel-12/0.2.1
   type: 3GPP
 docnumber: TR 23.701:Rel-12/0.2.1
 date:
@@ -19,19 +19,25 @@ date:
 - type: confirmed
   value: '2013-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YU, Qing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile US Research Cente
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile US Research Cente
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

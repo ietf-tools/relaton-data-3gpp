@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS25.462-Rel-14/14.1.0
 title:
-  type: main
+- type: main
   content: 'UTRAN Iuant interface: Signalling transport'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/25_series/25.462/25462-e10.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/25_series/25.462/25462-e10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.462:Rel-14/14.1.0
+- id: 3GPP TS 25.462:Rel-14/14.1.0
   type: 3GPP
 docnumber: TS 25.462:Rel-14/14.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KULAKOV, Alexey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
-  content: pointer to TS 37.462
+- content: pointer to TS 37.462
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the signalling transport related to RETAP signalling
+- content: This document specifies the signalling transport related to RETAP signalling
     to be used across the Iuant interface.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.977-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Bandwidth And Resource Savings (BARS) and speech enhancements for Circuit
     Switched (CS) networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.977/23977-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.977/23977-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.977:Rel-13/13.0.0
+- id: 3GPP TR 23.977:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 23.977:Rel-13/13.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2004-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEISER, Franz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

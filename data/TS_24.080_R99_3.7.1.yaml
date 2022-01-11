@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS24.080-R99/3.7.1
 title:
-  type: main
+- type: main
   content: Mobile radio interface layer 3 supplementary services specification; Formats
     and coding
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-371.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.080/24080-371.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.080:R99/3.7.1
+- id: 3GPP TS 24.080:R99/3.7.1
   type: 3GPP
 docnumber: TS 24.080:R99/3.7.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the coding of information necessary for support
+- content: This specification describes the coding of information necessary for support
     of supplementary service operation on the mobile radio interface L3. Details will
     be specified in other documents.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

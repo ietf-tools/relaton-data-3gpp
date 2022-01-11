@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.40-R96/5.2.0
 title:
-  type: main
+- type: main
   content: Technical realization of the Short Message Service (SMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.40/0340-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.40/0340-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.40:R96/5.2.0
+- id: 3GPP TS 03.40:R96/5.2.0
   type: 3GPP
 docnumber: TS 03.40:R96/5.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BURBIDGE, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

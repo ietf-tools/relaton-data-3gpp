@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.853-Rel-11/0.2.0
 title:
-  type: main
+- type: main
   content: Operator Policies for IP Interface Selection (OPIIS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.853/23853-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.853/23853-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.853:Rel-11/0.2.0
+- id: 3GPP TR 23.853:Rel-11/0.2.0
   type: 3GPP
 docnumber: TR 23.853:Rel-11/0.2.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2012-12-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Taehyeon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: 'SP-56: timed out of Rel-11.'
+- content: 'SP-56: timed out of Rel-11.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

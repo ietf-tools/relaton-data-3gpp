@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR33.895-Rel-12/0.9.0
 title:
-  type: main
+- type: main
   content: Study on Security aspects of integration of Single Sign-On (SSO) frameworks
     with 3GPP operator-controlled resources and mechanisms
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.895/33895-090.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.895/33895-090.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.895:Rel-12/0.9.0
+- id: 3GPP TR 33.895:Rel-12/0.9.0
   type: 3GPP
 docnumber: TR 33.895:Rel-12/0.9.0
 date:
-  type: created
+- type: created
   value: '2014-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEHTOVIRTA, Vesa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

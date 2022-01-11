@@ -1,31 +1,35 @@
 ---
 id: 3GPPTR21.801-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Specification drafting rules
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.801/21801-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.801/21801-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.801:R99/3.0.0
+- id: 3GPP TR 21.801:R99/3.0.0
   type: 3GPP
 docnumber: TR 21.801:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FIRMIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
 - content: Created from Rel-5 at SP-23.  Previous Releases were originally covered
     by ETSI drafting rules.  No intention to propagate "21.801" further back than
@@ -33,9 +37,11 @@ biblionote:
   type: remark
 - content: Based on v5.1.0
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: SP

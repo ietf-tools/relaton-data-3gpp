@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.821-Rel-8/2.0.0
 title:
-  type: main
+- type: main
   content: UMTS1500 MHz work item technical report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.821/25821-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.821/25821-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.821:Rel-8/2.0.0
+- id: 3GPP TR 25.821:Rel-8/2.0.0
   type: 3GPP
 docnumber: TR 25.821:Rel-8/2.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2007-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAKAMURA, Takaharu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Fujitsu Limited
-  role: author
+    - organization:
+        name:
+        - Fujitsu Limited
+  role:
+  - author
 biblionote:
-  content: RP-070685
+- content: RP-070685
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

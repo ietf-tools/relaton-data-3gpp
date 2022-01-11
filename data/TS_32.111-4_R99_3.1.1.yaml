@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS32.111-4-R99/3.1.1
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Fault Management; Part 4: Alarm Integration
     Reference Point (IRP): Common Management Information Protocol (CMIP) Solution
     Set (SS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-4/32111-4-311.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-4/32111-4-311.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.111-4:R99/3.1.1
+- id: 3GPP TS 32.111-4:R99/3.1.1
   type: 3GPP
 docnumber: TS 32.111-4:R99/3.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: POLLAKOWSKI, Olaf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: 'TSG#8: multipart split from parent 3.0.1'
+- content: 'TSG#8: multipart split from parent 3.0.1'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

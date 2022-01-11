@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.199-19-Rel-7/7.0.2
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Parlay X web services; Part 19: Multimedia
     streaming control'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-19/29199-19-702.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-19/29199-19-702.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.199-19:Rel-7/7.0.2
+- id: 3GPP TS 29.199-19:Rel-7/7.0.2
   type: 3GPP
 docnumber: TS 29.199-19:Rel-7/7.0.2
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2006-10-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JAKOBSSON, Sune
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELENOR ASA
-  role: author
+    - organization:
+        name:
+        - TELENOR ASA
+  role:
+  - author
 biblionote:
-  content: corrects title of part 18
+- content: corrects title of part 18
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

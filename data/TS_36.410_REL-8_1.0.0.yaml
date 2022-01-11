@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS36.410-Rel-8/1.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); S1 general
     aspects and principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.410/36410-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.410/36410-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.410:Rel-8/1.0.0
+- id: 3GPP TS 36.410:Rel-8/1.0.0
   type: 3GPP
 docnumber: TS 36.410:Rel-8/1.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2010-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GODIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: RP-070848
+- content: RP-070848
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

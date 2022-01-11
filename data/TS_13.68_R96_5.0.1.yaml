@@ -1,24 +1,26 @@
 ---
 id: 3GPPTS13.68-R96/5.0.1
 title:
-  type: main
+- type: main
   content: Attachment requirements for Global System for Mobile communications (GSM);
     Advanced Speech Call Items (GSM-ASCI) Mobile Stations; Access
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.68/1368-501.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.68/1368-501.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 13.68:R96/5.0.1
+- id: 3GPP TS 13.68:R96/5.0.1
   type: 3GPP
 docnumber: TS 13.68:R96/5.0.1
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

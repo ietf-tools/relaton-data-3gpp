@@ -1,27 +1,29 @@
 ---
 id: 3GPPTS13.21-R99/8.0.1
 title:
-  type: main
+- type: main
   content: Base station systems and repeater equipment covering essential requirements
     under article 3.2 of the R&TTE directive
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.21/1321-801.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.21/1321-801.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 13.21:R99/8.0.1
+- id: 3GPP TS 13.21:R99/8.0.1
   type: 3GPP
 docnumber: TS 13.21:R99/8.0.1
 biblionote:
-  content: 'No R99 impact. But #32 reinstated. #32:8.0.0 MSG#3:8.1.0'
+- content: 'No R99 impact. But #32 reinstated. #32:8.0.0 MSG#3:8.1.0'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

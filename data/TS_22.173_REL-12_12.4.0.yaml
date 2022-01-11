@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS22.173-Rel-12/12.4.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Core Network Subsystem (IMS) Multimedia Telephony Service
     and supplementary services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.173/22173-c40.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.173/22173-c40.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.173:Rel-12/12.4.0
+- id: 3GPP TS 22.173:Rel-12/12.4.0
   type: 3GPP
 docnumber: TS 22.173:Rel-12/12.4.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2006-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS48.052-Rel-5/5.0.1
 title:
-  type: main
+- type: main
   content: Base Station Controller - Base Transceiver Station (BSC - BTS) interface;
     Interface principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.052/48052-501.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.052/48052-501.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 48.052:Rel-5/5.0.1
+- id: 3GPP TS 48.052:Rel-5/5.0.1
   type: 3GPP
 docnumber: TS 48.052:Rel-5/5.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.422-R99/0.1.0
 title:
-  type: main
+- type: main
   content: UTRAN Iur interface signalling transport
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.422/25422-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.422:R99/0.1.0
+- id: 3GPP TS 25.422:R99/0.1.0
   type: 3GPP
 docnumber: TS 25.422:R99/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HELMERS, Hakon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the standards for Signalling Transport to
+- content: This specification describes the standards for Signalling Transport to
     be used across Iur Interface.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

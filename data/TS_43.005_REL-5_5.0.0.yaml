@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS43.005-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Technical performance objectives
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.005/43005-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.005/43005-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 43.005:Rel-5/5.0.0
+- id: 3GPP TS 43.005:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 43.005:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-11-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HIETALAHTI, Hannu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
 - content: 'NP-21: Decision not to progress this to Rel-6. NP-26: change of plan!'
   type: remark
 - content: Note that the doc is really a TR not a TS (cover sheet is wrong)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: CP

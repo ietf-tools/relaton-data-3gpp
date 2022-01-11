@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR23.823-Rel-9/1.2.0
 title:
-  type: main
+- type: main
   content: Intra Domain Connection of RAN Nodes to Multiple CN Nodes
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.823/23823-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.823/23823-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.823:Rel-9/1.2.0
+- id: 3GPP TR 23.823:Rel-9/1.2.0
   type: 3GPP
 docnumber: TR 23.823:Rel-9/1.2.0
 date:
-  type: created
+- type: created
   value: '2010-02-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Hong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: S2-77 proposed conversion to 23.9xx
+- content: S2-77 proposed conversion to 23.9xx
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

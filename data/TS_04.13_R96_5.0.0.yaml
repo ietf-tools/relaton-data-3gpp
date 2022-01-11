@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS04.13-R96/5.0.0
 title:
-  type: main
+- type: main
   content: Performance Requirements on Mobile Radio Interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.13:R96/5.0.0
+- id: 3GPP TS 04.13:R96/5.0.0
   type: 3GPP
 docnumber: TS 04.13:R96/5.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DAWES, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: "#18: 5.0.0  #20: 5.1.0"
+- content: "#18: 5.0.0  #20: 5.1.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

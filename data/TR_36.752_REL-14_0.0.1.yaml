@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR36.752-Rel-14/0.0.1
 title:
-  type: main
+- type: main
   content: Study of Narrow-Band Internet of Things (NB-IoT) Radio Frequency (RF) requirement
     to co-existence with Code Division Multiple Access (CDMA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.752/36752-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.752/36752-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.752:Rel-14/0.0.1
+- id: 3GPP TR 36.752:Rel-14/0.0.1
   type: 3GPP
 docnumber: TR 36.752:Rel-14/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-01-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHAO, Dong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Telecommunications
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Telecommunications
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

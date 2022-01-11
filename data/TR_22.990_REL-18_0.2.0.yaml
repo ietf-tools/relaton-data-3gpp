@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR22.990-Rel-18/0.2.0
 title:
-  type: main
+- type: main
   content: Study on off-network for rail
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/22_series/22.990/22990-020.zip
+- content: https://ftp.3gpp.org//Specs/archive/22_series/22.990/22990-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.990:Rel-18/0.2.0
+- id: 3GPP TR 22.990:Rel-18/0.2.0
   type: 3GPP
 docnumber: TR 22.990:Rel-18/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GACH, Guillaume
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Union Inter. Chemins de Fer
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Union Inter. Chemins de Fer
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

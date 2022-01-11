@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR36.978-Rel-13/13.1.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE)
     antenna test function definition for two-stage Multiple Input Multiple Output
     (MIMO) Over The Air (OTA) test method
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.978/36978-d10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.978/36978-d10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.978:Rel-13/13.1.0
+- id: 3GPP TR 36.978:Rel-13/13.1.0
   type: 3GPP
 docnumber: TR 36.978:Rel-13/13.1.0
 date:
@@ -20,29 +20,35 @@ date:
 - type: confirmed
   value: '2014-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RUMNEY, Moray
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Keysight Technologies UK Ltd
-  role: author
+    - organization:
+        name:
+        - Keysight Technologies UK Ltd
+  role:
+  - author
 biblionote:
-  content: Late delivery because CR thought to have been withdrawn, but was in fact
+- content: Late delivery because CR thought to have been withdrawn, but was in fact
     approved.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

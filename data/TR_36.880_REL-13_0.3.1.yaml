@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR36.880-Rel-13/0.3.1
 title:
-  type: main
+- type: main
   content: Study on further enhancements of Minimization of Drive Tests (MDT) for
     E-UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.880/36880-031.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.880/36880-031.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.880:Rel-13/0.3.1
+- id: 3GPP TR 36.880:Rel-13/0.3.1
   type: 3GPP
 docnumber: TR 36.880:Rel-13/0.3.1
 date:
-  type: created
+- type: created
   value: '2015-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HU, Nan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: R2-152957
+- content: R2-152957
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

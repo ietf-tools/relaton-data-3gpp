@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS23.069-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Voice Broadcast service (VBS); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.069/23069-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.069/23069-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.069:R99/3.0.0
+- id: 3GPP TS 23.069:R99/3.0.0
   type: 3GPP
 docnumber: TS 23.069:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DETTNER, Harald
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Hillebrand GmbH
-  role: author
+    - organization:
+        name:
+        - Hillebrand GmbH
+  role:
+  - author
 biblionote:
-  content: 3.0.0 Apr 99 - Reverts to 03.69 R99.
+- content: 3.0.0 Apr 99 - Reverts to 03.69 R99.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: N1
+- name: N1
   type: prime
 radiotechnology: 3G
 release:

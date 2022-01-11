@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR26.902-Rel-7/7.1.2
 title:
-  type: main
+- type: main
   content: Video codec performance
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.902/26902-712.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.902/26902-712.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.902:Rel-7/7.1.2
+- id: 3GPP TR 26.902:Rel-7/7.1.2
   type: 3GPP
 docnumber: TR 26.902:Rel-7/7.1.2
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2007-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOCKHAMMER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: correction to history table
+- content: correction to history table
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 2G
 release:

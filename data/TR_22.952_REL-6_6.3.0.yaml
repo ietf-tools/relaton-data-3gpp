@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.952-Rel-6/6.3.0
 title:
-  type: main
+- type: main
   content: Priority service guide
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.952/22952-630.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.952/22952-630.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.952:Rel-6/6.3.0
+- id: 3GPP TR 22.952:Rel-6/6.3.0
   type: 3GPP
 docnumber: TR 22.952:Rel-6/6.3.0
 date:
@@ -18,29 +18,35 @@ date:
 - type: confirmed
   value: '2003-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARRAHAN, James
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Applied Communication Sciences
-  role: author
+    - organization:
+        name:
+        - Applied Communication Sciences
+  role:
+  - author
 biblionote:
-  content: 'SP-21: S2: "No stage 2 TS needed." Target is to approve at SP-22.  SP-22:
+- content: 'SP-21: S2: "No stage 2 TS needed." Target is to approve at SP-22.  SP-22:
     Concerns that the TR may have been drafted  to meet US legislation only.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

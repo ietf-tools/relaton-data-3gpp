@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS22.057-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Mobile Execution Environment (MExE); Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.057/22057-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.057/22057-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.057:Rel-4/4.0.0
+- id: 3GPP TS 22.057:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 22.057:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the Stage 1 description of the MExE.
+- content: This specification describes the Stage 1 description of the MExE.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

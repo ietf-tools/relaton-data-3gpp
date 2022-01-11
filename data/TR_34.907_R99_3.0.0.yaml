@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR34.907-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Report on electrical safety requirements and regulations
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.907/34907-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.907/34907-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.907:R99/3.0.0
+- id: 3GPP TR 34.907:R99/3.0.0
   type: 3GPP
 docnumber: TR 34.907:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOUFIK, Issam
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NGComm-Solutions
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NGComm-Solutions
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R4

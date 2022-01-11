@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS23.041-Rel-12/12.6.0
 title:
-  type: main
+- type: main
   content: Technical realization of Cell Broadcast Service (CBS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-c60.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.041/23041-c60.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.041:Rel-12/12.6.0
+- id: 3GPP TS 23.041:Rel-12/12.6.0
   type: 3GPP
 docnumber: TS 23.041:Rel-12/12.6.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2006-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEDLACEK, Ivo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the point-to-multipoint CBS.
+- content: This specification describes the point-to-multipoint CBS.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

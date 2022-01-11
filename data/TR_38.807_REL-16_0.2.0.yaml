@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.807-Rel-16/0.2.0
 title:
-  type: main
+- type: main
   content: Study on requirements for NR beyond 52.6 GHz
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.807/38807-020.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.807/38807-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.807:Rel-16/0.2.0
+- id: 3GPP TR 38.807:Rel-16/0.2.0
   type: 3GPP
 docnumber: TR 38.807:Rel-16/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEE, Daewon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel
-  role: author
+    - organization:
+        name:
+        - Intel
+  role:
+  - author
 biblionote:
-  content: RP-191540
+- content: RP-191540
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 5G
 release:

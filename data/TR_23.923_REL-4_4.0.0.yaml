@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR23.923-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Combined GSM and Mobile IP mobility handling in UMTS IP CN
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.923:Rel-4/4.0.0
+- id: 3GPP TR 23.923:Rel-4/4.0.0
   type: 3GPP
 docnumber: TR 23.923:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUBBARD, Elisabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: 'Sultan Apr-2001: contents out of date, not apprpriate for Rel-4.'
+- content: 'Sultan Apr-2001: contents out of date, not apprpriate for Rel-4.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

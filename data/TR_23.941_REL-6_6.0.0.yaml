@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR23.941-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.941/23941-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.941/23941-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.941:Rel-6/6.0.0
+- id: 3GPP TR 23.941:Rel-6/6.0.0
   type: 3GPP
 docnumber: TR 23.941:Rel-6/6.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOZA, Yvette
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: '2007-06-28: CT4 decided no upgrade to Rel-7 required.'
+- content: '2007-06-28: CT4 decided no upgrade to Rel-7 required.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

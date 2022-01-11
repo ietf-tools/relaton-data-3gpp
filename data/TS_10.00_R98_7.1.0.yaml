@@ -1,33 +1,39 @@
 ---
 id: 3GPPTS10.00-R98/7.1.0
 title:
-  type: main
+- type: main
   content: Digital Cellular Telecommunication System Feature Description
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 10.00:R98/7.1.0
+- id: 3GPP TS 10.00:R98/7.1.0
   type: 3GPP
 docnumber: TS 10.00:R98/7.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BERTENYI, Balazs
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: "#27: 7D1.0"
   type: remark
 - content: Not available
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

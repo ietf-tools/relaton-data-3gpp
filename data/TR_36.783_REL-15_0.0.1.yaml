@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR36.783-Rel-15/0.0.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1024
     Quadrature Amplitude Modulation (QAM) in LTE downlink
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.783/36783-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.783/36783-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.783:Rel-15/0.0.1
+- id: 3GPP TR 36.783:Rel-15/0.0.1
   type: 3GPP
 docnumber: TR 36.783:Rel-15/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RICO ALVARINO, Alberto
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: Skeleton endorsed in R1-1706493
+- content: Skeleton endorsed in R1-1706493
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: LTE
 release:

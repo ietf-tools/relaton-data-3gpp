@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR24.841-Rel-6/0.5.0
 title:
-  type: main
+- type: main
   content: Presence service based on Session Initiation Protocol (SIP); Functional
     models, information flows and protocol details
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.841/24841-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.841/24841-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.841:Rel-6/0.5.0
+- id: 3GPP TR 24.841:Rel-6/0.5.0
   type: 3GPP
 docnumber: TR 24.841:Rel-6/0.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DRAGE, Keith
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 release:

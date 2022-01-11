@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS32.205-Rel-4/1.1.1
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Charging data description
     for the Circuit Switched (CS) domain
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.205/32205-111.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.205/32205-111.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.205:Rel-4/1.1.1
+- id: 3GPP TS 32.205:Rel-4/1.1.1
   type: 3GPP
 docnumber: TS 32.205:Rel-4/1.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-10-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOERMER, Gerald
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: SP-010236
+- content: SP-010236
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

@@ -1,45 +1,51 @@
 ---
 id: 3GPPTR23.822-Rel-8/0.3.0
 title:
-  type: main
+- type: main
   content: Framework for Gq' / Rx harmonization
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.822/23822-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.822/23822-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.822:Rel-8/0.3.0
+- id: 3GPP TR 23.822:Rel-8/0.3.0
   type: 3GPP
 docnumber: TR 23.822:Rel-8/0.3.0
 date:
-  type: created
+- type: created
   value: '2009-08-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MAZZARELLA, Nick
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: 'SP-43: work abandoned.'
   type: remark
 - content: S2-083299 & S2-085737
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

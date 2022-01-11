@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR22.800-Rel-6/0.0.5
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS) subscription and access scenarios
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.800:Rel-6/0.0.5
+- id: 3GPP TR 22.800:Rel-6/0.0.5
   type: 3GPP
 docnumber: TR 22.800:Rel-6/0.0.5
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FRANK, Robert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TeliaSonera AB
-  role: author
+    - organization:
+        name:
+        - TeliaSonera AB
+  role:
+  - author
 biblionote:
 - content: 'SP-20: seems difficult to reach agreement; expect it for info at SP-21,
     simply cleaned up but technically incomplete.'
   type: remark
 - content: S1-022295
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

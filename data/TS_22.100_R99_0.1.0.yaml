@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.100-R99/0.1.0
 title:
-  type: main
+- type: main
   content: UMTS Phase 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.100/22100-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.100/22100-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.100:R99/0.1.0
+- id: 3GPP TS 22.100:R99/0.1.0
   type: 3GPP
 docnumber: TS 22.100:R99/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KURZ, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes contains how the definition of the UMTS system
+- content: This specification describes contains how the definition of the UMTS system
     will be achieved in a phased approach. This document also specifies the requirements
     for release 99 of UMTS. Some requirements which are necessary to ensure a smooth
     transition to later releases are also indicated. This document should, however,
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR25.804-Rel-6/0.2.1
 title:
-  type: main
+- type: main
   content: Feasibility study on uplink enhancements for UTRA TDD
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.804/25804-021.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.804/25804-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.804:Rel-6/0.2.1
+- id: 3GPP TR 25.804:Rel-6/0.2.1
   type: 3GPP
 docnumber: TR 25.804:Rel-6/0.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-03-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RUDOLF, Marian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
 biblionote:
 - content: 'RP-25: estimate approval RP-26.'
   type: remark
 - content: R1-040819
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

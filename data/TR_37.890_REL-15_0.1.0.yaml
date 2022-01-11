@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR37.890-Rel-15/0.1.0
 title:
-  type: main
+- type: main
   content: Feasibility Study on 6 GHz for LTE and NR in Licensed and Unlicensed Operations
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.890/37890-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.890/37890-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.890:Rel-15/0.1.0
+- id: 3GPP TR 37.890:Rel-15/0.1.0
   type: 3GPP
 docnumber: TR 37.890:Rel-15/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EVERAERE, Dominique
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Limited
-  role: author
+    - organization:
+        name:
+        - Ericsson Limited
+  role:
+  - author
 biblionote:
-  content: RP-180547
+- content: RP-180547
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: LTE
 release:

@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR24.883-Rel-16/1.0.0
 title:
-  type: main
+- type: main
   content: Mission Critical (MC) systems connection to  Land Mobile Radio (LMR) systems;
     Stage-3
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/24_series/24.883/24883-100.zip
+- content: http://ftp.3gpp.org//Specs/archive/24_series/24.883/24883-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.883:Rel-16/1.0.0
+- id: 3GPP TR 24.883:Rel-16/1.0.0
   type: 3GPP
 docnumber: TR 24.883:Rel-16/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONNES, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: L3Harris Technologies
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - L3Harris Technologies
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: LTE
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.220-Rel-11/11.5.0
 title:
-  type: main
+- type: main
   content: Service requirements for Home Node B (HNB) and Home eNode B (HeNB)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.220/22220-b50.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.220/22220-b50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.220:Rel-11/11.5.0
+- id: 3GPP TS 22.220:Rel-11/11.5.0
   type: 3GPP
 docnumber: TS 22.220:Rel-11/11.5.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2009-01-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

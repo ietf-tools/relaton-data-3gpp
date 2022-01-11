@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS36.323-Rel-13/13.2.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Packet Data Convergence
     Protocol (PDCP) specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.323/36323-d21.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.323/36323-d21.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.323:Rel-13/13.2.1
+- id: 3GPP TS 36.323:Rel-13/13.2.1
   type: 3GPP
 docnumber: TS 36.323:Rel-13/13.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YI, SeungJune
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Inc.
-  role: author
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
 biblionote:
-  content: CR0160 was not fully implemented in v13.2.0 so missing changes are added
+- content: CR0160 was not fully implemented in v13.2.0 so missing changes are added
     in v13.2.1
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

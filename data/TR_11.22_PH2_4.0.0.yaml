@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR11.22-Ph2/4.0.0
 title:
-  type: main
+- type: main
   content: GSM Base Station and Ancillary Equipment, Physical and Electronical Parameters,
     Application of Standards and Guidance Notes
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 11.22:Ph2/4.0.0
+- id: 3GPP TR 11.22:Ph2/4.0.0
   type: 3GPP
 docnumber: TR 11.22:Ph2/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PERRY, Malcolm
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NOKIA UK R&D Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: G1

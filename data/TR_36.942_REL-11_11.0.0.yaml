@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.942-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Radio Frequency (RF)
     system scenarios
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.942/36942-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.942/36942-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.942:Rel-11/11.0.0
+- id: 3GPP TR 36.942:Rel-11/11.0.0
   type: 3GPP
 docnumber: TR 36.942:Rel-11/11.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2009-06-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LAMPRECHT, Frank
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BIOTRONIK SE & Co. KG
-  role: author
+    - organization:
+        name:
+        - BIOTRONIK SE & Co. KG
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 10.3.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

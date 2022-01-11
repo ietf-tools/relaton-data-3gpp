@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS11.13-R98/7.4.1
 title:
-  type: main
+- type: main
   content: Test specification for Subscriber Interface Module (SIM) Application Programme
     Interface (API) for Java card
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.13/1113-741.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.13/1113-741.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.13:R98/7.4.1
+- id: 3GPP TS 11.13:R98/7.4.1
   type: 3GPP
 docnumber: TS 11.13:R98/7.4.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MICHEL, Alexis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: OBERTHUR TECHNOLOGIES
-  role: author
+    - organization:
+        name:
+        - OBERTHUR TECHNOLOGIES
+  role:
+  - author
 biblionote:
-  content: adds missing annex attachments
+- content: adds missing annex attachments
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 release:

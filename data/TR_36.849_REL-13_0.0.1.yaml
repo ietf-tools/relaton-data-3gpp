@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.849-Rel-13/0.0.1
 title:
-  type: main
+- type: main
   content: Study on Advanced Wireless Services (AWS) extension band for LTE
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.849:Rel-13/0.0.1
+- id: 3GPP TR 36.849:Rel-13/0.0.1
   type: 3GPP
 docnumber: TR 36.849:Rel-13/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2015-01-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FONG, Gene
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Korea
-  role: author
+    - organization:
+        name:
+        - Qualcomm Korea
+  role:
+  - author
 biblionote:
-  content: R4-145131
+- content: R4-145131
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

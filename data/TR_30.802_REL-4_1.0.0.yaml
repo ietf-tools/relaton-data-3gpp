@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR30.802-Rel-4/1.0.0
 title:
-  type: main
+- type: main
   content: Project plan on Bearer Services and QoS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.802/30802-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.802/30802-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.802:Rel-4/1.0.0
+- id: 3GPP TR 30.802:Rel-4/1.0.0
   type: 3GPP
 docnumber: TR 30.802:Rel-4/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOPEZ-TORRES, Oscar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
 biblionote:
-  content: '2001-02-02: In Nov-00, mistakenly put up 30.002 v4.0.0 under this number;
+- content: '2001-02-02: In Nov-00, mistakenly put up 30.002 v4.0.0 under this number;
     now removed. TSG#11: Work stopped.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR25.992-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Multimedia Broadcast/Multicast Service (MBMS); UTRAN/GERAN requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.992/25992-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.992/25992-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.992:Rel-15/15.0.0
+- id: 3GPP TR 25.992:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 25.992:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PIRSKANEN, Juho
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: Upgraded without technical change
+- content: Upgraded without technical change
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

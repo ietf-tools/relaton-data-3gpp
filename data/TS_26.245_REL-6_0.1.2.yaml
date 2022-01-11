@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS26.245-Rel-6/0.1.2
 title:
-  type: main
+- type: main
   content: Transparent end-to-end Packet switched Streaming Service (PSS); Timed text
     format
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 26.245:Rel-6/0.1.2
+- id: 3GPP TS 26.245:Rel-6/0.1.2
   type: 3GPP
 docnumber: TS 26.245:Rel-6/0.1.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SINGER, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Apple (UK) Limited
-  role: author
+    - organization:
+        name:
+        - Apple (UK) Limited
+  role:
+  - author
 biblionote:
-  content: S4-030151
+- content: S4-030151
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

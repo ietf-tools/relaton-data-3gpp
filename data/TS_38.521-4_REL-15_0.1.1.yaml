@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS38.521-4-Rel-15/0.1.1
 title:
-  type: main
+- type: main
   content: 'NR; User Equipment (UE) conformance specification; Radio transmission
     and reception; Part 4: Performance'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.521-4/38521-4-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.521-4/38521-4-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.521-4:Rel-15/0.1.1
+- id: 3GPP TS 38.521-4:Rel-15/0.1.1
   type: 3GPP
 docnumber: TS 38.521-4:Rel-15/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BALASUBRAMANIAN, Vijay
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

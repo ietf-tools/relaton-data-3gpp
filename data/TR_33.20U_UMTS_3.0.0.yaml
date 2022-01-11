@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.20U-UMTS/3.0.0
 title:
-  type: main
+- type: main
   content: Security principles for the UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.20U/3320U-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.20U/3320U-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.20U:UMTS/3.0.0
+- id: 3GPP TR 33.20U:UMTS/3.0.0
   type: 3GPP
 docnumber: TR 33.20U:UMTS/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BERGMANN, Ansgar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Hillebrand GmbH
-  role: author
+    - organization:
+        name:
+        - Hillebrand GmbH
+  role:
+  - author
 biblionote:
-  content: "#19: 3.0.0"
+- content: "#19: 3.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: "-"

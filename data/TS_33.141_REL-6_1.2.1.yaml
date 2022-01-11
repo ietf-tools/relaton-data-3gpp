@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS33.141-Rel-6/1.2.1
 title:
-  type: main
+- type: main
   content: Presence service; Security
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.141/33141-121.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.141/33141-121.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.141:Rel-6/1.2.1
+- id: 3GPP TS 33.141:Rel-6/1.2.1
   type: 3GPP
 docnumber: TS 33.141:Rel-6/1.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-06-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MATTSSON, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 common-ims-spec: true

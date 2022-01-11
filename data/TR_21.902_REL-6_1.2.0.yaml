@@ -1,46 +1,52 @@
 ---
 id: 3GPPTR21.902-Rel-6/1.2.0
 title:
-  type: main
+- type: main
   content: Evolution of 3GPP system
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.902/21902-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.902/21902-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.902:Rel-6/1.2.0
+- id: 3GPP TR 21.902:Rel-6/1.2.0
   type: 3GPP
 docnumber: TR 21.902:Rel-6/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BISHOP, Craig
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Bishop Communications Ltd
-  role: author
+    - organization:
+        name:
+        - Bishop Communications Ltd
+  role:
+  - author
 biblionote:
 - content: 'SP-20: expect revised drafts 2003-06-20 & 2003-09-05.  SP-21: approved
     as Rel-6 document.'
   type: remark
 - content: EV-030124
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 3G
 release:

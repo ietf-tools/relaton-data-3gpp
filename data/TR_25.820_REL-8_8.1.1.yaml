@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.820-Rel-8/8.1.1
 title:
-  type: main
+- type: main
   content: 3G Home Node B (HNB) study item Technical Report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.820/25820-811.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.820/25820-811.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.820:Rel-8/8.1.1
+- id: 3GPP TR 25.820:Rel-8/8.1.1
   type: 3GPP
 docnumber: TR 25.820:Rel-8/8.1.1
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2008-03-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: THOMAS, Howard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: restores original references deleted due to unclear CR
+- content: restores original references deleted due to unclear CR
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

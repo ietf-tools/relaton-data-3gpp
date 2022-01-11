@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.999-Rel-7/2.1.1
 title:
-  type: main
+- type: main
   content: High Speed Packet Access (HSPA) evolution; Frequency Division Duplex (FDD)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.999:Rel-7/2.1.1
+- id: 3GPP TR 25.999:Rel-7/2.1.1
   type: 3GPP
 docnumber: TR 25.999:Rel-7/2.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GRANT, Marc
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: AT&T GNS Belgium SPRL
-  role: author
+    - organization:
+        name:
+        - AT&T GNS Belgium SPRL
+  role:
+  - author
 biblionote:
-  content: draft, email circulation
+- content: draft, email circulation
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.331-Rel-10/10.5.0
 title:
-  type: main
+- type: main
   content: Radio Resource Control (RRC); Protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-a50.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-a50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.331:Rel-10/10.5.0
+- id: 3GPP TS 25.331:Rel-10/10.5.0
   type: 3GPP
 docnumber: TS 25.331:Rel-10/10.5.0
 date:
@@ -18,26 +18,32 @@ date:
 - type: confirmed
   value: '2006-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHREEVASTAV, Ritesh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
 biblionote:
-  content: 'Warning: due to an error in CR4669r1 (RP-110838) the feature 1.28 Mcps
+- content: 'Warning: due to an error in CR4669r1 (RP-110838) the feature 1.28 Mcps
     TDD E-DCH does not work properly with this version of TS 25.331. Use v10.11.0
     or v11.5.0 or higher where CRs 5374 (RP-130319) and 5375r1 (RP-130349) solved
     the problem.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the RRC protocol for the radio system. The
+- content: This specification describes the RRC protocol for the radio system. The
     scope of this specification contains also the information to be transported in
     a transparent container between source RNC and target RNC in connection to SRNC
     relocation.
@@ -45,7 +51,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

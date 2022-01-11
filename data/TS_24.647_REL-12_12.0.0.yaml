@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS24.647-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Advice Of Charge (AOC) using IP Multimedia (IM) Core Network (CN) subsystem
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.647/24647-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.647/24647-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.647:Rel-12/12.0.0
+- id: 3GPP TS 24.647:Rel-12/12.0.0
   type: 3GPP
 docnumber: TS 24.647:Rel-12/12.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2010-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AXELL, Jörgen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

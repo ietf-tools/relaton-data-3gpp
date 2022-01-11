@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS04.31-R99/8.4.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Mobile Station (MS) - Serving Mobile Location
     Centre (SMLC) Radio Resource LCS Protocol (RRLP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.31/0431-840.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.31/0431-840.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.31:R99/8.4.0
+- id: 3GPP TS 04.31:R99/8.4.0
   type: 3GPP
 docnumber: TS 04.31:R99/8.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PATEL, Milan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

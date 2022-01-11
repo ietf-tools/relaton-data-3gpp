@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.806-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem
     (IMS) Study
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.806/23806-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.806/23806-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.806:Rel-7/1.0.0
+- id: 3GPP TR 23.806:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 23.806:Rel-7/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2005-05-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BENNETT, Andy
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Cisco Systems Belgium
-  role: author
+    - organization:
+        name:
+        - Cisco Systems Belgium
+  role:
+  - author
 biblionote:
-  content: SP-050347
+- content: SP-050347
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

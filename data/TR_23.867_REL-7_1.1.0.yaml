@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR23.867-Rel-7/1.1.0
 title:
-  type: main
+- type: main
   content: Internet Protocol (IP) based IP Multimedia Subsystem (IMS) emergency sessions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.867/23867-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.867/23867-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.867:Rel-7/1.1.0
+- id: 3GPP TR 23.867:Rel-7/1.1.0
   type: 3GPP
 docnumber: TR 23.867:Rel-7/1.1.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2005-10-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIEBHART, Rainer
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: Timed out of Rel-6.
+- content: Timed out of Rel-6.
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

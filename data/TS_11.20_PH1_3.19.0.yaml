@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS11.20-Ph1/3.19.0
 title:
-  type: main
+- type: main
   content: GSM DCS 1800 Base Station Specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.20/1120-3j0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.20/1120-3j0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.20:Ph1/3.19.0
+- id: 3GPP TS 11.20:Ph1/3.19.0
   type: 3GPP
 docnumber: TS 11.20:Ph1/3.19.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: 'VACANT,  '
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: " "
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - " "
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: GP

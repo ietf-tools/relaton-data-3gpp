@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR43.058-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: Characterisation, test methods and quality assessment for handsfree Mobile
     Stations (MSs)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.058/43058-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.058/43058-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.058:Rel-8/8.0.0
+- id: 3GPP TR 43.058:Rel-8/8.0.0
   type: 3GPP
 docnumber: TR 43.058:Rel-8/8.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RAGOT, Stephane
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-7
+- content: Upgraded unchanged from Rel-7
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S4

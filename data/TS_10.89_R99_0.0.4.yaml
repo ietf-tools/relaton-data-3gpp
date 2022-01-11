@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS10.89-R99/0.0.4
 title:
-  type: main
+- type: main
   content: GSM to other Systems Handover and Cell Selection/Reselection; Project scheduling
     and open issues;
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.89/1089-004.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.89/1089-004.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 10.89:R99/0.0.4
+- id: 3GPP TS 10.89:R99/0.0.4
   type: 3GPP
 docnumber: TS 10.89:R99/0.0.4
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ISAACS, Ken
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: '2002-01-23: Usai indicates "stopped".'
+- content: '2002-01-23: Usai indicates "stopped".'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: GP

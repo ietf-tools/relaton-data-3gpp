@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS32.122-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Advanced Alarm Management (AAM) Integration
     Reference Point (IRP): Information Service (IS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.122/32122-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.122/32122-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.122:Rel-15/15.0.0
+- id: 3GPP TS 32.122:Rel-15/15.0.0
   type: 3GPP
 docnumber: TS 32.122:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: POLLAKOWSKI, Olaf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

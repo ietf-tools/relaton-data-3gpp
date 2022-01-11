@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR36.904-Rel-12/12.2.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for
     User Equipment (UE) radio reception conformance tests
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.904/36904-c20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.904/36904-c20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.904:Rel-12/12.2.0
+- id: 3GPP TR 36.904:Rel-12/12.2.0
   type: 3GPP
 docnumber: TR 36.904:Rel-12/12.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-05-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOLODZIEJ, Jakub
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

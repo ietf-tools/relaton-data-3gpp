@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR25.864-Rel-10/0.2.0
 title:
-  type: main
+- type: main
   content: Downlink configurations for Four-carrier High Speed Download Packet Access
     (4C-HSDPA)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.864:Rel-10/0.2.0
+- id: 3GPP TR 25.864:Rel-10/0.2.0
   type: 3GPP
 docnumber: TR 25.864:Rel-10/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-06-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BHARADWAJ, Arjun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Flarion Technologies
-  role: author
+    - organization:
+        name:
+        - Flarion Technologies
+  role:
+  - author
 biblionote:
-  content: R4-103898
+- content: R4-103898
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

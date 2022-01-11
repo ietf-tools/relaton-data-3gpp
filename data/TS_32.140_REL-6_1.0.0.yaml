@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS32.140-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Subscription Management (SuM) requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.140/32140-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.140/32140-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.140:Rel-6/1.0.0
+- id: 3GPP TS 32.140:Rel-6/1.0.0
   type: 3GPP
 docnumber: TS 32.140:Rel-6/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-10-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
 biblionote:
 - content: 'SP-15: moved from Rel-5.'
   type: remark
 - content: SP-020012 (originally Rel-5)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.871-Rel-5/0.2.0
 title:
-  type: main
+- type: main
   content: Enhanced support for user privacy in Location Services (LCS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.871:Rel-5/0.2.0
+- id: 3GPP TR 23.871:Rel-5/0.2.0
   type: 3GPP
 docnumber: TR 23.871:Rel-5/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-03-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KÅLL, Jan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: 'Not to progress to Rel-6: see 23.271.'
+- content: 'Not to progress to Rel-6: see 23.271.'
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

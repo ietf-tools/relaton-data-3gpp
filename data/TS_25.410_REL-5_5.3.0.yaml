@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS25.410-Rel-5/5.3.0
 title:
-  type: main
+- type: main
   content: 'UTRAN Iu interface: General aspects and principles'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.410/25410-530.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.410/25410-530.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.410:Rel-5/5.3.0
+- id: 3GPP TS 25.410:Rel-5/5.3.0
   type: 3GPP
 docnumber: TS 25.410:Rel-5/5.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GODIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes an introduction to the 25.41x series of technical
+- content: This specification describes an introduction to the 25.41x series of technical
     specifications that define the Iu interface for the interconnection of RNC component
     of the UTRAN to the CN.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

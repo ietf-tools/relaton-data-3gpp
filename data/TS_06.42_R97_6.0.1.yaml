@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS06.42-R97/6.0.1
 title:
-  type: main
+- type: main
   content: Voice Activity Detection (VAD) for Half Rate Speech Traffic Channels
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.42/0642-601.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.42/0642-601.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 06.42:R97/6.0.1
+- id: 3GPP TS 06.42:R97/6.0.1
   type: 3GPP
 docnumber: TS 06.42:R97/6.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARRETT, Paul
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: "#27: 6.0.0"
+- content: "#27: 6.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

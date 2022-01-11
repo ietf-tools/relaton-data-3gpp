@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.09-R96/5.0.0
 title:
-  type: main
+- type: main
   content: Handover Procedures
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.09/0309-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.09/0309-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.09:R96/5.0.0
+- id: 3GPP TS 03.09:R96/5.0.0
   type: 3GPP
 docnumber: TS 03.09:R96/5.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONRAD, Atle
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#18: 5.0.0  #22: 5.1.0"
+- content: "#18: 5.0.0  #22: 5.1.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.804-Rel-14/0.4.1
 title:
-  type: main
+- type: main
   content: Study on new radio access technology Radio interface protocol aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.804/38804-041.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.804/38804-041.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.804:Rel-14/0.4.1
+- id: 3GPP TR 38.804:Rel-14/0.4.1
   type: 3GPP
 docnumber: TR 38.804:Rel-14/0.4.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TAKAHASHI, Hideaki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: DOCOMO Communications Lab.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - DOCOMO Communications Lab.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 5G
 release:

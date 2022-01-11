@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR38.828-Rel-16/1.0.0
 title:
-  type: main
+- type: main
   content: Cross Link Interference (CLI) handling and Remote Interference Management
     (RIM) for NR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.828/38828-100.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.828/38828-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.828:Rel-16/1.0.0
+- id: 3GPP TR 38.828:Rel-16/1.0.0
   type: 3GPP
 docnumber: TR 38.828:Rel-16/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PARK, Jongkeun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Finland
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - LG Electronics Finland
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

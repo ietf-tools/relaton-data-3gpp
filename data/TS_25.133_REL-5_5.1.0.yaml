@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS25.133-Rel-5/5.1.0
 title:
-  type: main
+- type: main
   content: Requirements for support of radio resource management  (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.133/25133-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.133/25133-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.133:Rel-5/5.1.0
+- id: 3GPP TS 25.133:Rel-5/5.1.0
   type: 3GPP
 docnumber: TS 25.133:Rel-5/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-04-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GUERRINI, Claudio
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Netscout Systems Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Netscout Systems Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the requirements for support of radio resource
+- content: This specification describes the requirements for support of radio resource
     management for FDD including requirements on measurements in UTRAN and the UE
     as well as on node dynamic behaviour and interaction, in terms of delay and response
     characteristics.
@@ -37,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

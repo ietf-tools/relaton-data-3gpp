@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS26.132-Rel-11/11.4.0
 title:
-  type: main
+- type: main
   content: Speech and video telephony terminal acoustic test specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132-b40.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.132/26132-b40.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.132:Rel-11/11.4.0
+- id: 3GPP TS 26.132:Rel-11/11.4.0
   type: 3GPP
 docnumber: TS 26.132:Rel-11/11.4.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2007-02-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: USAI, Paolino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

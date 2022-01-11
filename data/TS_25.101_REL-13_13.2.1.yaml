@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS25.101-Rel-13/13.2.1
 title:
-  type: main
+- type: main
   content: User Equipment (UE) radio transmission and reception (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.101/25101-d21.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.101/25101-d21.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.101:Rel-13/13.2.1
+- id: 3GPP TS 25.101:Rel-13/13.2.1
   type: 3GPP
 docnumber: TS 25.101:Rel-13/13.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FERNANDES, Edgar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Dish Network
-  role: author
+    - organization:
+        name:
+        - Dish Network
+  role:
+  - author
 biblionote:
-  content: Correction to change history table
+- content: Correction to change history table
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document establishes the minimum RF characteristics of the UTRA User
+- content: This document establishes the minimum RF characteristics of the UTRA User
     Equipment (UE) operating in the FDD mode. The values in the TS make no allowance
     for measurement uncertainty in conformance testing. Test limits to be used for
     conformance testing are specified separately in the UE conformance test specifications
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

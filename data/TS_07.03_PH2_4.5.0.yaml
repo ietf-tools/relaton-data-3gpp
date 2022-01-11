@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS07.03-Ph2/4.5.0
 title:
-  type: main
+- type: main
   content: Terminal Adaptation Functions (TAF) for Services Using Synchronous Bearer
     Capabilities
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.03/0703-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.03/0703-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 07.03:Ph2/4.5.0
+- id: 3GPP TS 07.03:Ph2/4.5.0
   type: 3GPP
 docnumber: TS 07.03:Ph2/4.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#7: 4.4.0   #9: 4.5.0"
+- content: "#7: 4.4.0   #9: 4.5.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

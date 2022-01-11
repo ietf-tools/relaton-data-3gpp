@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR05.90-R96/5.0.0
 title:
-  type: main
+- type: main
   content: GSM Electromagnetic Compatibility (EMC) considerations
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.90/0590-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.90/0590-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 05.90:R96/5.0.0
+- id: 3GPP TR 05.90:R96/5.0.0
   type: 3GPP
 docnumber: TR 05.90:R96/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-11-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: USAI, Paolino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: No proper source file available
+- content: No proper source file available
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: G1

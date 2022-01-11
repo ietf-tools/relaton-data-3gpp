@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS36.133-Rel-14/14.15.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Requirements for support
     of radio resource management
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/36_series/36.133/36133-ef0.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/36_series/36.133/36133-ef0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.133:Rel-14/14.15.0
+- id: 3GPP TS 36.133:Rel-14/14.15.0
   type: 3GPP
 docnumber: TS 36.133:Rel-14/14.15.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: THANGARASA, Santhan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Hungary Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson Hungary Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR22.864-Rel-14/0.3.0
 title:
-  type: main
+- type: main
   content: Feasibility study on new services and markets technology enablers for network
     operation; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.864/22864-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.864/22864-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.864:Rel-14/0.3.0
+- id: 3GPP TR 22.864:Rel-14/0.3.0
   type: 3GPP
 docnumber: TR 22.864:Rel-14/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2016-10-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LU, Lu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

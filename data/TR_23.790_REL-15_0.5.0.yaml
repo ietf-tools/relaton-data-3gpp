@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR23.790-Rel-15/0.5.0
 title:
-  type: main
+- type: main
   content: Study on application architecture for the Future Railway Mobile Communication
     System (FRMCS); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.790/23790-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.790/23790-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.790:Rel-15/0.5.0
+- id: 3GPP TR 23.790:Rel-15/0.5.0
   type: 3GPP
 docnumber: TR 23.790:Rel-15/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: OETTL, Martin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 release:
   version2g: f

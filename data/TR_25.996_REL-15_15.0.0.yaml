@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.996-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Spatial channel model for Multiple Input Multiple Output (MIMO) simulations
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.996/25996-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.996/25996-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.996:Rel-15/15.0.0
+- id: 3GPP TR 25.996:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 25.996:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-03-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Howard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR29.828-Rel-12/1.1.0
 title:
-  type: main
+- type: main
   content: Study on extended IP Multimedia Subsystem (IMS) media plane security features
     and Transmission Control Protocol (TCP) related Network Address Translation (NAT)
     traversal support; IMS H.248 profiles aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.828/29828-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.828/29828-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.828:Rel-12/1.1.0
+- id: 3GPP TR 29.828:Rel-12/1.1.0
   type: 3GPP
 docnumber: TR 29.828:Rel-12/1.1.0
 date:
@@ -20,22 +20,28 @@ date:
 - type: confirmed
   value: '2014-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LANDAIS, Bruno
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

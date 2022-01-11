@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR30.820-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Project scheduling and open issues for SA5,
     Release 10
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.820/30820-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.820/30820-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.820:Rel-10/10.0.0
+- id: 3GPP TR 30.820:Rel-10/10.0.0
   type: 3GPP
 docnumber: TR 30.820:Rel-10/10.0.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2011-07-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZUMERLE, Dionisio
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

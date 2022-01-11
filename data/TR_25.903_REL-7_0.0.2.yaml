@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.903-Rel-7/0.0.2
 title:
-  type: main
+- type: main
   content: Continuous connectivity for packet data users
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.903:Rel-7/0.0.2
+- id: 3GPP TR 25.903:Rel-7/0.0.2
   type: 3GPP
 docnumber: TR 25.903:Rel-7/0.0.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-04-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAKER, Matthew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: R1-051278
+- content: R1-051278
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

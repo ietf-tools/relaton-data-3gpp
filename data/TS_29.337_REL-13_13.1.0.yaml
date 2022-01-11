@@ -1,32 +1,36 @@
 ---
 id: 3GPPTS29.337-Rel-13/13.1.0
 title:
-  type: main
+- type: main
   content: Diameter-based T4 Interface for communications with packet data networks
     and applications
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.337/29337-d10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.337/29337-d10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.337:Rel-13/13.1.0
+- id: 3GPP TS 29.337:Rel-13/13.1.0
   type: 3GPP
 docnumber: TS 29.337:Rel-13/13.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHI, Susan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -35,15 +39,17 @@ biblionote:
     be disabled in the document;The first two lines of the title must be correct,
     according to the TSG...'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

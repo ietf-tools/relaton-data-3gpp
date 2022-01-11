@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR28.825-Rel-17/0.0.0
 title:
-  type: main
+- type: main
   content: Management and orchestration; Study on management aspects of 5G network
     sharing
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/28_series/28.825/28825-000.zip
+- content: https://ftp.3gpp.org//Specs/archive/28_series/28.825/28825-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 28.825:Rel-17/0.0.0
+- id: 3GPP TR 28.825:Rel-17/0.0.0
   type: 3GPP
 docnumber: TR 28.825:Rel-17/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUN, Mingrui
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

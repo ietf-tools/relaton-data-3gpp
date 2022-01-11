@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR38.812-Rel-16/0.2.0
 title:
-  type: main
+- type: main
   content: Study on Non-Orthogonal Multiple Access (NOMA) for NR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.812/38812-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.812/38812-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.812:Rel-16/0.2.0
+- id: 3GPP TR 38.812:Rel-16/0.2.0
   type: 3GPP
 docnumber: TR 38.812:Rel-16/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YUAN, Yifei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: Endorsed in R1-1814006
+- content: Endorsed in R1-1814006
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 5G
 release:

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS36.571-3-Rel-9/1.0.0
 title:
-  type: main
+- type: main
   content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; UE positioning in E-UTRA; Part 3: ICS'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 36.571-3:Rel-9/1.0.0
+- id: 3GPP TS 36.571-3:Rel-9/1.0.0
   type: 3GPP
 docnumber: TS 36.571-3:Rel-9/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHAPONNIERE, Lena
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: RP-111211
+- content: RP-111211
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

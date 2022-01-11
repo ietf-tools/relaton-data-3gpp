@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR22.807-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Study on enhancements for infrastructure-based data communication between
     devices
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.807/22807-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.807/22807-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.807:Rel-13/2.0.0
+- id: 3GPP TR 22.807:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 22.807:Rel-13/2.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-09-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NORP, Toon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TNO
-  role: author
+    - organization:
+        name:
+        - TNO
+  role:
+  - author
 biblionote:
-  content: SP-140517
+- content: SP-140517
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

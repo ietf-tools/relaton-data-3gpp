@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR22.895-Rel-12/2.0.0
 title:
-  type: main
+- type: main
   content: Study on service aspects of integration of Single Sign-On (SSO) frameworks
     with 3GPP operator-controlled resources and mechanisms
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.895/22895-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.895/22895-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.895:Rel-12/2.0.0
+- id: 3GPP TR 22.895:Rel-12/2.0.0
   type: 3GPP
 docnumber: TR 22.895:Rel-12/2.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-03-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WALLACE, Christopher
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: SP-120108
+- content: SP-120108
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

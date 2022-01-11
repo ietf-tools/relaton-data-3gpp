@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR24.930-Rel-7/7.2.0
 title:
-  type: main
+- type: main
   content: Signalling flows for the session setup in the IP Multimedia core network
     Subsystem (IMS) based on Session Initiation Protocol (SIP)  and Session Description
     Protocol (SDP); Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.930/24930-720.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.930/24930-720.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.930:Rel-7/7.2.0
+- id: 3GPP TR 24.930:Rel-7/7.2.0
   type: 3GPP
 docnumber: TR 24.930:Rel-7/7.2.0
 date:
@@ -20,25 +20,31 @@ date:
 - type: confirmed
   value: '2006-12-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEIS, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

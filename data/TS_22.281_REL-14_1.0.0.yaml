@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS22.281-Rel-14/1.0.0
 title:
-  type: main
+- type: main
   content: Mission Critical (MC) video
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.281/22281-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.281/22281-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.281:Rel-14/1.0.0
+- id: 3GPP TS 22.281:Rel-14/1.0.0
   type: 3GPP
 docnumber: TS 22.281:Rel-14/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VILLEBRUN, Emmanuelle
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MINISTERE DE L'INTERIEUR
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - MINISTERE DE L'INTERIEUR
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: LTE
 release:

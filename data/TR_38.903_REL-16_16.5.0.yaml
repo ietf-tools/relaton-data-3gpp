@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR38.903-Rel-16/16.5.0
 title:
-  type: main
+- type: main
   content: NR; Derivation of test tolerances and measurement uncertainty for User
     Equipment (UE) conformance test cases
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.903/38903-g50.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.903/38903-g50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.903:Rel-16/16.5.0
+- id: 3GPP TR 38.903:Rel-16/16.5.0
   type: 3GPP
 docnumber: TR 38.903:Rel-16/16.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GU, Chunying
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

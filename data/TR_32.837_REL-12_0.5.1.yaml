@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.837-Rel-12/0.5.1
 title:
-  type: main
+- type: main
   content: Gap analysis between 3GPP SA5 specifications and Next Generation Mobile
     Networks (NGMN) Next Generation Operations Requirements (NGCOR)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.837/32837-051.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.837/32837-051.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.837:Rel-12/0.5.1
+- id: 3GPP TR 32.837:Rel-12/0.5.1
   type: 3GPP
 docnumber: TR 32.837:Rel-12/0.5.1
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2014-10-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZOU, Lan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: 'SP-64: timed out of Rel-12.'
+- content: 'SP-64: timed out of Rel-12.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

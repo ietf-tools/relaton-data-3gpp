@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS44.318-Rel-7/0.1.0
 title:
-  type: main
+- type: main
   content: Generic Access Network (GAN); Mobile GAN interface layer 3 specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.318/44318-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.318/44318-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.318:Rel-7/0.1.0
+- id: 3GPP TS 44.318:Rel-7/0.1.0
   type: 3GPP
 docnumber: TS 44.318:Rel-7/0.1.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2007-12-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VIKBERG, Jari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: GP-050279
+- content: GP-050279
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

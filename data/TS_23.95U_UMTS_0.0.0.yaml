@@ -1,23 +1,25 @@
 ---
 id: 3GPPTS23.95U-UMTS/0.0.0
 title:
-  type: main
+- type: main
   content: UMTS Network Aspects; Network functions relevant to satellites
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.95U:UMTS/0.0.0
+- id: 3GPP TS 23.95U:UMTS/0.0.0
   type: 3GPP
 docnumber: TS 23.95U:UMTS/0.0.0
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: "-"
+- name: "-"
   type: prime
 release:
   version2g: '3'

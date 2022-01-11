@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS23.045-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Technical Realization of Facsimile Group 3 Service - transparent
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.045/23045-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.045/23045-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.045:R99/3.0.0
+- id: 3GPP TS 23.045:R99/3.0.0
   type: 3GPP
 docnumber: TS 23.045:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DI TRIA, Paolo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
 biblionote:
-  content: 3.0.0 Apr 99 - reverts to 03.45 v8.0.0
+- content: 3.0.0 Apr 99 - reverts to 03.45 v8.0.0
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N3

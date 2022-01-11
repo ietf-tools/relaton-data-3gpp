@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.032-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Immediate Service Termination (IST); Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.032/22032-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.032/22032-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.032:Rel-12/12.0.0
+- id: 3GPP TS 22.032:Rel-12/12.0.0
   type: 3GPP
 docnumber: TS 22.032:Rel-12/12.0.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2001-11-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BLECKERT, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 11.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR22.812-Rel-8/0.0.1
 title:
-  type: main
+- type: main
   content: Study into network selection requirements for non-3GPP access
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.812:Rel-8/0.0.1
+- id: 3GPP TR 22.812:Rel-8/0.0.1
   type: 3GPP
 docnumber: TR 22.812:Rel-8/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-09-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FRIEL, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Telefonica Germany GmbH
-  role: author
+    - organization:
+        name:
+        - Telefonica Germany GmbH
+  role:
+  - author
 biblionote:
-  content: ".SP-40: Withdrawn and replaced by 22.912."
+- content: ".SP-40: Withdrawn and replaced by 22.912."
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

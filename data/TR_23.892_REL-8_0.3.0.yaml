@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR23.892-Rel-8/0.3.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS) centralized services
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.892:Rel-8/0.3.0
+- id: 3GPP TR 23.892:Rel-8/0.3.0
   type: 3GPP
 docnumber: TR 23.892:Rel-8/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-04-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BENNETT, Andy
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Cisco Systems Belgium
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Cisco Systems Belgium
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

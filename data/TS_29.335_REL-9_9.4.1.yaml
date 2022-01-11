@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.335-Rel-9/9.4.1
 title:
-  type: main
+- type: main
   content: User Data Convergence (UDC); User data repository access protocol over
     the Ud interface; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.335/29335-941.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.335/29335-941.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.335:Rel-9/9.4.1
+- id: 3GPP TS 29.335:Rel-9/9.4.1
   type: 3GPP
 docnumber: TS 29.335:Rel-9/9.4.1
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MERINO VAZQUEZ, Emiliano
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: fixes history table error
+- content: fixes history table error
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

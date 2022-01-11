@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR25.874-Rel-11/1.0.0
 title:
-  type: main
+- type: main
   content: High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements
     for Low Chip Rate (LCR) Time Division Duplex (TDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.874/25874-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.874/25874-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.874:Rel-11/1.0.0
+- id: 3GPP TR 25.874:Rel-11/1.0.0
   type: 3GPP
 docnumber: TR 25.874:Rel-11/1.0.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2012-09-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WEI, Limei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TD Tech Ltd
-  role: author
+    - organization:
+        name:
+        - TD Tech Ltd
+  role:
+  - author
 biblionote:
-  content: R1-124018, RP-121407
+- content: R1-124018, RP-121407
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS31.123-Rel-5/0.3.0
 title:
-  type: main
+- type: main
   content: "(Universal) Subscriber Interface Module ((U)SIM) toolkit interpreter test"
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.123/31123-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.123/31123-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.123:Rel-5/0.3.0
+- id: 3GPP TS 31.123:Rel-5/0.3.0
   type: 3GPP
 docnumber: TS 31.123:Rel-5/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARNES, Nigel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: T3-030912
+- content: T3-030912
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: T3
+- name: T3
   type: prime
 radiotechnology: 3G
 release:

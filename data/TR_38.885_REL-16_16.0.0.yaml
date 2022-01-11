@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR38.885-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Study on NR Vehicle-to-Everything (V2X)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.885/38885-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.885/38885-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.885:Rel-16/16.0.0
+- id: 3GPP TR 38.885:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 38.885:Rel-16/16.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WEBB, Matthew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

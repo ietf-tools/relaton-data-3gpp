@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS29.199-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Open Service Access (OSA); Web Services Application Programming Interface
     (API)  for OSA; Parlay X services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199/29199-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199/29199-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.199:Rel-6/1.0.0
+- id: 3GPP TS 29.199:Rel-6/1.0.0
   type: 3GPP
 docnumber: TS 29.199:Rel-6/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VAN RIJSSEN, Erwin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: NP-030552
+- content: NP-030552
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: N5
+- name: N5
   type: prime
 radiotechnology: 3G
 release:

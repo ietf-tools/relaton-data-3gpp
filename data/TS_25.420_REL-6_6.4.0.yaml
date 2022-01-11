@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.420-Rel-6/6.4.0
 title:
-  type: main
+- type: main
   content: UTRAN Iur interface general aspects and principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.420/25420-640.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.420/25420-640.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.420:Rel-6/6.4.0
+- id: 3GPP TS 25.420:Rel-6/6.4.0
   type: 3GPP
 docnumber: TS 25.420:Rel-6/6.4.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2006-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HELMERS, Hakon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: created for M.1457 update
+- content: created for M.1457 update
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes an introduction to the TSG RAN TS 25.42x series
+- content: This specification describes an introduction to the TSG RAN TS 25.42x series
     of technical specifications that define the Iur interface. It is a logical interface
     for the interconnection of two RNC components of the UTRAN.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

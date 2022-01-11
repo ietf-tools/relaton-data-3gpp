@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.740-Rel-16/0.7.0
 title:
-  type: main
+- type: main
   content: Study on enhancement of network slicing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.740/23740-070.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.740/23740-070.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.740:Rel-16/0.7.0
+- id: 3GPP TR 23.740:Rel-16/0.7.0
   type: 3GPP
 docnumber: TR 23.740:Rel-16/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SO, Tricci
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: Updated with approved pCRs at SA WG2#129BIS
+- content: Updated with approved pCRs at SA WG2#129BIS
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 5G
 release:

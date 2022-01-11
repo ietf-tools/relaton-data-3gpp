@@ -1,32 +1,38 @@
 ---
 id: 3GPPTS10.70-R98/0.2.0
 title:
-  type: main
+- type: main
   content: GSM Adaptive Multi-Rate Speech Codec (AMR); Project schedule and open issues
     for AMR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.70/1070-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.70/1070-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 10.70:R98/0.2.0
+- id: 3GPP TS 10.70:R98/0.2.0
   type: 3GPP
 docnumber: TS 10.70:R98/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BRUHN, Stefan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

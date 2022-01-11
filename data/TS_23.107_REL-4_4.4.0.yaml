@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS23.107-Rel-4/4.4.0
 title:
-  type: main
+- type: main
   content: Quality of Service (QoS) concept and architecture
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.107/23107-440.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.107/23107-440.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.107:Rel-4/4.4.0
+- id: 3GPP TS 23.107:Rel-4/4.4.0
   type: 3GPP
 docnumber: TS 23.107:Rel-4/4.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-08-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RINNE, Janne
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the framework for QoS in UMTS. The document
+- content: This specification describes the framework for QoS in UMTS. The document
     shall be used as a living document which will cover all issues related QoS in
     UMTS.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.322-Rel-7/7.8.0
 title:
-  type: main
+- type: main
   content: Radio Link Control (RLC)  protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.322/25322-780.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.322/25322-780.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.322:Rel-7/7.8.0
+- id: 3GPP TS 25.322:Rel-7/7.8.0
   type: 3GPP
 docnumber: TS 25.322:Rel-7/7.8.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2008-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PRADAS, Jose Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the RLC protocol.
+- content: This specification describes the RLC protocol.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

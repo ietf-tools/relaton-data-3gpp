@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.199-13-Rel-7/7.0.2
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Parlay X web services; Part 13: Address list
     management'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-13/29199-13-702.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-13/29199-13-702.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.199-13:Rel-7/7.0.2
+- id: 3GPP TS 29.199-13:Rel-7/7.0.2
   type: 3GPP
 docnumber: TS 29.199-13:Rel-7/7.0.2
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2005-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: UNMEHOPA, Musa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Philips International B.V.
-  role: author
+    - organization:
+        name:
+        - Philips International B.V.
+  role:
+  - author
 biblionote:
 - content: 'CP-35: Rel-7 version created to keep set intact.'
   type: remark
 - content: corrects title of part 18
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

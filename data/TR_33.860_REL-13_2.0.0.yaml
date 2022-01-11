@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR33.860-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Study on Enhanced General Packet Radio Service (EGPRS) access security
     enhancements with relation to cellular Internet of Things (IoT)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.860/33860-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.860/33860-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.860:Rel-13/2.0.0
+- id: 3GPP TR 33.860:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 33.860:Rel-13/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TORVINEN, Vesa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'This version was uploaded with the following quality checks failures:
+- content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history;Incorrect/missing title in cover page;The first
     two lines of the title must be correct, according to the TSG responsible for the
     specification'
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

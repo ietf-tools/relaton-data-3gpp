@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR22.968-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Study for requirements for a Public Warning System (PWS) service
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.968/22968-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.968/22968-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.968:Rel-16/16.0.0
+- id: 3GPP TR 22.968:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 22.968:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOUNGE, Mark
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile USA Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile USA Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

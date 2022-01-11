@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR23.761-Rel-17/17.0.0
 title:
-  type: main
+- type: main
   content: Study on system enablers for devices having multiple Universal Subscriber
     Identity Modules (USIM)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.761/23761-h00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.761/23761-h00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.761:Rel-17/17.0.0
+- id: 3GPP TR 23.761:Rel-17/17.0.0
   type: 3GPP
 docnumber: TR 23.761:Rel-17/17.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOJANOVSKI, Saso
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Deutschland GmbH
-  role: author
+    - organization:
+        name:
+        - Intel Deutschland GmbH
+  role:
+  - author
 biblionote:
-  content: MCC editorial update for publication after approval at TSG SA#92-e (Release
+- content: MCC editorial update for publication after approval at TSG SA#92-e (Release
     17)
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: LTE
 release:

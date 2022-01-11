@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR22.948-Rel-8/0.4.0
 title:
-  type: main
+- type: main
   content: Study of requirements of IP-Multimedia Subsystem (IMS) convergent multimedia
     conferencing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.948/22948-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.948/22948-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.948:Rel-8/0.4.0
+- id: 3GPP TR 22.948:Rel-8/0.4.0
   type: 3GPP
 docnumber: TR 22.948:Rel-8/0.4.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2007-09-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Qing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: Wrong filename, cover sheet - still shows 0.3.0
+- content: Wrong filename, cover sheet - still shows 0.3.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

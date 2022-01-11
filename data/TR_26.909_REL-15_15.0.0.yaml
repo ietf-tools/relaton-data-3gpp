@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR26.909-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Study on improved streaming Quality of Experience (QoE) reporting in 3GPP
     services and networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.909/26909-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.909/26909-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.909:Rel-15/15.0.0
+- id: 3GPP TR 26.909:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 26.909:Rel-15/15.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Zhiming
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS05.04-Ph1/3.1.2
 title:
-  type: main
+- type: main
   content: Modulation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.04/0504-312.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.04/0504-312.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 05.04:Ph1/3.1.2
+- id: 3GPP TS 05.04:Ph1/3.1.2
   type: 3GPP
 docnumber: TS 05.04:Ph1/3.1.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEBIRE, Benoist
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

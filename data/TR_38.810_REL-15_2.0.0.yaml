@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR38.810-Rel-15/2.0.0
 title:
-  type: main
+- type: main
   content: NR; Study on test methods
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.810/38810-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.810/38810-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.810:Rel-15/2.0.0
+- id: 3GPP TR 38.810:Rel-15/2.0.0
   type: 3GPP
 docnumber: TR 38.810:Rel-15/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHERVYAKOV, Andrey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: RP-180181 was submitted for approval but only noted
+- content: RP-180181 was submitted for approval but only noted
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

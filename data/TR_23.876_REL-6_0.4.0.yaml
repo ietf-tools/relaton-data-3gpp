@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.876-Rel-6/0.4.0
 title:
-  type: main
+- type: main
   content: Push architecture
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.876:Rel-6/0.4.0
+- id: 3GPP TR 23.876:Rel-6/0.4.0
   type: 3GPP
 docnumber: TR 23.876:Rel-6/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOON, Sang-Ui
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: KT Corp.
-  role: author
+    - organization:
+        name:
+        - KT Corp.
+  role:
+  - author
 biblionote:
-  content: '2003-02-04: -> 23.976'
+- content: '2003-02-04: -> 23.976'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

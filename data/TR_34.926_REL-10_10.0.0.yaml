@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR34.926-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Electromagnetic compatibility (EMC); Table of international requirements
     for mobile terminals and ancillary equipment
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.926/34926-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.926/34926-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.926:Rel-10/10.0.0
+- id: 3GPP TR 34.926:Rel-10/10.0.0
   type: 3GPP
 docnumber: TR 34.926:Rel-10/10.0.0
 date:
@@ -19,27 +19,33 @@ date:
 - type: confirmed
   value: '2004-04-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FENN, John B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Retired friends of ETSI
-  role: author
+    - organization:
+        name:
+        - Retired friends of ETSI
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R4

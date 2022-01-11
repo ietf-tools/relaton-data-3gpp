@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR32.871-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Study on policy management for mobile networks based on Network Function
     Virtualization (NFV) scenarios
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.871/32871-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.871/32871-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.871:Rel-15/15.0.0
+- id: 3GPP TR 32.871:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 32.871:Rel-15/15.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Jinglei
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

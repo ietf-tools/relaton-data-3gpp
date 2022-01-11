@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS29.415-Rel-5/5.1.0
 title:
-  type: main
+- type: main
   content: Core network Nb interface user plane protocols
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.415/29415-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.415/29415-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.415:Rel-5/5.1.0
+- id: 3GPP TS 29.415:Rel-5/5.1.0
   type: 3GPP
 docnumber: TS 29.415:Rel-5/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-03-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 3G
 release:

@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS23.127-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: Virtual Home Environment (VHE) / Open Service Access (OSA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.127/23127-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.127/23127-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.127:Rel-6/6.0.0
+- id: 3GPP TS 23.127:Rel-6/6.0.0
   type: 3GPP
 docnumber: TS 23.127:Rel-6/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-06-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOURRAUD, Christophe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ERICSSON Research Cananda
-  role: author
+    - organization:
+        name:
+        - ERICSSON Research Cananda
+  role:
+  - author
 biblionote:
-  content: 'SP-15: Rel-6 record created on approval of WI "Scope of the Open Service
+- content: 'SP-15: Rel-6 record created on approval of WI "Scope of the Open Service
     Access Release 6".  2004-08-30: Intention is to withdraw Rel-6 at SP-26, in favour
     of 23.198.  SP-26: This spec will be withdrawn SP-27. SP-27: withdrawn!'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

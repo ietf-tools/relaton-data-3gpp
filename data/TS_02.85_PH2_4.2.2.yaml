@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS02.85-Ph2/4.2.2
 title:
-  type: main
+- type: main
   content: Closed User Group (CUG) Supplementary Services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.85/0285-422.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.85/0285-422.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 02.85:Ph2/4.2.2
+- id: 3GPP TS 02.85:Ph2/4.2.2
   type: 3GPP
 docnumber: TS 02.85:Ph2/4.2.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
 biblionote:
-  content: "#7: 4.2.2   #16: 4.2.6"
+- content: "#7: 4.2.2   #16: 4.2.6"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

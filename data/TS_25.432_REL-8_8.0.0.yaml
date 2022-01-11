@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.432-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: 'UTRAN Iub interface: signalling transport'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.432/25432-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.432/25432-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.432:Rel-8/8.0.0
+- id: 3GPP TS 25.432:Rel-8/8.0.0
   type: 3GPP
 docnumber: TS 25.432:Rel-8/8.0.0
 date:
@@ -18,23 +18,29 @@ date:
 - type: confirmed
   value: '2002-03-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WILSON, Mick
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: FUJITSU Laboratories of Europe
-  role: author
+    - organization:
+        name:
+        - FUJITSU Laboratories of Europe
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-7
+- content: Upgraded unchanged from Rel-7
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the signalling transport related to the Node
+- content: This specification describes the signalling transport related to the Node
     B application part (NBAP) signalling to be used across the Iub interface. The
     Iub interface is a logical interface for the interconnection of Node B and RNC
     components of the UTRAN. The RNC signalling between these nodes is based on NBAP.
@@ -42,7 +48,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

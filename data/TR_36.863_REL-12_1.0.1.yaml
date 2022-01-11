@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.863-Rel-12/1.0.1
 title:
-  type: main
+- type: main
   content: Study on Cell-specific Reference Signals (CRS) interference mitigation
     for homogenous deployments of LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.863/36863-101.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.863/36863-101.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.863:Rel-12/1.0.1
+- id: 3GPP TR 36.863:Rel-12/1.0.1
   type: 3GPP
 docnumber: TR 36.863:Rel-12/1.0.1
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2013-11-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Shaohua
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
 biblionote:
-  content: RP-131841 still with serious editorial errors
+- content: RP-131841 still with serious editorial errors
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

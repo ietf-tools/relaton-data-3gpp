@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS23.240-Rel-6/6.6.0
 title:
-  type: main
+- type: main
   content: 3GPP Generic User Profile (GUP); Architecture (Stage 2)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.240/23240-660.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.240/23240-660.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.240:Rel-6/6.6.0
+- id: 3GPP TS 23.240:Rel-6/6.6.0
   type: 3GPP
 docnumber: TS 23.240:Rel-6/6.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOSKINEN, Harri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VTT
-  role: author
+    - organization:
+        name:
+        - VTT
+  role:
+  - author
 biblionote:
-  content: 'SP-19: moved from Rel-5'
+- content: 'SP-19: moved from Rel-5'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

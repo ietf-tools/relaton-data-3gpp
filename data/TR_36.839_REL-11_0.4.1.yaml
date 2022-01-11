@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.839-Rel-11/0.4.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Mobility enhancements
     in heterogeneous networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.839/36839-041.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.839/36839-041.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.839:Rel-11/0.4.1
+- id: 3GPP TR 36.839:Rel-11/0.4.1
   type: 3GPP
 docnumber: TR 36.839:Rel-11/0.4.1
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-09-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PALAT, Sudeep
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Deutschland AG
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Deutschland AG
+  role:
+  - author
 biblionote:
-  content: R2-121028
+- content: R2-121028
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 3G
 release:

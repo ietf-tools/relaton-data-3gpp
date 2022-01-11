@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS23.521-Rel-8/0.0.7
 title:
-  type: main
+- type: main
   content: Telecommunications and Internet converged Services and Protocols for Advanced
     Networks (TISPAN); Support of Short Message Service (SMS) over NGN IMS subsystem;
     Stage 2; [Endorsement of 3GPP TS 23.204 Release 7]
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.521:Rel-8/0.0.7
+- id: 3GPP TS 23.521:Rel-8/0.0.7
   type: 3GPP
 docnumber: TS 23.521:Rel-8/0.0.7
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-12-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BERTENYI, Balazs
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: ETSI TS 182 021
+- content: ETSI TS 182 021
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

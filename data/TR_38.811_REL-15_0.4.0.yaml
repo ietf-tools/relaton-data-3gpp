@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.811-Rel-15/0.4.0
 title:
-  type: main
+- type: main
   content: Study on New Radio (NR) to support non-terrestrial networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.811/38811-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.811/38811-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.811:Rel-15/0.4.0
+- id: 3GPP TR 38.811:Rel-15/0.4.0
   type: 3GPP
 docnumber: TR 38.811:Rel-15/0.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-08-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHUBERRE, Nicolas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: THALES
-  role: author
+    - organization:
+        name:
+        - THALES
+  role:
+  - author
 biblionote:
-  content: RP-180545
+- content: RP-180545
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.808-Rel-7/0.0.2
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study of Common Profile Storage (CPS) Framework
     of User Data for network services and management
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.808/32808-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.808/32808-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.808:Rel-7/0.0.2
+- id: 3GPP TR 32.808:Rel-7/0.0.2
   type: 3GPP
 docnumber: TR 32.808:Rel-7/0.0.2
 date:
@@ -19,29 +19,35 @@ date:
 - type: confirmed
   value: '2006-07-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ABA, Istvan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
 biblionote:
-  content: 'SP-36: WI is Rel-7, but draft presented for approval as Rel-8 because
+- content: 'SP-36: WI is Rel-7, but draft presented for approval as Rel-8 because
     no extension granted to the WI.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

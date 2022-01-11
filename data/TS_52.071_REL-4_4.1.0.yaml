@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS52.071-Rel-4/4.1.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Location services (LCS) management
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/52_series/52.071/52071-410.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/52_series/52.071/52071-410.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 52.071:Rel-4/4.1.0
+- id: 3GPP TS 52.071:Rel-4/4.1.0
   type: 3GPP
 docnumber: TS 52.071:Rel-4/4.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARAPATY, Sonia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nortel Networks (USA)
-  role: author
+    - organization:
+        name:
+        - Nortel Networks (USA)
+  role:
+  - author
 biblionote:
 - content: 'SP-13: withdrawn - see SP-010472.'
   type: remark
 - content: This is the version declaring itself to be withdrawn.  A sort of non-version.  Anti-bootstrapping
     (autointerment?)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

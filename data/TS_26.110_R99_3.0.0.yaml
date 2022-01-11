@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS26.110-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Codec for circuit switched multimedia telephony service; General description
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.110/26110-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.110/26110-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.110:R99/3.0.0
+- id: 3GPP TS 26.110:R99/3.0.0
   type: 3GPP
 docnumber: TS 26.110:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Facebook
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Facebook
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes an introduction to the set of specifications
+- content: This specification describes an introduction to the set of specifications
     for the support of circuit-switched 3G-324M multimedia telephony service.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

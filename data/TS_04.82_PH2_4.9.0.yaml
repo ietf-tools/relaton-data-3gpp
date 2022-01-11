@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS04.82-Ph2/4.9.0
 title:
-  type: main
+- type: main
   content: Call Forwarding (CF) Supplementary Services; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.82/0482-490.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.82/0482-490.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.82:Ph2/4.9.0
+- id: 3GPP TS 04.82:Ph2/4.9.0
   type: 3GPP
 docnumber: TS 04.82:Ph2/4.9.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
 biblionote:
-  content: "#7: 4.6.0   #11: 4.7.0   #12: 4.8.0  #17: 4.9.0"
+- content: "#7: 4.6.0   #11: 4.7.0   #12: 4.8.0  #17: 4.9.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

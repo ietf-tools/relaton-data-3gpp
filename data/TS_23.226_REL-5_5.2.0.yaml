@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS23.226-Rel-5/5.2.0
 title:
-  type: main
+- type: main
   content: Global text telephony (GTT); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.226/23226-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.226/23226-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.226:Rel-5/5.2.0
+- id: 3GPP TS 23.226:Rel-5/5.2.0
   type: 3GPP
 docnumber: TS 23.226:Rel-5/5.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HELLSTROM, Gunnar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Omnitor AB
-  role: author
+    - organization:
+        name:
+        - Omnitor AB
+  role:
+  - author
 biblionote:
-  content: WI approved TSG#7
+- content: WI approved TSG#7
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR33.818-Rel-16/0.0.0
 title:
-  type: main
+- type: main
   content: Security Assurance Methodology (SECAM) and Security Assurance Specification
     (SCAS) for 3GPP virtualized network products
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.818/33818-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.818/33818-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.818:Rel-16/0.0.0
+- id: 3GPP TR 33.818:Rel-16/0.0.0
   type: 3GPP
 docnumber: TR 33.818:Rel-16/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: QI, Minpeng
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: S3-183506
+- content: S3-183506
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

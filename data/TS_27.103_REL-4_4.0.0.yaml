@@ -1,32 +1,38 @@
 ---
 id: 3GPPTS27.103-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Wide Area Network Synchronization
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.103/27103-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 27.103:Rel-4/4.0.0
+- id: 3GPP TS 27.103:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 27.103:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONRAD, Atle
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes a definition of a wide area synchronization
+- content: This specification describes a definition of a wide area synchronization
     protocol. The synchron¬ization protocol is based upon infrared mobile communication
     (IrMC) Level 4 for Release 99. The synchronization protocol is based upon SyncML
     from Release 4 onwards.
@@ -34,7 +40,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

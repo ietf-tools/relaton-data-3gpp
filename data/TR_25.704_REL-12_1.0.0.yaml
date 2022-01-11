@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.704-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Study on enhanced broadcast of system information
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.704:Rel-12/1.0.0
+- id: 3GPP TR 25.704:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 25.704:Rel-12/1.0.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2014-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MARTIN, Van der zee
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Japan K.K.
-  role: author
+    - organization:
+        name:
+        - Ericsson Japan K.K.
+  role:
+  - author
 biblionote:
-  content: RP-131709
+- content: RP-131709
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

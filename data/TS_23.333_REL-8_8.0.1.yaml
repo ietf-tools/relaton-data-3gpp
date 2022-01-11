@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS23.333-Rel-8/8.0.1
 title:
-  type: main
+- type: main
   content: 'Multimedia Resource Function Controller (MRFC) - Multimedia Resource Function
     Processor (MRFP) Mp interface: Procedures descriptions'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.333/23333-801.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.333/23333-801.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.333:Rel-8/8.0.1
+- id: 3GPP TS 23.333:Rel-8/8.0.1
   type: 3GPP
 docnumber: TS 23.333:Rel-8/8.0.1
 date:
@@ -19,26 +19,32 @@ date:
 - type: confirmed
   value: '2010-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MORAND, Lionel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: 'Corrupted table structure fixed in tables: 8.17.1, 8.20.1, 8.21.1, 8.22.1,
+- content: 'Corrupted table structure fixed in tables: 8.17.1, 8.20.1, 8.21.1, 8.22.1,
     8.24.1, 8.27.1'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

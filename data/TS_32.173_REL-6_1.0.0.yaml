@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS32.173-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Subscription Management (SuM) Network Resource
     Model (NRM) Integration Reference Point (IRP); Common Object Request Broker Architecture
     (CORBA) Solution Set (SS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 32.173:Rel-6/1.0.0
+- id: 3GPP TS 32.173:Rel-6/1.0.0
   type: 3GPP
 docnumber: TS 32.173:Rel-6/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ABA, Istvan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
 biblionote:
 - content: 'SP-26: moved to Rel-7.'
   type: remark
 - content: SP-050034 for info
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

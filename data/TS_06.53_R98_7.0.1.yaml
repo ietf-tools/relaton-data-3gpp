@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS06.53-R98/7.0.1
 title:
-  type: main
+- type: main
   content: ANSI-C code for the GSM Enhanced Full Rate (EFR) speech codec
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.53/0653-701.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.53/0653-701.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 06.53:R98/7.0.1
+- id: 3GPP TS 06.53:R98/7.0.1
   type: 3GPP
 docnumber: TS 06.53:R98/7.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JÄRVINEN, Kari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

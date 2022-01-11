@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR32.833-Rel-10/0.2.1
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on management of converged networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.833/32833-021.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.833/32833-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.833:Rel-10/0.2.1
+- id: 3GPP TR 32.833:Rel-10/0.2.1
   type: 3GPP
 docnumber: TR 32.833:Rel-10/0.2.1
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2012-09-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHMIDT, Jörg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Siemens Networks LLC
-  role: author
+    - organization:
+        name:
+        - Nokia Siemens Networks LLC
+  role:
+  - author
 biblionote:
-  content: Timed out of Rel-10.
+- content: Timed out of Rel-10.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

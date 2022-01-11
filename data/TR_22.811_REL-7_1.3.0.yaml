@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR22.811-Rel-7/1.3.0
 title:
-  type: main
+- type: main
   content: Review of network selection principles
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.811:Rel-7/1.3.0
+- id: 3GPP TR 22.811:Rel-7/1.3.0
   type: 3GPP
 docnumber: TR 22.811:Rel-7/1.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-04-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FRIEL, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Telefonica Germany GmbH
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Telefonica Germany GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

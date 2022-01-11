@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.199-20-Rel-7/7.0.1
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Parlay X web services; Part 20: Multimedia
     multicast session management'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-20/29199-20-701.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-20/29199-20-701.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.199-20:Rel-7/7.0.1
+- id: 3GPP TS 29.199-20:Rel-7/7.0.1
   type: 3GPP
 docnumber: TS 29.199-20:Rel-7/7.0.1
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2007-06-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KEUM, Chang sup
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETRI
-  role: author
+    - organization:
+        name:
+        - ETRI
+  role:
+  - author
 biblionote:
-  content: includes file attachments
+- content: includes file attachments
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

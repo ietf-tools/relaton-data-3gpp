@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS26.236-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Packet switched conversational multimedia applications; Transport protocols
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.236/26236-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.236/26236-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.236:Rel-7/7.0.0
+- id: 3GPP TS 26.236:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 26.236:Rel-7/7.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Electronics Co., Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Samsung Electronics Co., Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

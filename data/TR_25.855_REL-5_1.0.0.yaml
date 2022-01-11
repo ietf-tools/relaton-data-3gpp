@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR25.855-Rel-5/1.0.0
 title:
-  type: main
+- type: main
   content: High Speed Downlink Packet Access (HSDPA); Overall UTRAN description
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.855/25855-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.855/25855-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.855:Rel-5/1.0.0
+- id: 3GPP TR 25.855:Rel-5/1.0.0
   type: 3GPP
 docnumber: TR 25.855:Rel-5/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KUCHIBHOTLA, Ravi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Mobility UK Ltd.
-  role: author
+    - organization:
+        name:
+        - Motorola Mobility UK Ltd.
+  role:
+  - author
 biblionote:
 - content: 'RP-13: This TR has been  replaced by TS 25.308.'
   type: remark
 - content: RP-010345
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 3G
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.980-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Network composition feasibility study
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.980/22980-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.980/22980-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.980:Rel-11/11.0.0
+- id: 3GPP TR 22.980:Rel-11/11.0.0
   type: 3GPP
 docnumber: TR 22.980:Rel-11/11.0.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2009-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 10.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

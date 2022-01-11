@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS44.064-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Mobile Station - Serving GPRS Support Node (MS-SGSN); Logical Link Control
     (LLC) Layer Specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/44_series/44.064/44064-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/44_series/44.064/44064-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.064:Rel-16/16.0.0
+- id: 3GPP TS 44.064:Rel-16/16.0.0
   type: 3GPP
 docnumber: TS 44.064:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-12-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AGHILI, Behrouz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
 biblionote:
-  content: automatic upgrade from previous release
+- content: automatic upgrade from previous release
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

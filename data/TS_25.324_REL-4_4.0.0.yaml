@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS25.324-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Broadcast/Multicast Control (BMC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.324/25324-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.324/25324-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.324:Rel-4/4.0.0
+- id: 3GPP TS 25.324:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 25.324:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-03-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PICA, Francesco
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides the description of the Broadcast/Multicast Control
+- content: This document provides the description of the Broadcast/Multicast Control
     Protocol (BMC). This protocol adapts broadcast and multicast services on the radio
     interface.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

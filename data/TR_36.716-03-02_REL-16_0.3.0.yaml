@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR36.716-03-02-Rel-16/0.3.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-16 for x bands Down Link (DL) (x = 3, 4, 5) / 2 band
     Up Link (UL)
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/36_series/36.716-03-02/36716-03-02-030.zip
+- content: http://ftp.3gpp.org//Specs/archive/36_series/36.716-03-02/36716-03-02-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.716-03-02:Rel-16/0.3.0
+- id: 3GPP TR 36.716-03-02:Rel-16/0.3.0
   type: 3GPP
 docnumber: TR 36.716-03-02:Rel-16/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIM, Suhwan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Inc.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

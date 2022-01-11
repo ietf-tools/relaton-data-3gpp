@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.838-Rel-12/0.0.1
 title:
-  type: main
+- type: main
   content: Intra-band contiguous CA in Band 27 for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.838/36838-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.838/36838-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.838:Rel-12/0.0.1
+- id: 3GPP TR 36.838:Rel-12/0.0.1
   type: 3GPP
 docnumber: TR 36.838:Rel-12/0.0.1
 date:
-  type: created
+- type: created
   value: '2013-04-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHVODIAN, Bill
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NextNav
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NextNav
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

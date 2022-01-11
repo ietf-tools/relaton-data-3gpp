@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR38.830-Rel-17/0.0.2
 title:
-  type: main
+- type: main
   content: Study on NR coverage enhancements
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.830/38830-002.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.830/38830-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.830:Rel-17/0.0.2
+- id: 3GPP TR 38.830:Rel-17/0.0.2
   type: 3GPP
 docnumber: TR 38.830:Rel-17/0.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Jianchi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Telecommunications
-  role: author
+    - organization:
+        name:
+        - China Telecommunications
+  role:
+  - author
 biblionote:
-  content: Based from endorsed R1-2005730
+- content: Based from endorsed R1-2005730
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 5G
 release:

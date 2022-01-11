@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS38.161-Rel-17/0.0.1
 title:
-  type: main
+- type: main
   content: NR; User Equipment (UE)  TRP (Total Radiated Power) and TRS (Total Radiated
     Sensitivity) requirements; Range 1 Standalone and Range 1 Interworking operation
     with other radios
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/38_series/38.161/38161-001.zip
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.161/38161-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.161:Rel-17/0.0.1
+- id: 3GPP TS 38.161:Rel-17/0.0.1
   type: 3GPP
 docnumber: TS 38.161:Rel-17/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Ruixin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: vivo Communication Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - vivo Communication Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

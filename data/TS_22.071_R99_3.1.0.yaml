@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.071-R99/3.1.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.071/22071-310.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.071/22071-310.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.071:R99/3.1.0
+- id: 3GPP TS 22.071:R99/3.1.0
   type: 3GPP
 docnumber: TS 22.071:R99/3.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DEOL, Amar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: LCS is a network provided enabling technology consisting of standardized
+- content: LCS is a network provided enabling technology consisting of standardized
     service capabilities which enables the provision of location applications. This
     application may be service provider specific. The description of the numerous
     and varied possible location applications which are enabled by this technology
@@ -40,7 +46,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

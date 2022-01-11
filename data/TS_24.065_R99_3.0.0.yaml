@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS24.065-R99/3.0.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Mobile Station (MS) - Serving GPRS
     Support Node (SGSN); Subnetwork Dependent Convergence Protocol (SNDCP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.065/24065-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.065/24065-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.065:R99/3.0.0
+- id: 3GPP TS 24.065:R99/3.0.0
   type: 3GPP
 docnumber: TS 24.065:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOSWARTHICK, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: '2000-02-14: To revert to 2g only 04.65, 24.165 may be required. 2000-11-08
+- content: '2000-02-14: To revert to 2g only 04.65, 24.165 may be required. 2000-11-08
     withdrawn; not required for 3G.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N1

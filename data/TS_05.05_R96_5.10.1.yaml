@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS05.05-R96/5.10.1
 title:
-  type: main
+- type: main
   content: Radio Transmission and Reception
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-5a1.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-5a1.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 05.05:R96/5.10.1
+- id: 3GPP TS 05.05:R96/5.10.1
   type: 3GPP
 docnumber: TS 05.05:R96/5.10.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAMUELSSON, Mats
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

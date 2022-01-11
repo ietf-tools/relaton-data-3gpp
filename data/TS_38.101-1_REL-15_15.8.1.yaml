@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS38.101-1-Rel-15/15.8.1
 title:
-  type: main
+- type: main
   content: 'NR; User Equipment (UE) radio transmission and reception; Part 1: Range
     1 Standalone'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.101-1/38101-1-f81.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.101-1/38101-1-f81.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.101-1:Rel-15/15.8.1
+- id: 3GPP TS 38.101-1:Rel-15/15.8.1
   type: 3GPP
 docnumber: TS 38.101-1:Rel-15/15.8.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VINTOLA, Ville
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
 biblionote:
-  content: Table of contents updated
+- content: Table of contents updated
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

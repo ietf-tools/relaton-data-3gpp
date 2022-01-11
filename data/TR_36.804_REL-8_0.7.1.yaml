@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.804-Rel-8/0.7.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS)
     radio transmission and reception
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.804:Rel-8/0.7.1
+- id: 3GPP TR 36.804:Rel-8/0.7.1
   type: 3GPP
 docnumber: TR 36.804:Rel-8/0.7.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SJERLING, Klas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
 - content: email circulation
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

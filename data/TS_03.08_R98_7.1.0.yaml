@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS03.08-R98/7.1.0
 title:
-  type: main
+- type: main
   content: Organization of Subscriber Data
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.08/0308-710.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.08/0308-710.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.08:R98/7.1.0
+- id: 3GPP TS 03.08:R98/7.1.0
   type: 3GPP
 docnumber: TS 03.08:R98/7.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAUER, Rolf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Deutschland AG
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent Deutschland AG
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS29.007-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: General requirements on interworking between the Public Land Mobile Network
     (PLMN) and the Integrated Services Digital Network (ISDN) or Public Switched Telephone
     Network (PSTN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.007/29007-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.007/29007-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.007:Rel-11/11.0.0
+- id: 3GPP TS 29.007:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 29.007:Rel-11/11.0.0
 date:
@@ -20,27 +20,33 @@ date:
 - type: confirmed
   value: '2005-10-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 10.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

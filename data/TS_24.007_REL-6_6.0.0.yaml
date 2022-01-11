@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS24.007-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: Mobile radio interface signalling layer 3; General Aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.007:Rel-6/6.0.0
+- id: 3GPP TS 24.007:Rel-6/6.0.0
   type: 3GPP
 docnumber: TS 24.007:Rel-6/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHIN, ChenHo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Guangdong OPPO Mobile Telecom.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the principal architecture of Layer 3 and
+- content: This specification describes the principal architecture of Layer 3 and
     its sub-layers on the GSM Um interface, i.e. the interface between mobile station
     (MS) and network; for the CM sub-layer, the description is restricted to paradigmatic
     examples, CC, supplementary services, and short message services for non-general
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

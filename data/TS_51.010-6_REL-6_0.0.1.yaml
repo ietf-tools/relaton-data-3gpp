@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS51.010-6-Rel-6/0.0.1
 title:
-  type: main
+- type: main
   content: 'Mobile Station (MS) conformance specification; Part 6: Protocol Implementation
     eXtra Information for Testing (PIXIT) proforma specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-6/51010-6-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-6/51010-6-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 51.010-6:Rel-6/0.0.1
+- id: 3GPP TS 51.010-6:Rel-6/0.0.1
   type: 3GPP
 docnumber: TS 51.010-6:Rel-6/0.0.1
 date:
@@ -19,29 +19,35 @@ date:
 - type: confirmed
   value: '2006-10-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HENLEY, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: '2007-08-20: No progress, so propose to abandon at GP-35. GP-35: decided
+- content: '2007-08-20: No progress, so propose to abandon at GP-35. GP-35: decided
     to make a decision at GP-36.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: G3new
+- name: G3new
   type: prime
 radiotechnology: 2G
 release:

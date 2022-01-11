@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR43.930-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Iur-g interface; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.930/43930-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.930/43930-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.930:Rel-5/5.0.0
+- id: 3GPP TR 43.930:Rel-5/5.0.0
   type: 3GPP
 docnumber: TR 43.930:Rel-5/5.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CARRIZO MARTINEZ, Jose Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: 'This record originally created as Rel-6, but GP-10 approves as Rel-5.  GP-11:
+- content: 'This record originally created as Rel-6, but GP-10 approves as Rel-5.  GP-11:
     Withdrawn and replaced with 43.130.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: G2
+- name: G2
   type: prime
 radiotechnology: 2G
 release:

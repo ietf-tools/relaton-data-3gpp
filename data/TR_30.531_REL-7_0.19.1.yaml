@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR30.531-Rel-7/0.19.1
 title:
-  type: main
+- type: main
   content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 30.531:Rel-7/0.19.1
+- id: 3GPP TR 30.531:Rel-7/0.19.1
   type: 3GPP
 docnumber: TR 30.531:Rel-7/0.19.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-09-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KORHONEN, Juha
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: 'RP-39: Timed out of Rel-7, continues in Rel-8.'
+- content: 'RP-39: Timed out of Rel-7, continues in Rel-8.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

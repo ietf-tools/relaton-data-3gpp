@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.142-Rel-8/8.8.0
 title:
-  type: main
+- type: main
   content: Base Station (BS) conformance testing (TDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.142/25142-880.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.142/25142-880.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.142:Rel-8/8.8.0
+- id: 3GPP TS 25.142:Rel-8/8.8.0
   type: 3GPP
 docnumber: TS 25.142:Rel-8/8.8.0
 date:
@@ -18,20 +18,26 @@ date:
 - type: confirmed
   value: '2003-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEYER, Juergen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BlackBerry UK Limited
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the radio frequency (RF) test methods and
+- content: This specification describes the radio frequency (RF) test methods and
     conformance requirements for UTRA base transceiver stations (BTS) operating in
     the TDD mode. These have been derived from, and are consistent with, the core
     UTRA specifications specified in the requirements reference sub-clause of each
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

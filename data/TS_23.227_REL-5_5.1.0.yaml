@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS23.227-Rel-5/5.1.0
 title:
-  type: main
+- type: main
   content: Application and user interaction in the User Equipment (UE); Principles
     and specific requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.227/23227-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.227/23227-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.227:Rel-5/5.1.0
+- id: 3GPP TS 23.227:Rel-5/5.1.0
   type: 3GPP
 docnumber: TS 23.227:Rel-5/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BERTENYI, Balazs
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: 'TP-26: Not to be upgraded to Rel-6, since WG considers the spec to be
+- content: 'TP-26: Not to be upgraded to Rel-6, since WG considers the spec to be
     no longer in use.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Technical Specification defines the principles for scheduling resources
+- content: This Technical Specification defines the principles for scheduling resources
     between applications in different application execution environment (e.g. MExE,
     USAT etc.) and internal and external peripherals (e.g. infra-red, Bluetooth, USIM,
     radio interface, MMI, memory etc.).
@@ -42,7 +48,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

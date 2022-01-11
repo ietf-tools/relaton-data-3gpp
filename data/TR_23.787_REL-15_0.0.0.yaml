@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR23.787-Rel-15/0.0.0
 title:
-  type: main
+- type: main
   content: Study on encrypted traffic detection and verification
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.787:Rel-15/0.0.0
+- id: 3GPP TR 23.787:Rel-15/0.0.0
   type: 3GPP
 docnumber: TR 23.787:Rel-15/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: XU, Yang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
 biblionote:
-  content: 'SP-170381: UID: 760045. WI_Code: FS_ENTRADE. '
+- content: 'SP-170381: UID: 760045. WI_Code: FS_ENTRADE. '
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: LTE
 release:

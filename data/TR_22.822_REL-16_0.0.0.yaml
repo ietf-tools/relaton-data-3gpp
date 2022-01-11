@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR22.822-Rel-16/0.0.0
 title:
-  type: main
+- type: main
   content: Study on using satellite access in 5G
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.822:Rel-16/0.0.0
+- id: 3GPP TR 22.822:Rel-16/0.0.0
   type: 3GPP
 docnumber: TR 22.822:Rel-16/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MICHEL, Cyril
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: THALES
-  role: author
+    - organization:
+        name:
+        - THALES
+  role:
+  - author
 biblionote:
-  content: Withdrawn, not provided to SA1#80.
+- content: Withdrawn, not provided to SA1#80.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 release:
   version2g: g

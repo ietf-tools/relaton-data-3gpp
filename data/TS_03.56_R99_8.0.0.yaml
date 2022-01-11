@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.56-R99/8.0.0
 title:
-  type: main
+- type: main
   content: GSM Cordless Telephony System (CTS), Phase 1; CTS Architecture Description;
     Stage 2
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 03.56:R99/8.0.0
+- id: 3GPP TS 03.56:R99/8.0.0
   type: 3GPP
 docnumber: TS 03.56:R99/8.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ROBERTS, Martin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nortel
-  role: author
+    - organization:
+        name:
+        - Nortel
+  role:
+  - author
 biblionote:
 - content: Never produced; make do with R98 version.
   type: remark
 - content: Never upgraded.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

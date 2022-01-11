@@ -1,31 +1,35 @@
 ---
 id: 3GPPTR25.805-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: DS-CDMA introduction in the 800 MHz band
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.805/25805-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.805/25805-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.805:Rel-6/1.0.0
+- id: 3GPP TR 25.805:Rel-6/1.0.0
   type: 3GPP
 docnumber: TR 25.805:Rel-6/1.0.0
 date:
-  type: created
+- type: created
   value: '2006-01-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAKAMURA, Takehiro
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
 - content: 'RP-19: Work Item has been closed as "completed" but no decision taken
     on the fate of this TR.  2006-01: To be formally stopped at RP-31? 2007-08: ...
@@ -33,15 +37,17 @@ biblionote:
   type: remark
 - content: R4-040121 - never presented to RAN
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

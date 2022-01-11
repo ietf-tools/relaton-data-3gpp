@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.897-Rel-13/0.2.1
 title:
-  type: main
+- type: main
   content: Study on Elevation Beamforming/Full-Dimension (FD) MIMO for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.897/36897-021.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.897/36897-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.897:Rel-13/0.2.1
+- id: 3GPP TR 36.897:Rel-13/0.2.1
   type: 3GPP
 docnumber: TR 36.897:Rel-13/0.2.1
 date:
-  type: created
+- type: created
   value: '2015-03-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ONGGOSANUSI, Eko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Research America
-  role: author
+    - organization:
+        name:
+        - Samsung Research America
+  role:
+  - author
 biblionote:
-  content: R1-150965
+- content: R1-150965
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: LTE
 release:

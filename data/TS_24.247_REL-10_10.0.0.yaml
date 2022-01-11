@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS24.247-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem;
     Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.247:Rel-10/10.0.0
+- id: 3GPP TS 24.247:Rel-10/10.0.0
   type: 3GPP
 docnumber: TS 24.247:Rel-10/10.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2008-05-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WEI, haitao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.3.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

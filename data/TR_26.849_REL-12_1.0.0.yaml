@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR26.849-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Multimedia Broadcast/Multicast Service (MBMS) improvements; MBMS operation
     on demand
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.849/26849-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.849/26849-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.849:Rel-12/1.0.0
+- id: 3GPP TR 26.849:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 26.849:Rel-12/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-12-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HALL, Edward
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
 biblionote:
-  content: SP-140012
+- content: SP-140012
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

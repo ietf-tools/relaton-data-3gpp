@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.923-R99/1.0.0
 title:
-  type: main
+- type: main
   content: Combined GSM and Mobile IP mobility handling in UMTS IP CN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.923/23923-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.923/23923-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.923:R99/1.0.0
+- id: 3GPP TR 23.923:R99/1.0.0
   type: 3GPP
 docnumber: TR 23.923:R99/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUBBARD, Elisabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: 'July 2001: (Sultan) contents out of date. Replaced by 23.228.'
+- content: 'July 2001: (Sultan) contents out of date. Replaced by 23.228.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

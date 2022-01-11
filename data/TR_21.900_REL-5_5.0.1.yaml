@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR21.900-Rel-5/5.0.1
 title:
-  type: main
+- type: main
   content: Technical Specification Group working methods
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.900/21900-501.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.900/21900-501.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.900:Rel-5/5.0.1
+- id: 3GPP TR 21.900:Rel-5/5.0.1
   type: 3GPP
 docnumber: TR 21.900:Rel-5/5.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FIRMIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
 - content: 'SP-22: Fron now on, is null document pointing to equivalent in latest
     Release.'
   type: remark
 - content: corrects Release id on cover page
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: SP

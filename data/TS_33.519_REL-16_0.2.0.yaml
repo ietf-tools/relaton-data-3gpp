@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS33.519-Rel-16/0.2.0
 title:
-  type: main
+- type: main
   content: 5G Security Assurance Specification (SCAS) for the Network Exposure Function
     (NEF) network product class
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.519/33519-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.519/33519-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.519:Rel-16/0.2.0
+- id: 3GPP TS 33.519:Rel-16/0.2.0
   type: 3GPP
 docnumber: TS 33.519:Rel-16/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PENG, Jin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

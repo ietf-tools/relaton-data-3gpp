@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS43.020-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Security related network functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.020/43020-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 43.020:Rel-5/5.0.0
+- id: 3GPP TS 43.020:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 43.020:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: many invalid references
+- content: many invalid references
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S3

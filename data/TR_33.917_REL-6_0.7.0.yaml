@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR33.917-Rel-6/0.7.0
 title:
-  type: main
+- type: main
   content: "(Universal) Subscriber Interface Module (U)SIM security reuse by peripheral
     devices on local interfaces"
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.917/33917-070.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.917/33917-070.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.917:Rel-6/0.7.0
+- id: 3GPP TR 33.917:Rel-6/0.7.0
   type: 3GPP
 docnumber: TR 33.917:Rel-6/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YAQUB, Raziq
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: 'Original WID = SP-030341  2003-11-26: S3 Secretary indicates that the
+- content: 'Original WID = SP-030341  2003-11-26: S3 Secretary indicates that the
     TR is to be internal, so number changed to 33.817.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

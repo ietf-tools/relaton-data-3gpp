@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR23.884-Rel-9/0.1.0
 title:
-  type: main
+- type: main
   content: Local Call Local Switching, Feasibility Study
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.884/23884-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.884/23884-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.884:Rel-9/0.1.0
+- id: 3GPP TR 23.884:Rel-9/0.1.0
   type: 3GPP
 docnumber: TR 23.884:Rel-9/0.1.0
 date:
-  type: created
+- type: created
   value: '2009-07-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUTTON, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: GSM Association
-  role: author
+    - organization:
+        name:
+        - GSM Association
+  role:
+  - author
 biblionote:
-  content: TS wrongly shows number as 23.889
+- content: TS wrongly shows number as 23.889
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

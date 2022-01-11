@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS48.061-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: In-band control of remote transcoders and rate adaptors for half rate traffic
     channels
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.061/48061-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.061/48061-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 48.061:Rel-7/7.0.0
+- id: 3GPP TS 48.061:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 48.061:Rel-7/7.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-09-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: Decision to upgrade taken at GP-34.
+- content: Decision to upgrade taken at GP-34.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

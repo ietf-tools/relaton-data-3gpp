@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.903-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: Study on Videotelephony teleservice
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.903/22903-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.903/22903-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.903:Rel-7/1.0.0
+- id: 3GPP TR 22.903:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 22.903:Rel-7/1.0.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2005-12-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KURZ, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
 - content: 'SP-30: completion target = SP32,'
   type: remark
 - content: SP-050505
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

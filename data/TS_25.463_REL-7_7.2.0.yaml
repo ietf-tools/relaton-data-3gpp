@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS25.463-Rel-7/7.2.0
 title:
-  type: main
+- type: main
   content: 'UTRAN Iuant interface: Remote Electrical Tilting (RET) antennas Application
     Part (RETAP) signalling'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.463/25463-720.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.463/25463-720.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.463:Rel-7/7.2.0
+- id: 3GPP TS 25.463:Rel-7/7.2.0
   type: 3GPP
 docnumber: TS 25.463:Rel-7/7.2.0
 date:
@@ -19,23 +19,29 @@ date:
 - type: confirmed
   value: '2005-01-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KULAKOV, Alexey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
-  content: 'RP-35: Rel-7 closed.'
+- content: 'RP-35: Rel-7 closed.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the Remote Electrical Tilting Application Part
+- content: This document specifies the Remote Electrical Tilting Application Part
     (RETAP) between the implementation specific O&M function and the RET Antenna Control
     unit function of the Node B. It defines the Iuant interface and its associated
     signaling procedures.
@@ -43,10 +49,10 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

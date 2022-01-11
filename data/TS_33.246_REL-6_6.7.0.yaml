@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS33.246-Rel-6/6.7.0
 title:
-  type: main
+- type: main
   content: 3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-670.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.246/33246-670.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.246:Rel-6/6.7.0
+- id: 3GPP TS 33.246:Rel-6/6.7.0
   type: 3GPP
 docnumber: TS 33.246:Rel-6/6.7.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2002-10-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ESCOTT, Adrian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: 'SP-22: target for v2.0.0 is SP-23, but this will be challenging.'
+- content: 'SP-22: target for v2.0.0 is SP-23, but this will be challenging.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

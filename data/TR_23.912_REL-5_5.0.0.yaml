@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR23.912-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Technical report on Super-Charger
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.912:Rel-5/5.0.0
+- id: 3GPP TR 23.912:Rel-5/5.0.0
   type: 3GPP
 docnumber: TR 23.912:Rel-5/5.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHARP, Iain
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Hillebrand GmbH
-  role: author
+    - organization:
+        name:
+        - Hillebrand GmbH
+  role:
+  - author
 biblionote:
 - content: '2002-06-21: Kymalainen: no need to upgrade to Rel-5.'
   type: remark
 - content: '2002-06-21: Kymalainen: no need to upgrade to Rel-5.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -1,17 +1,17 @@
 ---
 id: 3GPPTS29.171-Rel-9/9.3.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); LCS Application Protocol (LCS-AP) between the
     Mobile Management Entity (MME) and Evolved Serving Mobile Location Centre (E-SMLC);
     SLs interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.171/29171-930.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.171/29171-930.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.171:Rel-9/9.3.0
+- id: 3GPP TS 29.171:Rel-9/9.3.0
   type: 3GPP
 docnumber: TS 29.171:Rel-9/9.3.0
 date:
@@ -20,25 +20,31 @@ date:
 - type: confirmed
   value: '2010-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DE GREGORIO, Jesus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

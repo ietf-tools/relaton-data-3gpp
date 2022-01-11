@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR25.803-Rel-6/1.2.0
 title:
-  type: main
+- type: main
   content: S-CCPCH performance for Multimedia Broadcast/Multicast Service (MBMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.803/25803-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.803/25803-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.803:Rel-6/1.2.0
+- id: 3GPP TR 25.803:Rel-6/1.2.0
   type: 3GPP
 docnumber: TR 25.803:Rel-6/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-09-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MALLADI, Durga
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
 - content: '2003-06-25: anticipate approval at RP-22.'
   type: remark
 - content: R1-031413
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

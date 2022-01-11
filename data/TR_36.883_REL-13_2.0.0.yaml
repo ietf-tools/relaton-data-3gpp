@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.883-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introducing UL 64QAM
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.883/36883-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.883/36883-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.883:Rel-13/2.0.0
+- id: 3GPP TR 36.883:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 36.883:Rel-13/2.0.0
 date:
-  type: created
+- type: created
   value: '2015-10-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DAI, Xizeng
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
-  content: RP-151253
+- content: RP-151253
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS26.348-Rel-16/16.3.0
 title:
-  type: main
+- type: main
   content: Northbound Application Programming Interface (API) for Multimedia Broadcast/Multicast
     Service (MBMS) at the xMB reference point
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.348/26348-g30.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.348/26348-g30.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.348:Rel-16/16.3.0
+- id: 3GPP TS 26.348:Rel-16/16.3.0
   type: 3GPP
 docnumber: TS 26.348:Rel-16/16.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOHMAR, Thorsten
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: LTE
 release:

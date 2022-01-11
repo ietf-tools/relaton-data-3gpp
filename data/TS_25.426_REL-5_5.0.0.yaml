@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS25.426-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: UTRAN Iur and Iub interface data transport & transport signalling for DCH
     data streams
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.426/25426-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.426/25426-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.426:Rel-5/5.0.0
+- id: 3GPP TS 25.426:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 25.426:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the transport bearers for the DCH data streams
+- content: This specification describes the transport bearers for the DCH data streams
     on UTRAN Iur and Iub interfaces. The corresponding transport network control plane
     is also specified. The physical layer for the transport bearers is outside the
     scope of this TS.
@@ -38,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

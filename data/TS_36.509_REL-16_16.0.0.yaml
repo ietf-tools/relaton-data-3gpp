@@ -1,46 +1,52 @@
 ---
 id: 3GPPTS36.509-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); Special conformance testing functions for User Equipment (UE)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.509/36509-g00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.509/36509-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.509:Rel-16/16.0.0
+- id: 3GPP TS 36.509:Rel-16/16.0.0
   type: 3GPP
 docnumber: TS 36.509:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-03-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JAUCH, Holger
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ROHDE & SCHWARZ
-  role: author
+    - organization:
+        name:
+        - ROHDE & SCHWARZ
+  role:
+  - author
 biblionote:
-  content: 'Administrative release upgrade to match the release of TS 38.509 which
+- content: 'Administrative release upgrade to match the release of TS 38.509 which
     was upgraded at RAN#91 to Rel-17 due to Rel-17 relevant CRs ^ 2021-04-06: correction:
     upgraded to Rel-16 due to Rel-16 relevant CRs.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

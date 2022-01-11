@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.837-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS) architecture for 3GPP system - Wireless Local Area
     Network (WLAN) interworking
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.837/23837-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.837/23837-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.837:Rel-7/1.0.0
+- id: 3GPP TR 23.837:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 23.837:Rel-7/1.0.0
 date:
@@ -19,16 +19,20 @@ date:
 - type: confirmed
   value: '2006-01-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHIM, Donghee
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SK Telecom
-  role: author
+    - organization:
+        name:
+        - SK Telecom
+  role:
+  - author
 biblionote:
 - content: '2008-07: WI is complete, so either scrap TR or bring under change control?
     WG Secretary indicates withdrawal most likely.'
@@ -36,15 +40,17 @@ biblionote:
 - content: 'SP-060589  SP-41: withdrawn, all work transferred to specs and WI closed
     (at SP-39)'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

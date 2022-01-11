@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR32.806-Rel-7/0.1.1
 title:
-  type: main
+- type: main
   content: Telecommunication management; Application guide for use of Integration
     Reference Points (IRPs) on peer-to-peer (p2p) interface
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 32.806:Rel-7/0.1.1
+- id: 3GPP TR 32.806:Rel-7/0.1.1
   type: 3GPP
 docnumber: TR 32.806:Rel-7/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-11-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

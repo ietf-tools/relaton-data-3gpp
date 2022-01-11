@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR21.978-R99/2.1.1
 title:
-  type: main
+- type: main
   content: Feasibility Technical Report; CAMEL Control of VoIP Services
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 21.978:R99/2.1.1
+- id: 3GPP TR 21.978:R99/2.1.1
   type: 3GPP
 docnumber: TR 21.978:R99/2.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SMITH, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Telefonica Germany GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Telefonica Germany GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.927-Rel-10/1.1.1
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Potential solutions
     for energy saving for E-UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.927/36927-111.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.927/36927-111.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.927:Rel-10/1.1.1
+- id: 3GPP TR 36.927:Rel-10/1.1.1
   type: 3GPP
 docnumber: TR 36.927:Rel-10/1.1.1
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2011-06-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YANG, Ning
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: R3-111071, RP-110296
+- content: R3-111071, RP-110296
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

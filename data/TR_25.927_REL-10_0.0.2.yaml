@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.927-Rel-10/0.0.2
 title:
-  type: main
+- type: main
   content: Solutions for energy saving within UTRA Node B
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.927:Rel-10/0.0.2
+- id: 3GPP TR 25.927:Rel-10/0.0.2
   type: 3GPP
 docnumber: TR 25.927:Rel-10/0.0.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BHAT, Prakash
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: R1-102495
+- content: R1-102495
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

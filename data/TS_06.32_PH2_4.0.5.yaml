@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS06.32-Ph2/4.0.5
 title:
-  type: main
+- type: main
   content: Voice Activity Detection (VAD)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 06.32:Ph2/4.0.5
+- id: 3GPP TS 06.32:Ph2/4.0.5
   type: 3GPP
 docnumber: TS 06.32:Ph2/4.0.5
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARRETT, Paul
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: "#7: 4.0.1    #9: 4.0.3    #13: 4.1.0  #17: 4.2.0  #20: 4.2.1  #23: 4.3.0"
   type: remark
 - content: December 1994
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

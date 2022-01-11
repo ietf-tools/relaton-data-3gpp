@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.924-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study on Non-Access Stratum (NAS) node selection function above
     Base Station Controller (BSC) / Radio Network Controller (RNC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.924/23924-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.924/23924-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.924:Rel-13/13.0.0
+- id: 3GPP TR 23.924:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 23.924:Rel-13/13.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2010-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Hong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

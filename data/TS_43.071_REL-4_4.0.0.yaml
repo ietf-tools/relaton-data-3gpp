@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS43.071-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Functional description; Stage 2 (GSM)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 43.071:Rel-4/4.0.0
+- id: 3GPP TS 43.071:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 43.071:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BROOK, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: Superseded by 23.271 Rel-4.
+- content: Superseded by 23.271 Rel-4.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

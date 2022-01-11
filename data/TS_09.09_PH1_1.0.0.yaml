@@ -1,31 +1,37 @@
 ---
 id: 3GPPTS09.09-Ph1/1.0.0
 title:
-  type: main
+- type: main
   content: Detailed Signalling Interworking within the PLMN and with the PSTN/ISDN
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 09.09:Ph1/1.0.0
+- id: 3GPP TS 09.09:Ph1/1.0.0
   type: 3GPP
 docnumber: TS 09.09:Ph1/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VAINIKKA, Jari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N4

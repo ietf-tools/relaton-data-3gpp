@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR21.02U-UMTS/3.0.0
 title:
-  type: main
+- type: main
   content: High level requirements relevant for the definition of the UMTS Terrestrial
     Radio Access UTRA concept
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.02U/2102U-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.02U:UMTS/3.0.0
+- id: 3GPP TR 21.02U:UMTS/3.0.0
   type: 3GPP
 docnumber: TR 21.02U:UMTS/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: GP

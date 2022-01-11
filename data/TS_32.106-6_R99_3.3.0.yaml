@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS32.106-6-R99/3.3.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Configuration Management (CM); Part 6: Basic
     CM Integration Reference Point (IRP): Common Object Request Broker Architecture
     (CORBA) Solution Set (SS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-6/32106-6-330.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.106-6/32106-6-330.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.106-6:R99/3.3.0
+- id: 3GPP TS 32.106-6:R99/3.3.0
   type: 3GPP
 docnumber: TS 32.106-6:R99/3.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: POLLAKOWSKI, Olaf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: 'TSG#8: multipart split from parent 3.0.1 (not certain this part will be
+- content: 'TSG#8: multipart split from parent 3.0.1 (not certain this part will be
     R99)'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

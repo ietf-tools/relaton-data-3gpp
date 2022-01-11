@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR05.50-R96/5.1.1
 title:
-  type: main
+- type: main
   content: Background for RF Requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.50/0550-511.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.50/0550-511.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 05.50:R96/5.1.1
+- id: 3GPP TR 05.50:R96/5.1.1
   type: 3GPP
 docnumber: TR 05.50:R96/5.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: "#20: 5.0.0  #21: 5.1.0  #23: 5.1.1"
+- content: "#20: 5.0.0  #21: 5.1.0  #23: 5.1.1"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: G1

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.810-Rel-8/0.10.0
 title:
-  type: main
+- type: main
   content: Study on architecture impacts of Service Brokering
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.810/23810-0a0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.810/23810-0a0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.810:Rel-8/0.10.0
+- id: 3GPP TR 23.810:Rel-8/0.10.0
   type: 3GPP
 docnumber: TR 23.810:Rel-8/0.10.0
 date:
-  type: created
+- type: created
   value: '2008-05-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MORERA, Raquel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

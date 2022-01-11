@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.088-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Call Barring (CB) supplementary services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.088/22088-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.088/22088-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.088:Rel-12/12.0.0
+- id: 3GPP TS 22.088:Rel-12/12.0.0
   type: 3GPP
 docnumber: TS 22.088:Rel-12/12.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2011-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BISCHINGER, Kurt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile Austria GmbH
-  role: author
+    - organization:
+        name:
+        - T-Mobile Austria GmbH
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 11.1.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The call restriction supplementary services allow the possibility for
+- content: "The call restriction supplementary services allow the possibility for
     a mobile subscriber to have barring of certain categories of outgoing or incoming
     calls at the mobile subscribers access.\r\nThe group of call restriction services
     includes two supplementary services:\r\n–\tbarring of outgoing calls;\r\n–\tbarring
@@ -50,7 +56,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -1,46 +1,52 @@
 ---
 id: 3GPPTR36.816-Rel-10/0.3.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on signalling
     and procedure for interference avoidance for in-device coexistence
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.816/36816-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.816/36816-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.816:Rel-10/0.3.0
+- id: 3GPP TR 36.816:Rel-10/0.3.0
   type: 3GPP
 docnumber: TR 36.816:Rel-10/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-06-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HU, Zhenping
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
 - content: 'RP-52: timed out of Rel-10.'
   type: remark
 - content: R2-106034
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

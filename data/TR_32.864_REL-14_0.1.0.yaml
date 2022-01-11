@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.864-Rel-14/0.1.0
 title:
-  type: main
+- type: main
   content: Telecommunication management;Study on management aspects of virtualized
     network functions that are part of the New Radio (NR)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.864/32864-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.864/32864-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.864:Rel-14/0.1.0
+- id: 3GPP TR 32.864:Rel-14/0.1.0
   type: 3GPP
 docnumber: TR 32.864:Rel-14/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHOU, Joey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: S5-166461
+- content: S5-166461
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS09.06-R96/5.0.2
 title:
-  type: main
+- type: main
   content: Interworking between a Public Land Mobile Network (PLMN) and a Packet Switched
     Public Data Network/Intergrated Services digital Network (PSPDN/ISDN) for Support
     of Packet Switched Data Transmission Services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-502.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.06/0906-502.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 09.06:R96/5.0.2
+- id: 3GPP TS 09.06:R96/5.0.2
   type: 3GPP
 docnumber: TS 09.06:R96/5.0.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#19: 5.0.0  #20: 5.0.1"
+- content: "#19: 5.0.0  #20: 5.0.1"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

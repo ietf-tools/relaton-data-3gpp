@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR33.840-Rel-17/0.0.3
 title:
-  type: main
+- type: main
   content: Study on security aspects of the disaggregated gNB architecture
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/33_series/33.840/33840-003.zip
+- content: http://ftp.3gpp.org//Specs/archive/33_series/33.840/33840-003.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.840:Rel-17/0.0.3
+- id: 3GPP TR 33.840:Rel-17/0.0.3
   type: 3GPP
 docnumber: TR 33.840:Rel-17/0.0.3
 contributor:
-  person:
+- person:
     name:
       completename:
         content: XU, sen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Telecommunications
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Telecommunications
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.321-Rel-7/7.15.0
 title:
-  type: main
+- type: main
   content: Medium Access Control (MAC) protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-7f0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.321/25321-7f0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.321:Rel-7/7.15.0
+- id: 3GPP TS 25.321:Rel-7/7.15.0
   type: 3GPP
 docnumber: TS 25.321:Rel-7/7.15.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2003-03-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the MAC protocol.
+- content: This specification describes the MAC protocol.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

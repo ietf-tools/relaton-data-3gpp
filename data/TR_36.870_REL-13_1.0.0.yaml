@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.870-Rel-13/1.0.0
 title:
-  type: main
+- type: main
   content: Study on new Advanced Wireless Services (AWS)-3/4 Band for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.870/36870-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.870/36870-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.870:Rel-13/1.0.0
+- id: 3GPP TR 36.870:Rel-13/1.0.0
   type: 3GPP
 docnumber: TR 36.870:Rel-13/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Dish Network
-  role: author
+    - organization:
+        name:
+        - Dish Network
+  role:
+  - author
 biblionote:
-  content: RP-151728
+- content: RP-151728
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

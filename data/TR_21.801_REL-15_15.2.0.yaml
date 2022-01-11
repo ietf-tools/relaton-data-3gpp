@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR21.801-Rel-15/15.2.0
 title:
-  type: main
+- type: main
   content: Specification drafting rules
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.801/21801-f20.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.801/21801-f20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.801:Rel-15/15.2.0
+- id: 3GPP TR 21.801:Rel-15/15.2.0
   type: 3GPP
 docnumber: TR 21.801:Rel-15/15.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FIRMIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: SP

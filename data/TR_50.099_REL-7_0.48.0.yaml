@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR50.099-Rel-7/0.48.0
 title:
-  type: main
+- type: main
   content: GERAN project plan and open issues
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 50.099:Rel-7/0.48.0
+- id: 3GPP TR 50.099:Rel-7/0.48.0
   type: 3GPP
 docnumber: TR 50.099:Rel-7/0.48.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GRANT, Marc
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: AT&T GNS Belgium SPRL
-  role: author
+    - organization:
+        name:
+        - AT&T GNS Belgium SPRL
+  role:
+  - author
 biblionote:
 - content: 'GP-35: Discontinued; GERAN work plan will henceforward be continued in
     same manner as for other TSGs.'
   type: remark
 - content: GP 052866
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: GP

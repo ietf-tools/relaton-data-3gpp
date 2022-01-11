@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS23.146-Rel-4/1.1.0
 title:
-  type: main
+- type: main
   content: Technical realization of facsimile Group 3 non-transparent
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.146/23146-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.146/23146-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.146:Rel-4/1.1.0
+- id: 3GPP TS 23.146:Rel-4/1.1.0
   type: 3GPP
 docnumber: TS 23.146:Rel-4/1.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-03-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: New @ TSG#6, Circuit switched type of Real time Non transparent FAX specification.
+- content: New @ TSG#6, Circuit switched type of Real time Non transparent FAX specification.
     TSG#7:1.1.0 "but not stable enough to be made available"!
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR29.864-Rel-8/0.3.1
 title:
-  type: main
+- type: main
   content: Study on IMS Application Server (AS) service data descriptions for AS interoperability
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.864/29864-031.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.864/29864-031.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.864:Rel-8/0.3.1
+- id: 3GPP TR 29.864:Rel-8/0.3.1
   type: 3GPP
 docnumber: TR 29.864:Rel-8/0.3.1
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2009-02-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

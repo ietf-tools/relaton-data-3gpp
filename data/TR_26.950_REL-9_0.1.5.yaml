@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR26.950-Rel-9/0.1.5
 title:
-  type: main
+- type: main
   content: Study on Surround Sound codec extension for Packet Switched Streaming (PSS)
     and Multimedia Broadcast/Multicast Service (MBMS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 26.950:Rel-9/0.1.5
+- id: 3GPP TR 26.950:Rel-9/0.1.5
   type: 3GPP
 docnumber: TR 26.950:Rel-9/0.1.5
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PLOGSTIES, Jan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Fraunhofer IIS
-  role: author
+    - organization:
+        name:
+        - Fraunhofer IIS
+  role:
+  - author
 biblionote:
-  content: Timed oout of Rel-9
+- content: Timed oout of Rel-9
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

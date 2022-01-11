@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR33.888-Rel-12/12.1.0
 title:
-  type: main
+- type: main
   content: Study on security issues to support Group Communication System Enablers
     (GCSE) for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.888/33888-c10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.888/33888-c10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.888:Rel-12/12.1.0
+- id: 3GPP TR 33.888:Rel-12/12.1.0
   type: 3GPP
 docnumber: TR 33.888:Rel-12/12.1.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2014-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MERKEL, Jürgen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

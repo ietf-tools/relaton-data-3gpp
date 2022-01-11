@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS04.60-R99/8.23.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station
     System (BSS) interface; Radio Link Control/ Medium Access Control (RLC/MAC) protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.60/0460-8n0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.60/0460-8n0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.60:R99/8.23.0
+- id: 3GPP TS 04.60:R99/8.23.0
   type: 3GPP
 docnumber: TS 04.60:R99/8.23.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

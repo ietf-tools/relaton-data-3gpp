@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR09.94-R97/6.0.0
 title:
-  type: main
+- type: main
   content: Recommended infrastructure measures to overcome specific Mobile Station
     (MS) faults
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 09.94:R97/6.0.0
+- id: 3GPP TR 09.94:R97/6.0.0
   type: 3GPP
 docnumber: TR 09.94:R97/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-04-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HIETALAHTI, Hannu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
 - content: '2002-05-02 (Hietalahti): Anticipate resurrection as null document pointing
     to latest Release version.'
   type: remark
 - content: withdrawn SMG-30; ; reinstated NP-16
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C1

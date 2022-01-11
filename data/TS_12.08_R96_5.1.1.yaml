@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS12.08-R96/5.1.1
 title:
-  type: main
+- type: main
   content: Subscriber and Equipment trace
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.08/1208-511.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/12_series/12.08/1208-511.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 12.08:R96/5.1.1
+- id: 3GPP TS 12.08:R96/5.1.1
   type: 3GPP
 docnumber: TS 12.08:R96/5.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

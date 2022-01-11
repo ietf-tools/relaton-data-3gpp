@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS42.019-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Subscriber Identity Module Application Programming Interface (SIM API);
     Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/42_series/42.019/42019-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/42_series/42.019/42019-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 42.019:Rel-5/5.0.0
+- id: 3GPP TS 42.019:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 42.019:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-11-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HANS, Sebastian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Oracle Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Oracle Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 release:

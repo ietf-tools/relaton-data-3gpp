@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS26.140-Rel-5/5.1.0
 title:
-  type: main
+- type: main
   content: Multimedia Messaging Service (MMS); Media formats and codecs
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.140/26140-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.140/26140-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.140:Rel-5/5.1.0
+- id: 3GPP TS 26.140:Rel-5/5.1.0
   type: 3GPP
 docnumber: TS 26.140:Rel-5/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOUAZIZI, Imed
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung Telecoms America
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Samsung Telecoms America
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

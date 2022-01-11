@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS11.18-R99/8.0.0
 title:
-  type: main
+- type: main
   content: Specification of the 1.8 Volt Subscriber Identity Module - Mobile Equipment
     (SIM - ME) Interface
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 11.18:R99/8.0.0
+- id: 3GPP TS 11.18:R99/8.0.0
   type: 3GPP
 docnumber: TS 11.18:R99/8.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LINDHOLM, Rune
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
 - content: Sanders Oct 2000:.Effectively replaced by 31.101.
   type: remark
 - content: not produced
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

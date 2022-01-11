@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR36.905-Rel-16/16.7.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Derivation of test points for radio
     transmission and reception conformance test cases
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.905/36905-g70.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.905/36905-g70.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.905:Rel-16/16.7.0
+- id: 3GPP TR 36.905:Rel-16/16.7.0
   type: 3GPP
 docnumber: TR 36.905:Rel-16/16.7.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2016-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZIRÉN, Mikael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

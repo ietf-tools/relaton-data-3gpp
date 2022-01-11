@@ -1,32 +1,34 @@
 ---
 id: 3GPPTS26.454-Rel-13/0.1.0
 title:
-  type: main
+- type: main
   content: Codec for Enhanced Voice Services (EVS); Interface to Iu, Uu, Nb and Mb
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.454/26454-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.454/26454-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.454:Rel-13/0.1.0
+- id: 3GPP TS 26.454:Rel-13/0.1.0
   type: 3GPP
 docnumber: TS 26.454:Rel-13/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-07-12'
 biblionote:
-  content: S4-160232
+- content: S4-160232
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

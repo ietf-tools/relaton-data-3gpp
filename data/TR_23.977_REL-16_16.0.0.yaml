@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR23.977-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Bandwidth And Resource Savings (BARS) and speech enhancements for Circuit
     Switched (CS) networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.977/23977-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.977/23977-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.977:Rel-16/16.0.0
+- id: 3GPP TR 23.977:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 23.977:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEISER, Franz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: Update to Rel-16 version after Rel-16 stage 3 freeze (TSG SA#88E)
+- content: Update to Rel-16 version after Rel-16 stage 3 freeze (TSG SA#88E)
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

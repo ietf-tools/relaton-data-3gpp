@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR28.812-Rel-16/0.8.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on scenarios for Intent driven management
     services for mobile networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.812/28812-080.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.812/28812-080.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 28.812:Rel-16/0.8.0
+- id: 3GPP TR 28.812:Rel-16/0.8.0
   type: 3GPP
 docnumber: TR 28.812:Rel-16/0.8.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZOU, Lan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: S5-196652
+- content: S5-196652
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

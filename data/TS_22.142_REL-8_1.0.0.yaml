@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.142-Rel-8/1.0.0
 title:
-  type: main
+- type: main
   content: Value Added Services (VAS)  for Short Message Service (SMS) requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.142/22142-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.142/22142-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.142:Rel-8/1.0.0
+- id: 3GPP TS 22.142:Rel-8/1.0.0
   type: 3GPP
 docnumber: TS 22.142:Rel-8/1.0.0
 date:
@@ -18,31 +18,37 @@ date:
 - type: confirmed
   value: '2008-03-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Qing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
 - content: 'CP-43: stage 3 work will be completed in Rel-9, so proposed to also shift
     the stage 1 spec; agreed.'
   type: remark
 - content: SP-070866
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

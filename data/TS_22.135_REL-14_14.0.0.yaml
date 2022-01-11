@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.135-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Multicall; Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.135/22135-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.135/22135-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.135:Rel-14/14.0.0
+- id: 3GPP TS 22.135:Rel-14/14.0.0
   type: 3GPP
 docnumber: TS 22.135:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MIETTINEN, Natalia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NOKIA UK R&D Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes multicall scenarios and requirements for
+- content: "This specification describes multicall scenarios and requirements for
     UMTS phase 1 release 1999.\r\nMulticall feature specifies functionality and interactions
     related to usage of several simultaneous bearers between a terminal and a network.
     Multicall features allows both circuit-switched call(s) and packet session(s)
@@ -38,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

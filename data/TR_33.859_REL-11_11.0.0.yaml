@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR33.859-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Study on the Introduction of Key Hierarchy in Universal Terrestrial Radio
     Access Network (UTRAN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.859/33859-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.859/33859-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.859:Rel-11/11.0.0
+- id: 3GPP TR 33.859:Rel-11/11.0.0
   type: 3GPP
 docnumber: TR 33.859:Rel-11/11.0.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2012-01-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NORRMAN, Karl
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

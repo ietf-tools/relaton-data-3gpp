@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.259-Rel-7/7.3.0
 title:
-  type: main
+- type: main
   content: Service requirements for Personal Network Management (PNM); Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.259/22259-730.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.259/22259-730.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.259:Rel-7/7.3.0
+- id: 3GPP TS 22.259:Rel-7/7.3.0
   type: 3GPP
 docnumber: TS 22.259:Rel-7/7.3.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2006-03-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MUSTAPHA, Mona
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
 - content: 'SP-35: Timed out of Rel-7, so Rel-7 version of this spec withdrawn.'
   type: remark
 - content: SP:35 withdrawn from Rel-7, continues in Rel-8.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

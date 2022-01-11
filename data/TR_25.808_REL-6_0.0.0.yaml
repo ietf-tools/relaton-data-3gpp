@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.808-Rel-6/0.0.0
 title:
-  type: main
+- type: main
   content: FDD enhanced uplink; Physical layer aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.808/25808-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.808/25808-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.808:Rel-6/0.0.0
+- id: 3GPP TR 25.808:Rel-6/0.0.0
   type: 3GPP
 docnumber: TR 25.808:Rel-6/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RANTA-AHO, Karri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: R1-040516
+- content: R1-040516
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

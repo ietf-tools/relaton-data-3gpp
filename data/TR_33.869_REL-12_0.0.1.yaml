@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR33.869-Rel-12/0.0.1
 title:
-  type: main
+- type: main
   content: Security aspects of Public Warning System (PWS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.869/33869-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.869/33869-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.869:Rel-12/0.0.1
+- id: 3GPP TR 33.869:Rel-12/0.0.1
   type: 3GPP
 docnumber: TR 33.869:Rel-12/0.0.1
 date:
-  type: created
+- type: created
   value: '2012-06-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MATTSSON, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: draft of S3-120546
+- content: draft of S3-120546
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

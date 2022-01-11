@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS03.55-R99/8.1.1
 title:
-  type: main
+- type: main
   content: Dual Transfer Mode (DTM); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-811.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.55/0355-811.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.55:R99/8.1.1
+- id: 3GPP TS 03.55:R99/8.1.1
   type: 3GPP
 docnumber: TS 03.55:R99/8.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-12-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CARRIZO MARTINEZ, Jose Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
 - content: 'GERAN#2: 8.0.0'
   type: remark
 - content: Illogical to be a TR, and 43.055 is a TS!
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

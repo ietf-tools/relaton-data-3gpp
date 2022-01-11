@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS02.02-R97/6.1.1
 title:
-  type: main
+- type: main
   content: Bearer Services (BS) Supported by a GSM Public Land Mobile Network (PLMN)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.02/0202-611.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.02/0202-611.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 02.02:R97/6.1.1
+- id: 3GPP TS 02.02:R97/6.1.1
   type: 3GPP
 docnumber: TS 02.02:R97/6.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CARPENTER, Paul
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BlackBerry UK Limited
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

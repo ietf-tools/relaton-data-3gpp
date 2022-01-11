@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.705-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Study on Small data transmission enhancements for UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.705/25705-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.705/25705-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.705:Rel-13/2.0.0
+- id: 3GPP TR 25.705:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 25.705:Rel-13/2.0.0
 date:
-  type: created
+- type: created
   value: '2015-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEDINA, Gerardo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Japan K.K.
-  role: author
+    - organization:
+        name:
+        - Ericsson Japan K.K.
+  role:
+  - author
 biblionote:
-  content: RP-150844
+- content: RP-150844
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

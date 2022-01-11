@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.830-Rel-11/0.1.4
 title:
-  type: main
+- type: main
   content: Feasibility study on IMS firewall traversal
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.830/33830-014.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.830/33830-014.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.830:Rel-11/0.1.4
+- id: 3GPP TR 33.830:Rel-11/0.1.4
   type: 3GPP
 docnumber: TR 33.830:Rel-11/0.1.4
 date:
-  type: created
+- type: created
   value: '2012-05-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KUMAR, Prashant
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Oracle Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Oracle Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

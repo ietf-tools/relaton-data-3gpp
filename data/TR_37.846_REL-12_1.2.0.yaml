@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR37.846-Rel-12/1.2.0
 title:
-  type: main
+- type: main
   content: Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial
     Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.846/37846-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.846/37846-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.846:Rel-12/1.2.0
+- id: 3GPP TR 37.846:Rel-12/1.2.0
   type: 3GPP
 docnumber: TR 37.846:Rel-12/1.2.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-07-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Dish Network
-  role: author
+    - organization:
+        name:
+        - Dish Network
+  role:
+  - author
 biblionote:
-  content: RP-141025
+- content: RP-141025
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

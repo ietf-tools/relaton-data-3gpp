@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS24.526-Rel-17/17.3.0
 title:
-  type: main
+- type: main
   content: User Equipment (UE) policies for 5G System (5GS); Stage 3
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.526/24526-h30.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.526/24526-h30.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.526:Rel-17/17.3.0
+- id: 3GPP TS 24.526:Rel-17/17.3.0
   type: 3GPP
 docnumber: TS 24.526:Rel-17/17.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHOU, Xingyue
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 5G
 release:

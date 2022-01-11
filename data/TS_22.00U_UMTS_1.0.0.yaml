@@ -1,31 +1,37 @@
 ---
 id: 3GPPTS22.00U-UMTS/1.0.0
 title:
-  type: main
+- type: main
   content: UMTS Phase 1
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 22.00U:UMTS/1.0.0
+- id: 3GPP TS 22.00U:UMTS/1.0.0
   type: 3GPP
 docnumber: TS 22.00U:UMTS/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VERRIER, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: "-"

@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR01.31-R96/5.0.0
 title:
-  type: main
+- type: main
   content: Fraud Information Gathering System (FIGS); Service requirements; Stage
     0
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.31/0131-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.31/0131-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 01.31:R96/5.0.0
+- id: 3GPP TR 01.31:R96/5.0.0
   type: 3GPP
 docnumber: TR 01.31:R96/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAHLIN, Bengt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: "#25: withdrawn"
   type: remark
 - content: withdrawn, smg-25
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S3

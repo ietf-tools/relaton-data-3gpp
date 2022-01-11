@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS22.273-Rel-7/1.2.8
 title:
-  type: main
+- type: main
   content: TISPAN; Multimedia Telephony with PSTN/ISDN simulation services
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 22.273:Rel-7/1.2.8
+- id: 3GPP TS 22.273:Rel-7/1.2.8
   type: 3GPP
 docnumber: TS 22.273:Rel-7/1.2.8
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
 biblionote:
 - content: 'SP-27: WI created and TISPAN TS endorsed. Thus no draft phase for this
     spec.'
   type: remark
 - content: ETSI TS 181 002 v1.2.8 contained in SP-070568
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

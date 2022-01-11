@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS32.111-R99/3.0.0
 title:
-  type: main
+- type: main
   content: 3G Fault Management
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.111/32111-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.111/32111-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.111:R99/3.0.0
+- id: 3GPP TS 32.111:R99/3.0.0
   type: 3GPP
 docnumber: TS 32.111:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CICCHITTO, Gaetano
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Siemens Networks S.p.A
-  role: author
+    - organization:
+        name:
+        - Nokia Siemens Networks S.p.A
+  role:
+  - author
 biblionote:
-  content: 'TSG#8: multipart split from parent 3.0.1'
+- content: 'TSG#8: multipart split from parent 3.0.1'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

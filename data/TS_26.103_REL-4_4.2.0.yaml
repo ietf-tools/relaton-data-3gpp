@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS26.103-Rel-4/4.2.0
 title:
-  type: main
+- type: main
   content: Speech codec list for GSM and UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.103/26103-420.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.103/26103-420.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.103:Rel-4/4.2.0
+- id: 3GPP TS 26.103:Rel-4/4.2.0
   type: 3GPP
 docnumber: TS 26.103:Rel-4/4.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-04-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HELLWIG, Karl
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

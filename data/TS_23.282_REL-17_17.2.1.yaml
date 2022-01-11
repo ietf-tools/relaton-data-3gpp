@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS23.282-Rel-17/17.2.1
 title:
-  type: main
+- type: main
   content: Functional architecture and information flows to support Mission Critical
     Data (MCData); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.282/23282-h21.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.282/23282-h21.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.282:Rel-17/17.2.1
+- id: 3GPP TS 23.282:Rel-17/17.2.1
   type: 3GPP
 docnumber: TS 23.282:Rel-17/17.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PATTAN, Basavaraj (Basu)
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
-  content: MCC editorial revision
+- content: MCC editorial revision
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 radiotechnology: LTE
 release:

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS32.402-Rel-4/2.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Performance Management (PM); Performance
     measurements - GSM
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.402/32402-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.402/32402-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.402:Rel-4/2.0.0
+- id: 3GPP TS 32.402:Rel-4/2.0.0
   type: 3GPP
 docnumber: TS 32.402:Rel-4/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NENNER, Karl-Heinz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: SP-010467 approved as 52.042
+- content: SP-010467 approved as 52.042
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

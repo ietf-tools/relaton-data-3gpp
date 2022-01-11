@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS26.452-Rel-16/0.0.1
 title:
-  type: main
+- type: main
   content: Codec for Enhanced Voice Services (EVS); ANSI C code; Alternative fixed-point
     using updated basic operators
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.452/26452-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.452/26452-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.452:Rel-16/0.0.1
+- id: 3GPP TS 26.452:Rel-16/0.0.1
   type: 3GPP
 docnumber: TS 26.452:Rel-16/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-07-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PAWATE, Raj
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Cadence Design Systems Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Cadence Design Systems Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

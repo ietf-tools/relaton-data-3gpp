@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS21.102-Rel-4/4.5.0
 title:
-  type: main
+- type: main
   content: 3rd Generation mobile system Release 4 specifications
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.102/21102-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.102/21102-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 21.102:Rel-4/4.5.0
+- id: 3GPP TS 21.102:Rel-4/4.5.0
   type: 3GPP
 docnumber: TS 21.102:Rel-4/4.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEREDITH, John M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: 'SP-20: Superseded by 21.101 Rel-4.'
+- content: 'SP-20: Superseded by 21.101 Rel-4.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: SP

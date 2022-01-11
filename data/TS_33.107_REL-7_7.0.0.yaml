@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS33.107-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: 3G security; Lawful interception architecture and functions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.107/33107-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.107/33107-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.107:Rel-7/7.0.0
+- id: 3GPP TS 33.107:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 33.107:Rel-7/7.0.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2001-10-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JASPERS, Koen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: PIDS
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - PIDS
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S3

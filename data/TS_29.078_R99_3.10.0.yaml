@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS29.078-R99/3.10.0
 title:
-  type: main
+- type: main
   content: Customised Applications for Mobile network Enhanced Logic (CAMEL) Phase
     X; CAMEL Application Part (CAP) specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.078/29078-3a0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.078/29078-3a0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.078:R99/3.10.0
+- id: 3GPP TS 29.078:R99/3.10.0
   type: 3GPP
 docnumber: TS 29.078:R99/3.10.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DE GREGORIO, Jesus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: Phase 3
+- content: Phase 3
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

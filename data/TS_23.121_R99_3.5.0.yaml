@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS23.121-R99/3.5.0
 title:
-  type: main
+- type: main
   content: Architectural requirements for Release 1999
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.121/23121-350.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.121/23121-350.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.121:R99/3.5.0
+- id: 3GPP TS 23.121:R99/3.5.0
   type: 3GPP
 docnumber: TS 23.121:R99/3.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-06-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DANIEL, Elizabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes architectural requirements for release 1999
+- content: This specification describes architectural requirements for release 1999
     related to the evolution of the GSM platform towards UMTS with the overall goal
     of fulfilling the UMTS service require¬ments, support of roaming and support of
     new functionality, signalling systems and interfaces.
@@ -37,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

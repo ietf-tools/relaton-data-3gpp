@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS32.015-R99/3.3.0
 title:
-  type: main
+- type: main
   content: Telecommunications management; Charging management; 3G call and event data
     for the Packet Switched (PS) domain
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.015/32015-330.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.015/32015-330.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.015:R99/3.3.0
+- id: 3GPP TS 32.015:R99/3.3.0
   type: 3GPP
 docnumber: TS 32.015:R99/3.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOERMER, Gerald
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

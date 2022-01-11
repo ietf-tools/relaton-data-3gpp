@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR26.850-Rel-16/1.3.0
 title:
-  type: main
+- type: main
   content: MBMS for Internet of Things (IoT)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.850/26850-130.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.850/26850-130.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.850:Rel-16/1.3.0
+- id: 3GPP TR 26.850:Rel-16/1.3.0
   type: 3GPP
 docnumber: TR 26.850:Rel-16/1.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: THIENOT, Cedric
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Expway
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Expway
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: LTE
 release:

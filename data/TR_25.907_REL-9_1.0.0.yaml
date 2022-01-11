@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.907-Rel-9/1.0.0
 title:
-  type: main
+- type: main
   content: Evaluation of path-loss technologies for Location Services (LCS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.907/25907-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.907/25907-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.907:Rel-9/1.0.0
+- id: 3GPP TR 25.907:Rel-9/1.0.0
   type: 3GPP
 docnumber: TR 25.907:Rel-9/1.0.0
 date:
@@ -18,31 +18,37 @@ date:
 - type: confirmed
   value: '2010-01-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHAW, Norman
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Polaris Wireless
-  role: author
+    - organization:
+        name:
+        - Polaris Wireless
+  role:
+  - author
 biblionote:
 - content: 'RP-46: From the nature of the contents, it seems this TR will not be upgraded
     to later Releases.'
   type: remark
 - content: RP-090986
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

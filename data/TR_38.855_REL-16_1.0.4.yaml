@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR38.855-Rel-16/1.0.4
 title:
-  type: main
+- type: main
   content: Study on NR positioning support
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.855/38855-104.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.855/38855-104.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 38.855:Rel-16/1.0.4
+- id: 3GPP TR 38.855:Rel-16/1.0.4
   type: 3GPP
 docnumber: TR 38.855:Rel-16/1.0.4
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KHORYAEV, Alexey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: R1-1903775
+- content: R1-1903775
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

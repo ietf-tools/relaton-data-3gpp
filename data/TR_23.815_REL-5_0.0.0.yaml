@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR23.815-Rel-5/0.0.0
 title:
-  type: main
+- type: main
   content: Charging implications of IMS architecture
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.815:Rel-5/0.0.0
+- id: 3GPP TR 23.815:Rel-5/0.0.0
   type: 3GPP
 docnumber: TR 23.815:Rel-5/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-11-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MILINSKI, Alexander
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: '2002-04 (Rapporteur): Proposed to withdraw, since contents has now been
     fully absorbed into S5 specs (esp 32.225).'
   type: remark
 - content: 2001-08
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

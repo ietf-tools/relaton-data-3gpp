@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.870-Rel-5/1.1.0
 title:
-  type: main
+- type: main
   content: Enhancement on the DSCH Hard Split mode
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.870/25870-110.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.870/25870-110.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.870:Rel-5/1.1.0
+- id: 3GPP TR 25.870:Rel-5/1.1.0
   type: 3GPP
 docnumber: TR 25.870:Rel-5/1.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Jae-Yoel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SAMSUNG Electronics Co., Ltd.
-  role: author
+    - organization:
+        name:
+        - SAMSUNG Electronics Co., Ltd.
+  role:
+  - author
 biblionote:
-  content: RP-010841
+- content: RP-010841
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR30.04U-UMTS/1.0.0
 title:
-  type: main
+- type: main
   content: Definition of the limited number of UTRA concepts
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.04U/3004U-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.04U/3004U-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.04U:UMTS/1.0.0
+- id: 3GPP TR 30.04U:UMTS/1.0.0
   type: 3GPP
 docnumber: TR 30.04U:UMTS/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: "#22: 3.0.0"
+- content: "#22: 3.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: GP

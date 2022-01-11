@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.880-Rel-14/0.3.0
 title:
-  type: main
+- type: main
   content: Study on mission critical security enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.880/33880-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.880/33880-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.880:Rel-14/0.3.0
+- id: 3GPP TR 33.880:Rel-14/0.3.0
   type: 3GPP
 docnumber: TR 33.880:Rel-14/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HAIGH, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CESG
-  role: author
+    - organization:
+        name:
+        - CESG
+  role:
+  - author
 biblionote:
-  content: S3-162005
+- content: S3-162005
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: LTE
 release:

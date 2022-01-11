@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS29.513-Rel-15/0.2.0
 title:
-  type: main
+- type: main
   content: 5G System; Policy and Charging Control signalling flows and QoS parameter
     mapping; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.513/29513-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.513:Rel-15/0.2.0
+- id: 3GPP TS 29.513:Rel-15/0.2.0
   type: 3GPP
 docnumber: TS 29.513:Rel-15/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YAN, Xiaojian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 5G
 release:

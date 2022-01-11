@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR37.842-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial
     Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna
     System (AAS) Base Station (BS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.842/37842-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.842/37842-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.842:Rel-12/1.0.0
+- id: 3GPP TR 37.842:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 37.842:Rel-12/1.0.0
 date:
@@ -20,28 +20,34 @@ date:
 - type: confirmed
   value: '2016-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KYBETT, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: RP-141259
+- content: RP-141259
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 2G
 release:

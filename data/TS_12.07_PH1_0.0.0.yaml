@@ -1,31 +1,37 @@
 ---
 id: 3GPPTS12.07-Ph1/0.0.0
 title:
-  type: main
+- type: main
   content: Public Land Mobile Network (PLMN) Quality of Service (QoS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 12.07:Ph1/0.0.0
+- id: 3GPP TS 12.07:Ph1/0.0.0
   type: 3GPP
 docnumber: TS 12.07:Ph1/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BERGMANN, Ansgar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Hillebrand GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Hillebrand GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: "-"

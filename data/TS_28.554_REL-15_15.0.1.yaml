@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS28.554-Rel-15/15.0.1
 title:
-  type: main
+- type: main
   content: Management and orchestration; 5G end to end Key Performance Indicators
     (KPI)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.554/28554-f01.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.554/28554-f01.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 28.554:Rel-15/15.0.1
+- id: 3GPP TS 28.554:Rel-15/15.0.1
   type: 3GPP
 docnumber: TS 28.554:Rel-15/15.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUN, Xiaowen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Research Inst.
-  role: author
+    - organization:
+        name:
+        - China Mobile Research Inst.
+  role:
+  - author
 biblionote:
-  content: EditHelp review
+- content: EditHelp review
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

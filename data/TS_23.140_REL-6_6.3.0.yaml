@@ -1,48 +1,54 @@
 ---
 id: 3GPPTS23.140-Rel-6/6.3.0
 title:
-  type: main
+- type: main
   content: Multimedia Messaging Service (MMS); Functional description; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.140/23140-630.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.140/23140-630.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.140:Rel-6/6.3.0
+- id: 3GPP TS 23.140:Rel-6/6.3.0
   type: 3GPP
 docnumber: TS 23.140:Rel-6/6.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
 biblionote:
-  content: 'TP-22: Ttransfer to OMA for future Releases (I.e. beyond Rel-6)? But there
+- content: 'TP-22: Ttransfer to OMA for future Releases (I.e. beyond Rel-6)? But there
     are IPR problems.  TP-27: IPR probs solved, further Releases will be done in OMA.
     CP-36: OMA to advise on whether upgrade to Rel-7 needed. CP-37: Confirmed no upgr
     needed.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This TS describes the MMS network architecture, the application protocol
+- content: This TS describes the MMS network architecture, the application protocol
     framework and the technical realization of service features needed to support
     the non-realtime Multimedia Messaging Service.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: CP

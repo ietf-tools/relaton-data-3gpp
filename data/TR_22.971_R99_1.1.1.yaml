@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR22.971-R99/1.1.1
 title:
-  type: main
+- type: main
   content: Automatic establishment of roaming relationships
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.971/22971-111.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.971/22971-111.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.971:R99/1.1.1
+- id: 3GPP TR 22.971:R99/1.1.1
   type: 3GPP
 docnumber: TR 22.971:R99/1.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This report describes a proposed framework for commercial and technical
+- content: "This report describes a proposed framework for commercial and technical
     interworking between UMTS home environments and serving networks who have no direct
     prior commercial agreements with each other. \r\nThis text is applicable to UMTS
     standardization within ETSI, and is produced with the intent to clarify the concepts
@@ -38,7 +44,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S1

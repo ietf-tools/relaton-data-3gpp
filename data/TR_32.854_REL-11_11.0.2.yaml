@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.854-Rel-11/11.0.2
 title:
-  type: main
+- type: main
   content: Telecommunication management; Fixed Mobile Convergence (FMC) 3GPP / TM
     Forum concrete model relationships and use cases
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.854/32854-b02.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.854/32854-b02.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.854:Rel-11/11.0.2
+- id: 3GPP TR 32.854:Rel-11/11.0.2
   type: 3GPP
 docnumber: TR 32.854:Rel-11/11.0.2
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2013-01-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHMIDT, Jörg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Siemens Networks LLC
-  role: author
+    - organization:
+        name:
+        - Nokia Siemens Networks LLC
+  role:
+  - author
 biblionote:
-  content: Editorial correction to title
+- content: Editorial correction to title
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

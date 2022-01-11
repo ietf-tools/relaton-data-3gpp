@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR25.990-R99/0.1.4
 title:
-  type: main
+- type: main
   content: Vocabulary for UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.990/25990-014.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.990/25990-014.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.990:R99/0.1.4
+- id: 3GPP TR 25.990:R99/0.1.4
   type: 3GPP
 docnumber: TR 25.990:R99/0.1.4
 contributor:
-  person:
+- person:
     name:
       completename:
         content: OKRAH, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Inc.
-  role: author
+    - organization:
+        name:
+        - Motorola Inc.
+  role:
+  - author
 biblionote:
-  content: Will be withdrawn when 21.905 is updated with all the contents of this
+- content: Will be withdrawn when 21.905 is updated with all the contents of this
     TR. RP-15; the update was done at RP-13, so this can now be withdrawn.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS29.527-Rel-8/2.4.0
 title:
-  type: main
+- type: main
   content: TISPAN; Endorsement of the SIP-ISUP Interworking between the IP Multimedia
     (IM) Core Network (CN) subsystem and Circuit Switched (CS) networks [3GPP TS 29.163
     (Release 7), modified]
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 29.527:Rel-8/2.4.0
+- id: 3GPP TS 29.527:Rel-8/2.4.0
   type: 3GPP
 docnumber: TS 29.527:Rel-8/2.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-01-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KREIPL, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: TISPAN R2 frozen
+- content: TISPAN R2 frozen
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

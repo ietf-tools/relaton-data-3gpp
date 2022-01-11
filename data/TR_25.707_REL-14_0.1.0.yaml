@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.707-Rel-14/0.1.0
 title:
-  type: main
+- type: main
   content: Multi-carrier enhancements for UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.707/25707-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.707/25707-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.707:Rel-14/0.1.0
+- id: 3GPP TR 25.707:Rel-14/0.1.0
   type: 3GPP
 docnumber: TR 25.707:Rel-14/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Peng
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: MCC clean-up based on R1-161184
+- content: MCC clean-up based on R1-161184
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

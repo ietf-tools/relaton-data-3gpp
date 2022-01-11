@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR43.903-Rel-8/0.0.5
 title:
-  type: main
+- type: main
   content: A-interface over IP study (AINTIP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.903/43903-005.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.903/43903-005.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.903:Rel-8/0.0.5
+- id: 3GPP TR 43.903:Rel-8/0.0.5
   type: 3GPP
 docnumber: TR 43.903:Rel-8/0.0.5
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2008-06-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Shuaiyu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: GP-080406
+- content: GP-080406
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

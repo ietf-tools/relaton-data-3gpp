@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR26.951-Rel-11/2.0.0
 title:
-  type: main
+- type: main
   content: Enhancements to Multimedia (EMM); EMM, DDE and IPME Aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.951/26951-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.951/26951-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.951:Rel-11/2.0.0
+- id: 3GPP TR 26.951:Rel-11/2.0.0
   type: 3GPP
 docnumber: TR 26.951:Rel-11/2.0.0
 date:
-  type: created
+- type: created
   value: '2012-12-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Hang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
 biblionote:
-  content: SP-120762 Not suitable for .9xx TR, so converted to .8xx internal document
+- content: SP-120762 Not suitable for .9xx TR, so converted to .8xx internal document
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

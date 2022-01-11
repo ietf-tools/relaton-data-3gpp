@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS48.058-Rel-13/13.1.0
 title:
-  type: main
+- type: main
   content: Base Station Controller - Base Transceiver Station  (BSC - BTS) Interface;
     Layer 3 specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.058/48058-d10.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.058/48058-d10.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 48.058:Rel-13/13.1.0
+- id: 3GPP TS 48.058:Rel-13/13.1.0
   type: 3GPP
 docnumber: TS 48.058:Rel-13/13.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: 'This version was uploaded with the following quality checks failures:
+- content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history;Automatic numbering (of clauses, figures, tables,
     notes, examples etc…) should be disabled in the document'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

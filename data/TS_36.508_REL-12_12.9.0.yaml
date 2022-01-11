@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS36.508-Rel-12/12.9.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet
     Core (EPC); Common test environments for User Equipment (UE) conformance testing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-c90.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.508/36508-c90.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.508:Rel-12/12.9.0
+- id: 3GPP TS 36.508:Rel-12/12.9.0
   type: 3GPP
 docnumber: TS 36.508:Rel-12/12.9.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-03-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JOHN, Jacob
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Mobility UK Ltd.
-  role: author
+    - organization:
+        name:
+        - Motorola Mobility UK Ltd.
+  role:
+  - author
 biblionote:
-  content: 'This version was uploaded with the following quality checks failures:
+- content: 'This version was uploaded with the following quality checks failures:
     No matching files inside zip. Quality checks cannot be executed'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: LTE
 release:

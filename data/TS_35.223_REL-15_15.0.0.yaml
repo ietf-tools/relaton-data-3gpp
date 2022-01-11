@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS35.223-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3
     & EIA3; Document 3: Implementors'' test data'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.223/35223-f00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.223/35223-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 35.223:Rel-15/15.0.0
+- id: 3GPP TS 35.223:Rel-15/15.0.0
   type: 3GPP
 docnumber: TS 35.223:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-01-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: QI, Yuan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: RITT
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - RITT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

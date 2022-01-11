@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS36.321-Rel-8/8.1.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Medium Access Control
     (MAC) protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.321/36321-810.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.321/36321-810.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.321:Rel-8/8.1.0
+- id: 3GPP TS 36.321:Rel-8/8.1.0
   type: 3GPP
 docnumber: TS 36.321:Rel-8/8.1.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2008-07-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KARLSSON, Robert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

@@ -1,28 +1,32 @@
 ---
 id: 3GPPTR25.840-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Terminal power saving features
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.840/25840-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.840/25840-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.840:Rel-4/4.0.0
+- id: 3GPP TR 25.840:Rel-4/4.0.0
   type: 3GPP
 docnumber: TR 25.840:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAKER, Matthew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.  2003-11-28: WG Chairman indicates
     that the doc is contentious, and cannot easily be brought under change control.
@@ -30,9 +34,11 @@ biblionote:
   type: remark
 - content: approved unseen at RP-22. No further work envisaged.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.978-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Results of the Adaptive Multi-Rate (AMR) noise suppression selection phase
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.978/26978-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.978/26978-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.978:Rel-16/16.0.0
+- id: 3GPP TR 26.978:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 26.978:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: USAI, Paolino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 2G
 release:

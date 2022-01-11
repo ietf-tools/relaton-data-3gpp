@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.402-Rel-5/5.1.0
 title:
-  type: main
+- type: main
   content: Synchronisation in UTRAN Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.402/25402-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.402/25402-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.402:Rel-5/5.1.0
+- id: 3GPP TS 25.402:Rel-5/5.1.0
   type: 3GPP
 docnumber: TS 25.402:Rel-5/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document constitutes the stage 2 specification of different synchronisation
+- content: This document constitutes the stage 2 specification of different synchronisation
     mechanisms in UTRAN and on Uu.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

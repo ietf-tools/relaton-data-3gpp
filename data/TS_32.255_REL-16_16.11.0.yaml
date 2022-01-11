@@ -1,35 +1,44 @@
 ---
 id: 3GPPTS32.255-Rel-16/16.11.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; 5G data connectivity
     domain charging; Stage 2
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.255/32255-gb0.zip
+  type: src
 type: standard
 docid:
-  id: 3GPP TS 32.255:Rel-16/16.11.0
+- id: 3GPP TS 32.255:Rel-16/16.11.0
   type: 3GPP
 docnumber: TS 32.255:Rel-16/16.11.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARDELLA, Maryse
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

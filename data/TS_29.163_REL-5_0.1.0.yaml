@@ -1,46 +1,52 @@
 ---
 id: 3GPPTS29.163-Rel-5/0.1.0
 title:
-  type: main
+- type: main
   content: Interworking between the IP Multimedia (IM) Core Network (CN) subsystem
     and Circuit Switched (CS) networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.163/29163-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.163:Rel-5/0.1.0
+- id: 3GPP TS 29.163:Rel-5/0.1.0
   type: 3GPP
 docnumber: TS 29.163:Rel-5/0.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: 'NP-16: shifted to Rel-6.'
   type: remark
 - content: N3-010185, N3-010199, N3-010201 and N3-010210
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

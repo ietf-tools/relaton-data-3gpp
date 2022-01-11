@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR36.742-Rel-14/1.0.1
 title:
-  type: main
+- type: main
   content: Study on Self-Organizing Networks (SON) for enhanced Coordinated Multi-Point
     (eCoMP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.742/36742-101.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.742/36742-101.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.742:Rel-14/1.0.1
+- id: 3GPP TR 36.742:Rel-14/1.0.1
   type: 3GPP
 docnumber: TR 36.742:Rel-14/1.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HELMERS, Hakon
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: LTE
 release:

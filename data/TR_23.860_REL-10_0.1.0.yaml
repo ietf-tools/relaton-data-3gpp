@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.860-Rel-10/0.1.0
 title:
-  type: main
+- type: main
   content: Enabling coder selection and rate adaptation for UTRAN and E-UTRAN for
     load adaptive applications; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.860/23860-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.860/23860-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.860:Rel-10/0.1.0
+- id: 3GPP TR 23.860:Rel-10/0.1.0
   type: 3GPP
 docnumber: TR 23.860:Rel-10/0.1.0
 date:
@@ -19,19 +19,25 @@ date:
 - type: confirmed
   value: '2010-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AC, Mahendran
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Korea
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Qualcomm Korea
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

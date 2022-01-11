@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS23.501-Rel-15/0.1.1
 title:
-  type: main
+- type: main
   content: System architecture for the 5G System (5GS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.501/23501-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.501:Rel-15/0.1.1
+- id: 3GPP TS 23.501:Rel-15/0.1.1
   type: 3GPP
 docnumber: TS 23.501:Rel-15/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHANDRAMOULI, Devaki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
 biblionote:
-  content: Fixing Editorial errors from v0.1.0
+- content: Fixing Editorial errors from v0.1.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 5G
 release:

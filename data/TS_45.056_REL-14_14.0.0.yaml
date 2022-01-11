@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS45.056-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: GSM Cordless Telephony System (CTS), Phase 1; CTS-FP Radio subsystem
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.056/45056-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.056/45056-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 45.056:Rel-14/14.0.0
+- id: 3GPP TS 45.056:Rel-14/14.0.0
   type: 3GPP
 docnumber: TS 45.056:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOFMANN, Juergen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

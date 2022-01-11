@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS25.202-Rel-7/0.2.1
 title:
-  type: main
+- type: main
   content: '7.68 Mcps Time Division Duplex (TDD) option; Overall description: Stage
     2'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 25.202:Rel-7/0.2.1
+- id: 3GPP TS 25.202:Rel-7/0.2.1
   type: 3GPP
 docnumber: TS 25.202:Rel-7/0.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-03-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MEDINA, Gerardo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Japan K.K.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson Japan K.K.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

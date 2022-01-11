@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR33.941-Rel-6/0.3.0
 title:
-  type: main
+- type: main
   content: Presence service; Security
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 33.941:Rel-6/0.3.0
+- id: 3GPP TR 33.941:Rel-6/0.3.0
   type: 3GPP
 docnumber: TR 33.941:Rel-6/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-10-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOMAN, Krister
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: '2007-08-20: Effectively replaced by 33.141 so propose to abandon this
     TR at SP-37.'
   type: remark
 - content: S3-020621, S3-020622
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

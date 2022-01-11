@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.984-Rel-8/0.1.0
 title:
-  type: main
+- type: main
   content: Unauthenticated Packet Switched (PS) emergency calls
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.984/22984-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.984/22984-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.984:Rel-8/0.1.0
+- id: 3GPP TR 22.984:Rel-8/0.1.0
   type: 3GPP
 docnumber: TR 22.984:Rel-8/0.1.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2008-07-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MERKEL, Jürgen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: Timed out of Rel-8
   type: remark
 - content: cited in S1 report to SP-41
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

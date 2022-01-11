@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS26.114-Rel-16/16.8.2
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS); Multimedia telephony; Media handling and
     interaction
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.114/26114-g82.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.114/26114-g82.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.114:Rel-16/16.8.2
+- id: 3GPP TS 26.114:Rel-16/16.8.2
   type: 3GPP
 docnumber: TS 26.114:Rel-16/16.8.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-05-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Facebook
-  role: author
+    - organization:
+        name:
+        - Facebook
+  role:
+  - author
 biblionote:
-  content: 'to-numbering of the tables in table T.7, clauses T.1.2 and S.4.1 are corrected.
+- content: 'to-numbering of the tables in table T.7, clauses T.1.2 and S.4.1 are corrected.
     ^ 2021-01-18: g82 to be used instead of g81 as it doesnot contain .zip attachments.
     Also the auto-numbering of the tables in table T.7, clauses T.1.2 and S.4.1 are
     corrected. '
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

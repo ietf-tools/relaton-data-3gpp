@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.831-Rel-10/0.2.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS) service continuity; Inter-UE transfer enhancements;
     Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.831/23831-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.831/23831-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.831:Rel-10/0.2.0
+- id: 3GPP TR 23.831:Rel-10/0.2.0
   type: 3GPP
 docnumber: TR 23.831:Rel-10/0.2.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2010-09-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Heng liang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

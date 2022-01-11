@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.412-Rel-7/1.1.2
 title:
-  type: main
+- type: main
   content: TISPAN; Interworking; Trunking Gateway Control Procedures for interworking
     between NGN and external CS networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.412/29412-112.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.412/29412-112.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.412:Rel-7/1.1.2
+- id: 3GPP TS 29.412:Rel-7/1.1.2
   type: 3GPP
 docnumber: TS 29.412:Rel-7/1.1.2
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2008-02-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KREIPL, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
 - content: TISPAN R1 frozen
   type: remark
 - content: CP-080303
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

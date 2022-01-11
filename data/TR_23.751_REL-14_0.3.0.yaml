@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.751-Rel-14/0.3.0
 title:
-  type: main
+- type: main
   content: Study on support of voice over WLAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.751/23751-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.751/23751-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.751:Rel-14/0.3.0
+- id: 3GPP TR 23.751:Rel-14/0.3.0
   type: 3GPP
 docnumber: TR 23.751:Rel-14/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DREVON, Nicolas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: Updated with approved pCRs after SA2#119
+- content: Updated with approved pCRs after SA2#119
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

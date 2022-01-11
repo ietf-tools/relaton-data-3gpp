@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR29.817-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: Study on eXtensible Markup Language (XML) based access of the Application
     Function (AF) to the Policy and Charging Rules Function (PCRF)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.817/29817-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.817/29817-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.817:Rel-12/12.0.0
+- id: 3GPP TR 29.817:Rel-12/12.0.0
   type: 3GPP
 docnumber: TR 29.817:Rel-12/12.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-03-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BRINKMANN, Horst
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Deutschland AG
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Deutschland AG
+  role:
+  - author
 biblionote:
-  content: anticipate clean up CR at CP-64
+- content: anticipate clean up CR at CP-64
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 release:

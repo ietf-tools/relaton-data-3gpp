@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.863-Rel-11/1.5.0
 title:
-  type: main
+- type: main
   content: Support of Short Message Service (SMS) in IP Multimedia Subsystem (IMS)
     without Mobile Station International ISDN Number (MSISDN); Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.863/23863-150.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.863/23863-150.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.863:Rel-11/1.5.0
+- id: 3GPP TR 23.863:Rel-11/1.5.0
   type: 3GPP
 docnumber: TR 23.863:Rel-11/1.5.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-12-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WONG, Curt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

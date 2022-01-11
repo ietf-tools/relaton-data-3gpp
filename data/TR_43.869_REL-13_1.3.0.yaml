@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR43.869-Rel-13/1.3.0
 title:
-  type: main
+- type: main
   content: GERAN Study on power saving for MTC devices
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.869/43869-130.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.869/43869-130.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 43.869:Rel-13/1.3.0
+- id: 3GPP TR 43.869:Rel-13/1.3.0
   type: 3GPP
 docnumber: TR 43.869:Rel-13/1.3.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HAN, Jing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: GP-150839
+- content: GP-150839
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

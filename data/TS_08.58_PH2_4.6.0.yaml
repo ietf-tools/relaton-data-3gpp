@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS08.58-Ph2/4.6.0
 title:
-  type: main
+- type: main
   content: Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface
     Layer 3 Specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-460.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-460.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.58:Ph2/4.6.0
+- id: 3GPP TS 08.58:Ph2/4.6.0
   type: 3GPP
 docnumber: TS 08.58:Ph2/4.6.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: "#7: 4.3.0   #8: 4.4.0   #9: 4.5.0   #10: 4.6.0   #13: 4.7.0   #15: 4.8.0
+- content: "#7: 4.3.0   #8: 4.4.0   #9: 4.5.0   #10: 4.6.0   #13: 4.7.0   #15: 4.8.0
     \  #16: 4.9.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

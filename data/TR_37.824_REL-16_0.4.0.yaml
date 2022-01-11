@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR37.824-Rel-16/0.4.0
 title:
-  type: main
+- type: main
   content: Coexistence between NB-IoT and NR
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.824/37824-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.824/37824-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.824:Rel-16/0.4.0
+- id: 3GPP TR 37.824:Rel-16/0.4.0
   type: 3GPP
 docnumber: TR 37.824:Rel-16/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUBRAMANI, Siva
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Futurewei Technologies
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Futurewei Technologies
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

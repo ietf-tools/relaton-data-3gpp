@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR26.944-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: End-to-end multimedia services performance metrics
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.944/26944-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.944/26944-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.944:Rel-7/1.0.0
+- id: 3GPP TR 26.944:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 26.944:Rel-7/1.0.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2011-04-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Zhiming
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: SP-06084
+- content: SP-06084
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS05.03-R98/7.0.1
 title:
-  type: main
+- type: main
   content: Channel coding
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 05.03:R98/7.0.1
+- id: 3GPP TS 05.03:R98/7.0.1
   type: 3GPP
 docnumber: TS 05.03:R98/7.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEBIRE, Benoist
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: "#28: 7.0.0  #29: 7.1.0 #30: 7.2.0 #31:7.3.0"
+- content: "#28: 7.0.0  #29: 7.1.0 #30: 7.2.0 #31:7.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

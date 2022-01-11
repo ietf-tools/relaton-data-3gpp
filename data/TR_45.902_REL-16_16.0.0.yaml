@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR45.902-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: GSM/EDGE Flexible Layer One (FLO)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/45_series/45.902/45902-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/45_series/45.902/45902-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 45.902:Rel-16/16.0.0
+- id: 3GPP TR 45.902:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 45.902:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-12-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SEBIRE, Benoist
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: upgraded
+- content: upgraded
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

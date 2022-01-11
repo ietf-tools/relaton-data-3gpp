@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.843-Rel-12/1.0.1
 title:
-  type: main
+- type: main
   content: Study on LTE device  to device proximity services; Radio aspects
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.843:Rel-12/1.0.1
+- id: 3GPP TR 36.843:Rel-12/1.0.1
   type: 3GPP
 docnumber: TR 36.843:Rel-12/1.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-03-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PATIL, Shailesh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: MCC clean up
+- content: MCC clean up
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: LTE
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.274-Rel-8/8.2.0
 title:
-  type: main
+- type: main
   content: 3GPP Evolved Packet System (EPS); Evolved General Packet Radio Service
     (GPRS) Tunnelling Protocol for Control plane (GTPv2-C); Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-820.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.274/29274-820.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.274:Rel-8/8.2.0
+- id: 3GPP TS 29.274:Rel-8/8.2.0
   type: 3GPP
 docnumber: TS 29.274:Rel-8/8.2.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2008-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LANDAIS, Bruno
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

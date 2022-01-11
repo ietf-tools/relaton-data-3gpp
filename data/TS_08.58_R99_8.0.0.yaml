@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS08.58-R99/8.0.0
 title:
-  type: main
+- type: main
   content: Base Station Controler - Base Transceiver Station  (BCS-BTS) Interface
     Layer 3 Specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.58/0858-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.58:R99/8.0.0
+- id: 3GPP TS 08.58:R99/8.0.0
   type: 3GPP
 docnumber: TS 08.58:R99/8.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: "#29: 8.0.0 #30: 8.1.0 #30: 8.2.0 #31:8.3.0 #31b:8.4.0 GERAN#1:8.5.0 GERAN#2:8.6.0"
+- content: "#29: 8.0.0 #30: 8.1.0 #30: 8.2.0 #31:8.3.0 #31b:8.4.0 GERAN#1:8.5.0 GERAN#2:8.6.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

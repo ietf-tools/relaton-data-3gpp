@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS25.450-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: UTRAN Iupc interface general aspects and principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.450/25450-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.450/25450-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.450:Rel-6/6.0.0
+- id: 3GPP TS 25.450:Rel-6/6.0.0
   type: 3GPP
 docnumber: TS 25.450:Rel-6/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-06-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FLORE, Dino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The present document is an introduction to the TSG RAN TS 25.45z series
+- content: The present document is an introduction to the TSG RAN TS 25.45z series
     of UMTS Technical Specifications that define the Iupc Interface. The Iupc interface
     is a logical interface for the interconnection of Standalone SMLC (SAS) and Radio
     Network Controller (RNC) components of the Universal Terrestrial Radio Access
@@ -38,10 +44,10 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

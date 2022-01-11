@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS03.64-R96/5.1.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Overall description of the GPRS radio
     interface; Stage 2
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 03.64:R96/5.1.0
+- id: 3GPP TS 03.64:R96/5.1.0
   type: 3GPP
 docnumber: TS 03.64:R96/5.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEPPISAARI, Arto
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G1

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS23.479-Rel-16/2.0.0
 title:
-  type: main
+- type: main
   content: User Equipment (UE) Multimedia Broadcast / Multicast Service (MBMS) Application
     Programming Interfaces (APIs) for Mission Critical Services (MCX)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.479/23479-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.479/23479-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.479:Rel-16/2.0.0
+- id: 3GPP TS 23.479:Rel-16/2.0.0
   type: 3GPP
 docnumber: TS 23.479:Rel-16/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Ling
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TD Tech Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TD Tech Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 radiotechnology: LTE
 release:

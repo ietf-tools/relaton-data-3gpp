@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS22.246-Rel-6/6.2.0
 title:
-  type: main
+- type: main
   content: Multimedia Broadcast/Multicast Service (MBMS) user services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.246/22246-620.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.246/22246-620.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.246:Rel-6/6.2.0
+- id: 3GPP TS 22.246:Rel-6/6.2.0
   type: 3GPP
 docnumber: TS 22.246:Rel-6/6.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BLECKERT, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

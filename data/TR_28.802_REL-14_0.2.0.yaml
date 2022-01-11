@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR28.802-Rel-14/0.2.0
 title:
-  type: main
+- type: main
   content: Telecommunication management;Study on management aspects of next generation
     network architecture and features
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 28.802:Rel-14/0.2.0
+- id: 3GPP TR 28.802:Rel-14/0.2.0
   type: 3GPP
 docnumber: TR 28.802:Rel-14/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Weixing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: This version was not produced, and the associated tdoc was withdrawn.
+- content: This version was not produced, and the associated tdoc was withdrawn.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: LTE
 release:

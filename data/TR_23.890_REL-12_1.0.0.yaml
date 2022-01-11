@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.890-Rel-12/1.0.0
 title:
-  type: main
+- type: main
   content: Optimized offloading to Wireless Local Area Network (WLAN) in 3GPP Radio
     Access Technology (RAT) mobility
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.890/23890-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.890/23890-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.890:Rel-12/1.0.0
+- id: 3GPP TR 23.890:Rel-12/1.0.0
   type: 3GPP
 docnumber: TR 23.890:Rel-12/1.0.0
 date:
@@ -18,15 +18,32 @@ date:
   value: '2013-09-12'
 - type: confirmed
   value: '2013-09-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: BARRETT, Stephen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
 biblionote:
-  content: SP-130389
+- content: SP-130389
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

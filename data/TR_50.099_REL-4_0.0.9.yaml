@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR50.099-Rel-4/0.0.9
 title:
-  type: main
+- type: main
   content: GERAN project plan and open issues
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 50.099:Rel-4/0.0.9
+- id: 3GPP TR 50.099:Rel-4/0.0.9
   type: 3GPP
 docnumber: TR 50.099:Rel-4/0.0.9
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GRANT, Marc
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: AT&T GNS Belgium SPRL
-  role: author
+    - organization:
+        name:
+        - AT&T GNS Belgium SPRL
+  role:
+  - author
 biblionote:
-  content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
+- content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
     numbered and were not subsequent at all, so do not appear in history; latest draft
     is ex GERAN#4 = 006. 2002-01-23: Usai indicates "stopped".'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: GP

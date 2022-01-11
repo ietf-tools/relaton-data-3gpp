@@ -1,24 +1,26 @@
 ---
 id: 3GPPTS13.34-R96/5.0.2
 title:
-  type: main
+- type: main
   content: Attachment requirements for Global System for Mobile communications (GSM);
     High Speed Circuit Switched Data (HSCSD) Multislot Mobile Stations; Access
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.34/1334-502.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.34/1334-502.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 13.34:R96/5.0.2
+- id: 3GPP TS 13.34:R96/5.0.2
   type: 3GPP
 docnumber: TS 13.34:R96/5.0.2
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

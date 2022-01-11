@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR23.922-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Architecture for an All IP network
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 23.922:Rel-4/4.0.0
+- id: 3GPP TR 23.922:Rel-4/4.0.0
   type: 3GPP
 docnumber: TR 23.922:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DANIEL, Elizabeth
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
 - content: 'Sultan, Apr-2001: abandoned in early 2000. July-2001: replaced by 23.228.'
   type: remark
 - content: abandoned July 2001
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS43.031-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Fraud Information Gathering System (FIGS); Service description; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.031/43031-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.031/43031-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 43.031:Rel-5/5.0.0
+- id: 3GPP TS 43.031:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 43.031:Rel-5/5.0.0
 biblionote:
@@ -17,12 +17,14 @@ biblionote:
   type: remark
 - content: 'SP-18: withdrawn.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S3

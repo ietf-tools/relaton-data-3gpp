@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR22.944-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: Report on service requirements for UE functionality split
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.944:Rel-5/5.0.0
+- id: 3GPP TR 22.944:Rel-5/5.0.0
   type: 3GPP
 docnumber: TR 22.944:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-12-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WU, Jian (Jim) Jun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
-  content: Not fit for SDO publication. Contains many editor's notes.
+- content: Not fit for SDO publication. Contains many editor's notes.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

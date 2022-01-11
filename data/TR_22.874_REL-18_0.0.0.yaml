@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR22.874-Rel-18/0.0.0
 title:
-  type: main
+- type: main
   content: 5G System (5GS); Study on traffic characteristics and performance requirements
     for AI/ML model transfer
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/22_series/22.874/22874-000.zip
+- content: http://ftp.3gpp.org//Specs/archive/22_series/22.874/22874-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.874:Rel-18/0.0.0
+- id: 3GPP TR 22.874:Rel-18/0.0.0
   type: 3GPP
 docnumber: TR 22.874:Rel-18/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHEN, Jia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Guangdong OPPO Mobile Telecom.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR37.852-Rel-12/0.0.1
 title:
-  type: main
+- type: main
   content: RAN enhancements for UMTS/HSPA and LTE interworking
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.852/37852-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.852/37852-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.852:Rel-12/0.0.1
+- id: 3GPP TR 37.852:Rel-12/0.0.1
   type: 3GPP
 docnumber: TR 37.852:Rel-12/0.0.1
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2013-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHANG, Meng
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
 biblionote:
-  content: R3-130762
+- content: R3-130762
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

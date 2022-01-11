@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.809-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Feasibility study of XML-based (SOAP/HTTP)
     IRP solution sets
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.809/32809-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.809/32809-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.809:Rel-7/1.0.0
+- id: 3GPP TR 32.809:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 32.809:Rel-7/1.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2006-12-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DUGUAY, Jean
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: SP-060566
+- content: SP-060566
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

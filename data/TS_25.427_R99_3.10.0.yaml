@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.427-R99/3.10.0
 title:
-  type: main
+- type: main
   content: UTRAN Iub/Iur interface user plane protocol for DCH data streams
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.427/25427-3a0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.427/25427-3a0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.427:R99/3.10.0
+- id: 3GPP TS 25.427:R99/3.10.0
   type: 3GPP
 docnumber: TS 25.427:R99/3.10.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AHMED, Ayaz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the UTRAN Iur and Iub interfaces user plane
+- content: This specification describes the UTRAN Iur and Iub interfaces user plane
     protocols for dedicated transport channel data streams.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

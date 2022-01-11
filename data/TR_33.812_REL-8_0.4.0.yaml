@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR33.812-Rel-8/0.4.0
 title:
-  type: main
+- type: main
   content: Feasibility study on the security aspects of remote provisioning and change
     of subscription for Machine to Machine (M2M) equipment
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.812/33812-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.812/33812-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.812:Rel-8/0.4.0
+- id: 3GPP TR 33.812:Rel-8/0.4.0
   type: 3GPP
 docnumber: TR 33.812:Rel-8/0.4.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2009-12-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEHTOVIRTA, Vesa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: 'SP-43: timed out of Rel-8.'
   type: remark
 - content: S3-080920
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

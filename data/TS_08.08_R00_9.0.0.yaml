@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS08.08-R00/9.0.0
 title:
-  type: main
+- type: main
   content: Mobile-services Switching Centre - Base Station system (MSC-BSS) Interface
     Layer 3 Specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.08/0808-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 08.08:R00/9.0.0
+- id: 3GPP TS 08.08:R00/9.0.0
   type: 3GPP
 docnumber: TS 08.08:R00/9.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
 biblionote:
-  content: "#32:9.0.0 Aug00: replaced by 48.008"
+- content: "#32:9.0.0 Aug00: replaced by 48.008"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

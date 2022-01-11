@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS27.005-Rel-4/4.2.1
 title:
-  type: main
+- type: main
   content: Use of Data Terminal Equipment - Data Circuit terminating Equipment (DTE
     - DCE) interface for Short Message Service (SMS) and Cell Broadcast Service (CBS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.005/27005-421.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.005/27005-421.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 27.005:Rel-4/4.2.1
+- id: 3GPP TS 27.005:Rel-4/4.2.1
   type: 3GPP
 docnumber: TS 27.005:Rel-4/4.2.1
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2011-04-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AGHILI, Behrouz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: InterDigital Communications
-  role: author
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
 biblionote:
-  content: make figure 0.1 visible
+- content: make figure 0.1 visible
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes three interface protocols for control of SMS
+- content: This specification describes three interface protocols for control of SMS
     functions within a GSM mobile telephone from a remote terminal via an asynchronous
     interface.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

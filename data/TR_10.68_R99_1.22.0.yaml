@@ -1,32 +1,38 @@
 ---
 id: 3GPPTR10.68-R99/1.22.0
 title:
-  type: main
+- type: main
   content: 'Introduction to the services: enhanced Multi-Level Precedence and Pre-emption
     (eMLPP), Voice Group Call Service (VGCS), Voice Broadcast Service (VBS)'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.68/1068-1m0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.68/1068-1m0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 10.68:R99/1.22.0
+- id: 3GPP TR 10.68:R99/1.22.0
   type: 3GPP
 docnumber: TR 10.68:R99/1.22.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VAN DER AREND, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: KPN N.V.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - KPN N.V.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

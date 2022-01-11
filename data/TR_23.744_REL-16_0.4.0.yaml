@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR23.744-Rel-16/0.4.0
 title:
-  type: main
+- type: main
   content: Study on location enhancements for mission critical services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.744/23744-040.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.744/23744-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.744:Rel-16/0.4.0
+- id: 3GPP TR 23.744:Rel-16/0.4.0
   type: 3GPP
 docnumber: TR 23.744:Rel-16/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LAZARA, Dominic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Motorola Solutions UK Ltd.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Motorola Solutions UK Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S6
+- name: S6
   type: prime
 radiotechnology: LTE
 release:

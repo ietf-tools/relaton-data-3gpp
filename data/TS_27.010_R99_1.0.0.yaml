@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS27.010-R99/1.0.0
 title:
-  type: main
+- type: main
   content: Terminal Equipment to User Equipment (TE-UE) multiplexer protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.010/27010-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 27.010:R99/1.0.0
+- id: 3GPP TS 27.010:R99/1.0.0
   type: 3GPP
 docnumber: TS 27.010:R99/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-01-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes a multiplexing protocol between a mobile station
+- content: This specification describes a multiplexing protocol between a mobile station
     and an external data terminal for the purposes of enabling multiple channels to
     be established for different purposes (e.g. simultaneous SMS and data call).
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

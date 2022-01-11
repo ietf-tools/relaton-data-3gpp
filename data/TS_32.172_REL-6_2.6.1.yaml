@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS32.172-Rel-6/2.6.1
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Subscription Management (SuM) Network Resource
     Model (NRM) Integration Reference Point (IRP): Information Service (IS)'
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 32.172:Rel-6/2.6.1
+- id: 3GPP TS 32.172:Rel-6/2.6.1
   type: 3GPP
 docnumber: TS 32.172:Rel-6/2.6.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-12-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOVINGER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: ephemeral, via exploder list
+- content: ephemeral, via exploder list
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

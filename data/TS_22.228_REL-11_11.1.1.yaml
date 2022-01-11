@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS22.228-Rel-11/11.1.1
 title:
-  type: main
+- type: main
   content: Service requirements for the Internet Protocol (IP) multimedia core network
     subsystem (IMS); Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.228/22228-b11.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.228/22228-b11.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.228:Rel-11/11.1.1
+- id: 3GPP TS 22.228:Rel-11/11.1.1
   type: 3GPP
 docnumber: TS 22.228:Rel-11/11.1.1
 date:
@@ -19,32 +19,38 @@ date:
 - type: confirmed
   value: '2002-07-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SWETINA, Joerg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
 biblionote:
-  content: with correct logo and visible figures 10.3 & 10.4
+- content: with correct logo and visible figures 10.3 & 10.4
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes all IP Multimedia services offered by UMTS
+- content: This specification describes all IP Multimedia services offered by UMTS
     Systems and second generation systems.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

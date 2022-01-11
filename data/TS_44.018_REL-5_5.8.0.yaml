@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS44.018-Rel-5/5.8.0
 title:
-  type: main
+- type: main
   content: Mobile radio interface layer 3 specification; GSM/EDGE Radio Resource Control
     (RRC) protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.018/44018-580.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.018/44018-580.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.018:Rel-5/5.8.0
+- id: 3GPP TS 44.018:Rel-5/5.8.0
   type: 3GPP
 docnumber: TS 44.018:Rel-5/5.8.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-04-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

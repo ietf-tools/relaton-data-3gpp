@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.882-Rel-7/1.4.0
 title:
-  type: main
+- type: main
   content: '3GPP system architecture evolution (SAE): Report on technical options
     and conclusions'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-140.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-140.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.882:Rel-7/1.4.0
+- id: 3GPP TR 23.882:Rel-7/1.4.0
   type: 3GPP
 docnumber: TR 23.882:Rel-7/1.4.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2005-07-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PUDNEY, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: Timed out of Rel-7, though the governing WI is (as of SP-39) shown as Rel-7.
+- content: Timed out of Rel-7, though the governing WI is (as of SP-39) shown as Rel-7.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

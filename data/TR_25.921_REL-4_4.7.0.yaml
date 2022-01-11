@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR25.921-Rel-4/4.7.0
 title:
-  type: main
+- type: main
   content: Guidelines and principles for protocol description and error handling
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.921/25921-470.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.921/25921-470.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.921:Rel-4/4.7.0
+- id: 3GPP TR 25.921:Rel-4/4.7.0
   type: 3GPP
 docnumber: TR 25.921:Rel-4/4.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BARRETO, Luis
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NOKIA UK R&D Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,45 +1,51 @@
 ---
 id: 3GPPTR25.819-Rel-7/1.0.0
 title:
-  type: main
+- type: main
   content: '7.68 Mcps TDD option: Layer 2 and 3 protocol aspects'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.819/25819-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.819/25819-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.819:Rel-7/1.0.0
+- id: 3GPP TR 25.819:Rel-7/1.0.0
   type: 3GPP
 docnumber: TR 25.819:Rel-7/1.0.0
 date:
-  type: created
+- type: created
   value: '2005-12-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RICHARDS, Derek
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: '2008-03: WG proposes to abandon this TR at RP-40.'
   type: remark
 - content: RP-050830
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 3G
 release:

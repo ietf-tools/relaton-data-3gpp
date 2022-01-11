@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR34.902-Rel-5/5.2.0
 title:
-  type: main
+- type: main
   content: Derivation of test tolerances for multi-cell Radio Resource Management
     (RRM) conformance tests
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.902/34902-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.902/34902-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.902:Rel-5/5.2.0
+- id: 3GPP TR 34.902:Rel-5/5.2.0
   type: 3GPP
 docnumber: TR 34.902:Rel-5/5.2.0
 date:
@@ -19,29 +19,35 @@ date:
 - type: confirmed
   value: '2011-10-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOLODZIEJ, Jakub
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'TP-21: assume Rel-7 in view of projected end date. TP-22: Document ready
+- content: 'TP-21: assume Rel-7 in view of projected end date. TP-22: Document ready
     for approval as Rel-5 (!!)'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 2G
 release:

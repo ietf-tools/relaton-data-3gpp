@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS38.141-1-Rel-15/15.5.0
 title:
-  type: main
+- type: main
   content: 'NR; Base Station (BS) conformance testing Part 1: Conducted conformance
     testing'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.141-1/38141-1-f50.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.141-1/38141-1-f50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.141-1:Rel-15/15.5.0
+- id: 3GPP TS 38.141-1:Rel-15/15.5.0
   type: 3GPP
 docnumber: TS 38.141-1:Rel-15/15.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIU, Ye
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

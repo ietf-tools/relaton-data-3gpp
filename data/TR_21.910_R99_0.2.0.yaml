@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR21.910-R99/0.2.0
 title:
-  type: main
+- type: main
   content: Multi-mode UE issues; categories, principles and procedures
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 21.910:R99/0.2.0
+- id: 3GPP TR 21.910:R99/0.2.0
   type: 3GPP
 docnumber: TR 21.910:R99/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HIETALAHTI, Hannu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: 'TSG#7: 2.0.0, but not approved. Number changed to 21.810. TSG#8: Re-instated
+- content: 'TSG#7: 2.0.0, but not approved. Number changed to 21.810. TSG#8: Re-instated
     with changed title and contents. TSG#8:3.0.0 (2.1.0)'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C1

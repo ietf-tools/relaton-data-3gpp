@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS03.71-R99/8.6.0
 title:
-  type: main
+- type: main
   content: Location Services (LCS); Functional description; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-860.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.71/0371-860.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.71:R99/8.6.0
+- id: 3GPP TS 03.71:R99/8.6.0
   type: 3GPP
 docnumber: TS 03.71:R99/8.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-09-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BROOK, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: Need identified at TSG#7, since 23.171 does not cover GSM.
+- content: Need identified at TSG#7, since 23.171 does not cover GSM.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS46.022-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Half rate speech; Comfort noise aspects for the half rate speech traffic
     channels
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.022/46022-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.022/46022-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 46.022:Rel-14/14.0.0
+- id: 3GPP TS 46.022:Rel-14/14.0.0
   type: 3GPP
 docnumber: TS 46.022:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JÄRVINEN, Kari
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

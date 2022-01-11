@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS23.057-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Mobile Execution Environment (MExE); Functional description; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.057/23057-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.057/23057-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.057:Rel-13/13.0.0
+- id: 3GPP TS 23.057:Rel-13/13.0.0
   type: 3GPP
 docnumber: TS 23.057:Rel-13/13.0.0
 date:
@@ -18,31 +18,37 @@ date:
 - type: confirmed
   value: '2001-10-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BRENK, Lars
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This TS describes the functional capabilities and the security architecture
+- content: This TS describes the functional capabilities and the security architecture
     of the Mobile Execution Environment.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS38.323-Rel-16/16.2.0
 title:
-  type: main
+- type: main
   content: NR; Packet Data Convergence Protocol (PDCP) specification
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.323/38323-g20.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.323/38323-g20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.323:Rel-16/16.2.0
+- id: 3GPP TS 38.323:Rel-16/16.2.0
   type: 3GPP
 docnumber: TS 38.323:Rel-16/16.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YI, SeungJune
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: 5G
 release:

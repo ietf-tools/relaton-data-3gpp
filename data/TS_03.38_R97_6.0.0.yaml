@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS03.38-R97/6.0.0
 title:
-  type: main
+- type: main
   content: Alphabets and language-specific information
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.38/0338-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.38/0338-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.38:R97/6.0.0
+- id: 3GPP TS 03.38:R97/6.0.0
   type: 3GPP
 docnumber: TS 03.38:R97/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-10-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BURBIDGE, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: "#25: 6.0.0"
+- content: "#25: 6.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

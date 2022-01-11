@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.972-Rel-16/1.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management;Study on system and functional aspects of
     energy efficiency in 5G networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.972/32972-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.972/32972-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.972:Rel-16/1.0.0
+- id: 3GPP TR 32.972:Rel-16/1.0.0
   type: 3GPP
 docnumber: TR 32.972:Rel-16/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CORNILY, Jean Michel
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

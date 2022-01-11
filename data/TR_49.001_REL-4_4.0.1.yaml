@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR49.001-Rel-4/4.0.1
 title:
-  type: main
+- type: main
   content: General network interworking scenarios
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/49_series/49.001/49001-401.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/49_series/49.001/49001-401.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 49.001:Rel-4/4.0.1
+- id: 3GPP TR 49.001:Rel-4/4.0.1
   type: 3GPP
 docnumber: TR 49.001:Rel-4/4.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHMITT, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C4

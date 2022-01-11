@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS36.571-1-Rel-9/1.0.0
 title:
-  type: main
+- type: main
   content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; UE positioning in E-UTRA; Part 1: Minimum Performance
     conformance'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.571-1/36571-1-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.571-1/36571-1-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 36.571-1:Rel-9/1.0.0
+- id: 3GPP TS 36.571-1:Rel-9/1.0.0
   type: 3GPP
 docnumber: TS 36.571-1:Rel-9/1.0.0
 date:
-  type: created
+- type: created
   value: '2010-11-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CATMUR, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Spirent Communications
-  role: author
+    - organization:
+        name:
+        - Spirent Communications
+  role:
+  - author
 biblionote:
-  content: R5-106613, RP-101253
+- content: R5-106613, RP-101253
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

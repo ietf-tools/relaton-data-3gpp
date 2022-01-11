@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR21.900-Rel-9/9.1.0
 title:
-  type: main
+- type: main
   content: Technical Specification Group working methods
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.900/21900-910.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.900/21900-910.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 21.900:Rel-9/9.1.0
+- id: 3GPP TR 21.900:Rel-9/9.1.0
   type: 3GPP
 docnumber: TR 21.900:Rel-9/9.1.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2008-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FIRMIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: SP

@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR24.890-Rel-15/0.3.2
 title:
-  type: main
+- type: main
   content: CT WG1 aspects of 5G; System Phase 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.890/24890-032.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.890/24890-032.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.890:Rel-15/0.3.2
+- id: 3GPP TR 24.890:Rel-15/0.3.2
   type: 3GPP
 docnumber: TR 24.890:Rel-15/0.3.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HERRERO-VERON, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 5G
 release:

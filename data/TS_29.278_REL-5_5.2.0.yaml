@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS29.278-Rel-5/5.2.0
 title:
-  type: main
+- type: main
   content: Customized Applications for Mobile network Enhanced Logic (CAMEL) Phase
     4; CAMEL Application Part (CAP) specification for IP Multimedia Subsystems (IMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.278/29278-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.278/29278-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.278:Rel-5/5.2.0
+- id: 3GPP TS 29.278:Rel-5/5.2.0
   type: 3GPP
 docnumber: TS 29.278:Rel-5/5.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-06-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LANDAIS, Bruno
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
 biblionote:
-  content: 'TP-16: this spec unlikely to be freezable by NP-17. CAMEL phase 4.'
+- content: 'TP-16: this spec unlikely to be freezable by NP-17. CAMEL phase 4.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

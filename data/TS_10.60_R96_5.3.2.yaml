@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS10.60-R96/5.3.2
 title:
-  type: main
+- type: main
   content: General Packet Radio Services (GPRS); Project Scheduling and Open Issues
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.60/1060-532.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.60/1060-532.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 10.60:R96/5.3.2
+- id: 3GPP TS 10.60:R96/5.3.2
   type: 3GPP
 docnumber: TS 10.60:R96/5.3.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PETERSEN, Johan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Apica IT
-  role: author
+    - organization:
+        name:
+        - Apica IT
+  role:
+  - author
 biblionote:
-  content: "#25: (5.x.y withdrawn)"
+- content: "#25: (5.x.y withdrawn)"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS51.011-Rel-4/4.6.0
 title:
-  type: main
+- type: main
   content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
     interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.011/51011-460.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.011/51011-460.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 51.011:Rel-4/4.6.0
+- id: 3GPP TS 51.011:Rel-4/4.6.0
   type: 3GPP
 docnumber: TS 51.011:Rel-4/4.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-02-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PHAN, Ly Thanh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Gemalto N.V.
-  role: author
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
 biblionote:
-  content: 'TP-14: At TP-11 it was decided that there would be no need for a Rel-5
+- content: 'TP-14: At TP-11 it was decided that there would be no need for a Rel-5
     version, since by then all terminals will handle a common USIM. But the question
     still seems to be open.  TP-14: settled: there WILL be a Rel-5!  TP-16: Rel-5
     version withdrawn!'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

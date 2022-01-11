@@ -1,46 +1,52 @@
 ---
 id: 3GPPTS34.131-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Test Specification for C-language binding to (Universal) Subscriber Interface
     Module ((U)SIM) Application Programming Interface (API)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.131:Rel-6/1.0.0
+- id: 3GPP TS 34.131:Rel-6/1.0.0
   type: 3GPP
 docnumber: TS 34.131:Rel-6/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Morpho Cards GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Morpho Cards GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document covers the minimum characteristics considered necessary in
+- content: This document covers the minimum characteristics considered necessary in
     order to provide compliance to 3GPP TS 31.131 "'C'-language binding to (U)SIM
     API".
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 release:

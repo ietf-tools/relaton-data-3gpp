@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.862-Rel-11/0.2.0
 title:
-  type: main
+- type: main
   content: Evolved Packet Core (EPC) enhancements to support interworking with data
     application providers; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.862/23862-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.862/23862-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.862:Rel-11/0.2.0
+- id: 3GPP TR 23.862:Rel-11/0.2.0
   type: 3GPP
 docnumber: TR 23.862:Rel-11/0.2.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2013-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GUPTA, Vivek
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: SP-56 timed out of Rel-11.
+- content: SP-56 timed out of Rel-11.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

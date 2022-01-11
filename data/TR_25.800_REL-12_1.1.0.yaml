@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR25.800-Rel-12/1.1.0
 title:
-  type: main
+- type: main
   content: Technical Report on UMTS Heterogeneous Networks
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.800:Rel-12/1.1.0
+- id: 3GPP TR 25.800:Rel-12/1.1.0
   type: 3GPP
 docnumber: TR 25.800:Rel-12/1.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: COZZO, Carmela
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
-  content: R1-134011
+- content: R1-134011
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS24.642-Rel-8/0.0.0
 title:
-  type: main
+- type: main
   content: Completion of Communications to Busy Subscriber (CCBS) and Completion of
     Communications by No Reply (CCNR) using IP Multimedia (IM) Core Network (CN) subsystem;
     Protocol specification
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 24.642:Rel-8/0.0.0
+- id: 3GPP TS 24.642:Rel-8/0.0.0
   type: 3GPP
 docnumber: TS 24.642:Rel-8/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-06-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KREIPL, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: C1-080478 derived from ETSI DTS/TISPAN-03035-NGN-R2 (draft TS 183 042)
+- content: C1-080478 derived from ETSI DTS/TISPAN-03035-NGN-R2 (draft TS 183 042)
     v0.0.18
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

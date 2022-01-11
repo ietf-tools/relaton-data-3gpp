@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.897-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Study on isolated E-UTRAN operation for public safety; Security aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.897/33897-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.897/33897-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.897:Rel-13/2.0.0
+- id: 3GPP TR 33.897:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 33.897:Rel-13/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PIGGIN, Paul
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: General Dynamics UK Limited
-  role: author
+    - organization:
+        name:
+        - General Dynamics UK Limited
+  role:
+  - author
 biblionote:
-  content: SP-150722
+- content: SP-150722
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: LTE
 release:

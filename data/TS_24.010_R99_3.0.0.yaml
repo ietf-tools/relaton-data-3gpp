@@ -1,43 +1,49 @@
 ---
 id: 3GPPTS24.010-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Mobile radio interface  layer 3; Supplementary services specification;
     General aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.010/24010-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.010/24010-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.010:R99/3.0.0
+- id: 3GPP TS 24.010:R99/3.0.0
   type: 3GPP
 docnumber: TS 24.010:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUBRAMANIAN, Ramachandran
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the general aspects of the specification of
+- content: This specification describes the general aspects of the specification of
     supplementary services at the Layer 3 radio interface. Details will be specified
     in other documents.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

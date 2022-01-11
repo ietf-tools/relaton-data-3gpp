@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS04.18-R99/8.27.0
 title:
-  type: main
+- type: main
   content: Mobile radio interface layer 3 specification; Radio Resource Control (RRC)
     protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.18/0418-8r0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.18/0418-8r0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.18:R99/8.27.0
+- id: 3GPP TS 04.18:R99/8.27.0
   type: 3GPP
 docnumber: TS 04.18:R99/8.27.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2003-04-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

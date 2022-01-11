@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.955-Rel-17/0.4.7
 title:
-  type: main
+- type: main
   content: Video codec characteristics for 5G-based services and applications
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.955/26955-047.zip
+- content: https://www.3gpp.org/ftp//Specs/archive/26_series/26.955/26955-047.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.955:Rel-17/0.4.7
+- id: 3GPP TR 26.955:Rel-17/0.4.7
   type: 3GPP
 docnumber: TR 26.955:Rel-17/0.4.7
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOCKHAMMER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: Agreements from Telcos
+- content: Agreements from Telcos
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

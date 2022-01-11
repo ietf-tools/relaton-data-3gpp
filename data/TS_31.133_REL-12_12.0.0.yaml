@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS31.133-Rel-12/12.0.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Services Identity Module (ISIM) Application Programming Interface
     (API); ISIM API for Java Card™
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.133/31133-c00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.133/31133-c00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.133:Rel-12/12.0.0
+- id: 3GPP TS 31.133:Rel-12/12.0.0
   type: 3GPP
 docnumber: TS 31.133:Rel-12/12.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2006-05-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HANS, Sebastian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Oracle Corporation
-  role: author
+    - organization:
+        name:
+        - Oracle Corporation
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 11.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

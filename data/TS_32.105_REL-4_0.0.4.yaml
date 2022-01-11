@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS32.105-Rel-4/0.0.4
 title:
-  type: main
+- type: main
   content: 3G charging and billing; Stage 2 description
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-004.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.105/32105-004.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.105:Rel-4/0.0.4
+- id: 3GPP TS 32.105:Rel-4/0.0.4
   type: 3GPP
 docnumber: TS 32.105:Rel-4/0.0.4
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KOBYLARZ, Thaddeus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: AT&T Corp.
-  role: author
+    - organization:
+        name:
+        - AT&T Corp.
+  role:
+  - author
 biblionote:
 - content: 'New at SP-06. SP-10:R99 version scrapped, will be Rel-4. SP-12: Rel-4
     withdrawn.'
   type: remark
 - content: 'SP-12: Rel-4 withdrawn.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S5

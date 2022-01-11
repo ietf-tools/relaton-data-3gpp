@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS37.571-2-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification for UE positioning; Part
     2: Protocol conformance'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-2/37571-2-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.571-2/37571-2-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 37.571-2:Rel-11/11.0.0
+- id: 3GPP TS 37.571-2:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 37.571-2:Rel-11/11.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2011-12-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CATMUR, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Spirent Communications
-  role: author
+    - organization:
+        name:
+        - Spirent Communications
+  role:
+  - author
 biblionote:
-  content: promotion from v10.8.0 sans technical change
+- content: promotion from v10.8.0 sans technical change
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

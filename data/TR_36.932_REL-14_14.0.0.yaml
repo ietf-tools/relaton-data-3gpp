@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.932-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Scenarios and requirements for small cell enhancements for E-UTRA and E-UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.932/36932-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.932/36932-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.932:Rel-14/14.0.0
+- id: 3GPP TR 36.932:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 36.932:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2013-03-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TANG, Hai
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: LTE
 release:

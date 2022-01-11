@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR37.941-Rel-15/0.1.0
 title:
-  type: main
+- type: main
   content: Radio Frequency (RF) conformance testing background for radiated Base Station
     (BS) requirements
   format: text/plain
 link:
-  content: http://ftp.3gpp.org//Specs/archive/37_series/37.941/37941-010.zip
+- content: http://ftp.3gpp.org//Specs/archive/37_series/37.941/37941-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.941:Rel-15/0.1.0
+- id: 3GPP TR 37.941:Rel-15/0.1.0
   type: 3GPP
 docnumber: TR 37.941:Rel-15/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SZYDELKO, Michal
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

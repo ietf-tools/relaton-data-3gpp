@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS24.069-R99/3.1.0
 title:
-  type: main
+- type: main
   content: Broadcast Call Control (BCC) protocol
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 24.069:R99/3.1.0
+- id: 3GPP TS 24.069:R99/3.1.0
   type: 3GPP
 docnumber: TS 24.069:R99/3.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARAPATY, Sonia
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nortel Networks (USA)
-  role: author
+    - organization:
+        name:
+        - Nortel Networks (USA)
+  role:
+  - author
 biblionote:
-  content: GSM only for R99.
+- content: GSM only for R99.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: N1
+- name: N1
   type: prime
 radiotechnology: 3G
 release:

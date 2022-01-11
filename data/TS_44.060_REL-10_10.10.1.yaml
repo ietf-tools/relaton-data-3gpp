@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS44.060-Rel-10/10.10.1
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Mobile Station (MS) - Base Station
     System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.060/44060-aa1.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.060/44060-aa1.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.060:Rel-10/10.10.1
+- id: 3GPP TS 44.060:Rel-10/10.10.1
   type: 3GPP
 docnumber: TS 44.060:Rel-10/10.10.1
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2005-02-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
 biblionote:
-  content: minor correction to CR implementation
+- content: minor correction to CR implementation
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

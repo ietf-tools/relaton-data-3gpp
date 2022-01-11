@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR25.951-Rel-4/1.0.1
 title:
-  type: main
+- type: main
   content: FDD Base Station (BS) classification
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.951:Rel-4/1.0.1
+- id: 3GPP TR 25.951:Rel-4/1.0.1
   type: 3GPP
 docnumber: TR 25.951:Rel-4/1.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-10-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SÄYNÄJÄKANGAS, Tuomo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
 - content: '2002-01-24: Gutierrez: moved to Rel-5'
   type: remark
 - content: R4-010257
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

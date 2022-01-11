@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR22.827-Rel-17/1.2.1
 title:
-  type: main
+- type: main
   content: Study on Audio-Visual Service Production
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.827/22827-121.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.827/22827-121.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.827:Rel-17/1.2.1
+- id: 3GPP TR 22.827:Rel-17/1.2.1
   type: 3GPP
 docnumber: TR 22.827:Rel-17/1.2.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CAUDURO DIAS DE PAIVA, Rafael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Sennheiser Electronic GmbH
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Sennheiser Electronic GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: LTE
 release:

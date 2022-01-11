@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS11.10-2-Ph2/4.16.0
 title:
-  type: main
+- type: main
   content: 'Mobile station (MS) conformance specification; Part 2: Protocol Implementation
     Conformance Statement (PICS) proforma specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-2/1110-2-4g0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-2/1110-2-4g0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.10-2:Ph2/4.16.0
+- id: 3GPP TS 11.10-2:Ph2/4.16.0
   type: 3GPP
 docnumber: TS 11.10-2:Ph2/4.16.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAEV, Stoyan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
-  content: 'GP-06: Rel-4 serves all releases.'
+- content: 'GP-06: Rel-4 serves all releases.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G3new

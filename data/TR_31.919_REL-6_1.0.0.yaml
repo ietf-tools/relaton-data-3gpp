@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR31.919-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: 2G/3G Java Card™ Application Programming Interface (API) based applet interworking
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.919/31919-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.919/31919-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 31.919:Rel-6/1.0.0
+- id: 3GPP TR 31.919:Rel-6/1.0.0
   type: 3GPP
 docnumber: TR 31.919:Rel-6/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: IDEMIA
-  role: author
+    - organization:
+        name:
+        - IDEMIA
+  role:
+  - author
 biblionote:
-  content: TP-030128
+- content: TP-030128
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 release:

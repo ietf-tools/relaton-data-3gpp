@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR22.988-Rel-15/15.0.0
 title:
-  type: main
+- type: main
   content: Study on alternatives to E.164 for Machine-Type Communications (MTC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.988/22988-f00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.988/22988-f00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.988:Rel-15/15.0.0
+- id: 3GPP TR 22.988:Rel-15/15.0.0
   type: 3GPP
 docnumber: TR 22.988:Rel-15/15.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-03-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JONES, Gary
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile USA Inc.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile USA Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

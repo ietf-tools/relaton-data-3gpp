@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR22.894-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study on IP Multimedia Subsystem (IMS) network-independent
     public user identities
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.894/22894-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.894/22894-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.894:Rel-11/11.0.0
+- id: 3GPP TR 22.894:Rel-11/11.0.0
   type: 3GPP
 docnumber: TR 22.894:Rel-11/11.0.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2011-06-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MUSTAPHA, Mona
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

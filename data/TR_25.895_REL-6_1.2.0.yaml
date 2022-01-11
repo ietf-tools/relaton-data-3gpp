@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR25.895-Rel-6/1.2.0
 title:
-  type: main
+- type: main
   content: Analysis of higher chip rates for UTRA TDD evolution
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.895/25895-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.895/25895-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.895:Rel-6/1.2.0
+- id: 3GPP TR 25.895:Rel-6/1.2.0
   type: 3GPP
 docnumber: TR 25.895:Rel-6/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BEALE, Martin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: '2002-10-07: anticipate approval at RP-20. RP-23: anticipate approval RP-25.'
   type: remark
 - content: R1-030926
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

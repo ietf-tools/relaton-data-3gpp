@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR22.868-Rel-8/2.0.0
 title:
-  type: main
+- type: main
   content: Study on facilitating machine to machine communication in 3GPP systems
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.868:Rel-8/2.0.0
+- id: 3GPP TR 22.868:Rel-8/2.0.0
   type: 3GPP
 docnumber: TR 22.868:Rel-8/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MERKEL, Jürgen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
 - content: 'SP-34: anticipate approval at SP-35.'
   type: remark
 - content: S1-070292
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S1

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS24.012-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio
     Interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.012/24012-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.012/24012-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.012:R99/3.0.0
+- id: 3GPP TS 24.012:R99/3.0.0
   type: 3GPP
 docnumber: TS 24.012:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AL-BAKRI, Ban
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MeadowCom
-  role: author
+    - organization:
+        name:
+        - MeadowCom
+  role:
+  - author
 biblionote:
-  content: Replaced by 04.12 R99.
+- content: Replaced by 04.12 R99.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G2

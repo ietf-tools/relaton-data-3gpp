@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR23.791-Rel-16/0.5.0
 title:
-  type: main
+- type: main
   content: Study of enablers for Network Automation for 5G
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.791/23791-050.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.791/23791-050.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.791:Rel-16/0.5.0
+- id: 3GPP TR 23.791:Rel-16/0.5.0
   type: 3GPP
 docnumber: TR 23.791:Rel-16/0.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WU, Xiaobo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HuaWei Technologies Co., Ltd
-  role: author
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
 biblionote:
-  content: Updated with approved pCRs at SA WG2#128
+- content: Updated with approved pCRs at SA WG2#128
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 5G
 release:

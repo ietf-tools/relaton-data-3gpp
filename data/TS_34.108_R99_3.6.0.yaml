@@ -1,46 +1,52 @@
 ---
 id: 3GPPTS34.108-R99/3.6.0
 title:
-  type: main
+- type: main
   content: Common test environments for User Equipment (UE); Conformance testing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-360.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.108/34108-360.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.108:R99/3.6.0
+- id: 3GPP TS 34.108:R99/3.6.0
   type: 3GPP
 docnumber: TS 34.108:R99/3.6.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-10-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MATTISSON, Leif
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'TSG#8:aprvl is controversial.  TP-23: medium-term intention is to make
+- content: 'TSG#8:aprvl is controversial.  TP-23: medium-term intention is to make
     the spec Release-independent, all earlier Releases simply point to latest.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document contains definitions of reference conditions and test signals,
+- content: This document contains definitions of reference conditions and test signals,
     default parameters, reference Radio Bearer configurations, common requirements
     for test equipment and generic set-up procedures for use in UE conformance tests.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

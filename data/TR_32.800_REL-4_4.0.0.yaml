@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.800-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Management level procedures and interaction
     with UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.800/32800-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.800/32800-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.800:Rel-4/4.0.0
+- id: 3GPP TR 32.800:Rel-4/4.0.0
   type: 3GPP
 docnumber: TR 32.800:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-10-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BODEN, Bert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

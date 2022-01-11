@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR22.859-Rel-18/18.0.0
 title:
-  type: main
+- type: main
   content: Study on Personal Internet of Things (PIoT) networks
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.859/22859-i00.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.859/22859-i00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.859:Rel-18/18.0.0
+- id: 3GPP TR 22.859:Rel-18/18.0.0
   type: 3GPP
 docnumber: TR 22.859:Rel-18/18.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BUCKLEY, Adrian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: vivo Mobile Communication Co.,
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - vivo Mobile Communication Co.,
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

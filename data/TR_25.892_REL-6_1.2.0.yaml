@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR25.892-Rel-6/1.2.0
 title:
-  type: main
+- type: main
   content: Feasibility study for Orthogonal Frequency Division Multiplexing (OFDM)
     for UTRAN enhancement
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.892/25892-120.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.892/25892-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.892:Rel-6/1.2.0
+- id: 3GPP TR 25.892:Rel-6/1.2.0
   type: 3GPP
 docnumber: TR 25.892:Rel-6/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOUMENDIL, Sarah
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: R1-040655
+- content: R1-040655
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS26.114-Rel-7/0.2.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS); Multimedia telephony; Media handling and
     interaction
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 26.114:Rel-7/0.2.0
+- id: 3GPP TS 26.114:Rel-7/0.2.0
   type: 3GPP
 docnumber: TS 26.114:Rel-7/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-05-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Facebook
-  role: author
+    - organization:
+        name:
+        - Facebook
+  role:
+  - author
 biblionote:
-  content: S4-060347
+- content: S4-060347
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

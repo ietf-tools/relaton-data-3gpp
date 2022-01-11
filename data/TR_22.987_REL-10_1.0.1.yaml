@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.987-Rel-10/1.0.1
 title:
-  type: main
+- type: main
   content: Study of haptic services requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.987/22987-101.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.987/22987-101.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.987:Rel-10/1.0.1
+- id: 3GPP TR 22.987:Rel-10/1.0.1
   type: 3GPP
 docnumber: TR 22.987:Rel-10/1.0.1
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2010-04-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SONG, Jin han
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SK Telecom
-  role: author
+    - organization:
+        name:
+        - SK Telecom
+  role:
+  - author
 biblionote:
-  content: SP-090851
+- content: SP-090851
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

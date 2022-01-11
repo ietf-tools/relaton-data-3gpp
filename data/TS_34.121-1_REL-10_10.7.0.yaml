@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS34.121-1-Rel-10/10.7.0
 title:
-  type: main
+- type: main
   content: 'User Equipment (UE) conformance specification; Radio transmission and
     reception (FDD); Part 1: Conformance specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-a70.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.121-1/34121-1-a70.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.121-1:Rel-10/10.7.0
+- id: 3GPP TS 34.121-1:Rel-10/10.7.0
   type: 3GPP
 docnumber: TS 34.121-1:Rel-10/10.7.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2007-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZIRÉN, Mikael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

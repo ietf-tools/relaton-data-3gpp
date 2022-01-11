@@ -1,42 +1,33 @@
 ---
 id: 3GPPTS42.048-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Security mechanisms for the SIM Application Toolkit; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/42_series/42.048/42048-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/42_series/42.048/42048-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 42.048:Rel-4/4.0.0
+- id: 3GPP TS 42.048:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 42.048:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2001-11-14'
-contributor:
-  person:
-    name:
-      completename:
-        content: L'HERITEAU, Denis
-        language: en
-        script: Latn
-    affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
 biblionote:
 - content: 'TP-12: Becomes 22.048.'
   type: remark
 - content: withdrawn at TP-12
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: T3

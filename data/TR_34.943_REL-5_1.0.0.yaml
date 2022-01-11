@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR34.943-Rel-5/1.0.0
 title:
-  type: main
+- type: main
   content: Analysis of difference between FDD and 1.28 Mcps TDD and corresponding
     effect on terminal conformance test in radio access stratum protocol aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.943/34943-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.943/34943-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.943:Rel-5/1.0.0
+- id: 3GPP TR 34.943:Rel-5/1.0.0
   type: 3GPP
 docnumber: TR 34.943:Rel-5/1.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2005-09-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MA, Zhifeng
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
 - content: 'RP-29: Decided not to upgrade to Rel-6 unless a clear need arises.'
   type: remark
 - content: 'R5-050641 - should be Rel-4? CP-28: It may yet be so. Also, should it
     be a WG-internal document, or perhaps a .8xx TR?'
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

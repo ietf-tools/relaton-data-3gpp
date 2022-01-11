@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS32.321-Rel-5/2.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Test management Integration Reference Point
     (IRP); Requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.321/32321-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.321/32321-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.321:Rel-5/2.0.0
+- id: 3GPP TS 32.321:Rel-5/2.0.0
   type: 3GPP
 docnumber: TS 32.321:Rel-5/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: POLLAKOWSKI, Olaf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: SP-020456
+- content: SP-020456
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

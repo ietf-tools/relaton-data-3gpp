@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR45.914-Rel-8/0.1.1
 title:
-  type: main
+- type: main
   content: Circuit switched voice capacity evolution for GSM/EDGE Radio Access Network
     (GERAN)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 45.914:Rel-8/0.1.1
+- id: 3GPP TR 45.914:Rel-8/0.1.1
   type: 3GPP
 docnumber: TR 45.914:Rel-8/0.1.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-02-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOFMANN, Juergen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

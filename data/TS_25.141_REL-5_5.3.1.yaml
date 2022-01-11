@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS25.141-Rel-5/5.3.1
 title:
-  type: main
+- type: main
   content: Base Station (BS) conformance testing (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.141/25141-531.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.141/25141-531.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.141:Rel-5/5.3.1
+- id: 3GPP TS 25.141:Rel-5/5.3.1
   type: 3GPP
 docnumber: TS 25.141:Rel-5/5.3.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NAKAMURA, Takaharu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Fujitsu Limited
-  role: author
+    - organization:
+        name:
+        - Fujitsu Limited
+  role:
+  - author
 biblionote:
-  content: eliminate duplicate clause numbers
+- content: eliminate duplicate clause numbers
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the RF test methods and conformance requirements
+- content: This specification describes the RF test methods and conformance requirements
     for UTRA base transceiver stations (BTS) operating in the FDD mode. These have
     been derived from, and are consistent with, the core UTRA specifications specified
     in the requirements reference subclause of each test. The maximum acceptable measurement
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

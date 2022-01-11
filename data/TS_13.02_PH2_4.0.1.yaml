@@ -1,27 +1,29 @@
 ---
 id: 3GPPTS13.02-Ph2/4.0.1
 title:
-  type: main
+- type: main
   content: Attachment requirements for mobile stations in the DCS 1800 band and additional
     GSM 900 band; Access
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.02/1302-401.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.02/1302-401.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 13.02:Ph2/4.0.1
+- id: 3GPP TS 13.02:Ph2/4.0.1
   type: 3GPP
 docnumber: TS 13.02:Ph2/4.0.1
 biblionote:
-  content: "#28: 1.0.0  #29: 4.0.0"
+- content: "#28: 1.0.0  #29: 4.0.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: MSG

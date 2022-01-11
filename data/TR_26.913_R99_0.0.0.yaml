@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR26.913-R99/0.0.0
 title:
-  type: main
+- type: main
   content: Quantitative performance evaluation of real-time packet switched multimedia
     services over 3G
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.913/26913-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.913/26913-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.913:R99/0.0.0
+- id: 3GPP TR 26.913:R99/0.0.0
   type: 3GPP
 docnumber: TR 26.913:R99/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HONKO, Harri
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: 'No work, will never appear as 3.0.0 (Usai, Mar 2001) 2001-07:Usai: withdawn.'
+- content: 'No work, will never appear as 3.0.0 (Usai, Mar 2001) 2001-07:Usai: withdawn.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S4

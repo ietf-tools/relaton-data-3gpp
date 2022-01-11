@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR30.531-Rel-16/1.38.2
 title:
-  type: main
+- type: main
   content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-013802.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-013802.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.531:Rel-16/1.38.2
+- id: 3GPP TR 30.531:Rel-16/1.38.2
   type: 3GPP
 docnumber: TR 30.531:Rel-16/1.38.2
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-09-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KORHONEN, Juha
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

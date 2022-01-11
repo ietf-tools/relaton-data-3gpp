@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS04.62-R97/0.2.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Point-to-multipoint group call; Stage
     3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.62/0462-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.62/0462-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.62:R97/0.2.0
+- id: 3GPP TS 04.62:R97/0.2.0
   type: 3GPP
 docnumber: TS 04.62:R97/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LESKE, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SCANDEW PTY Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - SCANDEW PTY Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: "-"
+- name: "-"
   type: prime
 radiotechnology: 2G
 release:

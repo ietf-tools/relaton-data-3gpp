@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR22.802-Rel-13/1.0.0
 title:
-  type: main
+- type: main
   content: Study on scenarios where multiple APNs are needed
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.802/22802-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.802/22802-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.802:Rel-13/1.0.0
+- id: 3GPP TR 22.802:Rel-13/1.0.0
   type: 3GPP
 docnumber: TR 22.802:Rel-13/1.0.0
 date:
-  type: created
+- type: created
   value: '2014-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MACCHI, Ilario
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: GIESECKE & DEVRIENT GmbH
-  role: author
+    - organization:
+        name:
+        - GIESECKE & DEVRIENT GmbH
+  role:
+  - author
 biblionote:
-  content: SP-140756
+- content: SP-140756
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

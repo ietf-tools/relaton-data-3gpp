@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS22.243-Rel-5/1.0.0
 title:
-  type: main
+- type: main
   content: Speech recognition framework for automated voice services; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.243/22243-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.243:Rel-5/1.0.0
+- id: 3GPP TS 22.243:Rel-5/1.0.0
   type: 3GPP
 docnumber: TS 22.243:Rel-5/1.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-09-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WILLIAMS, David Hugh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
 biblionote:
 - content: 'SP-15: Delayed to Rel-6.'
   type: remark
 - content: SP-010680
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

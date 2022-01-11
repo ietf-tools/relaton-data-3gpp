@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR36.848-Rel-12/0.2.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
     smart congestion mitigation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.848/36848-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.848/36848-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.848:Rel-12/0.2.0
+- id: 3GPP TR 36.848:Rel-12/0.2.0
   type: 3GPP
 docnumber: TR 36.848:Rel-12/0.2.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2014-03-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LEE, Youngdae
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: R2-133717
+- content: R2-133717
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

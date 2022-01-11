@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS25.331-Rel-5/5.7.1
 title:
-  type: main
+- type: main
   content: Radio Resource Control (RRC); Protocol specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-571.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331-571.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.331:Rel-5/5.7.1
+- id: 3GPP TS 25.331:Rel-5/5.7.1
   type: 3GPP
 docnumber: TS 25.331:Rel-5/5.7.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHREEVASTAV, Ritesh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
 biblionote:
-  content: Some figures are not visible in these 2 documents. See figure 8.3.1-5 and
+- content: Some figures are not visible in these 2 documents. See figure 8.3.1-5 and
     8.3.1-6, figures 8.3.1-8 to 8.3.1-10. There is an error message => Error! Objects
     cannot be created from editing field codes.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the RRC protocol for the radio system. The
+- content: This specification describes the RRC protocol for the radio system. The
     scope of this specification contains also the information to be transported in
     a transparent container between source RNC and target RNC in connection to SRNC
     relocation.
@@ -42,7 +48,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

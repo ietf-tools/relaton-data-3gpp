@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR29.827-Rel-15/0.3.0
 title:
-  type: main
+- type: main
   content: Study on Policy and Charging for Volume Based Charging
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.827/29827-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.827/29827-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.827:Rel-15/0.3.0
+- id: 3GPP TR 29.827:Rel-15/0.3.0
   type: 3GPP
 docnumber: TR 29.827:Rel-15/0.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Zhenning
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: C3

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS32.251-Rel-9/9.1.0
 title:
-  type: main
+- type: main
   content: Telecommunication management;Charging management;Packet Switched (PS) domain
     charging
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.251/32251-910.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.251/32251-910.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.251:Rel-9/9.1.0
+- id: 3GPP TS 32.251:Rel-9/9.1.0
   type: 3GPP
 docnumber: TS 32.251:Rel-9/9.1.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2005-10-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARDELLA, Maryse
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

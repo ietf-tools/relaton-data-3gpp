@@ -1,26 +1,28 @@
 ---
 id: 3GPPTR10.01-R97/0.0.2
 title:
-  type: main
+- type: main
   content: GSM features and releases
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.01/1001-002.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.01/1001-002.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 10.01:R97/0.0.2
+- id: 3GPP TR 10.01:R97/0.0.2
   type: 3GPP
 docnumber: TR 10.01:R97/0.0.2
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: SMG3
+- name: SMG3
   type: prime
 radiotechnology: 2G
 release:

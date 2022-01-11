@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR25.867-Rel-6/1.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study for wideband distribution systems in 3rd generation networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.867/25867-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.867/25867-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.867:Rel-6/1.0.0
+- id: 3GPP TR 25.867:Rel-6/1.0.0
   type: 3GPP
 docnumber: TR 25.867:Rel-6/1.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MATARASSO, Carlo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Mikom - Andrew
-  role: author
+    - organization:
+        name:
+        - Mikom - Andrew
+  role:
+  - author
 biblionote:
-  content: '2003-11-28: WG secretary reports: Timed out of Rel-5, moved to Rel-6.  RP-24:
+- content: '2003-11-28: WG secretary reports: Timed out of Rel-5, moved to Rel-6.  RP-24:
     abandoned due to lack of interest.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

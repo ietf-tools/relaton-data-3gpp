@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.119-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: GPRS Tunnelling Protocol (GTP) specification for Gateway Location Register
     (GLR)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.119/29119-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.119/29119-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.119:Rel-8/8.0.0
+- id: 3GPP TS 29.119:Rel-8/8.0.0
   type: 3GPP
 docnumber: TS 29.119:Rel-8/8.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2008-12-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NODA, Aki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Fujitsu Limited
-  role: author
+    - organization:
+        name:
+        - Fujitsu Limited
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-7
+- content: Upgraded unchanged from Rel-7
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

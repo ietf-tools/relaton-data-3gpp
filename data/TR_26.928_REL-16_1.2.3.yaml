@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR26.928-Rel-16/1.2.3
 title:
-  type: main
+- type: main
   content: Extended Reality (XR) in 5G
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.928/26928-123.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.928/26928-123.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.928:Rel-16/1.2.3
+- id: 3GPP TR 26.928:Rel-16/1.2.3
   type: 3GPP
 docnumber: TR 26.928:Rel-16/1.2.3
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STOCKHAMMER, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm CDMA Technologies
-  role: author
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
 biblionote:
-  content: Editor's Proposed Version for final Approval
+- content: Editor's Proposed Version for final Approval
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

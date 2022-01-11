@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR37.870-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Study on Multi-RAT joint coordination
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.870/37870-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.870/37870-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.870:Rel-13/13.0.0
+- id: 3GPP TR 37.870:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 37.870:Rel-13/13.0.0
 date:
-  type: created
+- type: created
   value: '2015-06-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIMBA DIT ADAMOU, Boubacar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R3
+- name: R3
   type: prime
 radiotechnology: 3G
 release:

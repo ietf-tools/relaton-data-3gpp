@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.902-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Formal Analysis of the 3G Authentication Protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.902/33902-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.902/33902-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.902:R99/3.0.0
+- id: 3GPP TR 33.902:R99/3.0.0
   type: 3GPP
 docnumber: TR 33.902:R99/3.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HORN, Guenther
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Formal analysis using BAN and temporal logic of authentication mechanism.
+- content: Formal analysis using BAN and temporal logic of authentication mechanism.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S3

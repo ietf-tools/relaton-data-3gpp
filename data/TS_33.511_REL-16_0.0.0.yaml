@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS33.511-Rel-16/0.0.0
 title:
-  type: main
+- type: main
   content: Security Assurance Specification (SCAS) for the next generation Node B
     (gNodeB) network product class
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-000.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.511/33511-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.511:Rel-16/0.0.0
+- id: 3GPP TS 33.511:Rel-16/0.0.0
   type: 3GPP
 docnumber: TS 33.511:Rel-16/0.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WONG, Marcus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
 biblionote:
-  content: S3-182303
+- content: S3-182303
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 5G
 release:

@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR22.801-Rel-11/0.0.0
 title:
-  type: main
+- type: main
   content: Study on non-MTC mobile data applications impacts
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.801:Rel-11/0.0.0
+- id: 3GPP TR 22.801:Rel-11/0.0.0
   type: 3GPP
 docnumber: TR 22.801:Rel-11/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DEOL, Amar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: 'SP-53: timed out to Rel-12'
   type: remark
 - content: skeleton
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

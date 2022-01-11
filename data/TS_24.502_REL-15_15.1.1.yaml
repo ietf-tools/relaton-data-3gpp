@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS24.502-Rel-15/15.1.1
 title:
-  type: main
+- type: main
   content: Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.502/24502-f11.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.502/24502-f11.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.502:Rel-15/15.1.1
+- id: 3GPP TS 24.502:Rel-15/15.1.1
   type: 3GPP
 docnumber: TS 24.502:Rel-15/15.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GKATZIKIS, Lazaros
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
 biblionote:
-  content: editorial corrections
+- content: editorial corrections
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 5G
 release:

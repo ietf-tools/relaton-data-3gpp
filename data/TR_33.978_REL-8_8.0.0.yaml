@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR33.978-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: Security aspects of early IP Multimedia Subsystem (IMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.978/33978-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.978/33978-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.978:Rel-8/8.0.0
+- id: 3GPP TR 33.978:Rel-8/8.0.0
   type: 3GPP
 docnumber: TR 33.978:Rel-8/8.0.0
 date:
@@ -18,31 +18,37 @@ date:
 - type: confirmed
   value: '2005-06-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWARD, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
 - content: 'SP-46: withdrawn from Rel-8, stops at Rel-7'
   type: remark
 - content: 'Upgraded unchanged from Rel-7.  SP-46: withdrawn from Rel-8, stops at
     Rel-7'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 3G
 release:

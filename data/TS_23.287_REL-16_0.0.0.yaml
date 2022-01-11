@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS23.287-Rel-16/0.0.0
 title:
-  type: main
+- type: main
   content: Architecture enhancements for 5G System (5GS) to support Vehicle-to-Everything
     (V2X) services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.287/23287-000.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.287/23287-000.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.287:Rel-16/0.0.0
+- id: 3GPP TS 23.287:Rel-16/0.0.0
   type: 3GPP
 docnumber: TS 23.287:Rel-16/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Laeyoung
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: LG Electronics France
-  role: author
+    - organization:
+        name:
+        - LG Electronics France
+  role:
+  - author
 biblionote:
-  content: 'S2-1900198: (corrected TD number) Agreed skeleton document'
+- content: 'S2-1900198: (corrected TD number) Agreed skeleton document'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 5G
 release:

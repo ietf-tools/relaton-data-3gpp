@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS24.587-Rel-16/16.1.1
 title:
-  type: main
+- type: main
   content: Vehicle-to-Everything (V2X) services in 5G System (5GS); Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/24_series/24.587/24587-g11.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/24_series/24.587/24587-g11.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.587:Rel-16/16.1.1
+- id: 3GPP TS 24.587:Rel-16/16.1.1
   type: 3GPP
 docnumber: TS 24.587:Rel-16/16.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HERRERO-VERON, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: Editorial corrections and addition of IEI values by rapporteur
+- content: Editorial corrections and addition of IEI values by rapporteur
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 5G
 release:

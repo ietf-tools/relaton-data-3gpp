@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS24.315-Rel-11/0.0.1
 title:
-  type: main
+- type: main
   content: 'IP Multimedia Subsystem (IMS) Operator Determined Barring (ODB); Stage
     3: protocol specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.315/24315-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.315/24315-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.315:Rel-11/0.0.1
+- id: 3GPP TS 24.315:Rel-11/0.0.1
   type: 3GPP
 docnumber: TS 24.315:Rel-11/0.0.1
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SKROCKI, Mariusz
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 common-ims-spec: true

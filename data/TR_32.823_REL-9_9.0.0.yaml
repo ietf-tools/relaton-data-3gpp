@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR32.823-Rel-9/9.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Self-Organizing Networks (SON); Study on
     self-healing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.823/32823-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.823/32823-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.823:Rel-9/9.0.0
+- id: 3GPP TR 32.823:Rel-9/9.0.0
   type: 3GPP
 docnumber: TR 32.823:Rel-9/9.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2009-06-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Weihong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
 biblionote:
-  content: 'SP-43: Timed out of Rel-8.'
+- content: 'SP-43: Timed out of Rel-8.'
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

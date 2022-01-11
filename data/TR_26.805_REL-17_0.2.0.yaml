@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR26.805-Rel-17/0.2.0
 title:
-  type: main
+- type: main
   content: Study on Media Production over 5G NPN Systems
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.805/26805-020.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.805/26805-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.805:Rel-17/0.2.0
+- id: 3GPP TR 26.805:Rel-17/0.2.0
   type: 3GPP
 docnumber: TR 26.805:Rel-17/0.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LOHMAR, Thorsten
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: S4-210939
+- content: S4-210939
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 5G
 release:

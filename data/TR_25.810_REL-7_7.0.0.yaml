@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR25.810-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: UMTS 2.6 GHz (FDD) Work Item Technical Report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.810:Rel-7/7.0.0
+- id: 3GPP TR 25.810:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 25.810:Rel-7/7.0.0
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2005-06-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SÄYNÄJÄKANGAS, Tuomo
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

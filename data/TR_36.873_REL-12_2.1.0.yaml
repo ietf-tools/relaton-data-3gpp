@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR36.873-Rel-12/2.1.0
 title:
-  type: main
+- type: main
   content: Study on 3D channel model for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-210.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-210.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.873:Rel-12/2.1.0
+- id: 3GPP TR 36.873:Rel-12/2.1.0
   type: 3GPP
 docnumber: TR 36.873:Rel-12/2.1.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2014-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MONDAL, Bishwarup
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (I)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
 biblionote:
-  content: RP-141207
+- content: RP-141207
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: 3G
 release:

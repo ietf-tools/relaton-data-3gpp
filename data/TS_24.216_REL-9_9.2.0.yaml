@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS24.216-Rel-9/9.2.0
 title:
-  type: main
+- type: main
   content: Communication Continuity Management Object (MO)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.216/24216-920.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.216/24216-920.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.216:Rel-9/9.2.0
+- id: 3GPP TS 24.216:Rel-9/9.2.0
   type: 3GPP
 docnumber: TS 24.216:Rel-9/9.2.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2007-09-25'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LU, Yang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone GmbH
-  role: author
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 release:

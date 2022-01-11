@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS07.60-R97/6.4.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); Mobile Station (MS) supporting GPRS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.60/0760-640.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.60/0760-640.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 07.60:R97/6.4.0
+- id: 3GPP TS 07.60:R97/6.4.0
   type: 3GPP
 docnumber: TS 07.60:R97/6.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BIONDIC, Nevenka
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#25: 6.0.0  #26: 6.1.0  #27: 6.2.0  #29: 6.3.0 TSG#5: 6.4.0 TSG#6: 6.5.0"
+- content: "#25: 6.0.0  #26: 6.1.0  #27: 6.2.0  #29: 6.3.0 TSG#5: 6.4.0 TSG#6: 6.5.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

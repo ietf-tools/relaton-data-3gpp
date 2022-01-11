@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR24.879-Rel-7/0.3.1
 title:
-  type: main
+- type: main
   content: Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS)
     sessions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.879/24879-031.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.879/24879-031.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 24.879:Rel-7/0.3.1
+- id: 3GPP TR 24.879:Rel-7/0.3.1
   type: 3GPP
 docnumber: TR 24.879:Rel-7/0.3.1
 date:
-  type: created
+- type: created
   value: '2005-11-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DAWES, Peter
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: re-orders annexes
+- content: re-orders annexes
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 release:

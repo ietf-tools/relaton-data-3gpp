@@ -1,29 +1,31 @@
 ---
 id: 3GPPTR10.76-R99/0.0.8
 title:
-  type: main
+- type: main
   content: Noise suppression for the AMR codec; Project scheduling and open issues
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.76/1076-008.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.76/1076-008.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 10.76:R99/0.0.8
+- id: 3GPP TR 10.76:R99/0.0.8
   type: 3GPP
 docnumber: TR 10.76:R99/0.0.8
 biblionote:
-  content: '2002-01-23: Usai indicates "stopped".'
+- content: '2002-01-23: Usai indicates "stopped".'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 2G
 release:

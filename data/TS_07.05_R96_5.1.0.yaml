@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS07.05-R96/5.1.0
 title:
-  type: main
+- type: main
   content: Use of Data Terminal Equipment - Data Circuit Terminating Equipment (DTE-DCE)
     Interface for Short Message Services (SMS) and Cell Broadcast Services (CBS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.05/0705-510.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/07_series/07.05/0705-510.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 07.05:R96/5.1.0
+- id: 3GPP TS 07.05:R96/5.1.0
   type: 3GPP
 docnumber: TS 07.05:R96/5.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BURBIDGE, Richard
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C1

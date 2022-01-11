@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR29.814-Rel-7/0.1.0
 title:
-  type: main
+- type: main
   content: Bandwidth saving at Nb interface with IP transport
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.814/29814-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.814/29814-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.814:Rel-7/0.1.0
+- id: 3GPP TR 29.814:Rel-7/0.1.0
   type: 3GPP
 docnumber: TR 29.814:Rel-7/0.1.0
 date:
-  type: created
+- type: created
   value: '2006-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: C3-060276
+- content: C3-060276
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 2G
 release:

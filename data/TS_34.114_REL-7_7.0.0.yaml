@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS34.114-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance;
     Conformance testing
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.114/34114-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.114/34114-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 34.114:Rel-7/7.0.0
+- id: 3GPP TS 34.114:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 34.114:Rel-7/7.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2007-09-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FORTES LOPEZ, Jose M.
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ROHDE & SCHWARZ
-  role: author
+    - organization:
+        name:
+        - ROHDE & SCHWARZ
+  role:
+  - author
 biblionote:
-  content: Still quite a lot of editorial clean up needed.
+- content: Still quite a lot of editorial clean up needed.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

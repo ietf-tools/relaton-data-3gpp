@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS32.445-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: 'Telecommunication management; Trace Management (Trace) Integration Reference
     Point (IRP): eXtensible Markup Language (XML) file format definition'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.445/32445-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.445/32445-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.445:Rel-7/7.0.0
+- id: 3GPP TS 32.445:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 32.445:Rel-7/7.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2012-03-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDRIANOV, Anatoly
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

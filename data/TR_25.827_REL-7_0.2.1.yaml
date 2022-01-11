@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR25.827-Rel-7/0.2.1
 title:
-  type: main
+- type: main
   content: 1.28 Mcps TDD ehanced uplink; Physical layer aspects
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.827:Rel-7/0.2.1
+- id: 3GPP TR 25.827:Rel-7/0.2.1
   type: 3GPP
 docnumber: TR 25.827:Rel-7/0.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-03-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Ke
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: RP

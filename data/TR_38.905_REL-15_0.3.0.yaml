@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR38.905-Rel-15/0.3.0
 title:
-  type: main
+- type: main
   content: NR; Derivation of test points for radio transmission and reception User
     Equipment (UE) conformance test cases
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 38.905:Rel-15/0.3.0
+- id: 3GPP TR 38.905:Rel-15/0.3.0
   type: 3GPP
 docnumber: TR 38.905:Rel-15/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JOHANSSON, Mats
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: Tdoc withdrawn, version not produced
+- content: Tdoc withdrawn, version not produced
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

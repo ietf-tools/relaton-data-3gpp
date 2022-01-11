@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR28.861-Rel-16/0.7.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Study on the Self-Organizing Networks (SON)
     for 5G networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.861/28861-070.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.861/28861-070.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 28.861:Rel-16/0.7.0
+- id: 3GPP TR 28.861:Rel-16/0.7.0
   type: 3GPP
 docnumber: TR 28.861:Rel-16/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHOU, Joey
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
-  content: S5-195892
+- content: S5-195892
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

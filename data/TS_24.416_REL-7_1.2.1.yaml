@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS24.416-Rel-7/1.2.1
 title:
-  type: main
+- type: main
   content: TISPAN; PSTN/ISDN simulation services; Malicious Communication Identification
     (MCID); Protocol specification
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 24.416:Rel-7/1.2.1
+- id: 3GPP TS 24.416:Rel-7/1.2.1
   type: 3GPP
 docnumber: TS 24.416:Rel-7/1.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DRAGE, Keith
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent Telecom Ltd
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent Telecom Ltd
+  role:
+  - author
 biblionote:
-  content: TISPAN R1 frozen
+- content: TISPAN R1 frozen
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

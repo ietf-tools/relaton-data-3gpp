@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS29.199-12-Rel-7/7.1.1
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Parlay X web services; Part 12: Multimedia
     conference'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-12/29199-12-711.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199-12/29199-12-711.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.199-12:Rel-7/7.1.1
+- id: 3GPP TS 29.199-12:Rel-7/7.1.1
   type: 3GPP
 docnumber: TS 29.199-12:Rel-7/7.1.1
 date:
-  type: created
+- type: created
   value: '2007-12-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: UNMEHOPA, Musa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Philips International B.V.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Philips International B.V.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

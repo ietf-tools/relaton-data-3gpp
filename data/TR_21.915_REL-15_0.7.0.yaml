@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR21.915-Rel-15/0.7.0
 title:
-  type: main
+- type: main
   content: Release 15 Description; Summary of Rel-15 Work Items
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 21.915:Rel-15/0.7.0
+- id: 3GPP TR 21.915:Rel-15/0.7.0
   type: 3GPP
 docnumber: TR 21.915:Rel-15/0.7.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SULTAN, Alain
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: 2019-02
+- content: 2019-02
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 2G
 release:

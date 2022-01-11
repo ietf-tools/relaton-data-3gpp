@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.097-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: Multiple Subscriber Profile (MSP) Phase 2; Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.097/22097-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.097/22097-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.097:Rel-7/7.0.0
+- id: 3GPP TS 22.097:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 22.097:Rel-7/7.0.0
 date:
@@ -18,23 +18,29 @@ date:
 - type: confirmed
   value: '2005-03-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DEOL, Amar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-6
+- content: Upgraded unchanged from Rel-6
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "MSP is an optional service to enable mobile subscribers to have several
+- content: "MSP is an optional service to enable mobile subscribers to have several
     profiles associated with a single subscriber identity (SIM) and a single international
     mobile subscriber identity (IMSI), with each profile being a subscription option.
     Each profile may be used for mobile originated and mobile terminated calls. \r\nUp
@@ -45,7 +51,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

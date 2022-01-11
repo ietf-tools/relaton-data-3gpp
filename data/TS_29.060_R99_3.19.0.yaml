@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS29.060-R99/3.19.0
 title:
-  type: main
+- type: main
   content: General Packet Radio Service (GPRS); GPRS Tunnelling Protocol (GTP) across
     the Gn and Gp interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.060/29060-3j0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.060/29060-3j0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.060:R99/3.19.0
+- id: 3GPP TS 29.060:R99/3.19.0
   type: 3GPP
 docnumber: TS 29.060:R99/3.19.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-04-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TAMURA, Toshiyuki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NEC Europe Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

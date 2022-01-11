@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR22.942-Rel-8/1.2.0
 title:
-  type: main
+- type: main
   content: Study on Value Added Services (VAS)  for Short Message Service (SMS)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.942:Rel-8/1.2.0
+- id: 3GPP TR 22.942:Rel-8/1.2.0
   type: 3GPP
 docnumber: TR 22.942:Rel-8/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2007-09-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HUANG, Qing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

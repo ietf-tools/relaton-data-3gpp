@@ -1,31 +1,37 @@
 ---
 id: 3GPPTR38.847-Rel-17/0.4.0
 title:
-  type: main
+- type: main
   content: New frequency range for NR (47.2 – 48.2 GHz)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 38.847:Rel-17/0.4.0
+- id: 3GPP TR 38.847:Rel-17/0.4.0
   type: 3GPP
 docnumber: TR 38.847:Rel-17/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: EVERAERE, Dominique
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson Limited
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 5G
 release:

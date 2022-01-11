@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR29.800-Rel-7/0.2.0
 title:
-  type: main
+- type: main
   content: Signalling System No. 7 (SS7) Security Gateway; Architecture, functional
     description and protocol details
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 29.800:Rel-7/0.2.0
+- id: 3GPP TR 29.800:Rel-7/0.2.0
   type: 3GPP
 docnumber: TR 29.800:Rel-7/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-11-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 2G
 release:

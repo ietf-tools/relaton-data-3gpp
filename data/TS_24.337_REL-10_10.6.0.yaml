@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS24.337-Rel-10/10.6.0
 title:
-  type: main
+- type: main
   content: IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem
     (IMS) inter-UE transfer; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.337/24337-a60.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.337/24337-a60.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.337:Rel-10/10.6.0
+- id: 3GPP TS 24.337:Rel-10/10.6.0
   type: 3GPP
 docnumber: TS 24.337:Rel-10/10.6.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2011-03-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WEI, haitao
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 release:

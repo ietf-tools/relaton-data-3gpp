@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR26.937-Rel-8/8.0.0
 title:
-  type: main
+- type: main
   content: Transparent end-to-end Packet-switched Streaming Service (PSS); Real-time
     Transport Protocol (RTP) usage model
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-800.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.937/26937-800.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.937:Rel-8/8.0.0
+- id: 3GPP TR 26.937:Rel-8/8.0.0
   type: 3GPP
 docnumber: TR 26.937:Rel-8/8.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2011-04-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CURCIO, Igor
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: Upgraded unchanged from Rel-7
+- content: Upgraded unchanged from Rel-7
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S4
+- name: S4
   type: prime
 radiotechnology: 3G
 release:

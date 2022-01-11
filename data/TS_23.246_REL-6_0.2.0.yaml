@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS23.246-Rel-6/0.2.0
 title:
-  type: main
+- type: main
   content: Multimedia Broadcast/Multicast Service (MBMS); Architecture and functional
     description
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.246:Rel-6/0.2.0
+- id: 3GPP TS 23.246:Rel-6/0.2.0
   type: 3GPP
 docnumber: TS 23.246:Rel-6/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JARVIS, Andre
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NOKIA UK R&D Ltd
-  role: author
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
 biblionote:
-  content: 'SP-15: from Rel-5.'
+- content: 'SP-15: from Rel-5.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR32.843-Rel-13/2.0.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Study on Inter-Public-Land-Mobile-Network
     (PLMN) Packet Switched (PS) domain online charging
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.843/32843-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.843/32843-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.843:Rel-13/2.0.0
+- id: 3GPP TR 32.843:Rel-13/2.0.0
   type: 3GPP
 docnumber: TR 32.843:Rel-13/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARDELLA, Maryse
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: SP-150679
+- content: SP-150679
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 3G
 release:

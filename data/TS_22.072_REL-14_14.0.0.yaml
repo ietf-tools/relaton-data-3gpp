@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS22.072-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Call Deflection (CD) service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.072/22072-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.072/22072-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.072:Rel-14/14.0.0
+- id: 3GPP TS 22.072:Rel-14/14.0.0
   type: 3GPP
 docnumber: TS 22.072:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-04-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BISCHINGER, Kurt
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: T-Mobile Austria GmbH
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - T-Mobile Austria GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CD enables the served mobile subscriber to respond to an incoming call
+- content: CD enables the served mobile subscriber to respond to an incoming call
     offered by the network by requesting redirection of this call to another number
     specified in the response. The CD supplementary service can only be invoked before
     the connection is established by the served mobile subscriber, i.e. in response
@@ -40,7 +46,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

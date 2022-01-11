@@ -1,27 +1,29 @@
 ---
 id: 3GPPTR05.01U-UMTS/2.0.0
 title:
-  type: main
+- type: main
   content: Universal Mobile Telecommunications System (UMTS); Objectives and framework
     for the Telecommunications Management Network (TMN) of the UMTS
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.01U/0501U-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.01U/0501U-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 05.01U:UMTS/2.0.0
+- id: 3GPP TR 05.01U:UMTS/2.0.0
   type: 3GPP
 docnumber: TR 05.01U:UMTS/2.0.0
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 3G
 release:

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS23.271-Rel-5/5.4.0
 title:
-  type: main
+- type: main
   content: Functional stage 2 description of Location Services (LCS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.271/23271-540.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.271/23271-540.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.271:Rel-5/5.4.0
+- id: 3GPP TS 23.271:Rel-5/5.4.0
   type: 3GPP
 docnumber: TS 23.271:Rel-5/5.4.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WONG, Gavin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S2

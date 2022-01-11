@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR22.950-Rel-6/6.2.0
 title:
-  type: main
+- type: main
   content: Priority service feasibility study
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.950/22950-620.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.950/22950-620.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.950:Rel-6/6.2.0
+- id: 3GPP TR 22.950:Rel-6/6.2.0
   type: 3GPP
 docnumber: TR 22.950:Rel-6/6.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-07-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GARRAHAN, James
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Applied Communication Sciences
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Applied Communication Sciences
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

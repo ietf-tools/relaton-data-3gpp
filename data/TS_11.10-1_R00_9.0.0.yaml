@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS11.10-1-R00/9.0.0
 title:
-  type: main
+- type: main
   content: 'Mobile station (MS) conformance specification; Part 1: Conformance specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.10-1/1110-1-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.10-1:R00/9.0.0
+- id: 3GPP TS 11.10-1:R00/9.0.0
   type: 3GPP
 docnumber: TS 11.10-1:R00/9.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BAEV, Stoyan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
-  content: "#32:9.0.0->51.010-1v4.0.1"
+- content: "#32:9.0.0->51.010-1v4.0.1"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: G3new

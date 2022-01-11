@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR26.915-R99/0.0.1
 title:
-  type: main
+- type: main
   content: Echo Control For Speech and Multi-Media Services
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.915/26915-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.915/26915-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.915:R99/0.0.1
+- id: 3GPP TR 26.915:R99/0.0.1
   type: 3GPP
 docnumber: TR 26.915:R99/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOETZ, Ian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELLABS OPERATIONS INC.
-  role: author
+    - organization:
+        name:
+        - TELLABS OPERATIONS INC.
+  role:
+  - author
 biblionote:
-  content: No Rel-4 version.  Became 26.115.
+- content: No Rel-4 version.  Became 26.115.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S4

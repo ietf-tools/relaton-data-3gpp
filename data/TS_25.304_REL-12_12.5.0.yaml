@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS25.304-Rel-12/12.5.0
 title:
-  type: main
+- type: main
   content: User Equipment (UE) procedures in idle mode and procedures for cell reselection
     in connected mode
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-c50.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.304/25304-c50.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.304:Rel-12/12.5.0
+- id: 3GPP TS 25.304:Rel-12/12.5.0
   type: 3GPP
 docnumber: TS 25.304:Rel-12/12.5.0
 date:
@@ -19,20 +19,26 @@ date:
 - type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHEN, Jun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HiSilicon Technologies Co. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HiSilicon Technologies Co. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes the overall idle mode process for the UE
+- content: "This specification describes the overall idle mode process for the UE
     and the functional division between the non-access stratum and access stratum
     in the UE. The UE is in idle mode when the connection of the UE is closed on all
     layers, e.g. there is neither an MM connection nor an RRC connection.\r\nThis
@@ -43,7 +49,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

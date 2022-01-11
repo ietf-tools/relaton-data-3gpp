@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.872-Rel-8/1.0.0
 title:
-  type: main
+- type: main
   content: Study on architecture of IP Multimedia Subsystem (IMS) based Customized
     Alerting Tone (CAT)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.872/23872-100.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.872/23872-100.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.872:Rel-8/1.0.0
+- id: 3GPP TR 23.872:Rel-8/1.0.0
   type: 3GPP
 docnumber: TR 23.872:Rel-8/1.0.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2008-06-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WANG, Jing
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
 - content: 'SP-41: WI had been moved to Rel-9 in view of projected FS completion date,
     but finished early, so reverted to Rel-8.'
   type: remark
 - content: SP-080355
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

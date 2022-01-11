@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR29.890-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: CT WG3 aspects of 5G System Phase 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/29_series/29.890/29890-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/29_series/29.890/29890-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.890:Rel-16/16.0.0
+- id: 3GPP TR 29.890:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 29.890:Rel-16/16.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: XU, Wenliang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson India Private Limited
-  role: author
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
 biblionote:
-  content: Automatic upgrade
+- content: Automatic upgrade
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 5G
 release:

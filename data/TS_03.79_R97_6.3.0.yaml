@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS03.79-R97/6.3.0
 title:
-  type: main
+- type: main
   content: Support of Optimal Routeing phase 1; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.79/0379-630.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.79/0379-630.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.79:R97/6.3.0
+- id: 3GPP TS 03.79:R97/6.3.0
   type: 3GPP
 docnumber: TS 03.79:R97/6.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RUSSELL, Nick
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: BlackBerry UK Limited
-  role: author
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
 biblionote:
-  content: "#27: 6.0.0  #29: 6.1.0 TSG#5: 6.2.0 TSG#7: 6.3.0"
+- content: "#27: 6.0.0  #29: 6.1.0 TSG#5: 6.2.0 TSG#7: 6.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

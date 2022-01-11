@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS25.104-Rel-4/4.5.0
 title:
-  type: main
+- type: main
   content: Base Station (BS) radio transmission and reception (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.104:Rel-4/4.5.0
+- id: 3GPP TS 25.104:Rel-4/4.5.0
   type: 3GPP
 docnumber: TS 25.104:Rel-4/4.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SKOLD, Johan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the base station minimum RF characteristics
+- content: This specification describes the base station minimum RF characteristics
     of the FDD mode of UTRA. The values in the TS make no allowance for measurements
     uncertainties in conformance testing. Test limit to be used for conformance testing
     are specified separately in the BS conformance test Specification TS 25.141.
@@ -37,7 +43,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R4

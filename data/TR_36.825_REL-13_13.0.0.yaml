@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.825-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study on possible additional configuration for LTE TDD
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.825/36825-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.825/36825-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.825:Rel-13/13.0.0
+- id: 3GPP TR 36.825:Rel-13/13.0.0
   type: 3GPP
 docnumber: TR 36.825:Rel-13/13.0.0
 date:
-  type: created
+- type: created
   value: '2015-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PAN, Xueming
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CATT
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - CATT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: LTE
 release:

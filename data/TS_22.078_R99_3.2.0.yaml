@@ -1,36 +1,42 @@
 ---
 id: 3GPPTS22.078-R99/3.2.0
 title:
-  type: main
+- type: main
   content: Customised Applications for Mobile network Enhanced Logic (CAMEL); Service
     description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-320.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.078/22078-320.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.078:R99/3.2.0
+- id: 3GPP TS 22.078:R99/3.2.0
   type: 3GPP
 docnumber: TS 22.078:R99/3.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RODERMUND, Friedhelm
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the Stage 1 description for CAMEL feature
+- content: This specification describes the Stage 1 description for CAMEL feature
     which provides the mechanisms to support services consistently independently of
     the serving network. The CAMEL features shall facilitate service control of operator
     specific services external from the serving network. The CAMEL feature is a network
@@ -41,7 +47,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

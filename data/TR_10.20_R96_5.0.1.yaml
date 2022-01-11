@@ -1,34 +1,40 @@
 ---
 id: 3GPPTR10.20-R96/5.0.1
 title:
-  type: main
+- type: main
   content: Lawful Interception requirements for GSM
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.20/1020-501.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.20/1020-501.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 10.20:R96/5.0.1
+- id: 3GPP TR 10.20:R96/5.0.1
   type: 3GPP
 docnumber: TR 10.20:R96/5.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MCKIBBEN, Bernie
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: CableLabs
-  role: author
+    - organization:
+        name:
+        - CableLabs
+  role:
+  - author
 biblionote:
-  content: SMG#20:5.0.0
+- content: SMG#20:5.0.0
   type: remark
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S3

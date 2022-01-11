@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS22.179-Rel-13/0.3.0
 title:
-  type: main
+- type: main
   content: Mission Critical Push to Talk (MCPTT); Stage 1
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 22.179:Rel-13/0.3.0
+- id: 3GPP TS 22.179:Rel-13/0.3.0
   type: 3GPP
 docnumber: TS 22.179:Rel-13/0.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2014-12-19'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CYPHER, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: U.S. Department of Commerce
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - U.S. Department of Commerce
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: LTE
 release:

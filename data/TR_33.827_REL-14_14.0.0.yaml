@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR33.827-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Study on providing for Lawful Interception (LI) in the S8 Home Routeing
     (S8HR) architecture for Voice over LTE (VoLTE)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.827/33827-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.827/33827-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.827:Rel-14/14.0.0
+- id: 3GPP TR 33.827:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 33.827:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2016-10-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHUMACHER, Greg
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: SPRINT Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - SPRINT Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: LTE
 release:

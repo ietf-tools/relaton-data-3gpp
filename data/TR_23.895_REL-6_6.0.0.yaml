@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR23.895-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: Provision of UE specific behaviour information to network entities
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.895/23895-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.895/23895-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.895:Rel-6/6.0.0
+- id: 3GPP TR 23.895:Rel-6/6.0.0
   type: 3GPP
 docnumber: TR 23.895:Rel-6/6.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PUDNEY, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: Anticipate CR next mtg to clarify that this is not a loophole to allow
+- content: Anticipate CR next mtg to clarify that this is not a loophole to allow
     untested UEs to be placed on the market.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

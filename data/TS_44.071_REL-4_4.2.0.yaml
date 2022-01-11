@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS44.071-Rel-4/4.2.0
 title:
-  type: main
+- type: main
   content: GSM/EDGE Location Services (LCS); Mobile radio interface layer 3 LCS specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.071/44071-420.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.071/44071-420.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 44.071:Rel-4/4.2.0
+- id: 3GPP TS 44.071:Rel-4/4.2.0
   type: 3GPP
 docnumber: TS 44.071:Rel-4/4.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-02-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ANDERSEN, Niels Peter Skov
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Anemone Technology
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

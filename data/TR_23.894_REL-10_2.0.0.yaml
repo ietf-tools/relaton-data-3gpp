@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.894-Rel-10/2.0.0
 title:
-  type: main
+- type: main
   content: System enhancements for the use of IP Multimedia Subsystem (IMS)  services
     in local breakout and optimal routeing of media
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.894/23894-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.894/23894-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.894:Rel-10/2.0.0
+- id: 3GPP TR 23.894:Rel-10/2.0.0
   type: 3GPP
 docnumber: TR 23.894:Rel-10/2.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2009-12-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MADELLA, Mario
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
 biblionote:
-  content: SP-090802
+- content: SP-090802
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 2G
 release:

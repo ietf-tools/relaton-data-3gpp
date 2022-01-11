@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS25.431-Rel-5/5.0.0
 title:
-  type: main
+- type: main
   content: UTRAN Iub interface Layer 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.431/25431-500.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.431/25431-500.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.431:Rel-5/5.0.0
+- id: 3GPP TS 25.431:Rel-5/5.0.0
   type: 3GPP
 docnumber: TS 25.431:Rel-5/5.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: REININGER, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification describes the standards allowed to implement Layer
+- content: "This specification describes the standards allowed to implement Layer
     1 on the Iub interface.\r\nThe specification of transmission delay requirements
     and O&M requirements is not in the scope of this specification."
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R3

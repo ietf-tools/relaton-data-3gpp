@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR25.924-Rel-4/0.0.1
 title:
-  type: main
+- type: main
   content: Opportunity Driven Multiple Access (ODMA)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.924/25924-001.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.924/25924-001.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.924:Rel-4/0.0.1
+- id: 3GPP TR 25.924:Rel-4/0.0.1
   type: 3GPP
 docnumber: TR 25.924:Rel-4/0.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LAW, Alan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: '2002-01-23: .WG Secretary reports that this is really R99. Watch this
+- content: '2002-01-23: .WG Secretary reports that this is really R99. Watch this
     space. 2002-02-25 (Van der Veen): No further interest, so spec withdrawn.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R2

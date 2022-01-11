@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.139-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: 3GPP system - fixed broadband access network interworking; Home (e)Node
     B - security gateway interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.139/29139-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.139/29139-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.139:Rel-13/13.0.0
+- id: 3GPP TS 29.139:Rel-13/13.0.0
   type: 3GPP
 docnumber: TS 29.139:Rel-13/13.0.0
 date:
@@ -19,27 +19,33 @@ date:
 - type: confirmed
   value: '2012-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YANG, Yong
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

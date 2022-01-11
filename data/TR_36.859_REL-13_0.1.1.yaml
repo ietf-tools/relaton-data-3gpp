@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR36.859-Rel-13/0.1.1
 title:
-  type: main
+- type: main
   content: Study on Downlink Multiuser Superposition Transmission (MUST) for LTE
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.859/36859-011.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.859/36859-011.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.859:Rel-13/0.1.1
+- id: 3GPP TR 36.859:Rel-13/0.1.1
   type: 3GPP
 docnumber: TR 36.859:Rel-13/0.1.1
 date:
-  type: created
+- type: created
   value: '2015-06-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIAO, Pei-Kai
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MediaTek Inc.
-  role: author
+    - organization:
+        name:
+        - MediaTek Inc.
+  role:
+  - author
 biblionote:
-  content: R1-153625
+- content: R1-153625
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: LTE
 release:

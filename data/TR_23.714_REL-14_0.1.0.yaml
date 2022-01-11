@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.714-Rel-14/0.1.0
 title:
-  type: main
+- type: main
   content: Study on Control Plane (CP) and User Plane (UP) separation of Evolved Packet
     Core (EPC) nodes
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.714/23714-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.714/23714-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.714:Rel-14/0.1.0
+- id: 3GPP TR 23.714:Rel-14/0.1.0
   type: 3GPP
 docnumber: TR 23.714:Rel-14/0.1.0
 date:
@@ -19,22 +19,28 @@ date:
 - type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCHRAMM, Mirko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
-  content: Update with agreed P-CRs at S2#111
+- content: Update with agreed P-CRs at S2#111
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S2

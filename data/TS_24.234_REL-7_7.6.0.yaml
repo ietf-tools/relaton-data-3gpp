@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS24.234-Rel-7/7.6.0
 title:
-  type: main
+- type: main
   content: 3GPP system to Wireless Local Area Network (WLAN) interworking; WLAN User
     Equipment (WLAN UE) to network protocols; Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.234/24234-760.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.234/24234-760.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.234:Rel-7/7.6.0
+- id: 3GPP TS 24.234:Rel-7/7.6.0
   type: 3GPP
 docnumber: TS 24.234:Rel-7/7.6.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2006-03-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KÅLL, Jan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 release:

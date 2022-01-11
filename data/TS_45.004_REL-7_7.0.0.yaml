@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS45.004-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: GSM/EDGE Modulation
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.004/45004-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.004/45004-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 45.004:Rel-7/7.0.0
+- id: 3GPP TS 45.004:Rel-7/7.0.0
   type: 3GPP
 docnumber: TS 45.004:Rel-7/7.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2008-03-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LIBERG, Olof
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: Decision to upgrade taken at GP-34, but has a CR anyway.
+- content: Decision to upgrade taken at GP-34, but has a CR anyway.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

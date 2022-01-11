@@ -1,39 +1,45 @@
 ---
 id: 3GPPTR25.933-Rel-4/2.0.0
 title:
-  type: main
+- type: main
   content: IP transport in UTRAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.933/25933-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.933/25933-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.933:Rel-4/2.0.0
+- id: 3GPP TR 25.933:Rel-4/2.0.0
   type: 3GPP
 docnumber: TR 25.933:Rel-4/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GODIN, Philippe
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
 - content: '2001-12-05: Rel-4 abandoned in favour of Rel-5 (Drevon).'
   type: remark
 - content: RP-020137
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR01.03U-UMTS/3.1.0
 title:
-  type: main
+- type: main
   content: Universal Mobile Telecommunications System (UMTS); System requirements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.03U/0103U-310.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.03U/0103U-310.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 01.03U:UMTS/3.1.0
+- id: 3GPP TR 01.03U:UMTS/3.1.0
   type: 3GPP
 docnumber: TR 01.03U:UMTS/3.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-05-27'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RICHARDS, Derek
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: ETSI ETR 291, withdrawn.
   type: remark
 - content: withdrawn
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: SMG5

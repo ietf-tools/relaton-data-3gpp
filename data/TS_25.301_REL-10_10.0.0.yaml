@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.301-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Radio interface protocol architecture
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.301/25301-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.301/25301-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.301:Rel-10/10.0.0
+- id: 3GPP TS 25.301:Rel-10/10.0.0
   type: 3GPP
 docnumber: TS 25.301:Rel-10/10.0.0
 date:
@@ -18,32 +18,38 @@ date:
 - type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VAN DER ZEE, Martin
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nanjing Ericsson Panda Com Ltd
-  role: author
+    - organization:
+        name:
+        - Nanjing Ericsson Panda Com Ltd
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.2.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes an overview and overall description of the
+- content: This specification describes an overview and overall description of the
     UE-UTRAN radio interface protocol architecture. Details of the radio protocols
     will be specified in companion documents.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

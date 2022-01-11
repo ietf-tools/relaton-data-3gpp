@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR22.805-Rel-12/1.1.0
 title:
-  type: main
+- type: main
   content: Feasibility study on user plane congestion management
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.805:Rel-12/1.1.0
+- id: 3GPP TR 22.805:Rel-12/1.1.0
   type: 3GPP
 docnumber: TR 22.805:Rel-12/1.1.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2012-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VISSER, John
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: KDDI Corporation
-  role: author
+    - organization:
+        name:
+        - KDDI Corporation
+  role:
+  - author
 biblionote:
-  content: S1-122242
+- content: S1-122242
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 release:

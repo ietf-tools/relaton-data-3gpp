@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS03.50-Ph2/4.5.0
 title:
-  type: main
+- type: main
   content: Transmission Planning Aspects of the Speech Service in the GSM Public Land
     Mobile Network (PLMN) System
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.50/0350-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.50/0350-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 03.50:Ph2/4.5.0
+- id: 3GPP TS 03.50:Ph2/4.5.0
   type: 3GPP
 docnumber: TS 03.50:Ph2/4.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: USAI, Paolino
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
-  content: "#8: 4.0.0   #9: 4.1.0   #15: 4.2.0   #24: 4.3.0  #25: 4.4.0  #27: 4.5.0
+- content: "#8: 4.0.0   #9: 4.1.0   #15: 4.2.0   #24: 4.3.0  #25: 4.4.0  #27: 4.5.0
     \ #28: 4.6.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

@@ -1,45 +1,51 @@
 ---
 id: 3GPPTS24.174-Rel-16/0.2.0
 title:
-  type: main
+- type: main
   content: Support of multi-device and multi-identity in the IP Multimedia Subsystem
     (IMS); Stage 3
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.174/24174-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.174/24174-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 24.174:Rel-16/0.2.0
+- id: 3GPP TS 24.174:Rel-16/0.2.0
   type: 3GPP
 docnumber: TS 24.174:Rel-16/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2021-12-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: AXELL, Jörgen
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "Implemented: C1-188701, C1-188738, C1-188739.\r\nAdditional editorials,
+- content: "Implemented: C1-188701, C1-188738, C1-188739.\r\nAdditional editorials,
     bullet numbering and styles, de-capitalization etc."
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C1
+- name: C1
   type: prime
 radiotechnology: 3G
 common-ims-spec: true

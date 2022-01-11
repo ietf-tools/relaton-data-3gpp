@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS29.272-Rel-11/11.0.0
 title:
-  type: main
+- type: main
   content: Evolved Packet System (EPS); Mobility Management Entity (MME) and Serving
     GPRS Support Node (SGSN) related interfaces based on Diameter protocol
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.272/29272-b00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.272/29272-b00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 29.272:Rel-11/11.0.0
+- id: 3GPP TS 29.272:Rel-11/11.0.0
   type: 3GPP
 docnumber: TS 29.272:Rel-11/11.0.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2009-01-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LAVASANI, Shahab
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies Sweden AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

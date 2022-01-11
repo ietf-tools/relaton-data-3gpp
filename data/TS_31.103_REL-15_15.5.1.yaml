@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS31.103-Rel-15/15.5.1
 title:
-  type: main
+- type: main
   content: Characteristics of the IP Multimedia Services Identity Module (ISIM) application
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/31_series/31.103/31103-f51.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/31_series/31.103/31103-f51.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.103:Rel-15/15.5.1
+- id: 3GPP TS 31.103:Rel-15/15.5.1
   type: 3GPP
 docnumber: TS 31.103:Rel-15/15.5.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PHAN, Ly Thanh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Gemalto N.V.
-  role: author
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
 biblionote:
-  content: 5G logo updated
+- content: 5G logo updated
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines the ISIM application for 3G telecom network operation.
+- content: This document defines the ISIM application for 3G telecom network operation.
     The present document specifies, command parameters, file structures and content,
     security functions and the application protocol to be used on the interface between
     UICC (ISIM) and ME.
@@ -40,10 +46,10 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

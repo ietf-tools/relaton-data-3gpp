@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR36.806-Rel-9/0.2.0
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Relay architectures
     for E-UTRA (LTE-Advanced)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.806/36806-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.806/36806-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.806:Rel-9/0.2.0
+- id: 3GPP TR 36.806:Rel-9/0.2.0
   type: 3GPP
 docnumber: TR 36.806:Rel-9/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2010-04-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: STATTIN, Magnus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: R2-097537
+- content: R2-097537
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R2

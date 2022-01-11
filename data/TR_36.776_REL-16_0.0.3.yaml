@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR36.776-Rel-16/0.0.3
 title:
-  type: main
+- type: main
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on LTE-based
     5G terrestrial broadcast
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.776/36776-003.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.776/36776-003.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.776:Rel-16/0.0.3
+- id: 3GPP TR 36.776:Rel-16/0.0.3
   type: 3GPP
 docnumber: TR 36.776:Rel-16/0.0.3
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RICO ALVARINO, Alberto
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
 biblionote:
-  content: Endorsed in R1-1813054
+- content: Endorsed in R1-1813054
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R1
+- name: R1
   type: prime
 radiotechnology: LTE
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS33.223-Rel-8/2.0.0
 title:
-  type: main
+- type: main
   content: Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture
     (GBA) Push function
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.223:Rel-8/2.0.0
+- id: 3GPP TS 33.223:Rel-8/2.0.0
   type: 3GPP
 docnumber: TS 33.223:Rel-8/2.0.0
 date:
@@ -19,30 +19,36 @@ date:
 - type: confirmed
   value: '2006-08-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JERICHOW, Anja
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Germany
-  role: author
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
 biblionote:
 - content: 'SP-38: timed out of Rel-7, moved to Rel-8.'
   type: remark
 - content: SP-080259
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

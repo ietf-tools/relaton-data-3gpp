@@ -1,35 +1,41 @@
 ---
 id: 3GPPTR37.880-Rel-17/1.1.1
 title:
-  type: main
+- type: main
   content: Study on high-power UE operation for fixed-wireless/vehicle-mounted use
     cases in LTE bands 5 and 12 and NR band n71
   format: text/plain
 link:
-  content: https://ftp.3gpp.org//Specs/archive/37_series/37.880/37880-111.zip
+- content: https://ftp.3gpp.org//Specs/archive/37_series/37.880/37880-111.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 37.880:Rel-17/1.1.1
+- id: 3GPP TR 37.880:Rel-17/1.1.1
   type: 3GPP
 docnumber: TR 37.880:Rel-17/1.1.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NG, Man Hung
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia France
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Nokia France
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

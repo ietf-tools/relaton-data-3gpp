@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR26.911-Rel-16/16.0.0
 title:
-  type: main
+- type: main
   content: Codec(s) for Circuit-Switched (CS) multimedia telephony service; Terminal
     implementor’s guide
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.911/26911-g00.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.911/26911-g00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 26.911:Rel-16/16.0.0
+- id: 3GPP TR 26.911:Rel-16/16.0.0
   type: 3GPP
 docnumber: TR 26.911:Rel-16/16.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-01-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Facebook
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Facebook
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This report describes non-mandatory Recommendations for the use of the
+- content: This report describes non-mandatory Recommendations for the use of the
     different codec implementation options for the circuit-switched 3G-324M multimedia
     telephony service based on ITU-T Recommendation H.324, Annex C. These Recommendations
     address issues specific to the third generation operating environment, including
@@ -39,7 +45,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S4

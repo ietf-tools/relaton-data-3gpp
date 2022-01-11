@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.818-Rel-7/7.0.0
 title:
-  type: main
+- type: main
   content: UTRA tower mounted amplifier (FDD) study item technical report
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.818/25818-700.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.818/25818-700.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.818:Rel-7/7.0.0
+- id: 3GPP TR 25.818:Rel-7/7.0.0
   type: 3GPP
 docnumber: TR 25.818:Rel-7/7.0.0
 date:
-  type: created
+- type: created
   value: '2006-03-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SJERLING, Klas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

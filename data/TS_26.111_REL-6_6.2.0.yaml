@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS26.111-Rel-6/6.2.0
 title:
-  type: main
+- type: main
   content: Codec for circuit switched multimedia telephony service; Modifications
     to H.324
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-620.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.111/26111-620.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 26.111:Rel-6/6.2.0
+- id: 3GPP TS 26.111:Rel-6/6.2.0
   type: 3GPP
 docnumber: TS 26.111:Rel-6/6.2.0
 date:
@@ -19,27 +19,33 @@ date:
 - type: confirmed
   value: '2008-12-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JUNG, Kyunghun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Facebook
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Facebook
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes the modifications applicable to the ITU-T
+- content: This specification describes the modifications applicable to the ITU-T
     Recommendation H.324, Annex C for the support of circuit-switched 3G-324M multimedia
     telephony service.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S4

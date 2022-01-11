@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS31.116-Rel-9/9.1.0
 title:
-  type: main
+- type: main
   content: Remote APDU Structure for (U)SIM Toolkit applications
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.116/31116-910.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.116/31116-910.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 31.116:Rel-9/9.1.0
+- id: 3GPP TS 31.116:Rel-9/9.1.0
   type: 3GPP
 docnumber: TS 31.116:Rel-9/9.1.0
 date:
@@ -18,29 +18,35 @@ date:
 - type: confirmed
   value: '2012-01-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PHAN, Ly Thanh
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Gemalto N.V.
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines the remote management of files and applets on the
+- content: This document defines the remote management of files and applets on the
     SIM/USIM.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

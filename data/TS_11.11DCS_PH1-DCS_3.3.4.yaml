@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS11.11dcs-Ph1-DCS/3.3.4
 title:
-  type: main
+- type: main
   content: Specification of the Subscriber Identity Module - Mobile Equipment (SIM-ME)
     Interface (DCS 1800)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.11dcs/1111dcs-334.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.11dcs/1111dcs-334.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 11.11dcs:Ph1-DCS/3.3.4
+- id: 3GPP TS 11.11dcs:Ph1-DCS/3.3.4
   type: 3GPP
 docnumber: TS 11.11dcs:Ph1-DCS/3.3.4
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-09-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GUTHERY, Scott B.
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: WorldCell
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - WorldCell
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -1,28 +1,32 @@
 ---
 id: 3GPPTS43.046-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Technical Realization of Facsimile Group 3 Service - non transparent
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.046/43046-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.046/43046-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 43.046:Rel-4/4.0.0
+- id: 3GPP TS 43.046:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 43.046:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOSWARTHICK, David
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
 biblionote:
 - content: ".2002-01-23: Boswarthick: created in error; non-transparent fax ceases
     with R99."
@@ -30,12 +34,14 @@ biblionote:
 - content: '2002-01-23: Boswarthick: created in error; non-transparent fax ceases
     with R99.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: N3

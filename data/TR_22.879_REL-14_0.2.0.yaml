@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR22.879-Rel-14/0.2.0
 title:
-  type: main
+- type: main
   content: Feasibility study on Mission Critical (MC) video services over LTE
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 22.879:Rel-14/0.2.0
+- id: 3GPP TR 22.879:Rel-14/0.2.0
   type: 3GPP
 docnumber: TR 22.879:Rel-14/0.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: VILLEBRUN, Emmanuelle
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MINISTERE DE L'INTERIEUR
-  role: author
+    - organization:
+        name:
+        - MINISTERE DE L'INTERIEUR
+  role:
+  - author
 biblionote:
-  content: S1-152340
+- content: S1-152340
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: LTE
 release:

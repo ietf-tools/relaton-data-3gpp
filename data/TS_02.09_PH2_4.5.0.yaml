@@ -1,37 +1,43 @@
 ---
 id: 3GPPTS02.09-Ph2/4.5.0
 title:
-  type: main
+- type: main
   content: Security aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.09/0209-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.09/0209-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 02.09:Ph2/4.5.0
+- id: 3GPP TS 02.09:Ph2/4.5.0
   type: 3GPP
 docnumber: TS 02.09:Ph2/4.5.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2002-02-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHRISTOFFERSSON, Per
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TeliaSonera AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TeliaSonera AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S3

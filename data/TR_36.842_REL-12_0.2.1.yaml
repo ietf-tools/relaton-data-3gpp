@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR36.842-Rel-12/0.2.1
 title:
-  type: main
+- type: main
   content: Study on Small Cell enhancements for E-UTRA and E-UTRAN; Higher layer aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.842/36842-021.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.842/36842-021.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.842:Rel-12/0.2.1
+- id: 3GPP TR 36.842:Rel-12/0.2.1
   type: 3GPP
 docnumber: TR 36.842:Rel-12/0.2.1
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2014-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TAKAHASHI, Hideaki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: DOCOMO Communications Lab.
-  role: author
+    - organization:
+        name:
+        - DOCOMO Communications Lab.
+  role:
+  - author
 biblionote:
-  content: R2-132986
+- content: R2-132986
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R2
+- name: R2
   type: prime
 radiotechnology: LTE
 release:

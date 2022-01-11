@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR22.818-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Feasibility Study on Control of Applications when Third party Servers encounter
     difficulties
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.818/22818-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.818/22818-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.818:Rel-14/14.0.0
+- id: 3GPP TR 22.818:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 22.818:Rel-14/14.0.0
 date:
-  type: created
+- type: created
   value: '2015-06-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOSHIDA, Eriko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: KDDI Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - KDDI Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:

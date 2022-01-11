@@ -1,35 +1,41 @@
 ---
 id: 3GPPTS04.10-Ph1/3.2.3
 title:
-  type: main
+- type: main
   content: Mobile Radio Interface  Layer 3 - Supplementary Services Specification
     - General Aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.10/0410-323.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.10/0410-323.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.10:Ph1/3.2.3
+- id: 3GPP TS 04.10:Ph1/3.2.3
   type: 3GPP
 docnumber: TS 04.10:Ph1/3.2.3
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SUBRAMANIAN, Ramachandran
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm UK Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm UK Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C4

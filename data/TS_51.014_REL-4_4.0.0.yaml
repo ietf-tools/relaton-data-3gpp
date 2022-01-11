@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS51.014-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: Specification of the SIM Application Toolkit for the Subscriber Identity
     Module - Mobile Equipment (SIM - ME) interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.014/51014-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.014/51014-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 51.014:Rel-4/4.0.0
+- id: 3GPP TS 51.014:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 51.014:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-09-23'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Morpho Cards GmbH
-  role: author
+    - organization:
+        name:
+        - Morpho Cards GmbH
+  role:
+  - author
 biblionote:
-  content: 'RP-11: TSG-T agreed not to have a rel-4 version. The 3G equivalent (31.111)
+- content: 'RP-11: TSG-T agreed not to have a rel-4 version. The 3G equivalent (31.111)
     will be upgraded to include a GSM-only annex.  TP-18: This spec resurrected, based
     on ETSI TS 102 223 Rel-4 (via a CR to 11.14 R99).  TP-26: no promotion to Rel-5
     or beyond needed'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C6

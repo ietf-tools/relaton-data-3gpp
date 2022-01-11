@@ -1,42 +1,48 @@
 ---
 id: 3GPPTS23.234-Rel-6/1.7.0
 title:
-  type: main
+- type: main
   content: 3GPP system to Wireless Local Area Network (WLAN) interworking; System
     description
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.234:Rel-6/1.7.0
+- id: 3GPP TS 23.234:Rel-6/1.7.0
   type: 3GPP
 docnumber: TS 23.234:Rel-6/1.7.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2008-07-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: MARTIQUET, Nicolas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Orange
-  role: author
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
 biblionote:
-  content: 'SP-18: Anticipate approval SP-19.  SP-19: Doc has been split into scenario
+- content: 'SP-18: Anticipate approval SP-19.  SP-19: Doc has been split into scenario
     2 and scenario 3 parts, and will be for approval at SP-20.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

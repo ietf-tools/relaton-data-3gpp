@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS33.216-Rel-16/16.2.0
 title:
-  type: main
+- type: main
   content: Security Assurance Specification (SCAS) for the evolved Node B (eNB) network
     product class
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.216/33216-g20.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.216/33216-g20.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 33.216:Rel-16/16.2.0
+- id: 3GPP TS 33.216:Rel-16/16.2.0
   type: 3GPP
 docnumber: TS 33.216:Rel-16/16.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-09-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WONG, Marcus
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Tech.(UK) Co.. Ltd
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: LTE
 release:

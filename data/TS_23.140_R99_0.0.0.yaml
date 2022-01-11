@@ -1,39 +1,45 @@
 ---
 id: 3GPPTS23.140-R99/0.0.0
 title:
-  type: main
+- type: main
   content: Multimedia Messaging Service (MMS); Functional description; Stage 2
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 23.140:R99/0.0.0
+- id: 3GPP TS 23.140:R99/0.0.0
   type: 3GPP
 docnumber: TS 23.140:R99/0.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-10-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: HOWELL, Andrew
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HOME OFFICE
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This TS describes the MMS network architecture, the application protocol
+- content: This TS describes the MMS network architecture, the application protocol
     framework and the technical realization of service features needed to support
     the non-realtime Multimedia Messaging Service.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: CP

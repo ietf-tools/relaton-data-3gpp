@@ -1,44 +1,50 @@
 ---
 id: 3GPPTS23.125-Rel-6/6.0.0
 title:
-  type: main
+- type: main
   content: Overall high level functionality and architecture impacts of flow based
     charging; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.125/23125-600.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.125/23125-600.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 23.125:Rel-6/6.0.0
+- id: 3GPP TS 23.125:Rel-6/6.0.0
   type: 3GPP
 docnumber: TS 23.125:Rel-6/6.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2004-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BOMAN, Krister
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: 'SP-23: to be completed by SP-24.'
+- content: 'SP-23: to be completed by SP-24.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

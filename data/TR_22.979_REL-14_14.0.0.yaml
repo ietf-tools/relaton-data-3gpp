@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR22.979-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Feasibility study on combined Circuit Switched (CS) calls and IP Multimedia
     Subsystem (IMS) sessions
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.979/22979-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.979/22979-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.979:Rel-14/14.0.0
+- id: 3GPP TR 22.979:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 22.979:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-03-24'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FRANK, Robert
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TeliaSonera AB
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - TeliaSonera AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 2G
 common-ims-spec: true

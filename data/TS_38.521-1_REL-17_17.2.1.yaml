@@ -1,47 +1,53 @@
 ---
 id: 3GPPTS38.521-1-Rel-17/17.2.1
 title:
-  type: main
+- type: main
   content: 'NR; User Equipment (UE) conformance specification;  Radio transmission
     and reception; Part 1: Range 1 standalone'
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-h21.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.521-1/38521-1-h21.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 38.521-1:Rel-17/17.2.1
+- id: 3GPP TS 38.521-1:Rel-17/17.2.1
   type: 3GPP
 docnumber: TS 38.521-1:Rel-17/17.2.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-01-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHI, Yu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Unicom
-  role: author
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
 biblionote:
-  content: "me misplaced / forgotten tables of R5-216029 and \r\nR5-216030 and editorial
+- content: "me misplaced / forgotten tables of R5-216029 and \r\nR5-216030 and editorial
     table numbering in clause 6.3A.3.1.4.3\r\n ^ 2021-10-21: Correct some misplaced
     / forgotten tables of R5-216029 and \r\nR5-216030 and editorial table numbering
     in clause 6.3A.3.1.4.3\r\n"
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 5G
 release:

@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.844-Rel-11/0.3.0
 title:
-  type: main
+- type: main
   content: Feasibility study on IP Multimedia Subsystem (IMS) based peer-to-peer content
     distribution services; Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.844/23844-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.844/23844-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.844:Rel-11/0.3.0
+- id: 3GPP TR 23.844:Rel-11/0.3.0
   type: 3GPP
 docnumber: TR 23.844:Rel-11/0.3.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2012-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: QING, Yu
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: 'SP-56: timed out of Rel-11.'
+- content: 'SP-56: timed out of Rel-11.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

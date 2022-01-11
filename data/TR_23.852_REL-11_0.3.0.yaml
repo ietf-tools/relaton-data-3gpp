@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR23.852-Rel-11/0.3.0
 title:
-  type: main
+- type: main
   content: Study on S2a Mobility based on GPRS Tunnelling Protocol (GTP) and Wireless
     Local Area Network (WLAN) access to the Enhanced Packet Core (EPC) network (SaMOG);
     Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.852/23852-030.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.852/23852-030.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.852:Rel-11/0.3.0
+- id: 3GPP TR 23.852:Rel-11/0.3.0
   type: 3GPP
 docnumber: TR 23.852:Rel-11/0.3.0
 date:
@@ -20,25 +20,31 @@ date:
 - type: confirmed
   value: '2013-09-12'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ZHU, Chunhui
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ZTE Corporation
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ZTE Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

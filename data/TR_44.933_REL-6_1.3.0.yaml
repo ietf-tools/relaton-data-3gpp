@@ -1,43 +1,49 @@
 ---
 id: 3GPPTR44.933-Rel-6/1.3.0
 title:
-  type: main
+- type: main
   content: Seamless support of streaming services in GERAN A/Gb mode
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.933/44933-130.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.933/44933-130.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 44.933:Rel-6/1.3.0
+- id: 3GPP TR 44.933:Rel-6/1.3.0
   type: 3GPP
 docnumber: TR 44.933:Rel-6/1.3.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-05-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GESSNER, Christina
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: Work stopped at GP-32.
+- content: Work stopped at GP-32.
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: G2
+- name: G2
   type: prime
 radiotechnology: 2G
 release:

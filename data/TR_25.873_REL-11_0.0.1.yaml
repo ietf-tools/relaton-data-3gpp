@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR25.873-Rel-11/0.0.1
 title:
-  type: main
+- type: main
   content: UE Demodulation Performance Requirements Under Multiple-cell Scenario for
     1.28Mcps TDD
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 25.873:Rel-11/0.0.1
+- id: 3GPP TR 25.873:Rel-11/0.0.1
   type: 3GPP
 docnumber: TR 25.873:Rel-11/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2011-10-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Nan
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: R4-110373
+- content: R4-110373
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: 3G
 release:

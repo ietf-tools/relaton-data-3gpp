@@ -1,36 +1,42 @@
 ---
 id: 3GPPTR36.763-Rel-17/0.4.0
 title:
-  type: main
+- type: main
   content: Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type
     Communication (eMTC) support for Non-Terrestrial Networks (NTN)
   format: text/plain
 link:
-  content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.763/36763-040.zip
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.763/36763-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 36.763:Rel-17/0.4.0
+- id: 3GPP TR 36.763:Rel-17/0.4.0
   type: 3GPP
 docnumber: TR 36.763:Rel-17/0.4.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: CHARBIT, Gilles
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: MediaTek Inc.
-  role: author
+    - organization:
+        name:
+        - MediaTek Inc.
+  role:
+  - author
 biblionote:
-  content: "Endorsed in R1-2106379 (R1-2106379 cover page is updated to show correct
+- content: "Endorsed in R1-2106379 (R1-2106379 cover page is updated to show correct
     version number)\r\n"
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R1

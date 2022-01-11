@@ -1,34 +1,40 @@
 ---
 id: 3GPPTS02.04-Ph1/3.6.2
 title:
-  type: main
+- type: main
   content: General on Supplementary Services
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TS 02.04:Ph1/3.6.2
+- id: 3GPP TS 02.04:Ph1/3.6.2
   type: 3GPP
 docnumber: TS 02.04:Ph1/3.6.2
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KIM, Youngae
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: Still 3.6.1 on document, but bears serg changes
+- content: Still 3.6.1 on document, but bears serg changes
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS25.323-Rel-10/10.0.0
 title:
-  type: main
+- type: main
   content: Packet Data Convergence Protocol (PDCP) specification
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-a00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-a00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.323:Rel-10/10.0.0
+- id: 3GPP TS 25.323:Rel-10/10.0.0
   type: 3GPP
 docnumber: TS 25.323:Rel-10/10.0.0
 date:
@@ -18,25 +18,31 @@ date:
 - type: confirmed
   value: '2005-06-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SHRESTHA, Bharat
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Intel Corporation (UK) Ltd
-  role: author
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 9.1.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides the description of the Packet Data Convergence Protocol
+- content: This document provides the description of the Packet Data Convergence Protocol
     (PDCP). PDCP provides its services to the NAS at the UE or the relay at the Radio
     Network Controller (RNC). PDCP uses the services provided by the Radio Link Control
     (RLC) sublayer.
@@ -44,7 +50,7 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR33.904-Rel-4/2.0.0
 title:
-  type: main
+- type: main
   content: Report on the Evaluation of 3GPP Standard Confidentiality and Integrity
     Algorithms
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 33.904:Rel-4/2.0.0
+- id: 3GPP TR 33.904:Rel-4/2.0.0
   type: 3GPP
 docnumber: TR 33.904:Rel-4/2.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: 'VACANT,  '
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: " "
-  role: author
+    - organization:
+        name:
+        - " "
+  role:
+  - author
 biblionote:
 - content: 'SP-15: Not to be promoted to Rel-5.  In fact, replaced by 33.908.'
   type: remark
 - content: only available as http://www.3gpp.org/TB/other/algorithms/KASUMI_Eval_rep_v20.pdf
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: S3

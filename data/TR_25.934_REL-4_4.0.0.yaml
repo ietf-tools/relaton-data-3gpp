@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR25.934-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: AAL2 QoS optimization
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.934/25934-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.934/25934-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 25.934:Rel-4/4.0.0
+- id: 3GPP TR 25.934:Rel-4/4.0.0
   type: 3GPP
 docnumber: TR 25.934:Rel-4/4.0.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOSHIMURA, Takayuki
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Vodafone K.K.
-  role: author
+    - organization:
+        name:
+        - Vodafone K.K.
+  role:
+  - author
 biblionote:
-  content: 'RP-15: No upgrade to Rel-5.'
+- content: 'RP-15: No upgrade to Rel-5.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: R3

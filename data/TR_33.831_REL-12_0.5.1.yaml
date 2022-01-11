@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR33.831-Rel-12/0.5.1
 title:
-  type: main
+- type: main
   content: Study on security on spoofed call detection and prevention (Stage 2)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.831/33831-051.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.831/33831-051.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.831:Rel-12/0.5.1
+- id: 3GPP TR 33.831:Rel-12/0.5.1
   type: 3GPP
 docnumber: TR 33.831:Rel-12/0.5.1
 date:
@@ -18,22 +18,28 @@ date:
 - type: confirmed
   value: '2014-09-29'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LI, Xiangjun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

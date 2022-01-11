@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR32.802-Rel-5/1.0.4
 title:
-  type: main
+- type: main
   content: Telecommunication management; User Equipment Management (UEM) feasibility
     study
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.802/32802-104.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.802/32802-104.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 32.802:Rel-5/1.0.4
+- id: 3GPP TR 32.802:Rel-5/1.0.4
   type: 3GPP
 docnumber: TR 32.802:Rel-5/1.0.4
 date:
-  type: confirmed
+- type: confirmed
   value: '2018-12-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TOCHE, Christian
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Huawei Technologies France
-  role: author
+    - organization:
+        name:
+        - Huawei Technologies France
+  role:
+  - author
 biblionote:
 - content: 'SP-21: No rapporteur, work stopped.  SP-26: assume no desire to upgrade
     to Rel-6.  2006-02: Cf OMA DevMan.'
   type: remark
 - content: SP-020011
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

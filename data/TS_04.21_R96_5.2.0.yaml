@@ -1,38 +1,44 @@
 ---
 id: 3GPPTS04.21-R96/5.2.0
 title:
-  type: main
+- type: main
   content: Rate Adaption on the Mobile Station - Base Station System (MS-BSS) Interface
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.21/0421-520.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.21/0421-520.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 04.21:R96/5.2.0
+- id: 3GPP TS 04.21:R96/5.2.0
   type: 3GPP
 docnumber: TS 04.21:R96/5.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BELLING, Thomas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks
-  role: author
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
 biblionote:
-  content: "#20:  5.0.0  #21: 5.1.0  #22: 5.2.0  #23: 5.3.0   #24: 5.4.0  #25: 5.5.0
+- content: "#20:  5.0.0  #21: 5.1.0  #22: 5.2.0  #23: 5.3.0   #24: 5.4.0  #25: 5.5.0
     \ #27: 5.6.0 TSG#8:5.7.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: C3

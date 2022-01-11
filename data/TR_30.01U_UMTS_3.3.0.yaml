@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR30.01U-UMTS/3.3.0
 title:
-  type: main
+- type: main
   content: 'UMTS Baseline document: Collection of the SMG’s positions on the UMTS'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.01U/3001U-330.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.01U/3001U-330.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.01U:UMTS/3.3.0
+- id: 3GPP TR 30.01U:UMTS/3.3.0
   type: 3GPP
 docnumber: TR 30.01U:UMTS/3.3.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SAMUKIC, Antun
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 biblionote:
-  content: "#22: 3.0.0  #23: 3.1.0  #24: 3.2.0  #25: 3.3.0  #26: 3.4.0  #27: 3.5.1"
+- content: "#22: 3.0.0  #23: 3.1.0  #24: 3.2.0  #25: 3.3.0  #26: 3.4.0  #27: 3.5.1"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: "-"

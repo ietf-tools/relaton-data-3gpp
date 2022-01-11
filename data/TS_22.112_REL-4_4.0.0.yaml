@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS22.112-Rel-4/4.0.0
 title:
-  type: main
+- type: main
   content: USIM Application Toolkit (USAT) Interpreter; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.112/22112-400.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.112/22112-400.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.112:Rel-4/4.0.0
+- id: 3GPP TS 22.112:Rel-4/4.0.0
   type: 3GPP
 docnumber: TS 22.112:Rel-4/4.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2009-02-16'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: KRUSE, Heiko
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: IDEMIA
-  role: author
+    - organization:
+        name:
+        - IDEMIA
+  role:
+  - author
 biblionote:
 - content: 'TP-13: Rel-4 withdrawn, since stage 2 not ready.'
   type: remark
 - content: withdrawn TP-13
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies a system to make Mobile Operator services, based
+- content: This document specifies a system to make Mobile Operator services, based
     on USAT functionality and USIM based security functionality, available to an internet
     environment. This is achieved by specifying the necessary components and protocols
     for a secure narrow band channel between the internet application and an USAT
@@ -43,10 +49,10 @@ abstract:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: C6
+- name: C6
   type: prime
 radiotechnology: 3G
 release:

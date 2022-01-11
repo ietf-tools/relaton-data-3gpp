@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR29.949-Rel-14/14.0.0
 title:
-  type: main
+- type: main
   content: Study on technical aspects on roaming end-to-end scenarios with Voice over
     LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.949/29949-e00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.949/29949-e00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.949:Rel-14/14.0.0
+- id: 3GPP TR 29.949:Rel-14/14.0.0
   type: 3GPP
 docnumber: TR 29.949:Rel-14/14.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2015-01-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: JESSKE, Roland
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Deutsche Telekom AG
-  role: author
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
 biblionote:
-  content: Automatic upgrade from previous Release
+- content: Automatic upgrade from previous Release
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C3
+- name: C3
   type: prime
 radiotechnology: 3G
 release:

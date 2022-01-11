@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR33.868-Rel-12/0.17.0
 title:
-  type: main
+- type: main
   content: Study on security aspects of Machine-Type Communications (MTC) and other
     mobile data applications communications enhancements
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.868/33868-0h0.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.868/33868-0h0.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 33.868:Rel-12/0.17.0
+- id: 3GPP TR 33.868:Rel-12/0.17.0
   type: 3GPP
 docnumber: TR 33.868:Rel-12/0.17.0
 date:
@@ -19,27 +19,33 @@ date:
 - type: confirmed
   value: '2014-03-17'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: RAJADURAI, Rajavelsamy
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Samsung R&D Institute UK
-  role: author
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 biblionote:
 - content: 'SP-56: Rel-12 instance justified by WI @ SP-120384 (MTCe).'
   type: remark
 - content: Word file shows wrong version number.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S3
+- name: S3
   type: prime
 radiotechnology: 2G
 release:

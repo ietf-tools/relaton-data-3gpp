@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS25.213-R99/2.0.0
 title:
-  type: main
+- type: main
   content: Spreading and modulation (FDD)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.213/25213-200.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.213/25213-200.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 25.213:R99/2.0.0
+- id: 3GPP TS 25.213:R99/2.0.0
   type: 3GPP
 docnumber: TS 25.213:R99/2.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2006-03-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PICA, Francesco
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Qualcomm Incorporated
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes spreading and modulation for UTRA physical
+- content: This specification describes spreading and modulation for UTRA physical
     layer FDD mode.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: RP

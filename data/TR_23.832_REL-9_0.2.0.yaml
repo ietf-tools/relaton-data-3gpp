@@ -1,16 +1,16 @@
 ---
 id: 3GPPTR23.832-Rel-9/0.2.0
 title:
-  type: main
+- type: main
   content: IP Multimedia Subsystem (IMS) aspects of architecture for Home Node B (HNB);
     Stage 2
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.832/23832-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.832/23832-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.832:Rel-9/0.2.0
+- id: 3GPP TR 23.832:Rel-9/0.2.0
   type: 3GPP
 docnumber: TR 23.832:Rel-9/0.2.0
 date:
@@ -19,28 +19,34 @@ date:
 - type: confirmed
   value: '2010-03-26'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: DREVON, Nicolas
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Corporation
-  role: author
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
 biblionote:
-  content: 'SP-47: timed out of Rel-9'
+- content: 'SP-47: timed out of Rel-9'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: 3G
 release:

@@ -1,41 +1,47 @@
 ---
 id: 3GPPTS28.555-Rel-17/0.1.0
 title:
-  type: main
+- type: main
   content: Management and orchestration; Network policy management for 5G mobile networks;
     Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.555/28555-010.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.555/28555-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 28.555:Rel-17/0.1.0
+- id: 3GPP TS 28.555:Rel-17/0.1.0
   type: 3GPP
 docnumber: TS 28.555:Rel-17/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GUO, Shasha
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: China Mobile Com. Corporation
-  role: author
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
 biblionote:
-  content: S5-204658
+- content: S5-204658
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 5G
 release:

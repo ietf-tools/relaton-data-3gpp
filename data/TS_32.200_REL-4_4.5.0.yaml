@@ -1,40 +1,46 @@
 ---
 id: 3GPPTS32.200-Rel-4/4.5.0
 title:
-  type: main
+- type: main
   content: Telecommunication management; Charging management; Charging principles
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.200/32200-450.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.200/32200-450.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 32.200:Rel-4/4.5.0
+- id: 3GPP TS 32.200:Rel-4/4.5.0
   type: 3GPP
 docnumber: TS 32.200:Rel-4/4.5.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: GOERMER, Gerald
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Networks Oy
-  role: author
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
 biblionote:
-  content: Had been indicated as approved at SP-12, but this was erroneous.
+- content: Had been indicated as approved at SP-12, but this was erroneous.
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: S5
+- name: S5
   type: prime
 radiotechnology: 2G
 release:

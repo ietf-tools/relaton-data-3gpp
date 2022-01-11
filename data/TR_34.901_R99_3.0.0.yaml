@@ -1,44 +1,50 @@
 ---
 id: 3GPPTR34.901-R99/3.0.0
 title:
-  type: main
+- type: main
   content: Test Time Optimisation based on statistical approaches; Statistical theory
     applied and evaluation of statistical significance
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-300.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-300.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 34.901:R99/3.0.0
+- id: 3GPP TR 34.901:R99/3.0.0
   type: 3GPP
 docnumber: TR 34.901:R99/3.0.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2003-06-04'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOKOYAMA, Mitsuru
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Agilent Technologies Int Japan
-  role: author
+    - organization:
+        name:
+        - Agilent Technologies Int Japan
+  role:
+  - author
 biblionote:
-  content: '2002-09-26: Anticipate approval at TP-18.'
+- content: '2002-09-26: Anticipate approval at TP-18.'
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R5
+- name: R5
   type: prime
 radiotechnology: 3G
 release:

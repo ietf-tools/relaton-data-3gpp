@@ -1,41 +1,47 @@
 ---
 id: 3GPPTR29.903-Rel-5/0.3.1
 title:
-  type: main
+- type: main
   content: Feasibility Study on SS7 signalling transport in the core network with
     SCCP-User Adaptation  (SUA) layer
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 29.903:Rel-5/0.3.1
+- id: 3GPP TR 29.903:Rel-5/0.3.1
   type: 3GPP
 docnumber: TR 29.903:Rel-5/0.3.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2005-01-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: YOUNG, Michael
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: NP-11:creation Supersedes 29.203
+- content: NP-11:creation Supersedes 29.203
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

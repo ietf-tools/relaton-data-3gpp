@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS51.010-2-Rel-9/9.7.0
 title:
-  type: main
+- type: main
   content: 'Mobile Station (MS) conformance specification; Part 2: Protocol Implementation
     Conformance Statement (PICS) proforma specification'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-970.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-970.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 51.010-2:Rel-9/9.7.0
+- id: 3GPP TS 51.010-2:Rel-9/9.7.0
   type: 3GPP
 docnumber: TS 51.010-2:Rel-9/9.7.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2008-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LASCOUX, Remi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Sierra Wireless. S.A.
-  role: author
+    - organization:
+        name:
+        - Sierra Wireless. S.A.
+  role:
+  - author
 biblionote:
-  content: Upgraded from previous Release without technical change
+- content: Upgraded from previous Release without technical change
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: R5

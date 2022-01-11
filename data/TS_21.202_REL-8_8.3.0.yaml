@@ -1,16 +1,16 @@
 ---
 id: 3GPPTS21.202-Rel-8/8.3.0
 title:
-  type: main
+- type: main
   content: Technical Specifications and Technical Reports relating to the Common IP
     Multimedia Subsystem (IMS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.202/21202-830.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.202/21202-830.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 21.202:Rel-8/8.3.0
+- id: 3GPP TS 21.202:Rel-8/8.3.0
   type: 3GPP
 docnumber: TS 21.202:Rel-8/8.3.0
 date:
@@ -19,25 +19,31 @@ date:
 - type: confirmed
   value: '2009-01-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: FIRMIN, Frederic
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: ETSI
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
-  name: SP
+- name: SP
   type: prime
 radiotechnology: 2G
 release:

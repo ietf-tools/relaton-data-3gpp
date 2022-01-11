@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR03.30-Ph2/4.2.0
 title:
-  type: main
+- type: main
   content: Radio Network Planning Aspects
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-420.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.30/0330-420.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 03.30:Ph2/4.2.0
+- id: 3GPP TR 03.30:Ph2/4.2.0
   type: 3GPP
 docnumber: TR 03.30:Ph2/4.2.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: TEGTH, Ulf
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Waiting for new Company
-  role: author
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
-  content: "#7: 4.2.0  #9: 4.2.1  #13: 4.3.0"
+- content: "#7: 4.2.0  #9: 4.2.1  #13: 4.3.0"
   type: remark
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
 - name: GP

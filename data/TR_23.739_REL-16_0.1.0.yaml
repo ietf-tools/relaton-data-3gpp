@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR23.739-Rel-16/0.1.0
 title:
-  type: main
+- type: main
   content: Study on enhancement of EPC for low latency communication including device
     mobility
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.739/23739-010.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.739/23739-010.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 23.739:Rel-16/0.1.0
+- id: 3GPP TR 23.739:Rel-16/0.1.0
   type: 3GPP
 docnumber: TR 23.739:Rel-16/0.1.0
 contributor:
-  person:
+- person:
     name:
       completename:
         content: PUDNEY, Chris
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: VODAFONE Group Plc
-  role: author
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
 biblionote:
-  content: Updated with approved pCRs at SA WG2#125
+- content: Updated with approved pCRs at SA WG2#125
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S2
+- name: S2
   type: prime
 radiotechnology: LTE
 release:

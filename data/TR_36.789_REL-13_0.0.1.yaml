@@ -1,37 +1,43 @@
 ---
 id: 3GPPTR36.789-Rel-13/0.0.1
 title:
-  type: main
+- type: main
   content: Multi-node tests for Licence-Assisted Access (LAA)
   format: text/plain
 type: standard
 docid:
-  id: 3GPP TR 36.789:Rel-13/0.0.1
+- id: 3GPP TR 36.789:Rel-13/0.0.1
   type: 3GPP
 docnumber: TR 36.789:Rel-13/0.0.1
 date:
-  type: confirmed
+- type: confirmed
   value: '2017-06-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: IMADUR, Rahman
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Ericsson LM
-  role: author
-language: en
-script: Latn
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: R4
+- name: R4
   type: prime
 radiotechnology: LTE
 release:

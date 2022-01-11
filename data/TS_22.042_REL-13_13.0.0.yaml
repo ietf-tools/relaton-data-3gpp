@@ -1,15 +1,15 @@
 ---
 id: 3GPPTS22.042-Rel-13/13.0.0
 title:
-  type: main
+- type: main
   content: Network Identity and TimeZone (NITZ); Service description; Stage 1
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.042/22042-d00.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.042/22042-d00.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TS 22.042:Rel-13/13.0.0
+- id: 3GPP TS 22.042:Rel-13/13.0.0
   type: 3GPP
 docnumber: TS 22.042:Rel-13/13.0.0
 date:
@@ -18,32 +18,38 @@ date:
 - type: confirmed
   value: '2011-04-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: SCARRONE, Enrico
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: TELECOM ITALIA S.p.A.
-  role: author
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release version 12.0.0
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The feature NITZ provides the means for serving networks to transfer current
+- content: The feature NITZ provides the means for serving networks to transfer current
     identity, time, daylight saving time and the local time zone to user equipment
     storage and use.
   format: text/plain
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TS
 editorialgroup:
 - name: S1

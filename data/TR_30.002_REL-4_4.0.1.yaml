@@ -1,42 +1,48 @@
 ---
 id: 3GPPTR30.002-Rel-4/4.0.1
 title:
-  type: main
+- type: main
   content: Guidelines for the modification of the Mobile Application Part (MAP)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.002/30002-401.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.002/30002-401.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 30.002:Rel-4/4.0.1
+- id: 3GPP TR 30.002:Rel-4/4.0.1
   type: 3GPP
 docnumber: TR 30.002:Rel-4/4.0.1
 contributor:
-  person:
+- person:
     name:
       completename:
         content: WIEHE, Ulrich
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Nokia Solutions & Networks (S)
-  role: author
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
 biblionote:
 - content: '2002-03-10: WG Chairman: Unwithdrawn.  post-NP-16: No Rel-5 needed.'
   type: remark
 - content: 'NP-19: Replaced by 30.902 v4.0.2.'
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: withdrawn
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: N4
+- name: N4
   type: prime
 radiotechnology: 2G
 release:

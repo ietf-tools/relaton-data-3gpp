@@ -1,40 +1,46 @@
 ---
 id: 3GPPTR29.826-Rel-13/0.4.0
 title:
-  type: main
+- type: main
   content: P-CSCF restoration enhancements for WLAN
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.826/29826-040.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.826/29826-040.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.826:Rel-13/0.4.0
+- id: 3GPP TR 29.826:Rel-13/0.4.0
   type: 3GPP
 docnumber: TR 29.826:Rel-13/0.4.0
 date:
-  type: created
+- type: created
   value: '2015-06-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: LANDAIS, Bruno
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Alcatel-Lucent
-  role: author
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
 biblionote:
-  content: Created in CT4-69.
+- content: Created in CT4-69.
   type: comment
-language: en
-script: Latn
-fetched: '2021-12-24'
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: C4
+- name: C4
   type: prime
 radiotechnology: 3G
 release:

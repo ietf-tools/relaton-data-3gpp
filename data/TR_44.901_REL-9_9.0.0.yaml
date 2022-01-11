@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR44.901-Rel-9/9.0.0
 title:
-  type: main
+- type: main
   content: GSM/EDGE External Network Assisted Cell Change (NACC)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.901/44901-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.901/44901-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 44.901:Rel-9/9.0.0
+- id: 3GPP TR 44.901:Rel-9/9.0.0
   type: 3GPP
 docnumber: TR 44.901:Rel-9/9.0.0
 date:
@@ -18,30 +18,36 @@ date:
 - type: confirmed
   value: '2005-02-14'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: BACKLUND, Ingemar
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: HUAWEI TECHNOLOGIES Co. Ltd.
-  role: author
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: RP
+- name: RP
   type: prime
 radiotechnology: 2G
 release:

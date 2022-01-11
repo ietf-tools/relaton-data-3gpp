@@ -1,17 +1,17 @@
 ---
 id: 3GPPTR29.998-04-4-Rel-9/9.0.0
 title:
-  type: main
+- type: main
   content: 'Open Service Access (OSA); Application Programming Interface (API) Mapping
     for Open Service Access; Part 4: Call Control Service Mapping; Subpart 4: Multiparty
     Call Control ISC'
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-04-4/29998-04-4-900.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.998-04-4/29998-04-4-900.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 29.998-04-4:Rel-9/9.0.0
+- id: 3GPP TR 29.998-04-4:Rel-9/9.0.0
   type: 3GPP
 docnumber: TR 29.998-04-4:Rel-9/9.0.0
 date:
@@ -20,30 +20,36 @@ date:
 - type: confirmed
   value: '2003-05-02'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: UNMEHOPA, Musa
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Philips International B.V.
-  role: author
+    - organization:
+        name:
+        - Philips International B.V.
+  role:
+  - author
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
 - content: Automatic upgrade from previous Release
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: CP
+- name: CP
   type: prime
 radiotechnology: 2G
 release:

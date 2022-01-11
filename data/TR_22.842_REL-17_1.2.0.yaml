@@ -1,38 +1,44 @@
 ---
 id: 3GPPTR22.842-Rel-17/1.2.0
 title:
-  type: main
+- type: main
   content: Study on Network Controlled Interactive Service (NCIS) in the 5G System
     (5GS)
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.842/22842-120.zip
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.842/22842-120.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.842:Rel-17/1.2.0
+- id: 3GPP TR 22.842:Rel-17/1.2.0
   type: 3GPP
 docnumber: TR 22.842:Rel-17/1.2.0
 date:
-  type: confirmed
+- type: confirmed
   value: '2019-06-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: NING, Yang
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: Beijing OPPO Com. corp., ltd
-  role: author
-language: en
-script: Latn
-fetched: '2021-12-24'
+    - organization:
+        name:
+        - Beijing OPPO Com. corp., ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 5G
 release:

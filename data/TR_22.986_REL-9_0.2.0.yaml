@@ -1,15 +1,15 @@
 ---
 id: 3GPPTR22.986-Rel-9/0.2.0
 title:
-  type: main
+- type: main
   content: Study on Service Specific Access Control
   format: text/plain
 link:
-  content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.986/22986-020.zip
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.986/22986-020.zip
   type: src
 type: standard
 docid:
-  id: 3GPP TR 22.986:Rel-9/0.2.0
+- id: 3GPP TR 22.986:Rel-9/0.2.0
   type: 3GPP
 docnumber: TR 22.986:Rel-9/0.2.0
 date:
@@ -18,28 +18,34 @@ date:
 - type: confirmed
   value: '2011-04-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: ISOBE, Shin-ichi
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
     affiliation:
-      organization:
-        name: NTT DOCOMO INC.
-  role: author
+    - organization:
+        name:
+        - NTT DOCOMO INC.
+  role:
+  - author
 biblionote:
-  content: cited in S1 report to SP-41
+- content: cited in S1 report to SP-41
   type: comment
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
-fetched: '2021-12-24'
+fetched: '2022-01-11'
 doctype: TR
 editorialgroup:
-  name: S1
+- name: S1
   type: prime
 radiotechnology: 3G
 release:
