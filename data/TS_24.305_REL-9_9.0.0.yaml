@@ -1,0 +1,65 @@
+---
+id: 3GPPTS24.305-Rel-9/9.0.0
+title:
+- type: main
+  content: Selective Disabling of 3GPP User Equipment Capabilities (SDoUE) Management
+    Object (MO)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.305/24305-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.305:Rel-9/9.0.0
+  type: 3GPP
+docnumber: TS 24.305:Rel-9/9.0.0
+date:
+- type: created
+  value: '2009-12-15'
+- type: confirmed
+  value: '2011-04-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: HERRERO-VERON, Christian
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

@@ -1,0 +1,74 @@
+---
+id: 3GPPTS22.129-Rel-12/12.0.0
+title:
+- type: main
+  content: Service aspects; Handover requirements between UTRAN and GERAN or other
+    radio systems
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.129/22129-c00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.129:Rel-12/12.0.0
+  type: 3GPP
+docnumber: TS 22.129:Rel-12/12.0.0
+date:
+- type: created
+  value: '2014-10-03'
+- type: confirmed
+  value: '2011-04-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: BLECKERT, Peter
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 11.0.0
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes service requirements for handover (terms are
+    defined below) within UMTS systems and between UMTS, other IMT-2000 family members
+    and second generation systems. Particular emphasis has been placed on the description
+    of requirements for handover between UMTS and GSM but requirements specific to
+    other systems are incorporated as required.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

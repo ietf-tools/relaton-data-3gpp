@@ -1,0 +1,52 @@
+---
+id: 3GPPTS33.514-Rel-16/1.0.1
+title:
+- type: main
+  content: 5G Security Assurance Specification (SCAS) for the Unified Data Management
+    (UDM) network product class
+  format: text/plain
+link:
+- content: http://ftp.3gpp.org//Specs/archive/33_series/33.514/33514-101.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 33.514:Rel-16/1.0.1
+  type: 3GPP
+docnumber: TS 33.514:Rel-16/1.0.1
+contributor:
+- person:
+    name:
+      completename:
+        content: YOSHIZAWA, Taka
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - NEC Europe Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

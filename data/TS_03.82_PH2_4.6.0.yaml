@@ -1,0 +1,57 @@
+---
+id: 3GPPTS03.82-Ph2/4.6.0
+title:
+- type: main
+  content: Call Forwarding (CF) Supplementary Services; Stage 2
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.82/0382-460.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 03.82:Ph2/4.6.0
+  type: 3GPP
+docnumber: TS 03.82:Ph2/4.6.0
+contributor:
+- person:
+    name:
+      completename:
+        content: SCHMITT, Peter
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+biblionote:
+- content: "#7: 4.5.0  #8: 4.5.1  #10: 4.6.0   #12: 4.7.0  #18: 4.8.0"
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

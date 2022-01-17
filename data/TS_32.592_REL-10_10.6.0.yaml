@@ -1,0 +1,61 @@
+---
+id: 3GPPTS32.592-Rel-10/10.6.0
+title:
+- type: main
+  content: Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration,
+    Maintenance and Provisioning (OAM&P); Information model for Type 1 interface HeNB
+    to HeNB Management System (HeMS)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.592/32592-a60.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.592:Rel-10/10.6.0
+  type: 3GPP
+docnumber: TS 32.592:Rel-10/10.6.0
+date:
+- type: created
+  value: '2012-06-29'
+- type: confirmed
+  value: '2010-03-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: ANDRIANOV, Anatoly
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

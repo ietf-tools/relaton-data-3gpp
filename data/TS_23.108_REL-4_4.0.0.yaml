@@ -1,0 +1,73 @@
+---
+id: 3GPPTS23.108-Rel-4/4.0.0
+title:
+- type: main
+  content: Mobile radio interface layer 3 specification, core network protocols; Stage
+    2
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.108/23108-400.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.108:Rel-4/4.0.0
+  type: 3GPP
+docnumber: TS 23.108:Rel-4/4.0.0
+date:
+- type: confirmed
+  value: '2008-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+biblionote:
+- content: '2002-02-26: Hietalahti proposes to withdraw, no further interest, unmaintained.  2002-04-15:
+    N1-23 decision to continue to Rel-5.  2002-06-27: (Jorgensen) if R99 and Rel-5
+    exist, so musts Rel-4, so re-instated.'
+  type: remark
+- content: NP-15 withdrawn
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the procedures used at the radio interface
+    for call control (CC), mobility management (MM) and session management (SM). It
+    shall hold examples of the structured procedures.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

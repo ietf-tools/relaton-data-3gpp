@@ -1,0 +1,66 @@
+---
+id: 3GPPTS35.208-Rel-9/9.0.0
+title:
+- type: main
+  content: '3G Security; Specification of the MILENAGE algorithm set: An example algorithm
+    set for the 3GPP authentication and key generation functions f1, f1*, f2, f3,
+    f4, f5 and f5*; Document 4: Design conformance test data'
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.208/35208-900.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 35.208:Rel-9/9.0.0
+  type: 3GPP
+docnumber: TS 35.208:Rel-9/9.0.0
+date:
+- type: created
+  value: '2009-12-31'
+- type: confirmed
+  value: '2012-09-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: EVANS, Tim P.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

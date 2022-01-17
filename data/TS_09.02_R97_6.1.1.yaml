@@ -1,0 +1,54 @@
+---
+id: 3GPPTS09.02-R97/6.1.1
+title:
+- type: main
+  content: Mobile Application Part (MAP) Specification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/09_series/09.02/0902-611.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 09.02:R97/6.1.1
+  type: 3GPP
+docnumber: TS 09.02:R97/6.1.1
+contributor:
+- person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Solutions & Networks (S)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4  /  SMG03?
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

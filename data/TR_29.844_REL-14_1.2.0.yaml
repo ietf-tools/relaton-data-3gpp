@@ -1,0 +1,51 @@
+---
+id: 3GPPTR29.844-Rel-14/1.2.0
+title:
+- type: main
+  content: Study on Control and User Plane Separation of EPC Nodes
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.844/29844-120.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 29.844:Rel-14/1.2.0
+  type: 3GPP
+docnumber: TR 29.844:Rel-14/1.2.0
+contributor:
+- person:
+    name:
+      completename:
+        content: SCHMITT, Peter
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Huawei Tech.(UK) Co.. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

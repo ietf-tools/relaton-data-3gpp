@@ -1,0 +1,61 @@
+---
+id: 3GPPTR32.829-Rel-10/1.0.0
+title:
+- type: main
+  content: Telecommunication management; Study on alignment of 3GPP alarm Integration
+    Reference Point (IRP) and TeleManagement Forum (TMF) Interface Program (TIP) fault
+    management
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.829/32829-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 32.829:Rel-10/1.0.0
+  type: 3GPP
+docnumber: TR 32.829:Rel-10/1.0.0
+date:
+- type: created
+  value: '2010-06-14'
+- type: confirmed
+  value: '2011-03-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: SUDARSAN, Padma
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+biblionote:
+- content: SP-100288
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

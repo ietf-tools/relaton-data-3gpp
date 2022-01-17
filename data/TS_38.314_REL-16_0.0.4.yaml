@@ -1,0 +1,53 @@
+---
+id: 3GPPTS38.314-Rel-16/0.0.4
+title:
+- type: main
+  content: NR; Layer 2 measurements
+  format: text/plain
+link:
+- content: http://ftp.3gpp.org//Specs/archive/38_series/38.314/38314-004.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 38.314:Rel-16/0.0.4
+  type: 3GPP
+docnumber: TS 38.314:Rel-16/0.0.4
+contributor:
+- person:
+    name:
+      completename:
+        content: CHEN, Ningyu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: R2
+  type: prime
+- name: R3, R4
+  type: other
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

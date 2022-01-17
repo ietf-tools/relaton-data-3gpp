@@ -1,0 +1,57 @@
+---
+id: 3GPPTS32.622-4-Rel-4/2.0.0
+title:
+- type: main
+  content: 'Telecommunication management; Configuration Management (CM); Part 4: UTRAN
+    network resources Integration Reference Point (IRP): Common Management Information
+    Protocol (CMIP) solution set'
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.622-4/32622-4-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.622-4:Rel-4/2.0.0
+  type: 3GPP
+docnumber: TS 32.622-4:Rel-4/2.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: TOVINGER, Thomas
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

@@ -1,0 +1,57 @@
+---
+id: 3GPPTR23.912-R99/3.1.0
+title:
+- type: main
+  content: Technical report on Super-Charger
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.912/23912-310.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.912:R99/3.1.0
+  type: 3GPP
+docnumber: TR 23.912:R99/3.1.0
+contributor:
+- person:
+    name:
+      completename:
+        content: SHARP, Iain
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Hillebrand GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

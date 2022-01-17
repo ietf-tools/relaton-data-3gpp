@@ -1,0 +1,57 @@
+---
+id: 3GPPTR43.030-Rel-5/5.0.1
+title:
+- type: main
+  content: Radio network planning aspects
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 43.030:Rel-5/5.0.1
+  type: 3GPP
+docnumber: TR 43.030:Rel-5/5.0.1
+date:
+- type: confirmed
+  value: '2001-11-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: RP
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

@@ -1,0 +1,65 @@
+---
+id: 3GPPTR22.953-Rel-7/1.0.0
+title:
+- type: main
+  content: Multimedia priority service feasibility study
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.953/22953-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.953:Rel-7/1.0.0
+  type: 3GPP
+docnumber: TR 22.953:Rel-7/1.0.0
+date:
+- type: created
+  value: '2006-03-20'
+- type: confirmed
+  value: '2006-06-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: GARRAHAN, James
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Applied Communication Sciences
+  role:
+  - author
+biblionote:
+- content: 'SP-30: target for completion = SP-33.'
+  type: remark
+- content: SP-060039
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

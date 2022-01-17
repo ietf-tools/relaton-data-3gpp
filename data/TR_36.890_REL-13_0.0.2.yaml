@@ -1,0 +1,57 @@
+---
+id: 3GPPTR36.890-Rel-13/0.0.2
+title:
+- type: main
+  content: Study on Support of single-cell point-to-multipoint transmission in LTE
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.890/36890-002.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.890:Rel-13/0.0.2
+  type: 3GPP
+docnumber: TR 36.890:Rel-13/0.0.2
+date:
+- type: created
+  value: '2015-03-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: GAO, Jeff
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: R2-150600
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R2
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

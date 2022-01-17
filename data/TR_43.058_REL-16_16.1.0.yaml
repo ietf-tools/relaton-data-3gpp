@@ -1,0 +1,60 @@
+---
+id: 3GPPTR43.058-Rel-16/16.1.0
+title:
+- type: main
+  content: Characterisation, test methods and quality assessment for handsfree Mobile
+    Stations (MSs)
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp//Specs/archive/43_series/43.058/43058-g10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 43.058:Rel-16/16.1.0
+  type: 3GPP
+docnumber: TR 43.058:Rel-16/16.1.0
+date:
+- type: confirmed
+  value: '2005-01-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: RAGOT, Stephane
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
+biblionote:
+- content: Correct Version Uploaded
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S4
+  type: prime
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

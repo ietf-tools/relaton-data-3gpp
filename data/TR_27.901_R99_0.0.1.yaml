@@ -1,0 +1,54 @@
+---
+id: 3GPPTR27.901-R99/0.0.1
+title:
+- type: main
+  content: Report on Terminal Interfaces - An Overview
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.901/27901-001.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 27.901:R99/0.0.1
+  type: 3GPP
+docnumber: TR 27.901:R99/0.0.1
+contributor:
+- person:
+    name:
+      completename:
+        content: NEAL, Adrian
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C3
+  type: prime
+- name: T2
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

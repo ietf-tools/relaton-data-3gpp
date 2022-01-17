@@ -1,0 +1,53 @@
+---
+id: 3GPPTR21.06U-UMTS/1.0.0
+title:
+- type: main
+  content: O&M requirements for the UMTS
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/21_series/21.06U/2106U-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 21.06U:UMTS/1.0.0
+  type: 3GPP
+docnumber: TR 21.06U:UMTS/1.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: WEICHSELBAUM, Steffen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: "-"
+  type: prime
+- name: SMG06
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

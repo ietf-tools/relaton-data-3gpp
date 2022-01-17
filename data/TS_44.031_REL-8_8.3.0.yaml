@@ -1,0 +1,62 @@
+---
+id: 3GPPTS44.031-Rel-8/8.3.0
+title:
+- type: main
+  content: Location Services (LCS); Mobile Station (MS) - Serving Mobile Location
+    Centre (SMLC) Radio Resource LCS Protocol (RRLP)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/44_series/44.031/44031-830.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 44.031:Rel-8/8.3.0
+  type: 3GPP
+docnumber: TS 44.031:Rel-8/8.3.0
+date:
+- type: created
+  value: '2009-06-12'
+- type: confirmed
+  value: '2001-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: SMG02a
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

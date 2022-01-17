@@ -1,0 +1,56 @@
+---
+id: 3GPPTR29.847-Rel-6/0.2.0
+title:
+- type: main
+  content: Conferencing based on SIP, SDP, and other protocols; Functional models,
+    information flows and protocol details
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.847/29847-020.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 29.847:Rel-6/0.2.0
+  type: 3GPP
+docnumber: TR 29.847:Rel-6/0.2.0
+contributor:
+- person:
+    name:
+      completename:
+        content: MAYER, Georg
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
+biblionote:
+- content: N1-031121
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C1
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

@@ -1,0 +1,68 @@
+---
+id: 3GPPTS25.323-R99/3.3.0
+title:
+- type: main
+  content: Packet Data Convergence Protocol (PDCP) specification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.323/25323-330.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.323:R99/3.3.0
+  type: 3GPP
+docnumber: TS 25.323:R99/3.3.0
+date:
+- type: confirmed
+  value: '2005-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: SHRESTHA, Bharat
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document provides the description of the Packet Data Convergence Protocol
+    (PDCP). PDCP provides its services to the NAS at the UE or the relay at the Radio
+    Network Controller (RNC). PDCP uses the services provided by the Radio Link Control
+    (RLC) sublayer.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R2
+  type: other
+- name: R2
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

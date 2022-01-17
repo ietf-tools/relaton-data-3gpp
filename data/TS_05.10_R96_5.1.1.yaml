@@ -1,0 +1,54 @@
+---
+id: 3GPPTS05.10-R96/5.1.1
+title:
+- type: main
+  content: Radio subsystem synchronization
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.10/0510-511.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.10:R96/5.1.1
+  type: 3GPP
+docnumber: TS 05.10:R96/5.1.1
+contributor:
+- person:
+    name:
+      completename:
+        content: JOKINEN, Harri
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - BROADCOM CORPORATION
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

@@ -1,0 +1,50 @@
+---
+id: 3GPPTR37.716-21-21-Rel-16/0.2.0
+title:
+- type: main
+  content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
+    (EN-DC) of x bands (x=1, 2, 3, 4) LTE inter-band Carrier aggregation (CA) (x Down
+    Link (DL) / 1 Up Link (UL)) and 2 NR bands NR inter-band CA (2 DL / 1 UL)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-21-21/37716-21-21-020.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 37.716-21-21:Rel-16/0.2.0
+  type: 3GPP
+docnumber: TR 37.716-21-21:Rel-16/0.2.0
+contributor:
+- person:
+    name:
+      completename:
+        content: LIM, Suhwan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - LG Electronics Inc.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

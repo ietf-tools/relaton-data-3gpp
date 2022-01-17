@@ -1,0 +1,60 @@
+---
+id: 3GPPTR25.766-Rel-13/0.2.0
+title:
+- type: main
+  content: Study on Network-Assisted Interference Cancellation and Suppression for
+    UMTS
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.766/25766-020.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 25.766:Rel-13/0.2.0
+  type: 3GPP
+docnumber: TR 25.766:Rel-13/0.2.0
+date:
+- type: created
+  value: '2015-06-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: ZHANG, Peng
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: R1-152274
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: RP
+  type: prime
+- name: R1
+  type: other
+radiotechnology: 3G
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

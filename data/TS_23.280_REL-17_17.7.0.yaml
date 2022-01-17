@@ -1,0 +1,54 @@
+---
+id: 3GPPTS23.280-Rel-17/17.7.0
+title:
+- type: main
+  content: Common functional architecture to support mission critical services; Stage
+    2
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.280/23280-h70.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.280:Rel-17/17.7.0
+  type: 3GPP
+docnumber: TS 23.280:Rel-17/17.7.0
+date:
+- type: confirmed
+  value: '2019-01-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: AMOGH, Niranth
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S6
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

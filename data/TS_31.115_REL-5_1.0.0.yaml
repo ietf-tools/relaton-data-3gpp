@@ -1,0 +1,71 @@
+---
+id: 3GPPTS31.115-Rel-5/1.0.0
+title:
+- type: main
+  content: Secured packet structure for (Universal) Subscriber Identity Module (U)SIM
+    Toolkit applications
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.115/31115-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.115:Rel-5/1.0.0
+  type: 3GPP
+docnumber: TS 31.115:Rel-5/1.0.0
+date:
+- type: confirmed
+  value: '2012-03-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: PHAN, Ly Thanh
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Gemalto N.V.
+  role:
+  - author
+biblionote:
+- content: 'TP-16: offered for approval as Rel-6, so scrap Rel-5.'
+  type: remark
+- content: TP-020075
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies the structure of the Secured Packets in implementations
+    using Short Message Service and Cell Broadcast Service. It is applicable to the
+    exchange of secured packets between an entity in a 3G or GSM PLMN and an entity
+    in the (U)SIM.
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

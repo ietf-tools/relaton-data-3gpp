@@ -1,0 +1,57 @@
+---
+id: 3GPPTR25.841-Rel-4/4.1.0
+title:
+- type: main
+  content: DSCH power control improvement in soft handover
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.841/25841-410.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 25.841:Rel-4/4.1.0
+  type: 3GPP
+docnumber: TR 25.841:Rel-4/4.1.0
+contributor:
+- person:
+    name:
+      completename:
+        content: TOSKALA, Antti
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+biblionote:
+- content: 'RP-15: Not to be promoted to Rel-5.'
+  type: remark
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: RP
+  type: prime
+- name: R1
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

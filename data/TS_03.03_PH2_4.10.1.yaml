@@ -1,0 +1,51 @@
+---
+id: 3GPPTS03.03-Ph2/4.10.1
+title:
+- type: main
+  content: Numbering, Addressing and Identification
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 03.03:Ph2/4.10.1
+  type: 3GPP
+docnumber: TS 03.03:Ph2/4.10.1
+contributor:
+- person:
+    name:
+      completename:
+        content: RUSSELL, Nick
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4  /  SMG03?  /  SMG04
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

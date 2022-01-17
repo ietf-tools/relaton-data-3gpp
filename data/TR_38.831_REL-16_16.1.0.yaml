@@ -1,0 +1,49 @@
+---
+id: 3GPPTR38.831-Rel-16/16.1.0
+title:
+- type: main
+  content: User Equipment (UE) Radio Frequency (RF) requirements for Frequency Range
+    2 (FR2)
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.831/38831-g10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.831:Rel-16/16.1.0
+  type: 3GPP
+docnumber: TR 38.831:Rel-16/16.1.0
+contributor:
+- person:
+    name:
+      completename:
+        content: VASENKARI, Petri
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

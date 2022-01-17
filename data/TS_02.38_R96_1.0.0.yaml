@@ -1,0 +1,53 @@
+---
+id: 3GPPTS02.38-R96/1.0.0
+title:
+- type: main
+  content: SIM application toolkit (SAT); Stage 1
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 02.38:R96/1.0.0
+  type: 3GPP
+docnumber: TS 02.38:R96/1.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: CARPENTER, Paul
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: SCP
+  type: other
+- name: S1  /  SMG09
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

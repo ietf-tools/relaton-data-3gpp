@@ -1,0 +1,64 @@
+---
+id: 3GPPTS32.296-Rel-6/1.8.0
+title:
+- type: main
+  content: 'Telecommunication management; Charging management; Online Charging System
+    (OCS): Applications and interfaces'
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.296/32296-180.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.296:Rel-6/1.8.0
+  type: 3GPP
+docnumber: TS 32.296:Rel-6/1.8.0
+date:
+- type: confirmed
+  value: '2004-11-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: GARDELLA, Maryse
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+biblionote:
+- content: Original target for approval = SP-21.
+  type: remark
+- content: S5-044572 Rev S5-044571
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

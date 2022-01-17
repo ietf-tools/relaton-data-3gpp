@@ -1,0 +1,51 @@
+---
+id: 3GPPTS22.01U-UMTS/3.0.0
+title:
+- type: main
+  content: 'Universal Mobile Telecommunications System (UMTS): Service aspects; Service
+    principles'
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 22.01U:UMTS/3.0.0
+  type: 3GPP
+docnumber: TS 22.01U:UMTS/3.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: DWYER, Paul
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: SMG01
+  type: former
+release:
+  version2g: '3'
+  version3g: '3'
+  defunct: true
+  freeze_meeting: SMG-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28
+  project_end: '1999-02-12'

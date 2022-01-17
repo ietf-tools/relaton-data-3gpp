@@ -1,0 +1,66 @@
+---
+id: 3GPPTS35.201-Rel-6/6.1.0
+title:
+- type: main
+  content: '3G Security; Specification of the 3GPP confidentiality and integrity algorithms;
+    Document 1: f8 and f9 specification'
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.201/35201-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 35.201:Rel-6/6.1.0
+  type: 3GPP
+docnumber: TS 35.201:Rel-6/6.1.0
+date:
+- type: created
+  value: '2005-10-10'
+- type: confirmed
+  value: '2011-04-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: EVANS, Tim P.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+biblionote:
+- content: Rel-6 record created on freezing the Release, December 2004.
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+- name: S3
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

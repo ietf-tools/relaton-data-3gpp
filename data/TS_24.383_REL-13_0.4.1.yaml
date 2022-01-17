@@ -1,0 +1,59 @@
+---
+id: 3GPPTS24.383-Rel-13/0.4.1
+title:
+- type: main
+  content: Mission Critical Push To Talk (MCPTT) Management Object (MO)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.383/24383-041.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.383:Rel-13/0.4.1
+  type: 3GPP
+docnumber: TS 24.383:Rel-13/0.4.1
+date:
+- type: created
+  value: '2016-01-29'
+- type: confirmed
+  value: '2016-10-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: BIONDIC, Nevenka
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

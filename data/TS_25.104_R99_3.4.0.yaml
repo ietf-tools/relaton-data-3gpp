@@ -1,0 +1,66 @@
+---
+id: 3GPPTS25.104-R99/3.4.0
+title:
+- type: main
+  content: Base Station (BS) radio transmission and reception (FDD)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.104/25104-340.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.104:R99/3.4.0
+  type: 3GPP
+docnumber: TS 25.104:R99/3.4.0
+date:
+- type: confirmed
+  value: '2003-06-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: SKOLD, Johan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the base station minimum RF characteristics
+    of the FDD mode of UTRA. The values in the TS make no allowance for measurements
+    uncertainties in conformance testing. Test limit to be used for conformance testing
+    are specified separately in the BS conformance test Specification TS 25.141.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: R4
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

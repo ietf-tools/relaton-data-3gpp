@@ -1,0 +1,54 @@
+---
+id: 3GPPTS02.24-Ph2/4.1.1
+title:
+- type: main
+  content: Description of Charge Advice Information (CAI)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.24/0224-411.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 02.24:Ph2/4.1.1
+  type: 3GPP
+docnumber: TS 02.24:Ph2/4.1.1
+contributor:
+- person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1  /  SMG01
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

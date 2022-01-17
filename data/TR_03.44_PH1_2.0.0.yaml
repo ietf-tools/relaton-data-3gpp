@@ -1,0 +1,54 @@
+---
+id: 3GPPTR03.44-Ph1/2.0.0
+title:
+- type: main
+  content: Support of Teletex in a GSM Public Land Mobile Network (PLMN)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.44/0344-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 03.44:Ph1/2.0.0
+  type: 3GPP
+docnumber: TR 03.44:Ph1/2.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: HOLM, Jan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C3
+  type: prime
+- name: SMG04
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '3'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH1
+  freeze_meeting: gsm-25b
+  freeze_stage1_meeting: GSM-25b
+  freeze_stage2_meeting: GSM-25b
+  freeze_stage3_meeting: GSM-25b
+  close_meeting: SMG-17

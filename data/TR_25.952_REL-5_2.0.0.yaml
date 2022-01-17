@@ -1,0 +1,60 @@
+---
+id: 3GPPTR25.952-Rel-5/2.0.0
+title:
+- type: main
+  content: TDD Base Station (BS) classification
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 25.952:Rel-5/2.0.0
+  type: 3GPP
+docnumber: TR 25.952:Rel-5/2.0.0
+date:
+- type: confirmed
+  value: '2006-10-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: AXNESS, Timothy
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - InterDigital Communications
+  role:
+  - author
+biblionote:
+- content: promoted from Rel-4 at RP-12.
+  type: remark
+- content: RP-010457
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

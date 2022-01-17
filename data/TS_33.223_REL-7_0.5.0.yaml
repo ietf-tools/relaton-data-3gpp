@@ -1,0 +1,66 @@
+---
+id: 3GPPTS33.223-Rel-7/0.5.0
+title:
+- type: main
+  content: Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture
+    (GBA) Push function
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.223/33223-050.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 33.223:Rel-7/0.5.0
+  type: 3GPP
+docnumber: TS 33.223:Rel-7/0.5.0
+date:
+- type: created
+  value: '2007-10-03'
+- type: confirmed
+  value: '2006-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: JERICHOW, Anja
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+biblionote:
+- content: 'SP-38: timed out of Rel-7, moved to Rel-8.'
+  type: remark
+- content: email circulation
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

@@ -1,0 +1,62 @@
+---
+id: 3GPPTS45.008-Rel-7/7.20.0
+title:
+- type: main
+  content: GSM/EDGE Radio subsystem link control
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.008/45008-7k0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 45.008:Rel-7/7.20.0
+  type: 3GPP
+docnumber: TS 45.008:Rel-7/7.20.0
+date:
+- type: created
+  value: '2011-04-02'
+- type: confirmed
+  value: '2004-09-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: ERIKSSON LÖWENMARK, Stefan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

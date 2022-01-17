@@ -1,0 +1,62 @@
+---
+id: 3GPPTR31.900-Rel-8/8.0.0
+title:
+- type: main
+  content: SIM/USIM internal and external interworking aspects
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.900/31900-800.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 31.900:Rel-8/8.0.0
+  type: 3GPP
+docnumber: TR 31.900:Rel-8/8.0.0
+date:
+- type: created
+  value: '2009-02-16'
+- type: confirmed
+  value: '2004-09-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: KALINER, Stefan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+biblionote:
+- content: Upgraded unchanged from Rel-7
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C6
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

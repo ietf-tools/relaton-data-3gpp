@@ -1,0 +1,65 @@
+---
+id: 3GPPTS23.234-Rel-6/2.4.0
+title:
+- type: main
+  content: 3GPP system to Wireless Local Area Network (WLAN) interworking; System
+    description
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.234/23234-240.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.234:Rel-6/2.4.0
+  type: 3GPP
+docnumber: TS 23.234:Rel-6/2.4.0
+date:
+- type: confirmed
+  value: '2008-07-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: MARTIQUET, Nicolas
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Orange
+  role:
+  - author
+biblionote:
+- content: 'SP-18: Anticipate approval SP-19.  SP-19: Doc has been split into scenario
+    2 and scenario 3 parts, and will be for approval at SP-20.'
+  type: remark
+- content: S2-040609
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

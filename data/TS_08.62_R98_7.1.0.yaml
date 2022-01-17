@@ -1,0 +1,58 @@
+---
+id: 3GPPTS08.62-R98/7.1.0
+title:
+- type: main
+  content: Inband Tandem Free Operation (TFO) of Speech Codecs; Service Description;
+    Stage 3
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.62/0862-710.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 08.62:R98/7.1.0
+  type: 3GPP
+docnumber: TS 08.62:R98/7.1.0
+contributor:
+- person:
+    name:
+      completename:
+        content: USAI, Paolino
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - ETSI
+  role:
+  - author
+biblionote:
+- content: "#28: 7.0.0 TSG#7: 7.1.0"
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: S4  /  SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '7'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_98
+  freeze_meeting: smg-28
+  freeze_stage1_meeting: SMG-28
+  freeze_stage2_meeting: SMG-28
+  freeze_stage3_meeting: SMG-28
+  close_meeting: SP-28

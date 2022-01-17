@@ -1,0 +1,61 @@
+---
+id: 3GPPTR25.951-Rel-6/6.1.0
+title:
+- type: main
+  content: FDD Base Station (BS) classification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.951/25951-610.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 25.951:Rel-6/6.1.0
+  type: 3GPP
+docnumber: TR 25.951:Rel-6/6.1.0
+date:
+- type: confirmed
+  value: '2006-10-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: SÄYNÄJÄKANGAS, Tuomo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Networks Oy
+  role:
+  - author
+biblionote:
+- content: 'RP-19: from Rel-5.'
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

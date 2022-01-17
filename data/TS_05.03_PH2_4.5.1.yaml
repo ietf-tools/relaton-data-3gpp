@@ -1,0 +1,57 @@
+---
+id: 3GPPTS05.03-Ph2/4.5.1
+title:
+- type: main
+  content: Channel coding
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.03/0503-451.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.03:Ph2/4.5.1
+  type: 3GPP
+docnumber: TS 05.03:Ph2/4.5.1
+contributor:
+- person:
+    name:
+      completename:
+        content: SEBIRE, Benoist
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+biblionote:
+- content: "#7: 4.1.0   #13: 4.2.0   #15: 4.3.0  #21: 4.4.0  #22: 4.5.0"
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_PH2
+  freeze_meeting: smg-11b
+  freeze_stage1_meeting: SMG-11b
+  freeze_stage2_meeting: SMG-11b
+  freeze_stage3_meeting: SMG-11b
+  close_meeting: SP-25

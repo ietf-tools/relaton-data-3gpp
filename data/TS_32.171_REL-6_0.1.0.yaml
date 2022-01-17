@@ -1,0 +1,59 @@
+---
+id: 3GPPTS32.171-Rel-6/0.1.0
+title:
+- type: main
+  content: Telecommunication management; Subscription Management (SuM) Network Resource
+    Model (NRM) Integration Reference Point (IRP); Requirements
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.171/32171-010.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.171:Rel-6/0.1.0
+  type: 3GPP
+docnumber: TS 32.171:Rel-6/0.1.0
+date:
+- type: confirmed
+  value: '2008-12-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: TOVINGER, Thomas
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

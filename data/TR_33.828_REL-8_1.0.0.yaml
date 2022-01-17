@@ -1,0 +1,66 @@
+---
+id: 3GPPTR33.828-Rel-8/1.0.0
+title:
+- type: main
+  content: IP Multimedia Subsystem (IMS) media plane security
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.828/33828-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 33.828:Rel-8/1.0.0
+  type: 3GPP
+docnumber: TR 33.828:Rel-8/1.0.0
+date:
+- type: created
+  value: '2009-03-16'
+- type: confirmed
+  value: '2009-03-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: HOWARD, Peter
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+biblionote:
+- content: 'SP-39: moved from WI UID 732028, hence to Rel-8. SP-43: moved from WI
+    UID 360017, hence to Rel-9.'
+  type: remark
+- content: SP-090134. S3 reports that the TR will probably be shifted to Rel-9 and
+    placed under a new WI.
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

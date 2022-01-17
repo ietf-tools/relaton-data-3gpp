@@ -1,0 +1,60 @@
+---
+id: 3GPPTS05.05-R99/8.14.0
+title:
+- type: main
+  content: Radio Transmission and Reception
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.05/0505-8e0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 05.05:R99/8.14.0
+  type: 3GPP
+docnumber: TS 05.05:R99/8.14.0
+date:
+- type: confirmed
+  value: '2003-09-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: SAMUELSSON, Mats
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

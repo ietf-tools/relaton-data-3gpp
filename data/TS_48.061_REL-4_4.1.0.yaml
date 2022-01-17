@@ -1,0 +1,66 @@
+---
+id: 3GPPTS48.061-Rel-4/4.1.0
+title:
+- type: main
+  content: In-band control of remote transcoders and rate adaptors for half rate traffic
+    channels
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.061/48061-410.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 48.061:Rel-4/4.1.0
+  type: 3GPP
+docnumber: TS 48.061:Rel-4/4.1.0
+date:
+- type: confirmed
+  value: '2012-09-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+biblionote:
+- content: Cover sheet still shows version 4.0.0 and wrong date.
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: CP
+  type: other
+- name: SMG02  /  SMG03
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

@@ -1,0 +1,59 @@
+---
+id: 3GPPTS26.346-Rel-14/14.5.0
+title:
+- type: main
+  content: Multimedia Broadcast/Multicast Service (MBMS); Protocols and codecs
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.346/26346-e50.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 26.346:Rel-14/14.5.0
+  type: 3GPP
+docnumber: TS 26.346:Rel-14/14.5.0
+date:
+- type: confirmed
+  value: '2003-08-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: GABIN, Frederic
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: S2, S3
+  type: other
+radiotechnology: 3G
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

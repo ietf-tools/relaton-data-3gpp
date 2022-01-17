@@ -1,0 +1,62 @@
+---
+id: 3GPPTR37.808-Rel-11/0.2.0
+title:
+- type: main
+  content: Passive Intermodulation (PIM) handling for Base Stations (BS)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.808/37808-020.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 37.808:Rel-11/0.2.0
+  type: 3GPP
+docnumber: TR 37.808:Rel-11/0.2.0
+date:
+- type: created
+  value: '2012-09-28'
+- type: confirmed
+  value: '2013-09-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: SKOLD, Johan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+biblionote:
+- content: R4-123787
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

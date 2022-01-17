@@ -1,0 +1,69 @@
+---
+id: 3GPPTS25.453-Rel-11/11.0.0
+title:
+- type: main
+  content: UTRAN Iupc interface Positioning Calculation Application Part (PCAP) signalling
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.453/25453-b00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.453:Rel-11/11.0.0
+  type: 3GPP
+docnumber: TS 25.453:Rel-11/11.0.0
+date:
+- type: created
+  value: '2012-09-24'
+- type: confirmed
+  value: '2002-03-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: OZTURK, Ozcan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 10.3.0
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The present document specifies the Positioning Calculation Application
+    Part (PCAP) between the Radio Network Controller (RNC) and the Stand-alone SMLC
+    (SAS).
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: R3
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

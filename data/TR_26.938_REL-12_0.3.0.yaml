@@ -1,0 +1,63 @@
+---
+id: 3GPPTR26.938-Rel-12/0.3.0
+title:
+- type: main
+  content: Packet-switched Streaming Service (PSS); Improved support for dynamic adaptive
+    streaming over HTTP in 3GPP
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.938/26938-030.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 26.938:Rel-12/0.3.0
+  type: 3GPP
+docnumber: TR 26.938:Rel-12/0.3.0
+date:
+- type: created
+  value: '2012-08-27'
+- type: confirmed
+  value: '2014-09-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: STOCKHAMMER, Thomas
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+biblionote:
+- content: S4-121161
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

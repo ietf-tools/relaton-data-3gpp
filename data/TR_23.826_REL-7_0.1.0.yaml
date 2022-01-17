@@ -1,0 +1,66 @@
+---
+id: 3GPPTR23.826-Rel-7/0.1.0
+title:
+- type: main
+  content: Feasibility study on Voice Call Continuity (VCC) support for emergency
+    calls
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.826/23826-010.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.826:Rel-7/0.1.0
+  type: 3GPP
+docnumber: TR 23.826:Rel-7/0.1.0
+date:
+- type: created
+  value: '2007-09-24'
+- type: confirmed
+  value: '2006-08-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: EDGE, Stephen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Qualcomm CDMA Technologies
+  role:
+  - author
+biblionote:
+- content: 'SP-41: timed out of Rel-7.'
+  type: remark
+- content: agreed documents in SA2#58 (Orlando) and SA2#59 (Helsinki)
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

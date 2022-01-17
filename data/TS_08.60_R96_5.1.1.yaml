@@ -1,0 +1,58 @@
+---
+id: 3GPPTS08.60-R96/5.1.1
+title:
+- type: main
+  content: In-band control of remote transcoders and rate adaptors for Enhanced Full
+    Rate (EFR) and full rate traffic channels
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.60/0860-511.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 08.60:R96/5.1.1
+  type: 3GPP
+docnumber: TS 08.60:R96/5.1.1
+date:
+- type: confirmed
+  value: '2002-02-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

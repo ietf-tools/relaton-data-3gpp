@@ -1,0 +1,60 @@
+---
+id: 3GPPTR29.818-Rel-11/0.1.1
+title:
+- type: main
+  content: Study on the enhancement of protocols for SMS service over SGs
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.818/29818-011.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 29.818:Rel-11/0.1.1
+  type: 3GPP
+docnumber: TR 29.818:Rel-11/0.1.1
+date:
+- type: created
+  value: '2012-03-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: TROTTIN, Jean-Jacques
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+biblionote:
+- content: Fixes table 4.1-2.
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

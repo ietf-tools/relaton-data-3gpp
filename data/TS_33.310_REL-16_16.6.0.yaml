@@ -1,0 +1,54 @@
+---
+id: 3GPPTS33.310-Rel-16/16.6.0
+title:
+- type: main
+  content: Network Domain Security (NDS); Authentication Framework (AF)
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp//Specs/archive/33_series/33.310/33310-g60.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 33.310:Rel-16/16.6.0
+  type: 3GPP
+docnumber: TS 33.310:Rel-16/16.6.0
+date:
+- type: confirmed
+  value: '2008-03-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: JERICHOW, Anja
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

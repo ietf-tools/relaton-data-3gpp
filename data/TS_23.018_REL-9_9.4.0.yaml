@@ -1,0 +1,64 @@
+---
+id: 3GPPTS23.018-Rel-9/9.4.0
+title:
+- type: main
+  content: Basic call handling; Technical realization
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.018/23018-940.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.018:Rel-9/9.4.0
+  type: 3GPP
+docnumber: TS 23.018:Rel-9/9.4.0
+date:
+- type: created
+  value: '2011-12-19'
+- type: confirmed
+  value: '2006-10-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: LANDAIS, Bruno
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

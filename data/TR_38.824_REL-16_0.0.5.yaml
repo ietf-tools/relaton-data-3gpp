@@ -1,0 +1,52 @@
+---
+id: 3GPPTR38.824-Rel-16/0.0.5
+title:
+- type: main
+  content: Study on physical layer enhancements for NR ultra-reliable and low latency
+    case (URLLC)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.824/38824-005.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.824:Rel-16/0.0.5
+  type: 3GPP
+docnumber: TR 38.824:Rel-16/0.0.5
+contributor:
+- person:
+    name:
+      completename:
+        content: CHENG, Yan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: Endorsed in R1-1814036
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R1
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

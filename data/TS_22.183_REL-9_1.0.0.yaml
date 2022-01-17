@@ -1,0 +1,63 @@
+---
+id: 3GPPTS22.183-Rel-9/1.0.0
+title:
+- type: main
+  content: Customized Ringing Signal (CRS) requirements; Stage 1
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.183/22183-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.183:Rel-9/1.0.0
+  type: 3GPP
+docnumber: TS 22.183:Rel-9/1.0.0
+date:
+- type: created
+  value: '2008-06-06'
+- type: confirmed
+  value: '2009-11-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: SONG, Jin han
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - SK Telecom
+  role:
+  - author
+biblionote:
+- content: SP-080314
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

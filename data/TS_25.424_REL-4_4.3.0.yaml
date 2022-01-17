@@ -1,0 +1,65 @@
+---
+id: 3GPPTS25.424-Rel-4/4.3.0
+title:
+- type: main
+  content: UTRAN Iur interface data transport & transport signalling for Common Transport
+    Channel data streams
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.424/25424-430.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.424:Rel-4/4.3.0
+  type: 3GPP
+docnumber: TS 25.424:Rel-4/4.3.0
+date:
+- type: confirmed
+  value: '2005-06-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: ZHANG, Hongzhuo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HuaWei Technologies Co., Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the UTRAN RNS-RNS (Iur) interface data transport
+    and transport signalling for common transport channel data streams.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: R3
+  type: prime
+- name: R3
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

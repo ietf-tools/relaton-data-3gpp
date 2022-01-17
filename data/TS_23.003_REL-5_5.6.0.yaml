@@ -1,0 +1,60 @@
+---
+id: 3GPPTS23.003-Rel-5/5.6.0
+title:
+- type: main
+  content: Numbering, addressing and identification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.003/23003-560.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.003:Rel-5/5.6.0
+  type: 3GPP
+docnumber: TS 23.003:Rel-5/5.6.0
+date:
+- type: confirmed
+  value: '2004-01-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: WILD, Peter A.
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Vodafone GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C4
+  type: prime
+- name: N4
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

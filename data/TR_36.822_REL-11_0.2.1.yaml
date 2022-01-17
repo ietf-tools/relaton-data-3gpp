@@ -1,0 +1,59 @@
+---
+id: 3GPPTR36.822-Rel-11/0.2.1
+title:
+- type: main
+  content: LTE Radio Access Network (RAN) enhancements for diverse data applications
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.822/36822-021.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.822:Rel-11/0.2.1
+  type: 3GPP
+docnumber: TR 36.822:Rel-11/0.2.1
+date:
+- type: created
+  value: '2012-03-12'
+- type: confirmed
+  value: '2012-09-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: YOUNG, Gordon
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - BlackBerry UK Limited
+  role:
+  - author
+biblionote:
+- content: R2-121008
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R2
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

@@ -1,0 +1,65 @@
+---
+id: 3GPPTR31.900-R99/3.3.0
+title:
+- type: main
+  content: SIM/USIM internal and external interworking aspects
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.900/31900-330.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 31.900:R99/3.3.0
+  type: 3GPP
+docnumber: TR 31.900:R99/3.3.0
+date:
+- type: created
+  value: '2006-03-21'
+- type: confirmed
+  value: '2004-09-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: KALINER, Stefan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+biblionote:
+- content: 'TP-16: withdrawn; only Rel-5 remains valid. CP-30: Expect CT6 to unwithdraw
+    older Releases at CP-31 (CP-050683). CP-31: This Rel unwithdrawn and becomes pointer
+    to latest Rel.'
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: C6
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

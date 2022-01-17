@@ -1,0 +1,57 @@
+---
+id: 3GPPTR23.823-Rel-9/0.3.0
+title:
+- type: main
+  content: Intra Domain Connection of RAN Nodes to Multiple CN Nodes
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.823/23823-030.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.823:Rel-9/0.3.0
+  type: 3GPP
+docnumber: TR 23.823:Rel-9/0.3.0
+date:
+- type: created
+  value: '2009-09-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: LIU, Hong
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - China Mobile Com. Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: '9'
+  version3g: '9'
+  defunct: false
+  wpm_code_2g: GSM_Release_9
+  wpm_code_3g: 3G_Rel-9
+  freeze_meeting: SP-46
+  freeze_stage1_meeting: SP-42
+  freeze_stage2_meeting: SP-44
+  freeze_stage3_meeting: SP-46
+  project_start: '2007-06-01'
+  project_end: '2010-03-25'

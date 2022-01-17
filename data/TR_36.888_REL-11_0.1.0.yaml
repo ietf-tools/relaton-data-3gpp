@@ -1,0 +1,65 @@
+---
+id: 3GPPTR36.888-Rel-11/0.1.0
+title:
+- type: main
+  content: Study on provision of low-cost Machine-Type Communications (MTC) User Equipments
+    (UEs) based on LTE
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.888/36888-010.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 36.888:Rel-11/0.1.0
+  type: 3GPP
+docnumber: TR 36.888:Rel-11/0.1.0
+date:
+- type: created
+  value: '2011-11-02'
+- type: confirmed
+  value: '2013-06-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: BHAT, Prakash
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+biblionote:
+- content: Timed out of Rel-11
+  type: remark
+- content: R1-113616
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R1
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

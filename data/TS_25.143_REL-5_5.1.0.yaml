@@ -1,0 +1,65 @@
+---
+id: 3GPPTS25.143-Rel-5/5.1.0
+title:
+- type: main
+  content: UTRA repeater conformance testing
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.143/25143-510.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.143:Rel-5/5.1.0
+  type: 3GPP
+docnumber: TS 25.143:Rel-5/5.1.0
+date:
+- type: confirmed
+  value: '2003-06-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: KUMMETZ, Thomas
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Andrew Wireless Systems GmbH
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The present document specifies the Radio Frequency (RF) test methods and
+    Minimum Requirements for UTRA Repeaters. These have been derived from, and are
+    consistent with the UTRA Repeater specifications defined in TS 25.106.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: R4
+  type: prime
+- name: R4
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

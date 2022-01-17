@@ -1,0 +1,55 @@
+---
+id: 3GPPTS08.04-R96/5.0.0
+title:
+- type: main
+  content: Base Station System - Mobile Services Switching Centre (BSS-MSC) Interface
+    Layer 1 Specification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.04/0804-500.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 08.04:R96/5.0.0
+  type: 3GPP
+docnumber: TS 08.04:R96/5.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: ANDERSEN, Niels Peter Skov
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Anemone Technology
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G2
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

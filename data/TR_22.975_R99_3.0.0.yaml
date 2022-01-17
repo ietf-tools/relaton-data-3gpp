@@ -1,0 +1,66 @@
+---
+id: 3GPPTR22.975-R99/3.0.0
+title:
+- type: main
+  content: Advanced addressing
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.975/22975-300.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.975:R99/3.0.0
+  type: 3GPP
+docnumber: TR 22.975:R99/3.0.0
+date:
+- type: confirmed
+  value: '2019-01-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: MUSTAPHA, Mona
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - VODAFONE Group Plc
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This report describes the requirements for numbering and addressing for
+    UMTS. This technical report is aimed at generating discussion and should be agreed
+    with ETSI WG NA2. The respon¬sibility for developing of numbering and addressing
+    schemes for all networks being in ETSI NA2.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

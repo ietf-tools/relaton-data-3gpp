@@ -1,0 +1,51 @@
+---
+id: 3GPPTS10.60-R97/6.0.0
+title:
+- type: main
+  content: General Packet Radio Services (GPRS); Project Scheduling and Open Issues
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 10.60:R97/6.0.0
+  type: 3GPP
+docnumber: TS 10.60:R97/6.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: PETERSEN, Johan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Apica IT
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: SMG12
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

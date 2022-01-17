@@ -1,0 +1,60 @@
+---
+id: 3GPPTS29.165-Rel-10/10.7.0
+title:
+- type: main
+  content: Inter-IMS Network to Network Interface (NNI)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.165/29165-a70.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 29.165:Rel-10/10.7.0
+  type: 3GPP
+docnumber: TS 29.165:Rel-10/10.7.0
+date:
+- type: created
+  value: '2012-03-16'
+- type: confirmed
+  value: '2010-04-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: QUERIO, Roberto
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - TELECOM ITALIA S.p.A.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C3
+  type: prime
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

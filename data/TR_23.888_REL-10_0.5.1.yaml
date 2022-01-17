@@ -1,0 +1,59 @@
+---
+id: 3GPPTR23.888-Rel-10/0.5.1
+title:
+- type: main
+  content: System improvements for Machine-Type Communications (MTC)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.888/23888-051.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.888:Rel-10/0.5.1
+  type: 3GPP
+docnumber: TR 23.888:Rel-10/0.5.1
+date:
+- type: created
+  value: '2010-07-20'
+- type: confirmed
+  value: '2010-10-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: JAIN, Puneet
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Intel Corporation (UK) Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: a
+  version3g: a
+  defunct: false
+  wpm_code_2g: GSM_Release_10
+  wpm_code_3g: 3G4G_Rel-10
+  freeze_meeting: SP-51
+  freeze_stage1_meeting: SP-47
+  freeze_stage2_meeting: SP-49
+  freeze_stage3_meeting: SP-51
+  project_start: '2009-03-01'
+  project_end: '2011-06-08'

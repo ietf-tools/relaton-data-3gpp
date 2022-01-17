@@ -1,0 +1,60 @@
+---
+id: 3GPPTS11.21-R97/6.1.0
+title:
+- type: main
+  content: Base Station System (BSS) equipment specification; Radio aspects
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 11.21:R97/6.1.0
+  type: 3GPP
+docnumber: TS 11.21:R97/6.1.0
+date:
+- type: confirmed
+  value: '2002-05-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: 'VACANT,  '
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - " "
+  role:
+  - author
+biblionote:
+- content: "#27:6.0.0 (Rodermund: not required [Aug-00]).  GP-09 (Usai) resurrected.
+    \ GP-12 (Usai): scrapped again."
+  type: remark
+- content: CRs unimplementable; spec is scrapped.
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: G1
+  type: prime
+- name: SMG02c
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_97
+  freeze_meeting: smg-24
+  freeze_stage1_meeting: SMG-24
+  freeze_stage2_meeting: SMG-24
+  freeze_stage3_meeting: SMG-24
+  close_meeting: SP-28

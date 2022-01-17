@@ -1,0 +1,50 @@
+---
+id: 3GPPTR23.748-Rel-17/0.0.0
+title:
+- type: main
+  content: Study on enhancement of support for Edge Computing in 5G Core network (5GC)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.748/23748-000.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.748:Rel-17/0.0.0
+  type: 3GPP
+docnumber: TR 23.748:Rel-17/0.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: NI, Hui
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: 'S2-1910645: Proposed skeleton agreed at S2#135'
+  type: comment
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

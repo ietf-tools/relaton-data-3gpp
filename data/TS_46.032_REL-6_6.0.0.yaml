@@ -1,0 +1,66 @@
+---
+id: 3GPPTS46.032-Rel-6/6.0.0
+title:
+- type: main
+  content: Full rate speech; Voice Activity Detector (VAD) for full rate speech traffic
+    channels
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.032/46032-600.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 46.032:Rel-6/6.0.0
+  type: 3GPP
+docnumber: TS 46.032:Rel-6/6.0.0
+date:
+- type: confirmed
+  value: '2005-01-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: BARRETT, Paul
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
+biblionote:
+- content: Rel-6 record created on freezing the Release, December 2004.
+  type: remark
+- content: Upgrade on Rel-6 freeze
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

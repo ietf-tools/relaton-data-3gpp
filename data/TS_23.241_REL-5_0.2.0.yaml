@@ -1,0 +1,60 @@
+---
+id: 3GPPTS23.241-Rel-5/0.2.0
+title:
+- type: main
+  content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 23.241:Rel-5/0.2.0
+  type: 3GPP
+docnumber: TS 23.241:Rel-5/0.2.0
+date:
+- type: confirmed
+  value: '2004-03-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: KOZA, Yvette
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Deutsche Telekom AG
+  role:
+  - author
+biblionote:
+- content: 'TP-15: Delayed to Rel-6.'
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: N4
+  type: prime
+- name: CP
+  type: other
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

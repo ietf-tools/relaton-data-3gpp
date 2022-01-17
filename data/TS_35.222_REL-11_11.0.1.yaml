@@ -1,0 +1,63 @@
+---
+id: 3GPPTS35.222-Rel-11/11.0.1
+title:
+- type: main
+  content: 'Specification of the 3GPP Confidentiality and Integrity Algorithms EEA3
+    & EIA3; Document 2: ZUC specification'
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.222/35222-b01.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 35.222:Rel-11/11.0.1
+  type: 3GPP
+docnumber: TS 35.222:Rel-11/11.0.1
+date:
+- type: created
+  value: '2012-05-10'
+- type: confirmed
+  value: '2012-01-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: QI, Yuan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - RITT
+  role:
+  - author
+biblionote:
+- content: WG decision to make reference specific as an editorial update.
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

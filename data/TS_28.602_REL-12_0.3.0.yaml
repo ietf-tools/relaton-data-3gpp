@@ -1,0 +1,64 @@
+---
+id: 3GPPTS28.602-Rel-12/0.3.0
+title:
+- type: main
+  content: Telecommunication management; Core Network (CN) and non-3GPP access interworking
+    system Network Resource Model (NRM) Integration Reference Point (IRP); Information
+    Service (IS)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.602/28602-030.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 28.602:Rel-12/0.3.0
+  type: 3GPP
+docnumber: TS 28.602:Rel-12/0.3.0
+date:
+- type: created
+  value: '2013-09-20'
+- type: confirmed
+  value: '2013-12-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: CHEN, Gang
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - China Mobile US Research Cente
+  role:
+  - author
+biblionote:
+- content: 'SP-65: to be withdrawn from this Release onwards.'
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: c
+  version3g: c
+  defunct: false
+  wpm_code_2g: GSM_Release_12
+  wpm_code_3g: 3G4G_Rel-12
+  freeze_meeting: SP-65
+  freeze_stage1_meeting: SP-59
+  freeze_stage2_meeting: SP-62
+  freeze_stage3_meeting: SP-65
+  project_start: '2010-06-01'
+  project_end: '2015-03-13'

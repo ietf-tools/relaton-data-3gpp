@@ -1,0 +1,47 @@
+---
+id: 3GPPTR23.700-90-Rel-18/0.4.1
+title:
+- type: main
+  content: Study of interconnection and migration aspects for railways
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-90/23700-90-041.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 23.700-90:Rel-18/0.4.1
+  type: 3GPP
+docnumber: TR 23.700-90:Rel-18/0.4.1
+contributor:
+- person:
+    name:
+      completename:
+        content: OETTL, Martin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S6
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: i
+  version3g: i
+  defunct: false
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G_Rel-18
+  freeze_meeting: "-"
+  project_start: '2019-09-16'

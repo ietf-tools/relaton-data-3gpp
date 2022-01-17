@@ -1,0 +1,67 @@
+---
+id: 3GPPTS23.060-Rel-6/6.12.0
+title:
+- type: main
+  content: General Packet Radio Service (GPRS); Service description; Stage 2
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.060/23060-6c0.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 23.060:Rel-6/6.12.0
+  type: 3GPP
+docnumber: TS 23.060:Rel-6/6.12.0
+date:
+- type: created
+  value: '2006-03-28'
+- type: confirmed
+  value: '2004-04-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: SALKINTZIS, Apostolis
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Motorola Mobility UK Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes a general overview over the GPRS architecture
+    as well as a more detailled overview of the MS – CN protocol architecture. Details
+    of the protocols will be specified in companion documents.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S2
+  type: prime
+- name: S2
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

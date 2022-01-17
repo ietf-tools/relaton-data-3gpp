@@ -1,0 +1,69 @@
+---
+id: 3GPPTS22.105-R99/3.0.0
+title:
+- type: main
+  content: Services and service capabilities
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 22.105:R99/3.0.0
+  type: 3GPP
+docnumber: TS 22.105:R99/3.0.0
+date:
+- type: confirmed
+  value: '2002-09-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: BISCHINGER, Kurt
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - T-Mobile Austria GmbH
+  role:
+  - author
+biblionote:
+- content: '1998-03-20'
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Pre-UMTS systems have largely standardized the complete sets of bearer
+    services, teleservices and supplementary services which they provide. One major
+    difference between UMTS and pre-UMTS systems is that service capabilities rather
+    than services are standardized for UMTS, allowing service differentiation and
+    system continuity. This document describes how and what kind of services the UMTS
+    user has access to.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 2G
+common-ims-spec: true
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

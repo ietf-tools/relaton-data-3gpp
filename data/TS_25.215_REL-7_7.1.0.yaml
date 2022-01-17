@@ -1,0 +1,68 @@
+---
+id: 3GPPTS25.215-Rel-7/7.1.0
+title:
+- type: main
+  content: Physical layer; Measurements (FDD)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.215/25215-710.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.215:Rel-7/7.1.0
+  type: 3GPP
+docnumber: TS 25.215:Rel-7/7.1.0
+date:
+- type: created
+  value: '2006-10-13'
+- type: confirmed
+  value: '2005-06-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: HOFMANN, Juergen
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Germany
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the measurements done at the UE and network
+    in order to support operation in idle mode and connected mode for FDD mode.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R1
+  type: other
+- name: R1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '7'
+  version3g: '7'
+  defunct: true
+  wpm_code_2g: GSM_Release_7
+  wpm_code_3g: 3G_Rel-7
+  freeze_meeting: SP-35
+  freeze_stage1_meeting: SP-29
+  freeze_stage2_meeting: SP-33
+  freeze_stage3_meeting: SP-35
+  close_meeting: SP-65
+  project_start: '2003-12-01'
+  project_end: '2008-03-13'

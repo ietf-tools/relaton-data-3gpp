@@ -1,0 +1,60 @@
+---
+id: 3GPPTS27.001-Rel-4/4.4.0
+title:
+- type: main
+  content: General on Terminal Adaptation Functions (TAF) for Mobile Stations (MS)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/27_series/27.001/27001-440.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 27.001:Rel-4/4.4.0
+  type: 3GPP
+docnumber: TS 27.001:Rel-4/4.4.0
+date:
+- type: confirmed
+  value: '2003-06-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: BIONDIC, Nevenka
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C3
+  type: prime
+- name: N3
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

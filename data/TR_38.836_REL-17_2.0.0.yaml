@@ -1,0 +1,47 @@
+---
+id: 3GPPTR38.836-Rel-17/2.0.0
+title:
+- type: main
+  content: Study on NR sidelink relay
+  format: text/plain
+link:
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.836/38836-200.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 38.836:Rel-17/2.0.0
+  type: 3GPP
+docnumber: TR 38.836:Rel-17/2.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: LU, Qianxi
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

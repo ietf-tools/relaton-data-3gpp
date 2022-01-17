@@ -1,0 +1,46 @@
+---
+id: 3GPPTR22.839-Rel-18/18.1.0
+title:
+- type: main
+  content: Study on vehicle-mounted relays
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.839/22839-i10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.839:Rel-18/18.1.0
+  type: 3GPP
+docnumber: TR 22.839:Rel-18/18.1.0
+contributor:
+- person:
+    name:
+      completename:
+        content: PICA, Francesco
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Qualcomm Incorporated
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+release:
+  version2g: i
+  version3g: i
+  defunct: false
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G_Rel-18
+  freeze_meeting: "-"
+  project_start: '2019-09-16'

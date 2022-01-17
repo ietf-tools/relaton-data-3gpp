@@ -1,0 +1,60 @@
+---
+id: 3GPPTS22.001-Rel-16/16.0.1
+title:
+- type: main
+  content: Principles of circuit telecommunication services supported by a Public
+    Land Mobile Network (PLMN)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.001/22001-g01.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.001:Rel-16/16.0.1
+  type: 3GPP
+docnumber: TS 22.001:Rel-16/16.0.1
+date:
+- type: confirmed
+  value: '2009-01-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: MIETTINEN, Natalia
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - NOKIA UK R&D Ltd
+  role:
+  - author
+biblionote:
+- content: Incorrect file name in v. 16.0.0
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: g
+  version3g: g
+  defunct: false
+  wpm_code_2g: GSM_Release_16
+  wpm_code_3g: 3G4G5G_Rel-16
+  freeze_meeting: RP-35
+  freeze_stage1_meeting: SP-82
+  project_start: '2016-06-01'

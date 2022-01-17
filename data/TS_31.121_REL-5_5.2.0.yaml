@@ -1,0 +1,73 @@
+---
+id: 3GPPTS31.121-Rel-5/5.2.0
+title:
+- type: main
+  content: UICC-terminal interface; Universal Subscriber Identity Module (USIM) application
+    test specification
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.121/31121-520.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 31.121:Rel-5/5.2.0
+  type: 3GPP
+docnumber: TS 31.121:Rel-5/5.2.0
+date:
+- type: created
+  value: '2005-06-15'
+- type: confirmed
+  value: '2005-06-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: MARQUORDT, Arne
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Comprion GmbH
+  role:
+  - author
+biblionote:
+- content: '2003-07-15 (Dietze): It is the intention that a Rel-5 be created - eventually.
+    TP-24: Creation postponed to T3 AdHoc mtg. T3 needs guidance T on whether EF_KC
+    has to be stored on the USIM when accessing a GERAN.'
+  type: remark
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document provides the UICC-Terminal Interface Conformance Test Specification
+    between the 3G Terminal and USIM (Universal Subscriber Identity Module) as an
+    application on the UICC and the Terminal for 3G telecom network operation.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C6
+  type: prime
+- name: T3
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

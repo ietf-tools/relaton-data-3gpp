@@ -1,0 +1,62 @@
+---
+id: 3GPPTS24.008-Rel-17/17.1.0
+title:
+- type: main
+  content: Mobile radio interface Layer 3 specification; Core network protocols; Stage
+    3
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp//Specs/archive/24_series/24.008/24008-h10.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.008:Rel-17/17.1.0
+  type: 3GPP
+docnumber: TS 24.008:Rel-17/17.1.0
+date:
+- type: confirmed
+  value: '2001-10-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This specification describes the procedures used at the radio interface
+    for CC, MM and SM.\r\nThe procedures currently described are for the CC of circuit-switched
+    connections, SM for GPRS services, MM and radio resource management for circuit-switched
+    and GPRS services."
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SP-42
+  project_start: '2018-06-01'

@@ -1,0 +1,58 @@
+---
+id: 3GPPTR37.902-Rel-11/1.1.0
+title:
+- type: main
+  content: Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals;
+    Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 37.902:Rel-11/1.1.0
+  type: 3GPP
+docnumber: TR 37.902:Rel-11/1.1.0
+date:
+- type: confirmed
+  value: '2012-10-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: AN, Xudong
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - CATR
+  role:
+  - author
+biblionote:
+- content: R4-125002
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: R4
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: b
+  version3g: b
+  defunct: false
+  wpm_code_2g: GSM_Release_11
+  wpm_code_3g: 3G4G_Rel-11
+  freeze_meeting: SP-57
+  freeze_stage1_meeting: SP-53
+  freeze_stage2_meeting: SP-55
+  freeze_stage3_meeting: SP-57
+  project_start: '2009-03-01'
+  project_end: '2013-03-06'

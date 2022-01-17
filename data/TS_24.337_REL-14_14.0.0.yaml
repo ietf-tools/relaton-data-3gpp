@@ -1,0 +1,61 @@
+---
+id: 3GPPTS24.337-Rel-14/14.0.0
+title:
+- type: main
+  content: IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem
+    (IMS) inter-UE transfer; Stage 3
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.337/24337-e00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.337:Rel-14/14.0.0
+  type: 3GPP
+docnumber: TS 24.337:Rel-14/14.0.0
+date:
+- type: confirmed
+  value: '2011-03-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: WEI, haitao
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: comment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+radiotechnology: 3G
+release:
+  version2g: e
+  version3g: e
+  defunct: false
+  wpm_code_2g: GSM_Release_14
+  wpm_code_3g: 3G4G_Rel-14
+  freeze_meeting: RP-76
+  freeze_stage1_meeting: SP-71
+  freeze_stage2_meeting: SP-73
+  freeze_stage3_meeting: SP-75
+  project_start: '2013-03-01'
+  project_end: '2017-06-01'

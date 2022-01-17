@@ -1,0 +1,57 @@
+---
+id: 3GPPTS06.53-R96/5.1.3
+title:
+- type: main
+  content: ANSI-C code for the GSM Enhanced Full Rate (EFR) speech codec
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/06_series/06.53/0653-513.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 06.53:R96/5.1.3
+  type: 3GPP
+docnumber: TS 06.53:R96/5.1.3
+date:
+- type: confirmed
+  value: '2002-10-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: JÄRVINEN, Kari
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Corporation
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+- name: SMG11
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '5'
+  version3g: "-"
+  defunct: true
+  wpm_code_2g: GSM_Release_96
+  freeze_meeting: smg-21
+  freeze_stage1_meeting: SMG-21
+  freeze_stage2_meeting: SMG-21
+  freeze_stage3_meeting: SMG-21
+  close_meeting: SP-25

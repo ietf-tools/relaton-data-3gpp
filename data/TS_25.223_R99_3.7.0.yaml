@@ -1,0 +1,68 @@
+---
+id: 3GPPTS25.223-R99/3.7.0
+title:
+- type: main
+  content: Spreading and modulation (TDD)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.223/25223-370.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.223:R99/3.7.0
+  type: 3GPP
+docnumber: TS 25.223:R99/3.7.0
+date:
+- type: confirmed
+  value: '2006-03-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: MEDINA, Gerardo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson Japan K.K.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the characteristics of the spreading and modulation
+    in the TDD mode. The main objectives of the document are to be a part of the full
+    description of the Layer 1, and to serve as a basis for the drafting of the actual
+    technical specification (TS).
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R1
+  type: other
+- name: R1
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '8'
+  version3g: '3'
+  defunct: true
+  wpm_code_2g: GSM_Release_99
+  wpm_code_3g: 3G_R1999
+  freeze_meeting: SP-06
+  freeze_stage1_meeting: SP-06
+  freeze_stage2_meeting: SP-06
+  freeze_stage3_meeting: SP-06
+  close_meeting: SP-40
+  project_start: '1999-01-01'
+  project_end: '1999-12-17'

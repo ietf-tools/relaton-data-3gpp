@@ -1,0 +1,60 @@
+---
+id: 3GPPTS45.001-Rel-6/6.3.0
+title:
+- type: main
+  content: GSM/EDGE Physical layer on the radio path; General description
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/45_series/45.001/45001-630.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 45.001:Rel-6/6.3.0
+  type: 3GPP
+docnumber: TS 45.001:Rel-6/6.3.0
+date:
+- type: confirmed
+  value: '2003-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: CHEN, Jun
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HiSilicon Technologies Co. Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: SMG02
+  type: former
+radiotechnology: 2G
+release:
+  version2g: '6'
+  version3g: '6'
+  defunct: true
+  wpm_code_2g: GSM_Release_6
+  wpm_code_3g: 3G_Rel-6
+  freeze_meeting: SP-27
+  freeze_stage1_meeting: SP-26
+  freeze_stage2_meeting: SP-26
+  freeze_stage3_meeting: SP-27
+  close_meeting: SP-65
+  project_start: '2001-12-01'
+  project_end: '2005-09-28'

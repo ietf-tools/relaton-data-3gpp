@@ -1,0 +1,67 @@
+---
+id: 3GPPTS22.101-Rel-4/4.2.0
+title:
+- type: main
+  content: Service aspects; Service principles
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.101/22101-420.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.101:Rel-4/4.2.0
+  type: 3GPP
+docnumber: TS 22.101:Rel-4/4.2.0
+date:
+- type: confirmed
+  value: '2006-06-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+biblionote:
+- content: based on 3.9.0
+  type: remark
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the service principles of the UMTS.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 3G
+common-ims-spec: true
+release:
+  version2g: '4'
+  version3g: '4'
+  defunct: true
+  wpm_code_2g: GSM_Release_4
+  wpm_code_3g: 3G_Rel-4
+  freeze_meeting: SP-11
+  freeze_stage1_meeting: SP-11
+  freeze_stage2_meeting: SP-11
+  freeze_stage3_meeting: SP-11
+  close_meeting: SP-65
+  project_start: '1999-12-01'
+  project_end: '2001-06-21'

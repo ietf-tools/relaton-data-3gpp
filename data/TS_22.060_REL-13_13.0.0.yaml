@@ -1,0 +1,69 @@
+---
+id: 3GPPTS22.060-Rel-13/13.0.0
+title:
+- type: main
+  content: General Packet Radio Service (GPRS); Service description; Stage 1
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.060/22060-d00.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 22.060:Rel-13/13.0.0
+  type: 3GPP
+docnumber: TS 22.060:Rel-13/13.0.0
+date:
+- type: created
+  value: '2016-01-05'
+- type: confirmed
+  value: '2012-09-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: HOWELL, Andrew
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HOME OFFICE
+  role:
+  - author
+biblionote:
+- content: Upgraded from previous Release without technical change
+  type: remark
+- content: Automatic upgrade from previous Release version 12.0.0
+  type: comment
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the Stage 1 description of the GPRS.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

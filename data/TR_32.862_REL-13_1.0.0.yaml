@@ -1,0 +1,51 @@
+---
+id: 3GPPTR32.862-Rel-13/1.0.0
+title:
+- type: main
+  content: Study on Key Quality Indicators (KQIs) for service experience
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.862/32862-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 32.862:Rel-13/1.0.0
+  type: 3GPP
+docnumber: TR 32.862:Rel-13/1.0.0
+contributor:
+- person:
+    name:
+      completename:
+        content: ABA, Istvan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Huawei Technologies Sweden AB
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: d
+  version3g: d
+  defunct: false
+  wpm_code_2g: GSM_Release_13
+  wpm_code_3g: 3G4G_Rel-13
+  freeze_meeting: SP-70
+  freeze_stage1_meeting: SP-65
+  freeze_stage2_meeting: SP-68
+  freeze_stage3_meeting: SP-70
+  project_start: '2012-12-30'
+  project_end: '2016-03-11'

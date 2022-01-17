@@ -1,0 +1,60 @@
+---
+id: 3GPPTS32.425-Rel-8/0.1.3
+title:
+- type: main
+  content: Telecommunication management; Performance Management (PM); Performance
+    measurements Evolved Universal Terrestrial Radio Access Network (E-UTRAN)
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.425/32425-013.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 32.425:Rel-8/0.1.3
+  type: 3GPP
+docnumber: TS 32.425:Rel-8/0.1.3
+date:
+- type: created
+  value: '2008-07-24'
+- type: confirmed
+  value: '2009-10-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: YAO, Yizhi
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Networks
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: S5
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'

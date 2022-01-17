@@ -1,0 +1,68 @@
+---
+id: 3GPPTS25.302-Rel-5/5.9.0
+title:
+- type: main
+  content: Services provided by the physical layer
+  format: text/plain
+link:
+- content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.302/25302-590.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 25.302:Rel-5/5.9.0
+  type: 3GPP
+docnumber: TS 25.302:Rel-5/5.9.0
+date:
+- type: created
+  value: '2005-10-14'
+- type: confirmed
+  value: '2005-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: AHMED, Ayaz
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Solutions & Networks (I)
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes a technical specification of the services
+    provided by the physical layer of UTRA to upper layers.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+fetched: '2022-01-17'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R2
+  type: other
+- name: R2
+  type: former
+radiotechnology: 3G
+release:
+  version2g: '5'
+  version3g: '5'
+  defunct: true
+  wpm_code_2g: GSM_Release_5
+  wpm_code_3g: 3G_Rel-5
+  freeze_meeting: SP-15
+  freeze_stage1_meeting: SP-15
+  freeze_stage2_meeting: SP-15
+  freeze_stage3_meeting: SP-15
+  close_meeting: SP-65
+  project_start: '2000-03-01'
+  project_end: '2002-09-12'

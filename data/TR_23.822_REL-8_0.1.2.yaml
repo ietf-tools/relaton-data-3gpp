@@ -1,0 +1,54 @@
+---
+id: 3GPPTR23.822-Rel-8/0.1.2
+title:
+- type: main
+  content: Framework for Gq' / Rx harmonization
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 23.822:Rel-8/0.1.2
+  type: 3GPP
+docnumber: TR 23.822:Rel-8/0.1.2
+contributor:
+- person:
+    name:
+      completename:
+        content: MAZZARELLA, Nick
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Alcatel-Lucent
+  role:
+  - author
+biblionote:
+- content: 'SP-43: work abandoned.'
+  type: remark
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: withdrawn
+fetched: '2022-01-17'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 2G
+release:
+  version2g: '8'
+  version3g: '8'
+  defunct: false
+  wpm_code_2g: GSM_Release_8
+  wpm_code_3g: 3G_Rel-8
+  freeze_meeting: SP-42
+  freeze_stage1_meeting: SP-38
+  freeze_stage2_meeting: SP-40
+  freeze_stage3_meeting: SP-42
+  project_start: '2004-12-01'
+  project_end: '2009-03-12'
