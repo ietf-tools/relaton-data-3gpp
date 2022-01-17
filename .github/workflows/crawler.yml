@@ -22,7 +22,9 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data status-smg-3GPP
+        run: |
+          rm -f data/*
+          relaton fetch-data status-smg-3GPP
       - name: Push data
         run: |
           echo `date` > flag.txt
