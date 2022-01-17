@@ -18,26 +18,11 @@ date:
   value: '2013-02-08'
 - type: confirmed
   value: '2013-09-12'
-contributor:
-- person:
-    name:
-      completename:
-        content: BARRETT, Stephen
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - BlackBerry UK Limited
-  role:
-  - author
 language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: S2

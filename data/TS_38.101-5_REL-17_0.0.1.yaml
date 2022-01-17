@@ -13,6 +13,21 @@ docid:
 - id: 3GPP TS 38.101-5:Rel-17/0.0.1
   type: 3GPP
 docnumber: TS 38.101-5:Rel-17/0.0.1
+contributor:
+- person:
+    name:
+      completename:
+        content: JIN, Yiran
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
 language:
 - en
 script:
@@ -20,7 +35,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

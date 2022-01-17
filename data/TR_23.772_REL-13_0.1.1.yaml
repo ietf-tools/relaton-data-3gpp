@@ -17,26 +17,11 @@ date:
   value: '2014-08-19'
 - type: confirmed
   value: '2014-12-05'
-contributor:
-- person:
-    name:
-      completename:
-        content: XU, Yang
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - China Unicom
-  role:
-  - author
 language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: S2

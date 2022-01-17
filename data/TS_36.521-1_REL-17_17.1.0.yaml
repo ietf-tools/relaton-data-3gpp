@@ -6,6 +6,9 @@ title:
     conformance specification; Radio transmission and reception; Part 1: Conformance
     testing'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-1/36521-1-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.521-1:Rel-17/17.1.0
@@ -36,7 +39,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -5,6 +5,9 @@ title:
   content: NR; Requirements for support of Assisted Global Navigation Satellite System
     (A-GNSS)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.171/38171-g30.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.171:Rel-16/16.3.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

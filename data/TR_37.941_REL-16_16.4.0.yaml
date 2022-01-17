@@ -5,6 +5,9 @@ title:
   content: Radio Frequency (RF) conformance testing background for radiated Base Station
     (BS) requirements
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.941/37941-g40.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.941:Rel-16/16.4.0
@@ -32,7 +35,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -5,6 +5,9 @@ title:
   content: 'NR; Integrated Access and Backhaul (IAB) conformance testing; Part 1:
     Conducted conformance testing'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.176-1/38176-1-g20.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.176-1:Rel-16/16.2.0
@@ -32,7 +35,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

@@ -19,26 +19,11 @@ date:
   value: '2012-06-26'
 - type: confirmed
   value: '2012-06-26'
-contributor:
-- person:
-    name:
-      completename:
-        content: SHEN, Zukang
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - Lenovo (Beijing) Ltd
-  role:
-  - author
 language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: R1

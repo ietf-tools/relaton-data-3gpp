@@ -4,6 +4,9 @@ title:
 - type: main
   content: NR; Sidelink Adaptation Layer Protocol
   format: text/plain
+link:
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.351/38351-020.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.351:Rel-17/0.2.0
@@ -31,7 +34,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R2

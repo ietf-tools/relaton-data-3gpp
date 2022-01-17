@@ -5,6 +5,9 @@ title:
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     radio transmission and reception
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.101/36101-h40.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.101:Rel-17/17.4.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

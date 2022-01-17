@@ -5,6 +5,9 @@ title:
   content: Evolved Universal Terrestrial Radio Access (E-UTRA); Electromagnetic compatibility
     (EMC) requirements for mobile terminals and ancillary equipment
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.124/36124-f30.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.124:Rel-15/15.3.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

@@ -14,21 +14,6 @@ docnumber: TR 36.828:Rel-11/0.1.0
 date:
 - type: confirmed
   value: '2012-06-26'
-contributor:
-- person:
-    name:
-      completename:
-        content: SHEN, Zukang
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - Lenovo (Beijing) Ltd
-  role:
-  - author
 biblionote:
 - content: R1-121835
   type: comment
@@ -36,7 +21,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: R1

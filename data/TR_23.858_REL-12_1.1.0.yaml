@@ -15,21 +15,6 @@ docnumber: TR 23.858:Rel-12/1.1.0
 date:
 - type: created
   value: '2013-02-12'
-contributor:
-- person:
-    name:
-      completename:
-        content: ZONG, Zaifeng
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - ZTE Corporation
-  role:
-  - author
 biblionote:
 - content: Timed out of Rel-12.
   type: remark
@@ -37,7 +22,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: S2

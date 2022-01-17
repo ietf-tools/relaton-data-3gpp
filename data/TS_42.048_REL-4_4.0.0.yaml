@@ -15,6 +15,21 @@ docnumber: TS 42.048:Rel-4/4.0.0
 date:
 - type: confirmed
   value: '2001-11-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: L'HERITEAU, Denis
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 biblionote:
 - content: 'TP-12: Becomes 22.048.'
   type: remark
@@ -27,7 +42,7 @@ script:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: T3

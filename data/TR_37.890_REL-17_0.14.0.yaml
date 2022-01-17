@@ -24,11 +24,14 @@ contributor:
         - Ericsson Limited
   role:
   - author
+biblionote:
+- content: RP-213647 was withdrawn
+  type: comment
 language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: RP

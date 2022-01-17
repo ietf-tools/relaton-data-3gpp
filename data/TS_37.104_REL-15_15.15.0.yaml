@@ -5,6 +5,9 @@ title:
   content: NR, E-UTRA, UTRA and GSM/EDGE; Multi-Standard Radio (MSR) Base Station
     (BS) radio transmission and reception
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.104/37104-ff0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.104:Rel-15/15.15.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

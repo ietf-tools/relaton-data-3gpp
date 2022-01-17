@@ -5,6 +5,9 @@ title:
   content: Study on radiated metrics and test methodology for the verification of
     multi-antenna reception performance of NR User Equipment (UE)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.827/38827-g50.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.827:Rel-16/16.5.0
@@ -29,7 +32,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: R4

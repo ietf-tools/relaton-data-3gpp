@@ -5,6 +5,9 @@ title:
   content: '5GS; User Equipment (UE) conformance specification; Part 1: Common test
     environment'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.508-1/38508-1-h30.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.508-1:Rel-17/17.3.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R5

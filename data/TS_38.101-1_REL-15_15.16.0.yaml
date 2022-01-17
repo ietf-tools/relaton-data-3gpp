@@ -5,6 +5,9 @@ title:
   content: 'NR; User Equipment (UE) radio transmission and reception; Part 1: Range
     1 Standalone'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.101-1/38101-1-fg0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.101-1:Rel-15/15.16.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TS
 editorialgroup:
 - name: R4

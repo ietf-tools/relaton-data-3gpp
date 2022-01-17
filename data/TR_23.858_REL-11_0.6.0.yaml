@@ -9,21 +9,6 @@ docid:
 - id: 3GPP TR 23.858:Rel-11/0.6.0
   type: 3GPP
 docnumber: TR 23.858:Rel-11/0.6.0
-contributor:
-- person:
-    name:
-      completename:
-        content: ZONG, Zaifeng
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - ZTE Corporation
-  role:
-  - author
 biblionote:
 - content: misleadikng history box entry
   type: comment
@@ -34,7 +19,7 @@ script:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: S2

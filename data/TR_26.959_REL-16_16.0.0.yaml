@@ -16,7 +16,7 @@ contributor:
 - person:
     name:
       completename:
-        content: KOO, Eng Wei
+        content: ATTI, Venkatraman
         language:
         - en
         script:
@@ -24,7 +24,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ViaviSolutions Deutsch. GmbH
+        - Qualcomm UK Ltd
   role:
   - author
 language:
@@ -34,7 +34,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: S4

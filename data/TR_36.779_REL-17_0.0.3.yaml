@@ -4,6 +4,9 @@ title:
 - type: main
   content: Introduction of upper 700MHz A block E-UTRA band for the US
   format: text/plain
+link:
+- content: https://ftp.3gpp.org//Specs/archive/36_series/36.779/36779-003.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 36.779:Rel-17/0.0.3
@@ -28,7 +31,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-11'
+fetched: '2022-01-17'
 doctype: TR
 editorialgroup:
 - name: R4
