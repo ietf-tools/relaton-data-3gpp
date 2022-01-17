@@ -23,7 +23,7 @@ jobs:
           gem install relaton-cli
       - name: Fetch documents
         run: |
-          rm -f data/*
+          # rm -f data/*
           relaton fetch-data status-smg-3GPP
       - name: Push data
         run: |
