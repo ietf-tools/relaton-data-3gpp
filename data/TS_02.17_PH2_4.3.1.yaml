@@ -15,6 +15,21 @@ docnumber: TS 02.17:Ph2/4.3.1
 date:
 - type: confirmed
   value: '2002-02-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: L'HERITEAU, Denis
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Waiting for new Company
+  role:
+  - author
 language:
 - en
 script:
@@ -22,7 +37,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TS
 editorialgroup:
 - name: C6

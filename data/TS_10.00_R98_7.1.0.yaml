@@ -33,7 +33,7 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TS
 editorialgroup:
 - name: S2

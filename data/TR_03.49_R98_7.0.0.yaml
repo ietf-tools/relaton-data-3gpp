@@ -35,7 +35,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TR
 editorialgroup:
 - name: C1

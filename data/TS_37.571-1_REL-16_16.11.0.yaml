@@ -5,6 +5,9 @@ title:
   content: 'User Equipment (UE) conformance specification for UE positioning; Part
     1: Conformance test specification'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.571-1/37571-1-gb0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.571-1:Rel-16/16.11.0
@@ -35,7 +38,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TS
 editorialgroup:
 - name: R5

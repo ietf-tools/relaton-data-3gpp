@@ -32,7 +32,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TS
 editorialgroup:
 - name: R2

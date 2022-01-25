@@ -6,6 +6,9 @@ title:
     conformance specification; Radio transmission and reception; Part 3: Radio Resource
     Management (RRM) conformance testing'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.521-3/36521-3-gb0.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.521-3:Rel-16/16.11.0
@@ -36,7 +39,7 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-17'
+fetched: '2022-01-25'
 doctype: TS
 editorialgroup:
 - name: R5
