@@ -11,7 +11,22 @@ type: standard
 docid:
 - id: 3GPP TS 13.56:R96/1.0.0
   type: 3GPP
+  primary: true
 docnumber: TS 13.56:R96/1.0.0
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 biblionote:
 - content: "#30: 1.0.0"
   type: remark
@@ -22,7 +37,9 @@ script:
 docstatus:
   stage:
     value: withdrawn
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TS
 editorialgroup:
 - name: "-"

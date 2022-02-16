@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: 3GPP TS 23.221:Rel-12/12.0.0
   type: 3GPP
+  primary: true
 docnumber: TS 23.221:Rel-12/12.0.0
 date:
 - type: created
@@ -18,6 +19,19 @@ date:
 - type: confirmed
   value: '2002-06-18'
 contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 - person:
     name:
       completename:
@@ -39,7 +53,9 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TS
 editorialgroup:
 - name: S2

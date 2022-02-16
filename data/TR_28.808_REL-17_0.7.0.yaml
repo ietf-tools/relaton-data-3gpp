@@ -12,8 +12,22 @@ type: standard
 docid:
 - id: 3GPP TR 28.808:Rel-17/0.7.0
   type: 3GPP
+  primary: true
 docnumber: TR 28.808:Rel-17/0.7.0
 contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 - person:
     name:
       completename:
@@ -35,7 +49,9 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TR
 editorialgroup:
 - name: S5
@@ -47,5 +63,9 @@ release:
   defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SP-42
-  project_start: '2018-06-01'
+  freeze_meeting: SA#95
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-06-10'

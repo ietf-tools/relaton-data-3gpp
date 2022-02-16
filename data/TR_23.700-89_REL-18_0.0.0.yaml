@@ -1,0 +1,66 @@
+---
+id: 3GPPTR23.700-89-Rel-18/0.0.0
+title:
+- type: main
+  content: Study on enhancement of 5G AM Policy
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 23.700-89:Rel-18/0.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 23.700-89:Rel-18/0.0.0
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+- person:
+    name:
+      completename:
+        content: CHEN, Zhuoyi
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - China Telecom Corporation Ltd.
+  role:
+  - author
+biblionote:
+- content: Initial version allocated for pCRs at SA2#149-e
+  type: comment
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
+doctype: TR
+editorialgroup:
+- name: S2
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: i
+  version3g: i
+  defunct: false
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G5G_Rel-18
+  freeze_meeting: SA#102
+  freeze_stage1_meeting: SA#94-e
+  freeze_stage2_meeting: SA#99
+  freeze_stage3_meeting: SA#102
+  project_start: '2019-09-16'

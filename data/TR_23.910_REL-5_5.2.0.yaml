@@ -11,8 +11,22 @@ type: standard
 docid:
 - id: 3GPP TR 23.910:Rel-5/5.2.0
   type: 3GPP
+  primary: true
 docnumber: TR 23.910:Rel-5/5.2.0
 contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 - person:
     name:
       completename:
@@ -35,7 +49,9 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TR
 editorialgroup:
 - name: C3

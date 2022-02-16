@@ -12,11 +12,25 @@ type: standard
 docid:
 - id: 3GPP TS 36.124:Rel-16/16.2.0
   type: 3GPP
+  primary: true
 docnumber: TS 36.124:Rel-16/16.2.0
 date:
 - type: confirmed
   value: '2011-06-21'
 contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 - person:
     name:
       completename:
@@ -38,7 +52,9 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TS
 editorialgroup:
 - name: R4
@@ -50,6 +66,9 @@ release:
   defunct: false
   wpm_code_2g: GSM_Release_16
   wpm_code_3g: 3G4G5G_Rel-16
-  freeze_meeting: RP-35
-  freeze_stage1_meeting: SP-82
-  project_start: '2016-06-01'
+  freeze_meeting: SA#88-e
+  freeze_stage1_meeting: SA#82
+  freeze_stage2_meeting: SA#84
+  freeze_stage3_meeting: SA#88-e
+  project_start: '2017-03-22'
+  project_end: '2020-07-03'

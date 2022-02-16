@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: 3GPP TS 31.111:Rel-8/8.4.0
   type: 3GPP
+  primary: true
 docnumber: TS 31.111:Rel-8/8.4.0
 date:
 - type: created
@@ -18,6 +19,19 @@ date:
 - type: confirmed
   value: '2005-06-14'
 contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 - person:
     name:
       completename:
@@ -45,7 +59,9 @@ abstract:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TS
 editorialgroup:
 - name: C6

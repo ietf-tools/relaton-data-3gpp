@@ -9,7 +9,22 @@ type: standard
 docid:
 - id: 3GPP TS 13.11:R98/7.0.0
   type: 3GPP
+  primary: true
 docnumber: TS 13.11:R98/7.0.0
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
 biblionote:
 - content: "#28: 1.0.0 #31:1.1.4 STF149: 1.1.5; May00:1.1.8 #32:2.0.0 (-> 7.0.0)"
   type: remark
@@ -22,7 +37,9 @@ script:
 docstatus:
   stage:
     value: published
-fetched: '2022-01-25'
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-02-16'
 doctype: TS
 editorialgroup:
 - name: MSG
