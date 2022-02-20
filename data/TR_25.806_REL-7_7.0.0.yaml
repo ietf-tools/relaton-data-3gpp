@@ -16,6 +16,8 @@ docnumber: TR 25.806:Rel-7/7.0.0
 date:
 - type: created
   value: '2006-10-05'
+- type: published
+  value: '2006-10-05'
 - type: confirmed
   value: '2004-01-19'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2006-10-05'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

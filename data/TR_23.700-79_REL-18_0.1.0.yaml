@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.700-79:Rel-18/0.1.0
+date:
+- type: published
+  value: '2020-08-04'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2020-08-04'
 biblionote:
 - content: S6-201195, S6-201196, S6-201257, S6-201198, S6-201199, S6-201200
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S6

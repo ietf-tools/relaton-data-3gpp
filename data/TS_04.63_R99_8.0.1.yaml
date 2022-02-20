@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 04.63:R99/8.0.1
+date:
+- type: published
+  value: '2000-04-27'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2000-04-27'
 biblionote:
 - content: 'TP-15: proposed to withdraw, since stage 1 (02.63) not promoted to R99.'
   type: remark
@@ -56,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

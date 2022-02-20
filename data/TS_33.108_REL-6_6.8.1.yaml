@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 33.108:Rel-6/6.8.1
 date:
+- type: published
+  value: '2005-01-13'
 - type: confirmed
   value: '2002-03-12'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-01-13'
 biblionote:
 - content: Wrong capitalization in ASN.1
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

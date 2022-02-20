@@ -16,6 +16,8 @@ docnumber: TR 25.822:Rel-8/0.3.0
 date:
 - type: created
   value: '2007-09-25'
+- type: published
+  value: '2007-09-25'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2007-09-25'
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

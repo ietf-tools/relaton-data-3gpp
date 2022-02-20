@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 22.839:Rel-18/2.0.0
+date:
+- type: published
+  value: '2021-09-09'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2021-09-09'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

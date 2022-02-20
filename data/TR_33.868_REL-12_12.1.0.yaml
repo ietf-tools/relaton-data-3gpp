@@ -17,6 +17,8 @@ docnumber: TR 33.868:Rel-12/12.1.0
 date:
 - type: created
   value: '2014-06-27'
+- type: published
+  value: '2014-06-27'
 - type: confirmed
   value: '2014-03-17'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '2014-06-27'
 biblionote:
 - content: 'SP-56: Rel-12 instance justified by WI @ SP-120384 (MTCe).'
   type: remark
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.825:Rel-6/1.1.0
 date:
+- type: published
+  value: '2003-11-07'
 - type: confirmed
   value: '2003-09-23'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2003-11-07'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

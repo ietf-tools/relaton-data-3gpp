@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 50.099:Rel-6/0.1.6
+date:
+- type: published
+  value: '2002-03-20'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - AT&T GNS Belgium SPRL
   role:
   - author
+revdate: '2002-03-20'
 biblionote:
 - content: '2003-01-14: Rel-5 frozen, so migrated to Rel-6.'
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: GP

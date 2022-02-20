@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.800:Rel-14/0.5.0
+date:
+- type: published
+  value: '2017-03-08'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2017-03-08'
 biblionote:
 - content: S5A-170276
   type: comment
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -16,6 +16,8 @@ docnumber: TS 51.021:Rel-7/7.5.0
 date:
 - type: created
   value: '2009-03-20'
+- type: published
+  value: '2009-03-20'
 - type: confirmed
   value: '2004-09-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2009-03-20'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: RP

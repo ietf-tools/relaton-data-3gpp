@@ -17,6 +17,8 @@ docnumber: TR 23.894:Rel-8/0.5.0
 date:
 - type: created
   value: '2008-10-28'
+- type: published
+  value: '2008-10-28'
 - type: confirmed
   value: '2009-12-15'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - TELECOM ITALIA S.p.A.
   role:
   - author
+revdate: '2008-10-28'
 biblionote:
 - content: 'SP-41: Timed out of Rel-8.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

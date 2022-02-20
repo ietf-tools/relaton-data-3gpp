@@ -16,6 +16,8 @@ docnumber: TS 22.105:Rel-8/8.2.0
 date:
 - type: created
   value: '2006-12-14'
+- type: published
+  value: '2006-12-14'
 - type: confirmed
   value: '2002-09-16'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - T-Mobile Austria GmbH
   role:
   - author
+revdate: '2006-12-14'
 language:
 - en
 script:
@@ -63,7 +66,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

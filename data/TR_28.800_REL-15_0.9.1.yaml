@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.800:Rel-15/0.9.1
+date:
+- type: published
+  value: '2017-11-03'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2017-11-03'
 biblionote:
 - content: EditHelp editorial comments
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

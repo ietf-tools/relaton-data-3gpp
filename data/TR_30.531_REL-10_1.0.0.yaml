@@ -16,6 +16,8 @@ docnumber: TR 30.531:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-07-20'
+- type: published
+  value: '2010-07-20'
 - type: confirmed
   value: '2011-09-05'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2010-07-20'
 biblionote:
 - content: R3-101424
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

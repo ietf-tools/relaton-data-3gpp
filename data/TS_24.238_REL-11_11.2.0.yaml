@@ -16,6 +16,8 @@ docnumber: TS 24.238:Rel-11/11.2.0
 date:
 - type: created
   value: '2013-03-15'
+- type: published
+  value: '2013-03-15'
 - type: confirmed
   value: '2008-12-18'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2013-03-15'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

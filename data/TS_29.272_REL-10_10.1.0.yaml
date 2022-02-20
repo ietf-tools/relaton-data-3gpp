@@ -17,6 +17,8 @@ docnumber: TS 29.272:Rel-10/10.1.0
 date:
 - type: created
   value: '2010-12-22'
+- type: published
+  value: '2010-12-22'
 - type: confirmed
   value: '2009-01-09'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Huawei Technologies Sweden AB
   role:
   - author
+revdate: '2010-12-22'
 language:
 - en
 script:
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C4

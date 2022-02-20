@@ -16,6 +16,8 @@ docnumber: TR 32.833:Rel-11/2.0.0
 date:
 - type: created
   value: '2012-09-14'
+- type: published
+  value: '2012-09-14'
 - type: confirmed
   value: '2012-09-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Siemens Networks LLC
   role:
   - author
+revdate: '2012-09-14'
 biblionote:
 - content: SP-120585
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

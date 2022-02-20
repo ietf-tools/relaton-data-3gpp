@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.848:Rel-4/4.0.0
+date:
+- type: published
+  value: '2001-04-05'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2001-04-05'
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.'
   type: remark
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

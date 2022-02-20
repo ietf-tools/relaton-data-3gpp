@@ -17,6 +17,8 @@ docnumber: TR 23.817:Rel-7/0.1.0
 date:
 - type: created
   value: '2006-09-12'
+- type: published
+  value: '2006-09-12'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2006-09-12'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

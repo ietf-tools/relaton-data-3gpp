@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 32.622-4:Rel-4/2.0.0
+date:
+- type: published
+  value: '2001-06-18'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2001-06-18'
 language:
 - en
 script:
@@ -52,7 +56,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

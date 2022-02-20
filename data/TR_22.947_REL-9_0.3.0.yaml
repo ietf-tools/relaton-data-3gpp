@@ -16,6 +16,8 @@ docnumber: TR 22.947:Rel-9/0.3.0
 date:
 - type: created
   value: '2009-03-20'
+- type: published
+  value: '2009-03-20'
 - type: confirmed
   value: '2010-04-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2009-03-20'
 biblionote:
 - content: Timed out of Rel-9.
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

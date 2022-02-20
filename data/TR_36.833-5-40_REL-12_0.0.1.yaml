@@ -17,6 +17,8 @@ docnumber: TR 36.833-5-40:Rel-12/0.0.1
 date:
 - type: created
   value: '2014-04-03'
+- type: published
+  value: '2014-04-03'
 - type: confirmed
   value: '2014-04-03'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2014-04-03'
 biblionote:
 - content: 'R4-141561: shows v 0.0.1 and Rel-12 on cover'
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

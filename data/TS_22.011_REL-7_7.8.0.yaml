@@ -16,6 +16,8 @@ docnumber: TS 22.011:Rel-7/7.8.0
 date:
 - type: created
   value: '2007-12-20'
+- type: published
+  value: '2007-12-20'
 - type: confirmed
   value: '2007-12-20'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2007-12-20'
 language:
 - en
 script:
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -17,6 +17,8 @@ docnumber: TR 33.859:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-01-09'
+- type: published
+  value: '2012-01-09'
 - type: confirmed
   value: '2012-01-09'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Nanjing Ericsson Panda Com Ltd
   role:
   - author
+revdate: '2012-01-09'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

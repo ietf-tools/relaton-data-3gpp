@@ -17,6 +17,8 @@ docnumber: TR 33.868:Rel-11/0.8.0
 date:
 - type: created
   value: '2012-06-12'
+- type: published
+  value: '2012-06-12'
 - type: confirmed
   value: '2014-03-17'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '2012-06-12'
 biblionote:
 - content: 'SP-56: incomplete, so continues under new WID for Rel-12.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

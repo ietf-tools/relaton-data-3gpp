@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 32.862:Rel-14/14.0.0
+date:
+- type: published
+  value: '2016-03-21'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Huawei Technologies Sweden AB
   role:
   - author
+revdate: '2016-03-21'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
     Automatic numbering (of clauses, figures, tables, notes, examples etc…) should
@@ -52,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.776:Rel-17/0.3.0
+date:
+- type: published
+  value: '2020-10-23'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - LG Electronics France
   role:
   - author
+revdate: '2020-10-23'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#141E
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

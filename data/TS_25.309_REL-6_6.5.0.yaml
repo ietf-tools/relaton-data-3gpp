@@ -16,6 +16,8 @@ docnumber: TS 25.309:Rel-6/6.5.0
 date:
 - type: created
   value: '2005-12-22'
+- type: published
+  value: '2005-12-22'
 - type: confirmed
   value: '2004-09-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2005-12-22'
 language:
 - en
 script:
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -16,6 +16,8 @@ docnumber: TS 31.130:Rel-6/6.5.0
 date:
 - type: created
   value: '2007-01-18'
+- type: published
+  value: '2007-01-18'
 - type: confirmed
   value: '2005-03-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Oracle Corporation
   role:
   - author
+revdate: '2007-01-18'
 biblionote:
 - content: 'TP-20: Target for approval: TP-21.'
   type: remark
@@ -65,7 +68,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

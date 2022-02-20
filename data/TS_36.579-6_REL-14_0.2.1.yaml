@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 36.579-6:Rel-14/0.2.1
+date:
+- type: published
+  value: '2019-12-06'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - NIST
   role:
   - author
+revdate: '2019-12-06'
 language:
 - en
 script:
@@ -51,7 +55,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

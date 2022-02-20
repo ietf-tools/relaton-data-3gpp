@@ -18,6 +18,8 @@ docnumber: TR 37.976:Rel-10/1.1.0
 date:
 - type: created
   value: '2010-06-04'
+- type: published
+  value: '2010-06-04'
 - type: confirmed
   value: '2012-03-19'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2010-06-04'
 biblionote:
 - content: Timed out of Rel-10
   type: remark
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

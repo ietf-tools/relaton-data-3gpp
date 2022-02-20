@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 10.01:R97/0.0.2
+date:
+- type: published
+  value: '1997-10-23'
 contributor:
 - organization:
     name:
@@ -27,6 +30,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '1997-10-23'
 language:
 - en
 script:
@@ -36,7 +40,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SMG3

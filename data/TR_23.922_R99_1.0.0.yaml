@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.922:R99/1.0.0
+date:
+- type: published
+  value: '1999-10-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Alcatel-Lucent Telecom Ltd
   role:
   - author
+revdate: '1999-10-13'
 biblionote:
 - content: 'Was suspected to be v3.0.0, but evidently not so. Sultan, Apr-2001: abandoned
     in early 2000; replaced by 23.228 and 23.221.'
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

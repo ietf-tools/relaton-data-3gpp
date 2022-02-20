@@ -17,6 +17,8 @@ docnumber: TR 32.851:Rel-12/12.0.0
 date:
 - type: created
   value: '2013-09-20'
+- type: published
+  value: '2013-09-20'
 - type: confirmed
   value: '2013-09-20'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2013-09-20'
 biblionote:
 - content: Anticipate a CR to fix hanging paragraphs
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

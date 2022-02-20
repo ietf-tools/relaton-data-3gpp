@@ -17,6 +17,8 @@ docnumber: TR 32.842:Rel-13/0.3.0
 date:
 - type: created
   value: '2015-01-14'
+- type: published
+  value: '2015-01-14'
 contributor:
 - organization:
     name:
@@ -45,13 +47,14 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2015-01-14'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -16,6 +16,8 @@ docnumber: TR 26.922:Rel-13/0.2.0
 date:
 - type: created
   value: '2015-03-04'
+- type: published
+  value: '2015-03-06'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Qualcomm UK Ltd
   role:
   - author
+revdate: '2015-03-06'
 biblionote:
 - content: tdoc AHVIC-059 at a teleconf non-meeting
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

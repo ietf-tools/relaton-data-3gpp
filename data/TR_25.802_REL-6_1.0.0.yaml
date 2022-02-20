@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.802:Rel-6/1.0.0
 date:
+- type: published
+  value: '2004-06-14'
 - type: confirmed
   value: '2004-09-24'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2004-06-14'
 biblionote:
 - content: 'RP-19: Completion target: RP-22.  Thus assume service will be implemented
     in Rel-7. RP-21: In fact, the work item is in Rel-6, so for now, move it to Rel-6.
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

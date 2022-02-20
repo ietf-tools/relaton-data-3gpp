@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.849:Rel-14/14.0.0
+date:
+- type: published
+  value: '2016-03-22'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2016-03-22'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
     Invalid/missing version in history'
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

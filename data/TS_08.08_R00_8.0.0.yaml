@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 08.08:R00/8.0.0
+date:
+- type: published
+  value: '1999-06-30'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Anemone Technology
   role:
   - author
+revdate: '1999-06-30'
 biblionote:
 - content: "#32:9.0.0 Aug00: replaced by 48.008"
   type: remark
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: G2

@@ -17,6 +17,8 @@ docnumber: TS 29.198-14:Rel-6/6.3.1
 date:
 - type: created
   value: '2006-07-17'
+- type: published
+  value: '2006-07-17'
 - type: confirmed
   value: '2005-01-03'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Philips International B.V.
   role:
   - author
+revdate: '2006-07-17'
 biblionote:
 - content: attachment supplied
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: CP

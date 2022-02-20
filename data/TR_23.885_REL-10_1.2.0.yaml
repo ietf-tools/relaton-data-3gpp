@@ -17,6 +17,8 @@ docnumber: TR 23.885:Rel-10/1.2.0
 date:
 - type: created
   value: '2011-03-25'
+- type: published
+  value: '2011-03-25'
 - type: confirmed
   value: '2011-09-26'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Orange SA
   role:
   - author
+revdate: '2011-03-25'
 biblionote:
 - content: 'SP-54: timed out to Rel-11.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

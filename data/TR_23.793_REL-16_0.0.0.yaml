@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.793:Rel-16/0.0.0
+date:
+- type: published
+  value: '2018-01-31'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2018-01-31'
 biblionote:
 - content: 'SP-170411: UID: 760052. WI_Code: FS_ATSSS. ^ 2018-01-31: S2-176292: Skeleton
     at SA WG2#122BIS'
@@ -52,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TR 36.819:Rel-11/11.0.0
 date:
 - type: created
   value: '2011-09-27'
+- type: published
+  value: '2011-09-27'
 - type: confirmed
   value: '2011-09-27'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Samsung Electronics Co., Ltd
   role:
   - author
+revdate: '2011-09-27'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

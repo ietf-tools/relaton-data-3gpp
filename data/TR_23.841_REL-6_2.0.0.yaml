@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.841:Rel-6/2.0.0
+date:
+- type: published
+  value: '2002-07-22'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2002-07-22'
 biblionote:
 - content: 'TP-16: clear that service is Rel-6.'
   type: remark
@@ -52,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

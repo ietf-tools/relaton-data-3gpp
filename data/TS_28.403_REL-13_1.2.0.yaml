@@ -17,6 +17,8 @@ docnumber: TS 28.403:Rel-13/1.2.0
 date:
 - type: created
   value: '2015-12-21'
+- type: published
+  value: '2015-12-21'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2015-12-21'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S5

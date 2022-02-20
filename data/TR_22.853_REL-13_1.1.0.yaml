@@ -16,6 +16,8 @@ docnumber: TR 22.853:Rel-13/1.1.0
 date:
 - type: created
   value: '2014-06-13'
+- type: published
+  value: '2014-06-13'
 - type: confirmed
   value: '2014-06-30'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - TNO
   role:
   - author
+revdate: '2014-06-13'
 biblionote:
 - content: S1-141510
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

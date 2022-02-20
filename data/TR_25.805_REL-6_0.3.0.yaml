@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.805:Rel-6/0.3.0
+date:
+- type: published
+  value: '2003-12-05'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2003-12-05'
 biblionote:
 - content: 'RP-19: Work Item has been closed as "completed" but no decision taken
     on the fate of this TR.  2006-01: To be formally stopped at RP-31? 2007-08: ...
@@ -57,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

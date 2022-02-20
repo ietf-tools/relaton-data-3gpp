@@ -16,6 +16,8 @@ docnumber: TR 22.852:Rel-12/0.4.1
 date:
 - type: created
   value: '2012-12-30'
+- type: published
+  value: '2012-12-30'
 - type: confirmed
   value: '2013-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2012-12-30'
 biblionote:
 - content: S1-124482 shows v0.4.0 on cover and history; post-dates v1.0.0 but not
     based on v1.0.0.
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

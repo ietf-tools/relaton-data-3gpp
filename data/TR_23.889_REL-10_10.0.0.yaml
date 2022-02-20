@@ -16,6 +16,8 @@ docnumber: TR 23.889:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-10-01'
+- type: published
+  value: '2010-10-01'
 - type: confirmed
   value: '2010-09-28'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - GSM Association
   role:
   - author
+revdate: '2010-10-01'
 biblionote:
 - content: based on v2.0.1.
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C4

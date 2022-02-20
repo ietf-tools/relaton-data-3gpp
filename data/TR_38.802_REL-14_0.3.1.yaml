@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 38.802:Rel-14/0.3.1
 date:
+- type: published
+  value: '2016-11-24'
 - type: confirmed
   value: '2017-03-31'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2016-11-24'
 biblionote:
 - content: R1-1612707
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

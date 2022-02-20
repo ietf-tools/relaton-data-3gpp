@@ -16,6 +16,8 @@ docnumber: TR 23.712:Rel-13/1.1.0
 date:
 - type: created
   value: '2015-10-23'
+- type: published
+  value: '2015-10-23'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - one2many B.V.
   role:
   - author
+revdate: '2015-10-23'
 biblionote:
 - content: C1-153938
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

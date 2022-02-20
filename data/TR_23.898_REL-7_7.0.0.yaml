@@ -16,6 +16,8 @@ docnumber: TR 23.898:Rel-7/7.0.0
 date:
 - type: created
   value: '2005-04-05'
+- type: published
+  value: '2005-04-05'
 - type: confirmed
   value: '2004-12-13'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - DoCoMo Europe S.A.
   role:
   - author
+revdate: '2005-04-05'
 biblionote:
 - content: 'SP-26: may be speeded up and finished in time for Rel-6. Watch this space.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TS 23.107:Rel-13/13.0.0
 date:
 - type: created
   value: '2015-12-23'
+- type: published
+  value: '2015-12-23'
 - type: confirmed
   value: '2002-08-05'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2015-12-23'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -65,7 +68,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

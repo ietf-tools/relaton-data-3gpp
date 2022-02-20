@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.847:Rel-17/0.9.0
+date:
+- type: published
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2021-12-08'
 biblionote:
 - content: S3-214404
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

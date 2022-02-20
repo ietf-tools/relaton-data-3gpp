@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 33.941:Rel-6/0.6.0
 date:
+- type: published
+  value: '2003-10-13'
 - type: confirmed
   value: '2003-10-13'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2003-10-13'
 biblionote:
 - content: '2007-08-20: Effectively replaced by 33.141 so propose to abandon this
     TR at SP-37.'
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

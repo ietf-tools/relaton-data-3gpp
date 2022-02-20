@@ -16,6 +16,8 @@ docnumber: TR 29.864:Rel-8/0.1.0
 date:
 - type: created
   value: '2007-10-22'
+- type: published
+  value: '2007-10-22'
 - type: confirmed
   value: '2009-02-13'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Nokia Solutions & Networks (S)
   role:
   - author
+revdate: '2007-10-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

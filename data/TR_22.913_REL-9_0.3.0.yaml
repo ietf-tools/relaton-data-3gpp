@@ -17,6 +17,8 @@ docnumber: TR 22.913:Rel-9/0.3.0
 date:
 - type: created
   value: '2009-03-20'
+- type: published
+  value: '2009-03-20'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - SK Telecom
   role:
   - author
+revdate: '2009-03-20'
 biblionote:
 - content: cited in S1 report to SP-43
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

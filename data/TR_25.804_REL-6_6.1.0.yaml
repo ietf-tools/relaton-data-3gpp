@@ -16,6 +16,8 @@ docnumber: TR 25.804:Rel-6/6.1.0
 date:
 - type: created
   value: '2006-03-22'
+- type: published
+  value: '2006-03-22'
 - type: confirmed
   value: '2005-03-13'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - InterDigital Communications
   role:
   - author
+revdate: '2006-03-22'
 biblionote:
 - content: 'RP-25: estimate approval RP-26.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

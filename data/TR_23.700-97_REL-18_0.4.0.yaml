@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.700-97:Rel-18/0.4.0
+date:
+- type: published
+  value: '2021-11-24'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - Convida Wireless
   role:
   - author
+revdate: '2021-11-24'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S6

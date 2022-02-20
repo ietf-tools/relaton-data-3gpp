@@ -16,6 +16,8 @@ docnumber: TS 23.007:Rel-6/6.2.0
 date:
 - type: created
   value: '2005-12-15'
+- type: published
+  value: '2005-12-15'
 - type: confirmed
   value: '2007-07-10'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2005-12-15'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

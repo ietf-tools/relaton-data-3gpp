@@ -17,6 +17,8 @@ docnumber: TR 24.837:Rel-10/0.1.1
 date:
 - type: created
   value: '2010-06-16'
+- type: published
+  value: '2010-06-16'
 - type: confirmed
   value: '2011-03-18'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2010-06-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 22.101:Rel-13/13.8.0
 date:
+- type: published
+  value: '2016-03-18'
 - type: confirmed
   value: '2006-06-20'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2016-03-18'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
     Automatic numbering (of clauses, figures, tables, notes, examples etc…) should
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

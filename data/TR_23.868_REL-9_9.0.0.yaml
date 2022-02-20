@@ -17,6 +17,8 @@ docnumber: TR 23.868:Rel-9/9.0.0
 date:
 - type: created
   value: '2008-12-16'
+- type: published
+  value: '2008-12-16'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2008-12-16'
 biblionote:
 - content: 'SP-41: timed out of Rel-8.'
   type: remark
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 36.716-02-01:Rel-16/0.9.0
+date:
+- type: published
+  value: '2020-05-14'
 contributor:
 - organization:
     name:
@@ -42,13 +45,14 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2020-05-14'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -16,6 +16,8 @@ docnumber: TR 29.801:Rel-7/0.4.0
 date:
 - type: created
   value: '2007-04-18'
+- type: published
+  value: '2007-04-18'
 - type: confirmed
   value: '2006-07-31'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2007-04-18'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -17,6 +17,8 @@ docnumber: TR 36.808:Rel-10/10.0.0
 date:
 - type: created
   value: '2012-07-06'
+- type: published
+  value: '2012-07-06'
 - type: confirmed
   value: '2011-10-10'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2012-07-06'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

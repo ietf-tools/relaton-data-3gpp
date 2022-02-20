@@ -17,6 +17,8 @@ docnumber: TR 32.819:Rel-8/0.0.2
 date:
 - type: created
   value: '2008-02-01'
+- type: published
+  value: '2008-02-01'
 - type: confirmed
   value: '2008-06-17'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2008-02-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

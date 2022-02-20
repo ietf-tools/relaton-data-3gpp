@@ -16,6 +16,8 @@ docnumber: TS 33.107:Rel-8/8.9.1
 date:
 - type: created
   value: '2009-10-10'
+- type: published
+  value: '2009-10-10'
 - type: confirmed
   value: '2001-10-09'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - PIDS
   role:
   - author
+revdate: '2009-10-10'
 biblionote:
 - content: Correction of misimplementation of CR0084
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

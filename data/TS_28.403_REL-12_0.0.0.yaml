@@ -17,6 +17,8 @@ docnumber: TS 28.403:Rel-12/0.0.0
 date:
 - type: created
   value: '2014-01-14'
+- type: published
+  value: '2014-01-14'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2014-01-14'
 biblionote:
 - content: 'SP-65: timed out of Rel-12.'
   type: remark
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S5

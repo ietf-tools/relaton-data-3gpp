@@ -16,6 +16,8 @@ docnumber: TR 23.910:Rel-4/4.9.1
 date:
 - type: created
   value: '2005-06-24'
+- type: published
+  value: '2005-06-24'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-06-24'
 biblionote:
 - content: Correction to change history
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

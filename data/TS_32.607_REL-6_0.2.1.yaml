@@ -17,6 +17,8 @@ docnumber: TS 32.607:Rel-6/0.2.1
 date:
 - type: created
   value: '2005-07-04'
+- type: published
+  value: '2005-07-04'
 - type: confirmed
   value: '2008-12-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-07-04'
 biblionote:
 - content: S5-056431r1
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

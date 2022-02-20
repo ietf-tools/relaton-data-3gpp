@@ -16,6 +16,8 @@ docnumber: TS 22.142:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-03-27'
+- type: published
+  value: '2008-03-27'
 - type: confirmed
   value: '2008-03-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2008-03-27'
 biblionote:
 - content: 'CP-43: stage 3 work will be completed in Rel-9, so proposed to also shift
     the stage 1 spec; agreed.'
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

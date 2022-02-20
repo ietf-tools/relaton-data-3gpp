@@ -17,6 +17,8 @@ docnumber: TS 32.452:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-09-29'
+- type: published
+  value: '2009-09-29'
 - type: confirmed
   value: '2011-03-29'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2009-09-29'
 biblionote:
 - content: '2010-03: timed out of Rel-9 (note that WI is currently Rel-8)'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

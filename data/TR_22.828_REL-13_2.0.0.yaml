@@ -17,6 +17,8 @@ docnumber: TR 22.828:Rel-13/2.0.0
 date:
 - type: created
   value: '2014-06-16'
+- type: published
+  value: '2014-06-16'
 - type: confirmed
   value: '2014-06-30'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Intel
   role:
   - author
+revdate: '2014-06-16'
 biblionote:
 - content: SP-140240
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

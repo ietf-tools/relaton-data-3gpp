@@ -17,6 +17,8 @@ docnumber: TR 32.849:Rel-12/0.7.0
 date:
 - type: created
   value: '2015-02-20'
+- type: published
+  value: '2015-02-23'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2015-02-23'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

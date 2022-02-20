@@ -17,6 +17,8 @@ docnumber: TR 23.887:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-06-20'
+- type: published
+  value: '2013-06-20'
 - type: confirmed
   value: '2013-12-20'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2013-06-20'
 biblionote:
 - content: SP-130234
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.700-24:Rel-17/0.8.0
+date:
+- type: published
+  value: '2020-09-12'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2020-09-12'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S6

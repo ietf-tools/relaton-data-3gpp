@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 36.715-02-01:Rel-15/0.3.0
 date:
+- type: published
+  value: '2018-07-06'
 - type: confirmed
   value: '2018-04-04'
 contributor:
@@ -45,13 +47,14 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2018-07-06'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

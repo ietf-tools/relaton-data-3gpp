@@ -17,6 +17,8 @@ docnumber: TR 30.818:Rel-8/0.0.4
 date:
 - type: created
   value: '2007-12-14'
+- type: published
+  value: '2007-12-14'
 - type: confirmed
   value: '2007-03-22'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2007-12-14'
 language:
 - en
 script:
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

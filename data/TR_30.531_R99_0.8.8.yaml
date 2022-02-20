@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 30.531:R99/0.8.8
 date:
+- type: published
+  value: '2001-03-27'
 - type: confirmed
   value: '2011-09-05'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2001-03-27'
 biblionote:
 - content: '2003-01-14: R99 stopped. Work continues, but for later Release.  Skip
     straight to Rel-6'
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

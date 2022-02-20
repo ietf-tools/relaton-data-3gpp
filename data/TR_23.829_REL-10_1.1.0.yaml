@@ -16,6 +16,8 @@ docnumber: TR 23.829:Rel-10/1.1.0
 date:
 - type: created
   value: '2010-05-28'
+- type: published
+  value: '2010-05-28'
 - type: confirmed
   value: '2011-10-18'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2010-05-28'
 biblionote:
 - content: 'SP-51: Decided to approve TR at Rel-10.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

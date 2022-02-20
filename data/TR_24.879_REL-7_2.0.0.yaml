@@ -17,6 +17,8 @@ docnumber: TR 24.879:Rel-7/2.0.0
 date:
 - type: created
   value: '2006-03-20'
+- type: published
+  value: '2006-03-20'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2006-03-20'
 biblionote:
 - content: CP-060098.  WG reports that no further modification of this TR is envisaged.
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

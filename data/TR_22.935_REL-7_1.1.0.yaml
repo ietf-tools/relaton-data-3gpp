@@ -17,6 +17,8 @@ docnumber: TR 22.935:Rel-7/1.1.0
 date:
 - type: created
   value: '2005-06-24'
+- type: published
+  value: '2005-06-24'
 - type: confirmed
   value: '2005-10-06'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Applied Communication Sciences
   role:
   - author
+revdate: '2005-06-24'
 biblionote:
 - content: 'Two versions 1.1.0 exist:  S1-050431 & S1-050610.  To avoid confusion,
     neither version remains in "latest drafts directory".'
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

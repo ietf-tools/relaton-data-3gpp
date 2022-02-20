@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.895:Rel-6/1.3.3
 date:
+- type: published
+  value: '2004-05-28'
 - type: confirmed
   value: '2004-09-28'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2004-05-28'
 biblionote:
 - content: '2002-10-07: anticipate approval at RP-20. RP-23: anticipate approval RP-25.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

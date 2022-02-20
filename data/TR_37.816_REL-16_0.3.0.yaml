@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 37.816:Rel-16/0.3.0
 date:
+- type: published
+  value: '2019-05-02'
 - type: confirmed
   value: '2019-06-20'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - China Mobile International Ltd
   role:
   - author
+revdate: '2019-05-02'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

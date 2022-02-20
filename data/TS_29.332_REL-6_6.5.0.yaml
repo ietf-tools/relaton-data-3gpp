@@ -16,6 +16,8 @@ docnumber: TS 29.332:Rel-6/6.5.0
 date:
 - type: created
   value: '2006-03-30'
+- type: published
+  value: '2006-03-30'
 - type: confirmed
   value: '2010-04-06'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2006-03-30'
 biblionote:
 - content: Anticipated change control at NP-22.
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C4

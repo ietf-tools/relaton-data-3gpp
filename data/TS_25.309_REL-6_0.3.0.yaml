@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.309:Rel-6/0.3.0
 date:
+- type: published
+  value: '2004-08-31'
 - type: confirmed
   value: '2004-09-23'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2004-08-31'
 biblionote:
 - content: R2-041910, based on agreements of RAN1#38 and RAN2#43.  New (unused) version
     as  R2-041915.
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

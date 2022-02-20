@@ -16,6 +16,8 @@ docnumber: TR 36.836:Rel-11/1.0.0
 date:
 - type: created
   value: '2012-06-15'
+- type: published
+  value: '2012-06-15'
 - type: confirmed
   value: '2014-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2012-06-15'
 biblionote:
 - content: 'RP-57: moved to Rel-12.'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

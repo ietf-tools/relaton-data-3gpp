@@ -16,6 +16,8 @@ docnumber: TR 36.889:Rel-13/1.0.1
 date:
 - type: created
   value: '2015-06-09'
+- type: published
+  value: '2015-06-08'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2015-06-08'
 biblionote:
 - content: 'R1-153691 ^ 2015-06-15: RP-68: RP-150879 for approval.'
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

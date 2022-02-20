@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.897:Rel-13/13.1.0
+date:
+- type: published
+  value: '2016-03-17'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - General Dynamics UK Limited
   role:
   - author
+revdate: '2016-03-17'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
     Incorrect/missing title in cover page;Automatic numbering (of clauses, figures,
@@ -53,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

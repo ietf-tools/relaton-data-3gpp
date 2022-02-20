@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 34.229-3:Rel-15/15.6.1
 date:
+- type: published
+  value: '2020-11-30'
 - type: confirmed
   value: '2010-04-11'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2020-11-30'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

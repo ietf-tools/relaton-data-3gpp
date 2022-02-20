@@ -16,6 +16,8 @@ docnumber: TS 23.002:Rel-8/8.1.1
 date:
 - type: created
   value: '2007-10-24'
+- type: published
+  value: '2007-10-24'
 - type: confirmed
   value: '2002-09-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2007-10-24'
 biblionote:
 - content: correction to fig 6; early SDO publication for referencing in ITU-R M.1457
   type: comment
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

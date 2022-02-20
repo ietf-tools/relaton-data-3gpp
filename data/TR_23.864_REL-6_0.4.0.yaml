@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.864:Rel-6/0.4.0
+date:
+- type: published
+  value: '2003-02-24'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2003-02-24'
 biblionote:
 - content: '2007-08-20: No progress so propose to abandon at SP-37.'
   type: remark
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

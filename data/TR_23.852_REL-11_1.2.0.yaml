@@ -18,6 +18,8 @@ docnumber: TR 23.852:Rel-11/1.2.0
 date:
 - type: created
   value: '2012-07-20'
+- type: published
+  value: '2012-07-20'
 - type: confirmed
   value: '2013-09-12'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2012-07-20'
 language:
 - en
 script:
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

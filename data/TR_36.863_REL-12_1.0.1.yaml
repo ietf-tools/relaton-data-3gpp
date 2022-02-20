@@ -17,6 +17,8 @@ docnumber: TR 36.863:Rel-12/1.0.1
 date:
 - type: created
   value: '2013-11-27'
+- type: published
+  value: '2013-11-27'
 - type: confirmed
   value: '2013-11-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nanjing Ericsson Panda Com Ltd
   role:
   - author
+revdate: '2013-11-27'
 biblionote:
 - content: RP-131841 still with serious editorial errors
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

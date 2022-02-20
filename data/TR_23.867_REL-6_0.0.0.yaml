@@ -16,6 +16,8 @@ docnumber: TR 23.867:Rel-6/0.0.0
 date:
 - type: created
   value: '2005-02-21'
+- type: published
+  value: '2005-02-21'
 - type: confirmed
   value: '2005-10-06'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-02-21'
 biblionote:
 - content: 'SP-26: Estimate approval at SP-28.'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

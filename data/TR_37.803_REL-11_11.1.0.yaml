@@ -17,6 +17,8 @@ docnumber: TR 37.803:Rel-11/11.1.0
 date:
 - type: created
   value: '2012-12-21'
+- type: published
+  value: '2012-12-21'
 - type: confirmed
   value: '2012-07-03'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Nokia Solutions &Network Korea
   role:
   - author
+revdate: '2012-12-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

@@ -16,6 +16,8 @@ docnumber: TR 25.927:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-09-19'
+- type: published
+  value: '2012-09-19'
 - type: confirmed
   value: '2010-10-08'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2012-09-19'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -16,6 +16,8 @@ docnumber: TR 23.910:Rel-5/5.5.0
 date:
 - type: created
   value: '2005-04-01'
+- type: published
+  value: '2005-04-01'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-04-01'
 biblionote:
 - content: 'NP-25: In view of the intention to replace by a TS, this TR will not be
     upgraded to Rel-6.'
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

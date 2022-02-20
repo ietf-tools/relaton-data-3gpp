@@ -16,6 +16,8 @@ docnumber: TS 29.212:Rel-12/12.4.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 - type: confirmed
   value: '2012-09-21'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2014-03-10'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C3

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.737:Rel-16/1.0.0
+date:
+- type: published
+  value: '2019-09-02'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - THALES
   role:
   - author
+revdate: '2019-09-02'
 biblionote:
 - content: 'SP-190632: MCC editorial update for presentation to TSG SA#85'
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

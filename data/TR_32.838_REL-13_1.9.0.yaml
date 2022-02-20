@@ -17,6 +17,8 @@ docnumber: TR 32.838:Rel-13/1.9.0
 date:
 - type: created
   value: '2015-12-21'
+- type: published
+  value: '2015-12-21'
 - type: confirmed
   value: '2014-10-01'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2015-12-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

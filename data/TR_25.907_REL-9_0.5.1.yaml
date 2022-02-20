@@ -16,6 +16,8 @@ docnumber: TR 25.907:Rel-9/0.5.1
 date:
 - type: created
   value: '2009-09-25'
+- type: published
+  value: '2009-09-25'
 - type: confirmed
   value: '2010-01-05'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Polaris Wireless
   role:
   - author
+revdate: '2009-09-25'
 biblionote:
 - content: 'RP-46: From the nature of the contents, it seems this TR will not be upgraded
     to later Releases.'
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

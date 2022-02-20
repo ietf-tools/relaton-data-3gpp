@@ -17,6 +17,8 @@ docnumber: TS 33.223:Rel-7/0.3.0
 date:
 - type: created
   value: '2007-03-27'
+- type: published
+  value: '2007-03-27'
 - type: confirmed
   value: '2006-08-08'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2007-03-27'
 biblionote:
 - content: 'SP-38: timed out of Rel-7, moved to Rel-8.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

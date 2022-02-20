@@ -17,6 +17,8 @@ docnumber: TS 25.317:Rel-9/1.0.0
 date:
 - type: created
   value: '2011-03-10'
+- type: published
+  value: '2011-03-10'
 - type: confirmed
   value: '2011-03-31'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2011-03-10'
 biblionote:
 - content: 'RP-48: Anticipate relaunch of this TS at Rel-10 under a new WI. RP-51:
     Old wid was #430015, new WID is #480121.'
@@ -63,7 +66,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R2

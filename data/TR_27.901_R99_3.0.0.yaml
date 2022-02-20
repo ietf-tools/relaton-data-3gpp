@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 27.901:R99/3.0.0
+date:
+- type: published
+  value: '1999-12-17'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '1999-12-17'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

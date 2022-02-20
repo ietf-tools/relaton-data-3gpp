@@ -17,6 +17,8 @@ docnumber: TS 32.403:Rel-7/7.1.0
 date:
 - type: created
   value: '2005-12-20'
+- type: published
+  value: '2005-12-20'
 - type: confirmed
   value: '2008-12-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2005-12-20'
 biblionote:
 - content: 'SP-30: S5 intends to discontinue in Rel-7 and to shift contents into several
     new 32.40x specs. SP-31: That intention enacted.'
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

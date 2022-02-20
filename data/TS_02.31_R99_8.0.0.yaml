@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 02.31:R99/8.0.0
 date:
+- type: published
+  value: '2000-06-30'
 - type: confirmed
   value: '2002-02-06'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2000-06-30'
 biblionote:
 - content: 'SP-18: decided FIGS is joint GERAN/UTRAN so -> 22.031.'
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S3

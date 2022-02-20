@@ -17,6 +17,8 @@ docnumber: TR 31.829:Rel-12/2.0.0
 date:
 - type: created
   value: '2015-06-21'
+- type: published
+  value: '2015-06-21'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Gemalto N.V.
   role:
   - author
+revdate: '2015-06-21'
 biblionote:
 - content: CP-150378
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C6

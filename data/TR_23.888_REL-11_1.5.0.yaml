@@ -16,6 +16,8 @@ docnumber: TR 23.888:Rel-11/1.5.0
 date:
 - type: created
   value: '2011-10-19'
+- type: published
+  value: '2011-10-19'
 - type: confirmed
   value: '2010-10-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2011-10-19'
 biblionote:
 - content: 'SP-49: Work continues in Rel-11 under WI "SIMTC".'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

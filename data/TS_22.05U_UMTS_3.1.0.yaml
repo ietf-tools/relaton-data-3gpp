@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 22.05U:UMTS/3.1.0
+date:
+- type: published
+  value: '1998-07-01'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '1998-07-01'
 language:
 - en
 script:
@@ -50,7 +54,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: "-"

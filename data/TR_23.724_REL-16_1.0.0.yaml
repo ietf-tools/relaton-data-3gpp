@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.724:Rel-16/1.0.0
 date:
+- type: published
+  value: '2018-09-05'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Qualcomm Wireless GmbH
   role:
   - author
+revdate: '2018-09-05'
 biblionote:
 - content: 'SP-180793: MCC editorial update for presentation to TSG SA#81 for information'
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

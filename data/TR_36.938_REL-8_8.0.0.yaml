@@ -17,6 +17,8 @@ docnumber: TR 36.938:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-03-20'
+- type: published
+  value: '2008-03-20'
 - type: confirmed
   value: '2008-08-22'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2008-03-20'
 biblionote:
 - content: V1.0.0 was approved at RP-38 but v8.0.0 not implemented till RP-39
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

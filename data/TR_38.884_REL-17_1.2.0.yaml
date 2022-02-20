@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 38.884:Rel-17/1.2.0
+date:
+- type: published
+  value: '2021-11-23'
 contributor:
 - organization:
     name:
@@ -42,13 +45,14 @@ contributor:
         - Apple Italia S.R.L.
   role:
   - author
+revdate: '2021-11-23'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

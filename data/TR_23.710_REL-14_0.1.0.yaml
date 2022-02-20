@@ -16,6 +16,8 @@ docnumber: TR 23.710:Rel-14/0.1.0
 date:
 - type: created
   value: '2015-10-21'
+- type: published
+  value: '2015-10-21'
 - type: confirmed
   value: '2018-06-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2015-10-21'
 biblionote:
 - content: 'S2-153284: Correct upload of version 0.1.0'
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

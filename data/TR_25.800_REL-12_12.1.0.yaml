@@ -16,6 +16,8 @@ docnumber: TR 25.800:Rel-12/12.1.0
 date:
 - type: created
   value: '2013-12-20'
+- type: published
+  value: '2013-12-20'
 contributor:
 - organization:
     name:
@@ -44,13 +46,14 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2013-12-20'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

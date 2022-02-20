@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 09.10:Ph2/4.4.1
+date:
+- type: published
+  value: '1997-11-17'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '1997-11-17'
 biblionote:
 - content: "#8: 4.0.0   #9: 4.1.0   #10: 4.2.0   #17: 4.3.0  #23: 4.4.0"
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

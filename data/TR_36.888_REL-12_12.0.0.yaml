@@ -17,6 +17,8 @@ docnumber: TR 36.888:Rel-12/12.0.0
 date:
 - type: created
   value: '2013-06-26'
+- type: published
+  value: '2013-06-26'
 - type: confirmed
   value: '2013-06-25'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2013-06-26'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

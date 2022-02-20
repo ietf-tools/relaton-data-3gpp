@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 36.741:Rel-14/0.0.1
 date:
+- type: published
+  value: '2016-06-09'
 - type: confirmed
   value: '2017-03-31'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2016-06-09'
 biblionote:
 - content: 'Skeleton TR ^ 2016-06-09: Endorsed in R1-164298 with updates (see RAN1#85
     minutes)'
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

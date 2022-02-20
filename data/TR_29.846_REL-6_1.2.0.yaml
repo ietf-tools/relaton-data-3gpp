@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 29.846:Rel-6/1.2.0
 date:
+- type: published
+  value: '2004-03-01'
 - type: confirmed
   value: '2004-09-27'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2004-03-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C1

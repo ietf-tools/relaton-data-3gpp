@@ -16,6 +16,8 @@ docnumber: TS 23.048:Rel-4/4.5.0
 date:
 - type: created
   value: '2005-06-14'
+- type: published
+  value: '2005-06-14'
 - type: confirmed
   value: '2001-10-12'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Gemalto N.V.
   role:
   - author
+revdate: '2005-06-14'
 language:
 - en
 script:
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C6

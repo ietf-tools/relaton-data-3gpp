@@ -17,6 +17,8 @@ docnumber: TR 25.993:Rel-13/13.0.1
 date:
 - type: created
   value: '2016-01-14'
+- type: published
+  value: '2016-01-14'
 - type: confirmed
   value: '2004-09-23'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Solutions & Networks (I)
   role:
   - author
+revdate: '2016-01-14'
 biblionote:
 - content: Implements CRs
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

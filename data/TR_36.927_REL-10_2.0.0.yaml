@@ -17,6 +17,8 @@ docnumber: TR 36.927:Rel-10/2.0.0
 date:
 - type: created
   value: '2011-05-23'
+- type: published
+  value: '2011-05-23'
 - type: confirmed
   value: '2011-06-24'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2011-05-23'
 biblionote:
 - content: R3-111768, RP-110720
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

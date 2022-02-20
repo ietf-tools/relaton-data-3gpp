@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TR 36.762:Rel-16/1.0.0
 date:
+- type: published
+  value: '2019-06-28'
 - type: confirmed
   value: '2019-06-20'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2019-06-28'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

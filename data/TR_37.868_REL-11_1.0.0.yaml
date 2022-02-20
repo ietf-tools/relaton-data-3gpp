@@ -16,6 +16,8 @@ docnumber: TR 37.868:Rel-11/1.0.0
 date:
 - type: created
   value: '2011-09-26'
+- type: published
+  value: '2011-09-26'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2011-09-26'
 biblionote:
 - content: R2-114815, RP-111238 for approval
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

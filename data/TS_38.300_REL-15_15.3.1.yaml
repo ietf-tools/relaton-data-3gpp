@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 38.300:Rel-15/15.3.1
 date:
+- type: published
+  value: '2018-10-07'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2018-10-07'
 biblionote:
 - content: 'CR0035 rev3 (R2-1813223) was not submitted in RP-181941 and therefore
     not approved by RAN #81; v15.3.1 removes the changes from this CR which were implemented
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R2

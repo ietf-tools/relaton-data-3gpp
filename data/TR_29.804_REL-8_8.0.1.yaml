@@ -16,6 +16,8 @@ docnumber: TR 29.804:Rel-8/8.0.1
 date:
 - type: created
   value: '2008-12-18'
+- type: published
+  value: '2008-12-18'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2008-12-18'
 biblionote:
 - content: editorial
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C3

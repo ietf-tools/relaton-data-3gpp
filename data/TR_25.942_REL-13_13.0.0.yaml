@@ -16,6 +16,8 @@ docnumber: TR 25.942:Rel-13/13.0.0
 date:
 - type: created
   value: '2016-01-07'
+- type: published
+  value: '2016-01-07'
 - type: confirmed
   value: '2004-06-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Vodafone Omnitel B.V.
   role:
   - author
+revdate: '2016-01-07'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.757:Rel-17/2.0.0
+date:
+- type: published
+  value: '2021-03-16'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2021-03-16'
 biblionote:
 - content: 'SP-210098: Submission to TSG SA#91-e for approval'
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

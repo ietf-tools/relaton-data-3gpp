@@ -17,6 +17,8 @@ docnumber: TS 51.010-6:Rel-6/0.0.1
 date:
 - type: created
   value: '2006-10-06'
+- type: published
+  value: '2006-10-06'
 - type: confirmed
   value: '2006-10-06'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2006-10-06'
 biblionote:
 - content: '2007-08-20: No progress, so propose to abandon at GP-35. GP-35: decided
     to make a decision at GP-36.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: G3new

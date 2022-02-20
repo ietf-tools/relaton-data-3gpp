@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 55.226:Rel-6/0.1.0
 date:
+- type: published
+  value: '2006-01-30'
 - type: confirmed
   value: '2009-10-09'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2006-01-30'
 biblionote:
 - content: 'SP-23: likely that this will -> Rel-7.  SP-24: agreed to shift to Rel-7.'
   type: remark
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

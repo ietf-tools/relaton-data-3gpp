@@ -17,6 +17,8 @@ docnumber: TR 23.850:Rel-11/11.0.0
 date:
 - type: created
   value: '2011-12-16'
+- type: published
+  value: '2011-12-16'
 - type: confirmed
   value: '2011-12-16'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2011-12-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

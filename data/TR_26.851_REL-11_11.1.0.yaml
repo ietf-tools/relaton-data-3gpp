@@ -17,6 +17,8 @@ docnumber: TR 26.851:Rel-11/11.1.0
 date:
 - type: created
   value: '2013-03-20'
+- type: published
+  value: '2013-03-20'
 - type: confirmed
   value: '2012-12-20'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2013-03-20'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

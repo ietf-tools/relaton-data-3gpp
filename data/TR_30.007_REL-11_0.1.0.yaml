@@ -16,6 +16,8 @@ docnumber: TR 30.007:Rel-11/0.1.0
 date:
 - type: created
   value: '2011-06-17'
+- type: published
+  value: '2011-06-17'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-06-17'
 biblionote:
 - content: RP-110751
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

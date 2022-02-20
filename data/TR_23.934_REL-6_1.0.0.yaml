@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.934:Rel-6/1.0.0
 date:
+- type: published
+  value: '2002-09-24'
 - type: confirmed
   value: '2002-10-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - TELENOR ASA
   role:
   - author
+revdate: '2002-09-24'
 biblionote:
 - content: '2002-05-02: anticipate v1.0.0 in Sept 2002, 2.0.0 in Dec 2002. 2007-08-20:
     No further work so propose to raise to v6.0.0 at SP-37. SP-38: stopped, superseded
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

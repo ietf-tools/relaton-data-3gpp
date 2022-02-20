@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 36.750:Rel-14/14.0.0
 date:
+- type: published
+  value: '2016-10-12'
 - type: confirmed
   value: '2016-10-03'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2016-10-12'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

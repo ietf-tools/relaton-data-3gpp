@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 23.179:Rel-13/0.1.0
 date:
+- type: published
+  value: '2015-06-25'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - BlackBerry UK Limited
   role:
   - author
+revdate: '2015-06-25'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S6

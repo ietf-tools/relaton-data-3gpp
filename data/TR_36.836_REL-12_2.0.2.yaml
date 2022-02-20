@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 36.836:Rel-12/2.0.2
 date:
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2014-06-27'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: 'RP-60: WI was stopped at RP-60, but this was probably an accident. Expect
     rescussitation at RP-61. Meanwhile, this TR is in limbo.'
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

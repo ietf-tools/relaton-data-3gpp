@@ -17,6 +17,8 @@ docnumber: TR 22.814:Rel-10/2.0.0
 date:
 - type: created
   value: '2010-03-22'
+- type: published
+  value: '2010-03-22'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - SK Telecom
   role:
   - author
+revdate: '2010-03-22'
 biblionote:
 - content: SP-100195
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

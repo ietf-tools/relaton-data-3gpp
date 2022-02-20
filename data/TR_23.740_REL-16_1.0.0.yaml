@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.740:Rel-16/1.0.0
+date:
+- type: published
+  value: '2018-12-06'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2018-12-06'
 biblionote:
 - content: 'SP-181103: MCC editorial update for presentation to TSG SA#82'
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

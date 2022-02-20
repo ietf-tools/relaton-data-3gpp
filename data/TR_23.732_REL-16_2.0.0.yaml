@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.732:Rel-16/2.0.0
 date:
+- type: published
+  value: '2019-03-14'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2019-03-14'
 biblionote:
 - content: 'SP-190189: MCC editorial update for presentation to TSG SA#83'
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

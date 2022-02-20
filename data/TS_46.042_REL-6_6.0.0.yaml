@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 46.042:Rel-6/6.0.0
 date:
+- type: published
+  value: '2005-01-06'
 - type: confirmed
   value: '2005-01-06'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2005-01-06'
 biblionote:
 - content: Rel-6 record created on freezing the Release, December 2004.
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S4

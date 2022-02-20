@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 37.865-01-01:Rel-15/15.2.0
+date:
+- type: published
+  value: '2019-01-15'
 contributor:
 - organization:
     name:
@@ -42,13 +45,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2019-01-15'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

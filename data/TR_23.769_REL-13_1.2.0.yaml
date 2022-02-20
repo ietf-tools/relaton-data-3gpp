@@ -16,6 +16,8 @@ docnumber: TR 23.769:Rel-13/1.2.0
 date:
 - type: created
   value: '2015-06-08'
+- type: published
+  value: '2015-06-08'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2015-06-08'
 biblionote:
 - content: 'Post S2-109 update ^ 2015-06-06: Correction - Post S2-108 update'
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

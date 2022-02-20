@@ -16,6 +16,8 @@ docnumber: TR 33.838:Rel-11/1.0.0
 date:
 - type: created
   value: '2011-12-16'
+- type: published
+  value: '2011-12-16'
 - type: confirmed
   value: '2012-03-16'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2011-12-16'
 biblionote:
 - content: SP-110687
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

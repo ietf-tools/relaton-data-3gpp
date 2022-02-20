@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 11.10-3:Ph2/4.17.1
+date:
+- type: published
+  value: '1997-06-04'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '1997-06-04'
 biblionote:
 - content: 'GP-06: Rel-4 serves all releases.'
   type: remark
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: G3new

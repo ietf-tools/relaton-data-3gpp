@@ -16,6 +16,8 @@ docnumber: TS 22.168:Rel-9/9.0.0
 date:
 - type: created
   value: '2008-06-11'
+- type: published
+  value: '2008-06-11'
 - type: confirmed
   value: '2012-03-15'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2008-06-11'
 biblionote:
 - content: 'Release upgrade at SP-40. SP-42: Superseded by 22.268; formal withdrawal
     of Rel-9 of this TS at SP-43.'
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

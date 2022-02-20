@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.846:Rel-16/0.5.0
+date:
+- type: published
+  value: '2020-01-02'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2020-01-02'
 biblionote:
 - content: S3-194676
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

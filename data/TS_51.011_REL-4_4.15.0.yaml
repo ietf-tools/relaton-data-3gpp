@@ -17,6 +17,8 @@ docnumber: TS 51.011:Rel-4/4.15.0
 date:
 - type: created
   value: '2005-06-15'
+- type: published
+  value: '2005-06-15'
 - type: confirmed
   value: '2014-02-24'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Gemalto N.V.
   role:
   - author
+revdate: '2005-06-15'
 biblionote:
 - content: 'TP-14: At TP-11 it was decided that there would be no need for a Rel-5
     version, since by then all terminals will handle a common USIM. But the question
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

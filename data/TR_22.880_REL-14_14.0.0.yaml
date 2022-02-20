@@ -16,6 +16,8 @@ docnumber: TR 22.880:Rel-14/14.0.0
 date:
 - type: created
   value: '2015-12-21'
+- type: published
+  value: '2015-12-21'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - MINISTERE DE L'INTERIEUR
   role:
   - author
+revdate: '2015-12-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

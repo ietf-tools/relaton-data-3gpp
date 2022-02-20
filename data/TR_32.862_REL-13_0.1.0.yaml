@@ -16,6 +16,8 @@ docnumber: TR 32.862:Rel-13/0.1.0
 date:
 - type: created
   value: '2015-02-23'
+- type: published
+  value: '2015-02-23'
 contributor:
 - organization:
     name:
@@ -44,13 +46,14 @@ contributor:
         - Huawei Technologies Sweden AB
   role:
   - author
+revdate: '2015-02-23'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

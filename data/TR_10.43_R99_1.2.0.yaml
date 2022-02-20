@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 10.43:R99/1.2.0
+date:
+- type: published
+  value: '1998-04-17'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '1998-04-17'
 biblionote:
 - content: "#25: 1.11.0 #30b: 1.11.0 2001-April:Clayton: stopped."
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

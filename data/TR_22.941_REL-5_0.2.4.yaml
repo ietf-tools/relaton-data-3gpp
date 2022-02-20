@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 22.941:Rel-5/0.2.4
 date:
+- type: published
+  value: '2001-07-05'
 - type: confirmed
   value: '2001-12-14'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - SBC Technology Resources
   role:
   - author
+revdate: '2001-07-05'
 biblionote:
 - content: 'TP-16: likely to drop out of Rel-5 if no progress soon.  SP-18: annex
     C presented at "evolution" workshop (EV-020021).  2003-04-07 Clayton: scrapped.'
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

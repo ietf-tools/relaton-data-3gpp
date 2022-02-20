@@ -16,6 +16,8 @@ docnumber: TR 33.830:Rel-11/0.3.0
 date:
 - type: created
   value: '2013-02-21'
+- type: published
+  value: '2013-02-21'
 contributor:
 - organization:
     name:
@@ -44,13 +46,14 @@ contributor:
         - Oracle Corporation
   role:
   - author
+revdate: '2013-02-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

@@ -16,6 +16,8 @@ docnumber: TR 29.854:Rel-12/12.1.0
 date:
 - type: created
   value: '2015-01-07'
+- type: published
+  value: '2015-01-07'
 - type: confirmed
   value: '2014-09-30'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2015-01-07'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

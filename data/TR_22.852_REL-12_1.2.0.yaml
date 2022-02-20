@@ -16,6 +16,8 @@ docnumber: TR 22.852:Rel-12/1.2.0
 date:
 - type: created
   value: '2013-02-07'
+- type: published
+  value: '2013-02-07'
 - type: confirmed
   value: '2013-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2013-02-07'
 biblionote:
 - content: S1-131132
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

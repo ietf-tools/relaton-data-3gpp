@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.722:Rel-15/0.0.1
 date:
+- type: published
+  value: '2017-04-11'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '2017-04-11'
 biblionote:
 - content: ".0.0 however TR template was already uploaded as v0.0.0 hence uploaded
     as v0.0.1 ^ 2017-04-11: During SA6#16, S6-170398 has been approved as skeleton
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S6

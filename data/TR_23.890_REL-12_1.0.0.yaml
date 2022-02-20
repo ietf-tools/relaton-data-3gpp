@@ -17,6 +17,8 @@ docnumber: TR 23.890:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-09-12'
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2013-09-12'
 contributor:
@@ -33,6 +35,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: SP-130389
   type: comment
@@ -42,7 +45,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

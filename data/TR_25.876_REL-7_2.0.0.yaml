@@ -16,6 +16,8 @@ docnumber: TR 25.876:Rel-7/2.0.0
 date:
 - type: created
   value: '2007-03-04'
+- type: published
+  value: '2007-03-04'
 - type: confirmed
   value: '2003-11-03'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2007-03-04'
 biblionote:
 - content: Timed out of Rel-6.
   type: remark
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

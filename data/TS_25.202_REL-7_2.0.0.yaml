@@ -17,6 +17,8 @@ docnumber: TS 25.202:Rel-7/2.0.0
 date:
 - type: created
   value: '2006-03-20'
+- type: published
+  value: '2006-03-20'
 - type: confirmed
   value: '2011-03-30'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson Japan K.K.
   role:
   - author
+revdate: '2006-03-20'
 biblionote:
 - content: RP-060117
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

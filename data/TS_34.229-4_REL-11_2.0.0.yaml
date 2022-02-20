@@ -19,6 +19,8 @@ docnumber: TS 34.229-4:Rel-11/2.0.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 - type: confirmed
   value: '2014-09-22'
 contributor:
@@ -49,6 +51,7 @@ contributor:
         - Spirent Communications
   role:
   - author
+revdate: '2014-03-10'
 biblionote:
 - content: RP-140091 withdrawn
   type: comment
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

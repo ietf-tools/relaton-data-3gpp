@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.732:Rel-16/0.3.0
 date:
+- type: published
+  value: '2018-10-30'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2018-10-30'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#129
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

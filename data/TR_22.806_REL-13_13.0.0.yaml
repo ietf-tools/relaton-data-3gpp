@@ -16,6 +16,8 @@ docnumber: TR 22.806:Rel-13/13.0.0
 date:
 - type: created
   value: '2014-06-30'
+- type: published
+  value: '2014-06-30'
 - type: confirmed
   value: '2014-06-28'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2014-06-30'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

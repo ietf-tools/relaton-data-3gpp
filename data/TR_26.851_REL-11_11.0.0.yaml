@@ -17,6 +17,8 @@ docnumber: TR 26.851:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-12-20'
+- type: published
+  value: '2012-12-20'
 - type: confirmed
   value: '2012-12-20'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2012-12-20'
 biblionote:
 - content: Editorial issues to be fixed by CR at SP-59.
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

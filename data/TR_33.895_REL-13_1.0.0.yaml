@@ -17,6 +17,8 @@ docnumber: TR 33.895:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-06-21'
+- type: published
+  value: '2015-06-21'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2015-06-21'
 biblionote:
 - content: 'SP-150293 ^ 2015-06-18: Was brought for info and approval, but it was
     requested to change to .9xx number, so not approved. Will reappear at SP-69 as
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

@@ -17,6 +17,8 @@ docnumber: TR 24.826:Rel-10/0.2.0
 date:
 - type: created
   value: '2010-09-06'
+- type: published
+  value: '2010-09-06'
 - type: confirmed
   value: '2011-06-08'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2010-09-06'
 biblionote:
 - content: 'CP-51: timed out of Rel-10'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

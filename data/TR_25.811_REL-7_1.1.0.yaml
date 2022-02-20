@@ -16,6 +16,8 @@ docnumber: TR 25.811:Rel-7/1.1.0
 date:
 - type: created
   value: '2005-11-22'
+- type: published
+  value: '2005-11-22'
 - type: confirmed
   value: '2005-09-15'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Sony Europe Limited
   role:
   - author
+revdate: '2005-11-22'
 biblionote:
 - content: "(not presented at RP-30)"
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

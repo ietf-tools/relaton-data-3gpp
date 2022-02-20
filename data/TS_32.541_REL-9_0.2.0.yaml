@@ -17,6 +17,8 @@ docnumber: TS 32.541:Rel-9/0.2.0
 date:
 - type: created
   value: '2009-08-11'
+- type: published
+  value: '2009-08-11'
 - type: confirmed
   value: '2011-03-28'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2009-08-11'
 biblionote:
 - content: 'SP-48: timed out of Rel-9.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

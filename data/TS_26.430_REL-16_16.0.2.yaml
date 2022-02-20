@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 26.430:Rel-16/16.0.2
 date:
+- type: published
+  value: '2020-10-14'
 - type: confirmed
   value: '2010-04-06'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Apple (UK) Limited
   role:
   - author
+revdate: '2020-10-14'
 biblionote:
 - content: Updated History Table
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

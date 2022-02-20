@@ -16,6 +16,8 @@ docnumber: TR 23.893:Rel-8/0.2.0
 date:
 - type: created
   value: '2007-09-24'
+- type: published
+  value: '2007-09-24'
 - type: confirmed
   value: '2008-08-08'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - LG Electronics Inc.
   role:
   - author
+revdate: '2007-09-24'
 biblionote:
 - content: 'incorporates agreed documents in SA2 #59 (Helsinki)'
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 26.880:Rel-14/1.2.0
+date:
+- type: published
+  value: '2017-02-01'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Motorola Solutions Germany
   role:
   - author
+revdate: '2017-02-01'
 biblionote:
 - content: S4-170235
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

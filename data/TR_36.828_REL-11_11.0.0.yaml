@@ -18,6 +18,8 @@ docnumber: TR 36.828:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-06-26'
+- type: published
+  value: '2012-06-26'
 - type: confirmed
   value: '2012-06-26'
 contributor:
@@ -34,13 +36,14 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '2012-06-26'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

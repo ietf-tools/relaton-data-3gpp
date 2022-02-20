@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 28.622:Rel-16/16.8.1
 date:
+- type: published
+  value: '2021-06-28'
 - type: confirmed
   value: '2012-12-21'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2021-06-28'
 biblionote:
 - content: Editorial fixes on tables and formatting
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S5

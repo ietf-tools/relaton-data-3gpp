@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 26.443:Rel-12/12.9.0
 date:
+- type: published
+  value: '2018-01-09'
 - type: confirmed
   value: '2014-09-26'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Fraunhofer IIS
   role:
   - author
+revdate: '2018-01-09'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

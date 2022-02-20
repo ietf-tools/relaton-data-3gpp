@@ -17,6 +17,8 @@ docnumber: TR 36.913:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-12-28'
+- type: published
+  value: '2009-12-28'
 - type: confirmed
   value: '2009-03-16'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2009-12-28'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

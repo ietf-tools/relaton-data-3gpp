@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 27.901:Rel-5/5.0.0
+date:
+- type: published
+  value: '2002-06-26'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2002-06-26'
 biblionote:
 - content: 'TP-26: Not to be upgraded to Rel-6.'
   type: remark
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

@@ -17,6 +17,8 @@ docnumber: TR 23.847:Rel-8/1.0.0
 date:
 - type: created
   value: '2007-03-19'
+- type: published
+  value: '2007-03-19'
 - type: confirmed
   value: '2007-12-13'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Siemens Networks S.p.A
   role:
   - author
+revdate: '2007-03-19'
 biblionote:
 - content: SP-070104
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

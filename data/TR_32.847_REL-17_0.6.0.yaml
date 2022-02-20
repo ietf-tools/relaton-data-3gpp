@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 32.847:Rel-17/0.6.0
+date:
+- type: published
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - MATRIXX Software
   role:
   - author
+revdate: '2021-12-08'
 biblionote:
 - content: S5-216489
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

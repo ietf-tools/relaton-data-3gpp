@@ -16,6 +16,8 @@ docnumber: TR 33.803:Rel-7/7.0.0
 date:
 - type: created
   value: '2007-06-22'
+- type: published
+  value: '2007-06-22'
 - type: confirmed
   value: '2006-07-19'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2007-06-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

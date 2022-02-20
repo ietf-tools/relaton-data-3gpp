@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 23.304:Rel-17/17.1.1
+date:
+- type: published
+  value: '2022-01-12'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Guangdong OPPO Mobile Telecom.
   role:
   - author
+revdate: '2022-01-12'
 biblionote:
 - content: 'Correction of CR0020R1 implementation: Removal of editor''s notes in clause
     5.8.3.3'
@@ -54,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

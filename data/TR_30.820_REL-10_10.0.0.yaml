@@ -17,6 +17,8 @@ docnumber: TR 30.820:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-09-30'
+- type: published
+  value: '2011-09-30'
 - type: confirmed
   value: '2011-07-05'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2011-09-30'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

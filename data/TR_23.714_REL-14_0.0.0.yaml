@@ -17,6 +17,8 @@ docnumber: TR 23.714:Rel-14/0.0.0
 date:
 - type: created
   value: '2015-10-21'
+- type: published
+  value: '2015-10-21'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2015-10-21'
 biblionote:
 - content: S2-153351, Skeleton TR
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

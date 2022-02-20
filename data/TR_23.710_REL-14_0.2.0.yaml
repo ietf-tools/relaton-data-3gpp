@@ -16,6 +16,8 @@ docnumber: TR 23.710:Rel-14/0.2.0
 date:
 - type: created
   value: '2016-01-05'
+- type: published
+  value: '2016-01-05'
 - type: confirmed
   value: '2018-06-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2016-01-05'
 biblionote:
 - content: Update with pCRs at SA WG2#112
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

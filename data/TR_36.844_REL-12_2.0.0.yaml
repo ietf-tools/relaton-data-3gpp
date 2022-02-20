@@ -17,6 +17,8 @@ docnumber: TR 36.844:Rel-12/2.0.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 - type: confirmed
   value: '2014-07-04'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ligado Networks
   role:
   - author
+revdate: '2014-03-10'
 biblionote:
 - content: 'RP-62: RP-131672 withdrawn as not yet advanced enough. RP-63: RP-140278
     withdrawn, RP-140279 withdrawn, RP-140280 withdrawn, RP-140403.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

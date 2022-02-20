@@ -16,6 +16,8 @@ docnumber: TR 37.852:Rel-12/12.0.0
 date:
 - type: created
   value: '2013-12-19'
+- type: published
+  value: '2013-12-19'
 - type: confirmed
   value: '2013-12-19'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2013-12-19'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

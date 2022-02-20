@@ -16,6 +16,8 @@ docnumber: TR 23.719:Rel-14/0.1.0
 date:
 - type: created
   value: '2016-01-05'
+- type: published
+  value: '2016-01-05'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - T-Mobile USA Inc.
   role:
   - author
+revdate: '2016-01-05'
 biblionote:
 - content: Version created before WID approval
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

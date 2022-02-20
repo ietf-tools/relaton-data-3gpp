@@ -17,6 +17,8 @@ docnumber: TR 23.832:Rel-9/0.3.0
 date:
 - type: created
   value: '2009-04-17'
+- type: published
+  value: '2009-04-17'
 - type: confirmed
   value: '2010-03-26'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2009-04-17'
 biblionote:
 - content: 'SP-47: timed out of Rel-9'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -17,6 +17,8 @@ docnumber: TR 23.844:Rel-11/0.0.2
 date:
 - type: created
   value: '2011-01-17'
+- type: published
+  value: '2011-01-17'
 - type: confirmed
   value: '2012-06-22'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2011-01-17'
 biblionote:
 - content: 'SP-56: timed out of Rel-11.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TS 22.112:Rel-7/7.0.0
 date:
 - type: created
   value: '2007-06-19'
+- type: published
+  value: '2007-06-19'
 - type: confirmed
   value: '2009-02-16'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - IDEMIA
   role:
   - author
+revdate: '2007-06-19'
 biblionote:
 - content: Upgraded unchanged from Rel-6
   type: comment
@@ -65,7 +68,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C6

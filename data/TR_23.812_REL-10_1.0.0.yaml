@@ -16,6 +16,8 @@ docnumber: TR 23.812:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-03-09'
+- type: published
+  value: '2010-03-09'
 - type: confirmed
   value: '2011-12-16'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2010-03-09'
 biblionote:
 - content: SP-100179
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

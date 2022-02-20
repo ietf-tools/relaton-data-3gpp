@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 30.902:Rel-4/4.0.2
 date:
+- type: published
+  value: '2003-04-07'
 - type: confirmed
   value: '2005-01-07'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Nokia Solutions & Networks (S)
   role:
   - author
+revdate: '2003-04-07'
 biblionote:
 - content: Technically identical to 30.002 v4.0.1.
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

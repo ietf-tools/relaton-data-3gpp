@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 49.995:Rel-15/15.0.0
 date:
+- type: published
+  value: '2018-06-28'
 - type: confirmed
   value: '2005-04-22'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Anemone Technology
   role:
   - author
+revdate: '2018-06-28'
 biblionote:
 - content: automatic upgrade
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

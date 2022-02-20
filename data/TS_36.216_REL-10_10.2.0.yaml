@@ -17,6 +17,8 @@ docnumber: TS 36.216:Rel-10/10.2.0
 date:
 - type: created
   value: '2011-03-30'
+- type: published
+  value: '2011-03-30'
 - type: confirmed
   value: '2010-10-08'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - PANASONIC R&D Center Germany
   role:
   - author
+revdate: '2011-03-30'
 biblionote:
 - content: 'RP-50: Relay nodes may move to Rel-11 if security issues cannot be resolved
     in time (see 33.816).'
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R1

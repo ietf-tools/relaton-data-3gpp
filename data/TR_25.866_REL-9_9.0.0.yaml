@@ -16,6 +16,8 @@ docnumber: TR 25.866:Rel-9/9.0.0
 date:
 - type: created
   value: '2010-01-04'
+- type: published
+  value: '2010-01-04'
 - type: confirmed
   value: '2010-01-04'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - TD Tech Ltd
   role:
   - author
+revdate: '2010-01-04'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -17,6 +17,8 @@ docnumber: TR 33.812:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-12-22'
+- type: published
+  value: '2009-12-22'
 - type: confirmed
   value: '2009-12-08'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2009-12-22'
 biblionote:
 - content: furher CRs expected
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

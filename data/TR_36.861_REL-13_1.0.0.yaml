@@ -17,6 +17,8 @@ docnumber: TR 36.861:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-09-24'
+- type: published
+  value: '2015-09-24'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - KT Corp.
   role:
   - author
+revdate: '2015-09-24'
 biblionote:
 - content: A different instance of v1.0.0 later appeared in RP-151547, which also
     included a cover sheet. But the instance in RP-151277 should be considered as
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

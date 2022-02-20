@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.846:Rel-6/1.1.1
+date:
+- type: published
+  value: '2002-07-22'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - NOKIA UK R&D Ltd
   role:
   - author
+revdate: '2002-07-22'
 biblionote:
 - content: 'SP-15: To be a Rel-6 service, not Rel-5.'
   type: remark
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

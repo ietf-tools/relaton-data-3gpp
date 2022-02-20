@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 25.346:Rel-6/2.5.0
 date:
+- type: published
+  value: '2004-01-30'
 - type: confirmed
   value: '2005-08-05'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2004-01-30'
 biblionote:
 - content: Several drafts bearing this version number were distributed.  Only the
     first was kept.
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

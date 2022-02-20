@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 32.802:Rel-5/1.0.1
 date:
+- type: published
+  value: '2002-01-28'
 - type: confirmed
   value: '2018-12-21'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2002-01-28'
 biblionote:
 - content: 'SP-21: No rapporteur, work stopped.  SP-26: assume no desire to upgrade
     to Rel-6.  2006-02: Cf OMA DevMan.'
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

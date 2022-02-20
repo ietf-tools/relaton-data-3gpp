@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 02.97:R96/5.0.0
 date:
+- type: published
+  value: '1996-06-28'
 - type: confirmed
   value: '2005-03-22'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '1996-06-28'
 biblionote:
 - content: "#19: 5.0.0  #22: 5.1.0  #23: 5.2.0  #25: withdrawn"
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

@@ -17,6 +17,8 @@ docnumber: TR 22.895:Rel-12/12.0.0
 date:
 - type: created
   value: '2012-03-15'
+- type: published
+  value: '2012-03-15'
 - type: confirmed
   value: '2012-03-15'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2012-03-15'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

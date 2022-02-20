@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 31.115:Rel-5/0.0.2
 date:
+- type: published
+  value: '2002-03-19'
 - type: confirmed
   value: '2012-03-16'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Gemalto N.V.
   role:
   - author
+revdate: '2002-03-19'
 biblionote:
 - content: 'TP-16: offered for approval as Rel-6, so scrap Rel-5.'
   type: remark
@@ -65,7 +68,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -17,6 +17,8 @@ docnumber: TR 23.701:Rel-12/0.3.2
 date:
 - type: created
   value: '2013-12-16'
+- type: published
+  value: '2013-12-16'
 - type: confirmed
   value: '2013-12-17'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2013-12-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TS 45.002:Rel-9/9.2.0
 date:
 - type: created
   value: '2009-12-18'
+- type: published
+  value: '2009-12-18'
 - type: confirmed
   value: '2005-07-07'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2009-12-18'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: RP

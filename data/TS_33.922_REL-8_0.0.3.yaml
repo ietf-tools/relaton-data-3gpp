@@ -17,6 +17,8 @@ docnumber: TS 33.922:Rel-8/0.0.3
 date:
 - type: created
   value: '2007-01-09'
+- type: published
+  value: '2007-01-09'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Microsoft Europe SARL
   role:
   - author
+revdate: '2007-01-09'
 biblionote:
 - content: For drafting and approval versions, see 22.822.
   type: remark
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

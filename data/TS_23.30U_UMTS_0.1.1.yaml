@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.30U:UMTS/0.1.1
 date:
+- type: published
+  value: '1998-08-03'
 - type: confirmed
   value: '2012-11-29'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '1998-08-03'
 biblionote:
 - content: SMG12 tdoc 98S518
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: smg3

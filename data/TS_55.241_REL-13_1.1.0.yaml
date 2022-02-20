@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 55.241:Rel-13/1.1.0
 date:
+- type: published
+  value: '2016-11-23'
 - type: confirmed
   value: '2016-10-10'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2016-11-23'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

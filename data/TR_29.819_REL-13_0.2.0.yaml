@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 29.819:Rel-13/0.2.0
+date:
+- type: published
+  value: '2015-11-28'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2015-11-28'
 biblionote:
 - content: Agreed as C4-152267
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

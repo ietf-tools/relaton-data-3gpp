@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.331:Rel-5/5.7.1
 date:
+- type: published
+  value: '2004-01-20'
 - type: confirmed
   value: '2006-04-04'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson India Private Limited
   role:
   - author
+revdate: '2004-01-20'
 biblionote:
 - content: Some figures are not visible in these 2 documents. See figure 8.3.1-5 and
     8.3.1-6, figures 8.3.1-8 to 8.3.1-10. There is an error message => Error! Objects
@@ -64,7 +67,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

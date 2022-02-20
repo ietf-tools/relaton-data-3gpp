@@ -16,6 +16,8 @@ docnumber: TR 25.819:Rel-7/1.0.0
 date:
 - type: created
   value: '2005-12-12'
+- type: published
+  value: '2005-12-12'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2005-12-12'
 biblionote:
 - content: '2008-03: WG proposes to abandon this TR at RP-40.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R2

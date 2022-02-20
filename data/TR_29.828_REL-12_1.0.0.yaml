@@ -18,6 +18,8 @@ docnumber: TR 29.828:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-12-16'
+- type: published
+  value: '2013-12-16'
 - type: confirmed
   value: '2014-09-30'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2013-12-16'
 biblionote:
 - content: CP-130645
   type: comment
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

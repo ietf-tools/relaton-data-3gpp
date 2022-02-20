@@ -16,6 +16,8 @@ docnumber: TR 26.969:Rel-8/1.0.0
 date:
 - type: created
   value: '2009-06-08'
+- type: published
+  value: '2009-06-08'
 - type: confirmed
   value: '2009-10-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2009-06-08'
 biblionote:
 - content: 'SP-43: Exception granted for completion at SP-44.'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

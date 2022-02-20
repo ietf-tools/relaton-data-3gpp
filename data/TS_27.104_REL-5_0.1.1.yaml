@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 27.104:Rel-5/0.1.1
+date:
+- type: published
+  value: '2001-01-05'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Motorola Inc.
   role:
   - author
+revdate: '2001-01-05'
 biblionote:
 - content: 'TSG#11:Rel4->Rel5.  2003-01-31: T2 Secretary confirmst that this spec
     is scrapped.'
@@ -56,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: T2

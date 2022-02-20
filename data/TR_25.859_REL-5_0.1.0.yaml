@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.859:Rel-5/0.1.0
 date:
+- type: published
+  value: '2001-09-04'
 - type: confirmed
   value: '2002-03-19'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2001-09-04'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

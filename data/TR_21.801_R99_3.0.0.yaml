@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 21.801:R99/3.0.0
 date:
+- type: published
+  value: '2004-04-02'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2004-04-02'
 biblionote:
 - content: Created from Rel-5 at SP-23.  Previous Releases were originally covered
     by ETSI drafting rules.  No intention to propagate "21.801" further back than
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

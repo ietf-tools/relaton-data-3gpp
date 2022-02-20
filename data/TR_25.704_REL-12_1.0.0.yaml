@@ -16,6 +16,8 @@ docnumber: TR 25.704:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-11-26'
+- type: published
+  value: '2013-11-26'
 - type: confirmed
   value: '2014-01-07'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson Japan K.K.
   role:
   - author
+revdate: '2013-11-26'
 biblionote:
 - content: RP-131709
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

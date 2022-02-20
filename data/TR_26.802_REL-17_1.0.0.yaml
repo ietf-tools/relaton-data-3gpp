@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 26.802:Rel-17/1.0.0
+date:
+- type: published
+  value: '2021-03-30'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - TELUS
   role:
   - author
+revdate: '2021-03-30'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

@@ -16,6 +16,8 @@ docnumber: TR 23.803:Rel-7/7.0.0
 date:
 - type: created
   value: '2005-10-06'
+- type: published
+  value: '2005-10-06'
 - type: confirmed
   value: '2005-05-18'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-10-06'
 biblionote:
 - content: Withdawn at SP-33 because it is viewed as a place holder, now served its
     purpose.
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

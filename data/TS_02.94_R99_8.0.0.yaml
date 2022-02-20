@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 02.94:R99/8.0.0
+date:
+- type: published
+  value: '1999-11-11'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - EMCOM Ltd
   role:
   - author
+revdate: '1999-11-11'
 biblionote:
 - content: "#28: 1.0.0 #30: 8.0.0 August 2001: still debating whether this is GSM-only
     or common.  2003-07-21 (Clayton): S1 have decided to scrap this spec in favour
@@ -57,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

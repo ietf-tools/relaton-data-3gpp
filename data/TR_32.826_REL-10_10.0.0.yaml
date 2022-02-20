@@ -16,6 +16,8 @@ docnumber: TR 32.826:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-04-06'
+- type: published
+  value: '2010-04-06'
 - type: confirmed
   value: '2010-03-18'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2010-04-06'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

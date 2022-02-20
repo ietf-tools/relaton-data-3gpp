@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.331:Rel-12/12.14.0
 date:
+- type: published
+  value: '2017-09-26'
 - type: confirmed
   value: '2006-04-04'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson India Private Limited
   role:
   - author
+revdate: '2017-09-26'
 language:
 - en
 script:
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

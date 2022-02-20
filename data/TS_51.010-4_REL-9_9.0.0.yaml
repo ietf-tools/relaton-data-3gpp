@@ -17,6 +17,8 @@ docnumber: TS 51.010-4:Rel-9/9.0.0
 date:
 - type: created
   value: '2014-07-03'
+- type: published
+  value: '2014-07-03'
 - type: confirmed
   value: '2006-10-03'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2014-07-03'
 biblionote:
 - content: Pointer to later Release created in anticipation of closure of Rel-4 &
     -5.
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

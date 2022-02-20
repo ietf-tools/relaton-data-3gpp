@@ -16,6 +16,8 @@ docnumber: TS 32.141:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-10-01'
+- type: published
+  value: '2009-10-01'
 - type: confirmed
   value: '2004-03-29'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2009-10-01'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

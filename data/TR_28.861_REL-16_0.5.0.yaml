@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.861:Rel-16/0.5.0
+date:
+- type: published
+  value: '2019-04-30'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2019-04-30'
 biblionote:
 - content: S5-193508
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

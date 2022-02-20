@@ -17,6 +17,8 @@ docnumber: TR 33.821:Rel-8/8.0.0
 date:
 - type: created
   value: '2009-03-19'
+- type: published
+  value: '2009-03-19'
 - type: confirmed
   value: '2009-03-10'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Microsoft Europe SARL
   role:
   - author
+revdate: '2009-03-19'
 biblionote:
 - content: approved but out of date
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

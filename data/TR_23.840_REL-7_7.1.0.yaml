@@ -16,6 +16,8 @@ docnumber: TR 23.840:Rel-7/7.1.0
 date:
 - type: created
   value: '2007-03-21'
+- type: published
+  value: '2007-03-21'
 - type: confirmed
   value: '2006-04-26'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - BlackBerry UK Limited
   role:
   - author
+revdate: '2007-03-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C4

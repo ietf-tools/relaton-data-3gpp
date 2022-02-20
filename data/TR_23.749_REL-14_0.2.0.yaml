@@ -16,6 +16,8 @@ docnumber: TR 23.749:Rel-14/0.2.0
 date:
 - type: created
   value: '2015-11-06'
+- type: published
+  value: '2015-11-04'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2015-11-04'
 biblionote:
 - content: Update with agreed P-CRs after S2#111
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

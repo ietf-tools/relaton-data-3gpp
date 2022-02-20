@@ -16,6 +16,8 @@ docnumber: TS 25.452:Rel-9/9.0.1
 date:
 - type: created
   value: '2011-04-04'
+- type: published
+  value: '2011-04-04'
 - type: confirmed
   value: '2003-03-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2011-04-04'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -64,7 +67,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R3

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 32.880:Rel-14/0.4.0
+date:
+- type: published
+  value: '2016-09-20'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2016-09-20'
 biblionote:
 - content: S5-165288
   type: comment
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

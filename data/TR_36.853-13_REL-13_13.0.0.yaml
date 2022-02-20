@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 36.853-13:Rel-13/13.0.0
+date:
+- type: published
+  value: '2016-03-31'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2016-03-31'
 biblionote:
 - content: To be approved at end of Rel-13.
   type: remark
@@ -55,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

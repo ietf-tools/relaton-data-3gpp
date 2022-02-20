@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 24.545:Rel-16/0.3.0
+date:
+- type: published
+  value: '2020-03-06'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2020-03-06'
 language:
 - en
 script:
@@ -51,7 +55,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

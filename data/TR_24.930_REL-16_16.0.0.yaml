@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TR 24.930:Rel-16/16.0.0
 date:
+- type: published
+  value: '2020-07-09'
 - type: confirmed
   value: '2006-12-13'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2020-07-09'
 biblionote:
 - content: automatic upgrade from previous release
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

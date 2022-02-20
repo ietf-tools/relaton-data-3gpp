@@ -16,6 +16,8 @@ docnumber: TR 24.801:Rel-8/8.0.1
 date:
 - type: created
   value: '2008-10-14'
+- type: published
+  value: '2008-10-14'
 - type: confirmed
   value: '2008-09-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Intel Deutschland GmbH
   role:
   - author
+revdate: '2008-10-14'
 biblionote:
 - content: restores accidentally accepted revision marks showing deviation from endorsed
     document
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

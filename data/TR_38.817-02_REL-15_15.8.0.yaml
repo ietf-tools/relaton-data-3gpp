@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 38.817-02:Rel-15/15.8.0
 date:
+- type: published
+  value: '2020-07-17'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2020-07-17'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -16,6 +16,8 @@ docnumber: TR 22.898:Rel-14/2.0.0
 date:
 - type: created
   value: '2015-03-18'
+- type: published
+  value: '2015-03-18'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - SPRINT Corporation
   role:
   - author
+revdate: '2015-03-18'
 biblionote:
 - content: SP-150047
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

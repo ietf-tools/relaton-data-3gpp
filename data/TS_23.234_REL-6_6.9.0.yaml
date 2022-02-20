@@ -17,6 +17,8 @@ docnumber: TS 23.234:Rel-6/6.9.0
 date:
 - type: created
   value: '2006-06-13'
+- type: published
+  value: '2006-06-13'
 - type: confirmed
   value: '2008-07-02'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2006-06-13'
 biblionote:
 - content: 'SP-18: Anticipate approval SP-19.  SP-19: Doc has been split into scenario
     2 and scenario 3 parts, and will be for approval at SP-20.'
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

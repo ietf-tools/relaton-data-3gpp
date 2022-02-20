@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 38.856:Rel-16/0.2.0
+date:
+- type: published
+  value: '2019-11-09'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - China Mobile International Ltd
   role:
   - author
+revdate: '2019-11-09'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

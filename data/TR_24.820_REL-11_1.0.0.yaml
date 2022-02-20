@@ -16,6 +16,8 @@ docnumber: TR 24.820:Rel-11/1.0.0
 date:
 - type: created
   value: '2012-06-15'
+- type: published
+  value: '2012-06-15'
 - type: confirmed
   value: '2012-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson Inc.
   role:
   - author
+revdate: '2012-06-15'
 biblionote:
 - content: CP-120282 for approval
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

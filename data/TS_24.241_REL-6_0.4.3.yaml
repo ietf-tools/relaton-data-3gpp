@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 24.241:Rel-6/0.4.3
 date:
+- type: published
+  value: '2003-09-12'
 - type: confirmed
   value: '2003-11-03'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - FSCOM
   role:
   - author
+revdate: '2003-09-12'
 biblionote:
 - content: '2002-05-29 (jmm): Since stage 2 is moved to Rel-6, so should the stage
     3 be.'
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

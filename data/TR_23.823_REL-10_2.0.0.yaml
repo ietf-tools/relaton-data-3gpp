@@ -16,6 +16,8 @@ docnumber: TR 23.823:Rel-10/2.0.0
 date:
 - type: created
   value: '2010-03-26'
+- type: published
+  value: '2010-03-26'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2010-03-26'
 biblionote:
 - content: Immediately changed number on approval.
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.990:R99/0.1.4
+date:
+- type: published
+  value: '1999-06-23'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Motorola Inc.
   role:
   - author
+revdate: '1999-06-23'
 biblionote:
 - content: Will be withdrawn when 21.905 is updated with all the contents of this
     TR. RP-15; the update was done at RP-13, so this can now be withdrawn.
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

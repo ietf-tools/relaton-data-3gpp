@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.241:Rel-6/6.0.0
 date:
+- type: published
+  value: '2004-03-25'
 - type: confirmed
   value: '2004-03-25'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2004-03-25'
 biblionote:
 - content: 'RP-15: Delayed from Rel-5.   2004-11-16: N4 intends to withdraw this spec
     and replace with TR 23.941.  NP-26: withdrawal confirmed.'
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: N4

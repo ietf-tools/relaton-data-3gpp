@@ -16,6 +16,8 @@ docnumber: TR 22.936:Rel-7/7.1.0
 date:
 - type: created
   value: '2006-03-24'
+- type: published
+  value: '2006-03-24'
 - type: confirmed
   value: '2005-12-19'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm UK Ltd
   role:
   - author
+revdate: '2006-03-24'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

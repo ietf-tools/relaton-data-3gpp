@@ -17,6 +17,8 @@ docnumber: TR 23.879:Rel-8/1.0.0
 date:
 - type: created
   value: '2007-12-17'
+- type: published
+  value: '2007-12-17'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2007-12-17'
 biblionote:
 - content: 'SP-42: timed out of Rel-8.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

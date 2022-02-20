@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 38.214:Rel-15/0.0.1
 date:
+- type: published
+  value: '2017-08-12'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2017-08-12'
 biblionote:
 - content: "Capture decisions up to and incl. RAN1#AH_NR2 (R1-1712016)\r\n"
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R1

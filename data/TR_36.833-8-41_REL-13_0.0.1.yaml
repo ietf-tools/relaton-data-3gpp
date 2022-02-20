@@ -17,6 +17,8 @@ docnumber: TR 36.833-8-41:Rel-13/0.0.1
 date:
 - type: created
   value: '2015-09-08'
+- type: published
+  value: '2015-09-08'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2015-09-08'
 biblionote:
 - content: R4-150459
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

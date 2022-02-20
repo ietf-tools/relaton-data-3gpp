@@ -17,6 +17,8 @@ docnumber: TR 36.902:Rel-8/0.0.2
 date:
 - type: created
   value: '2008-02-22'
+- type: published
+  value: '2008-02-22'
 - type: confirmed
   value: '2009-05-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2008-02-22'
 biblionote:
 - content: 'post RP-43: Rapporteur proposes to move this work to Rel-9 with appropriate
     change to the work item description, which is currently #330020.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

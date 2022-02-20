@@ -16,6 +16,8 @@ docnumber: TR 25.756:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-06-21'
+- type: published
+  value: '2015-06-21'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2015-06-21'
 biblionote:
 - content: RP-150685 for approval
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

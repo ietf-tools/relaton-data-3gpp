@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 21.205:Rel-16/16.0.0
+date:
+- type: published
+  value: '2020-07-10'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2020-07-10'
 language:
 - en
 script:
@@ -50,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: SP

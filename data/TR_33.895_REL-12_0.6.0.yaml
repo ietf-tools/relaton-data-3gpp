@@ -17,6 +17,8 @@ docnumber: TR 33.895:Rel-12/0.6.0
 date:
 - type: created
   value: '2013-05-15'
+- type: published
+  value: '2013-05-15'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2013-05-15'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

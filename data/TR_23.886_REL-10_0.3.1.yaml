@@ -17,6 +17,8 @@ docnumber: TR 23.886:Rel-10/0.3.1
 date:
 - type: created
   value: '2010-09-09'
+- type: published
+  value: '2010-09-09'
 - type: confirmed
   value: '2010-09-29'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2010-09-09'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 26.226:Rel-4/0.0.10
 date:
+- type: published
+  value: '2000-10-24'
 - type: confirmed
   value: '2004-07-27'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Omnitor AB
   role:
   - author
+revdate: '2000-10-24'
 biblionote:
 - content: TSG#11:withdrawn->rel-5
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

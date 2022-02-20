@@ -18,6 +18,8 @@ docnumber: TR 37.813:Rel-12/2.0.1
 date:
 - type: created
   value: '2013-06-07'
+- type: published
+  value: '2013-06-07'
 - type: confirmed
   value: '2013-06-27'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - China Telecommunications
   role:
   - author
+revdate: '2013-06-07'
 biblionote:
 - content: RP-130755 for approval
   type: comment
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

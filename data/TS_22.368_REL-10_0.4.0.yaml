@@ -16,6 +16,8 @@ docnumber: TS 22.368:Rel-10/0.4.0
 date:
 - type: created
   value: '2009-05-25'
+- type: published
+  value: '2009-05-25'
 - type: confirmed
   value: '2010-04-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - TNO
   role:
   - author
+revdate: '2009-05-25'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

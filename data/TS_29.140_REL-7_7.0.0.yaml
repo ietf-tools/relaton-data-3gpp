@@ -17,6 +17,8 @@ docnumber: TS 29.140:Rel-7/7.0.0
 date:
 - type: created
   value: '2007-07-05'
+- type: published
+  value: '2007-07-05'
 - type: confirmed
   value: '2005-06-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2007-07-05'
 biblionote:
 - content: '2007-11-08: CT4 proposed to withdraw Rel-7 version since not required
     by OMA.'
@@ -63,7 +66,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

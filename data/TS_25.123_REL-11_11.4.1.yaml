@@ -16,6 +16,8 @@ docnumber: TS 25.123:Rel-11/11.4.1
 date:
 - type: created
   value: '2014-04-04'
+- type: published
+  value: '2014-04-04'
 - type: confirmed
   value: '2002-03-19'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Netscout Systems Inc.
   role:
   - author
+revdate: '2014-04-04'
 biblionote:
 - content: fixes cover page
   type: comment
@@ -64,7 +67,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R4

@@ -17,6 +17,8 @@ docnumber: TR 23.828:Rel-8/0.2.0
 date:
 - type: created
   value: '2008-10-29'
+- type: published
+  value: '2008-10-29'
 - type: confirmed
   value: '2008-09-16'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2008-10-29'
 biblionote:
 - content: cited in GERAN report to SP041.
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

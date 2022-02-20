@@ -17,6 +17,8 @@ docnumber: TS 31.121:Rel-5/5.3.0
 date:
 - type: created
   value: '2005-10-12'
+- type: published
+  value: '2005-10-12'
 - type: confirmed
   value: '2005-06-15'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Comprion GmbH
   role:
   - author
+revdate: '2005-10-12'
 biblionote:
 - content: '2003-07-15 (Dietze): It is the intention that a Rel-5 be created - eventually.
     TP-24: Creation postponed to T3 AdHoc mtg. T3 needs guidance T on whether EF_KC
@@ -66,7 +69,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

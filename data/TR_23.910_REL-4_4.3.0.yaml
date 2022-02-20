@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.910:Rel-4/4.3.0
+date:
+- type: published
+  value: '2001-06-28'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2001-06-28'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

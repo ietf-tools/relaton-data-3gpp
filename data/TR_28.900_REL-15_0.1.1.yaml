@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.900:Rel-15/0.1.1
+date:
+- type: published
+  value: '2018-01-11'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2018-01-11'
 biblionote:
 - content: Editorial changes (MCC)
   type: comment
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

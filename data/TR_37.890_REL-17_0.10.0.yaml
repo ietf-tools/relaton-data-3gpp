@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 37.890:Rel-17/0.10.0
+date:
+- type: published
+  value: '2021-01-08'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson Limited
   role:
   - author
+revdate: '2021-01-08'
 biblionote:
 - content: RP-202273
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

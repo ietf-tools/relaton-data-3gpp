@@ -17,6 +17,8 @@ docnumber: TR 36.810:Rel-9/9.0.0
 date:
 - type: created
   value: '2010-04-04'
+- type: published
+  value: '2010-04-04'
 - type: confirmed
   value: '2010-04-04'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2010-04-04'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

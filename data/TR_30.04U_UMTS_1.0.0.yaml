@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 30.04U:UMTS/1.0.0
+date:
+- type: published
+  value: '1997-06-01'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Anemone Technology
   role:
   - author
+revdate: '1997-06-01'
 biblionote:
 - content: "#22: 3.0.0"
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: GP

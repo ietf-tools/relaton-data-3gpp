@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.882:Rel-7/0.3.0
 date:
+- type: published
+  value: '2005-07-26'
 - type: confirmed
   value: '2005-07-26'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2005-07-26'
 biblionote:
 - content: Timed out of Rel-7, though the governing WI is (as of SP-39) shown as Rel-7.
   type: remark
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 29.468:Rel-15/15.7.0
 date:
+- type: published
+  value: '2019-09-27'
 - type: confirmed
   value: '2014-09-26'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2019-09-27'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C3

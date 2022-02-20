@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 02.31:R96/5.0.0
 date:
+- type: published
+  value: '1997-10-17'
 - type: confirmed
   value: '2002-02-06'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '1997-10-17'
 biblionote:
 - content: "#26: withdrawn"
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S3

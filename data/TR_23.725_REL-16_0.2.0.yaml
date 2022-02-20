@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.725:Rel-16/0.2.0
 date:
+- type: published
+  value: '2018-06-11'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2018-06-11'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#127BIS
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

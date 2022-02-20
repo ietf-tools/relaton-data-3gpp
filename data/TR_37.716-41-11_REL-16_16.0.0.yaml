@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 37.716-41-11:Rel-16/16.0.0
+date:
+- type: published
+  value: '2020-07-22'
 contributor:
 - organization:
     name:
@@ -43,13 +46,14 @@ contributor:
         - Nokia Denmark
   role:
   - author
+revdate: '2020-07-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

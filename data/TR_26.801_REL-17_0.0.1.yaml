@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 26.801:Rel-17/0.0.1
+date:
+- type: published
+  value: '2019-04-08'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Qualcomm UK Ltd
   role:
   - author
+revdate: '2019-04-08'
 biblionote:
 - content: Initial skeleton version
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

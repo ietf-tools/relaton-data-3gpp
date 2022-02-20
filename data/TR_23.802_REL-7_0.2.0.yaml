@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.802:Rel-7/0.2.0
 date:
+- type: published
+  value: '2004-10-28'
 - type: confirmed
   value: '2004-10-28'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2004-10-28'
 biblionote:
 - content: 'SP-26: Estimate approval at SP-28.  Pre-SP-27: Estimate approval at SP-30.'
   type: remark
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

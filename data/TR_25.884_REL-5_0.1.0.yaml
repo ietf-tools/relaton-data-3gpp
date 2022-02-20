@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.884:Rel-5/0.1.0
+date:
+- type: published
+  value: '2002-01-11'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2002-01-11'
 biblionote:
 - content: Status report in RP-010606
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

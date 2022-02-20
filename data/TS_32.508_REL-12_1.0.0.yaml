@@ -17,6 +17,8 @@ docnumber: TS 32.508:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-09-12'
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2013-12-20'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: SP-130452
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

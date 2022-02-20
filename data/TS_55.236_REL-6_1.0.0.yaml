@@ -17,6 +17,8 @@ docnumber: TS 55.236:Rel-6/1.0.0
 date:
 - type: created
   value: '2006-02-20'
+- type: published
+  value: '2006-02-20'
 - type: confirmed
   value: '2006-02-09'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2006-02-20'
 biblionote:
 - content: draft S3-060174.  Needs considerable editorial work before presentation
     to SP-31.
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

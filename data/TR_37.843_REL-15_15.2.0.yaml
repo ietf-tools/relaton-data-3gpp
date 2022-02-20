@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TR 37.843:Rel-15/15.2.0
 date:
+- type: published
+  value: '2019-01-16'
 - type: confirmed
   value: '2019-06-20'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2019-01-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

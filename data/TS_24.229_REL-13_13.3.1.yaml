@@ -17,6 +17,8 @@ docnumber: TS 24.229:Rel-13/13.3.1
 date:
 - type: created
   value: '2015-09-25'
+- type: published
+  value: '2015-09-25'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2015-09-25'
 biblionote:
 - content: correction of table numbering
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

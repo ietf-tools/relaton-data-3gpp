@@ -16,6 +16,8 @@ docnumber: TR 36.843:Rel-12/1.2.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 - type: confirmed
   value: '2014-03-21'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2014-03-10'
 biblionote:
 - content: RP-140126 and RP-140424
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

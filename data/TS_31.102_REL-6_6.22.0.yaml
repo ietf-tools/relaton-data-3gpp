@@ -16,6 +16,8 @@ docnumber: TS 31.102:Rel-6/6.22.0
 date:
 - type: created
   value: '2012-09-21'
+- type: published
+  value: '2012-09-21'
 - type: confirmed
   value: '2005-10-10'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - G+D MS
   role:
   - author
+revdate: '2012-09-21'
 biblionote:
 - content: 'TP-26: not yet ready to freeze.'
   type: remark
@@ -64,7 +67,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.709:Rel-15/15.0.0
+date:
+- type: published
+  value: '2017-06-23'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson Japan K.K.
   role:
   - author
+revdate: '2017-06-23'
 biblionote:
 - content: Approved further to the approved revised SID in RP-171477
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

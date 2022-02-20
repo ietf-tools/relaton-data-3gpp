@@ -16,6 +16,8 @@ docnumber: TR 37.857:Rel-13/0.3.0
 date:
 - type: created
   value: '2015-06-09'
+- type: published
+  value: '2015-06-09'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - NextNav
   role:
   - author
+revdate: '2015-06-09'
 biblionote:
 - content: R1-152610
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

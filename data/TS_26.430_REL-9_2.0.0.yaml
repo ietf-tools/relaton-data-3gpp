@@ -16,6 +16,8 @@ docnumber: TS 26.430:Rel-9/2.0.0
 date:
 - type: created
   value: '2010-03-22'
+- type: published
+  value: '2010-03-22'
 - type: confirmed
   value: '2010-04-06'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Apple (UK) Limited
   role:
   - author
+revdate: '2010-03-22'
 biblionote:
 - content: S4-100123, SP-100027
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

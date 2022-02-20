@@ -17,6 +17,8 @@ docnumber: TS 25.435:Rel-8/8.1.0
 date:
 - type: created
   value: '2008-12-16'
+- type: published
+  value: '2008-12-16'
 - type: confirmed
   value: '2005-06-24'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - NEC Corporation
   role:
   - author
+revdate: '2008-12-16'
 language:
 - en
 script:
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R3

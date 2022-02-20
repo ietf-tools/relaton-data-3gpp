@@ -17,6 +17,8 @@ docnumber: TS 25.221:Rel-5/5.6.0
 date:
 - type: created
   value: '2005-06-21'
+- type: published
+  value: '2005-06-21'
 - type: confirmed
   value: '2005-03-29'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson Japan K.K.
   role:
   - author
+revdate: '2005-06-21'
 language:
 - en
 script:
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

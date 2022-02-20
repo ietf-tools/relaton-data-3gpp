@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 26.818:Rel-15/1.0.0
+date:
+- type: published
+  value: '2018-09-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2018-09-13'
 biblionote:
 - content: SP-180646
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

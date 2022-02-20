@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 37.805:Rel-14/0.1.0
 date:
+- type: published
+  value: '2016-07-01'
 - type: confirmed
   value: '2018-06-22'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2016-07-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

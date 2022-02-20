@@ -16,6 +16,8 @@ docnumber: TR 31.901:Rel-12/0.4.0
 date:
 - type: created
   value: '2014-08-01'
+- type: published
+  value: '2014-08-01'
 - type: confirmed
   value: '2015-01-06'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - BlackBerry UK Limited
   role:
   - author
+revdate: '2014-08-01'
 biblionote:
 - content: 'CP-66: timed out of Rel-12.'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C6

@@ -16,6 +16,8 @@ docnumber: TR 25.700:Rel-12/1.0.1
 date:
 - type: created
   value: '2013-12-16'
+- type: published
+  value: '2013-12-16'
 - type: confirmed
   value: '2014-01-07'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2013-12-16'
 biblionote:
 - content: RP-132011
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 09.07:Ph2/4.12.0
+date:
+- type: published
+  value: '1996-10-11'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '1996-10-11'
 biblionote:
 - content: "#7: 4.4.0   #8: 4.5.0   #9: 4.6.0   #10: 4.7.0   #13: 4.8.0   #14: 4.9.0
     \  #16: 4.10.0  #18: 4.11.0  #20: 4.12.0  #27: 4.13.0"
@@ -56,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C3

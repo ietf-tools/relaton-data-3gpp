@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.899:Rel-14/0.4.1
+date:
+- type: published
+  value: '2016-08-29'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2016-08-29'
 biblionote:
 - content: Clean version (previous had revision marks)
   type: comment
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

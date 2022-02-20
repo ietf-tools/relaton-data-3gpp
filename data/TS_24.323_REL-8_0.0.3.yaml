@@ -17,6 +17,8 @@ docnumber: TS 24.323:Rel-8/0.0.3
 date:
 - type: created
   value: '2008-06-11'
+- type: published
+  value: '2008-06-11'
 - type: confirmed
   value: '2009-12-15'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2008-06-11'
 language:
 - en
 script:
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

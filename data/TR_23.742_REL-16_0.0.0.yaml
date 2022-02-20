@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.742:Rel-16/0.0.0
+date:
+- type: published
+  value: '2018-05-01'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2018-05-01'
 biblionote:
 - content: 'S2-184645: eSBA Skeleton approved at S2#127'
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

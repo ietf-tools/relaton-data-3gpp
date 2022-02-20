@@ -16,6 +16,8 @@ docnumber: TR 33.865:Rel-12/0.3.0
 date:
 - type: created
   value: '2014-01-22'
+- type: published
+  value: '2014-01-22'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2014-01-22'
 biblionote:
 - content: 'SP-63: likely to slip to Rel-13 timeframe.'
   type: remark
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

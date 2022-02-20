@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.723:Rel-15/0.0.0
+date:
+- type: published
+  value: '2017-04-01'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Intel Deutschland GmbH
   role:
   - author
+revdate: '2017-04-01'
 biblionote:
 - content: Skeleton approved at SA2#120 (S2-172629)
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TR 25.814:Rel-7/0.1.0
 date:
 - type: created
   value: '2005-06-14'
+- type: published
+  value: '2005-06-14'
 - type: confirmed
   value: '2006-06-15'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2005-06-14'
 biblionote:
 - content: RP-050381
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

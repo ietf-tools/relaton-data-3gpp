@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 36.763:Rel-17/0.3.0
+date:
+- type: published
+  value: '2021-05-11'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - MediaTek Inc.
   role:
   - author
+revdate: '2021-05-11'
 biblionote:
 - content: Based on endorsed R1-2105815
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

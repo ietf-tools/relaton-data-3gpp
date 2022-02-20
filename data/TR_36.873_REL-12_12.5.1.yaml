@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 36.873:Rel-12/12.5.1
 date:
+- type: published
+  value: '2017-07-05'
 - type: confirmed
   value: '2014-09-30'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Solutions & Networks (I)
   role:
   - author
+revdate: '2017-07-05'
 biblionote:
 - content: 'Table formatting issue: UMa LOS probability in Table 7.2-2 is made fully
     visible'
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

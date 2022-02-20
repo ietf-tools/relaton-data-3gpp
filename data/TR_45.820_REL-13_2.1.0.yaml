@@ -17,6 +17,8 @@ docnumber: TR 45.820:Rel-13/2.1.0
 date:
 - type: created
   value: '2015-08-25'
+- type: published
+  value: '2015-08-25'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2015-08-25'
 biblionote:
 - content: 'MCC adds: "Note: there is no agreement whether NB-LTE is a clean slate
     or not."'
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

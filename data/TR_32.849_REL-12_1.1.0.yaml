@@ -17,6 +17,8 @@ docnumber: TR 32.849:Rel-12/1.1.0
 date:
 - type: created
   value: '2015-05-22'
+- type: published
+  value: '2015-05-22'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2015-05-22'
 biblionote:
 - content: This version bears wrong title accidentally introduced  during MCC clean
     up.
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

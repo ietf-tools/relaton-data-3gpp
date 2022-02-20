@@ -16,6 +16,8 @@ docnumber: TS 24.259:Rel-7/0.0.0
 date:
 - type: created
   value: '2007-02-09'
+- type: published
+  value: '2007-02-09'
 - type: confirmed
   value: '2008-07-11'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2007-02-09'
 biblionote:
 - content: 'SP-35: Timed out of Rel-7'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

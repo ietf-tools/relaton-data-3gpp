@@ -16,6 +16,8 @@ docnumber: TR 29.805:Rel-8/1.0.0
 date:
 - type: created
   value: '2008-06-06'
+- type: published
+  value: '2008-06-06'
 - type: confirmed
   value: '2008-12-18'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2008-06-06'
 biblionote:
 - content: CP-080249
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

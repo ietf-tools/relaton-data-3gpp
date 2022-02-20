@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.853:R99/3.0.0
+date:
+- type: published
+  value: '2000-12-22'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2000-12-22'
 biblionote:
 - content: TSG#10:3.0.0 (is evidently R99 not Rel-4)
   type: remark
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

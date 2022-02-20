@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.798:Rel-15/0.4.0
+date:
+- type: published
+  value: '2017-02-06'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2017-02-06'
 biblionote:
 - content: Implementation of approved pCRs after SA2#118BIS
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

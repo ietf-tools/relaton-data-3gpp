@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 31.900:Rel-5/5.4.0
 date:
+- type: published
+  value: '2004-01-12'
 - type: confirmed
   value: '2004-09-29'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2004-01-12'
 biblionote:
 - content: 'TP-26: withdrawn, will continue Rel-6. CP-30: Expect CT6 to unwithdraw
     older Releases at CP-31 (CP-050683). CP-31: This Rel unwithdrawn and becomes pointer
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C6

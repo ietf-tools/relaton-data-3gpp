@@ -17,6 +17,8 @@ docnumber: TR 25.863:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-07-05'
+- type: published
+  value: '2010-07-05'
 - type: confirmed
   value: '2010-07-05'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2010-07-05'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

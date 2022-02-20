@@ -16,6 +16,8 @@ docnumber: TR 31.828:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-04-08'
+- type: published
+  value: '2011-04-08'
 - type: confirmed
   value: '2011-03-18'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Gemalto N.V.
   role:
   - author
+revdate: '2011-04-08'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C6

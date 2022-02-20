@@ -16,6 +16,8 @@ docnumber: TS 25.105:Rel-13/13.0.0
 date:
 - type: created
   value: '2016-01-08'
+- type: published
+  value: '2016-01-08'
 - type: confirmed
   value: '2004-04-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ROHDE & SCHWARZ
   role:
   - author
+revdate: '2016-01-08'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -66,7 +69,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R4

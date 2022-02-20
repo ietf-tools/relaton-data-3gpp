@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.466:Rel-14/14.3.0
 date:
+- type: published
+  value: '2019-04-19'
 - type: confirmed
   value: '2007-10-01'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2019-04-19'
 biblionote:
 - content: pointer to TS 37.466
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R3

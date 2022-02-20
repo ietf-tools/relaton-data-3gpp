@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 22.127:Rel-6/6.5.0
 date:
+- type: published
+  value: '2004-03-23'
 - type: confirmed
   value: '2005-06-24'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2004-03-23'
 biblionote:
 - content: 'SP-15: Rel-6 record created on approval of WI "Scope of the Open Service
     Access Release 6".'
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

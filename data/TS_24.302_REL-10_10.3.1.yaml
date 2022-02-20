@@ -17,6 +17,8 @@ docnumber: TS 24.302:Rel-10/10.3.1
 date:
 - type: created
   value: '2011-04-05'
+- type: published
+  value: '2011-04-05'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Guangdong OPPO Mobile Telecom.
   role:
   - author
+revdate: '2011-04-05'
 biblionote:
 - content: Correction of an error in the implementation of CR0141
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

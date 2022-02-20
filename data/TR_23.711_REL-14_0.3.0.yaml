@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.711:Rel-14/0.3.0
 date:
+- type: published
+  value: '2016-02-08'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2016-02-08'
 biblionote:
 - content: Update with approved pCRs after SA2#113
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

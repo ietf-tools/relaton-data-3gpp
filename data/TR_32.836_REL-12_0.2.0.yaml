@@ -17,6 +17,8 @@ docnumber: TR 32.836:Rel-12/0.2.0
 date:
 - type: created
   value: '2012-09-14'
+- type: published
+  value: '2012-09-14'
 - type: confirmed
   value: '2014-06-30'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - CCSA
   role:
   - author
+revdate: '2012-09-14'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

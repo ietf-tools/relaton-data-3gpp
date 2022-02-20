@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 23.122:R99/3.10.0
 date:
+- type: published
+  value: '2003-10-10'
 - type: confirmed
   value: '2005-06-15'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2003-10-10'
 biblionote:
 - content: Created at TSG#6, CR@TSG#6, Was briefly 23.022. But regenerated from 03.22
     in June99. Expect 3.1.0 to correct erroneous incorporation of a CR. Expect 3.1.1
@@ -66,7 +69,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

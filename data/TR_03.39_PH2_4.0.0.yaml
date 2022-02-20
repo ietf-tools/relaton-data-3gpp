@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 03.39:Ph2/4.0.0
+date:
+- type: published
+  value: '1995-10-20'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '1995-10-20'
 biblionote:
 - content: "#16: 4.0.0 TSG#9:withdrawn cos contains misleading information/references"
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: T2

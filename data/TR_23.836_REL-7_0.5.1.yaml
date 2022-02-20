@@ -17,6 +17,8 @@ docnumber: TR 23.836:Rel-7/0.5.1
 date:
 - type: created
   value: '2005-12-12'
+- type: published
+  value: '2005-12-12'
 - type: confirmed
   value: '2005-05-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2005-12-12'
 biblionote:
 - content: 'SP-31: S2 indicates it will not place  this TR under change control; the
     normative work will be captured in the I-WLAN and PCC specifications. Thus anticipate
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

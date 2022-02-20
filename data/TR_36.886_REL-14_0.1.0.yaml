@@ -17,6 +17,8 @@ docnumber: TR 36.886:Rel-14/0.1.0
 date:
 - type: created
   value: '2016-01-08'
+- type: published
+  value: '2016-01-08'
 - type: confirmed
   value: '2018-06-22'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - SPRINT Corporation
   role:
   - author
+revdate: '2016-01-08'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

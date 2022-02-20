@@ -17,6 +17,8 @@ docnumber: TR 34.902:Rel-6/6.1.0
 date:
 - type: created
   value: '2011-12-21'
+- type: published
+  value: '2011-12-21'
 - type: confirmed
   value: '2011-10-13'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-12-21'
 biblionote:
 - content: 'Rel-6 record created on freezing the Release, December 2004. RP-36: Will
     not be upgraded to Rel-6. RP-38: upgraded to Rel-6 by CR.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R5

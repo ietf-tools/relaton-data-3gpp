@@ -16,6 +16,8 @@ docnumber: TR 43.802:Rel-12/2.0.0
 date:
 - type: created
   value: '2014-09-24'
+- type: published
+  value: '2014-09-24'
 - type: confirmed
   value: '2014-09-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2014-09-24'
 biblionote:
 - content: GP-140696
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -17,6 +17,8 @@ docnumber: TR 23.806:Rel-7/1.4.0
 date:
 - type: created
   value: '2005-09-07'
+- type: published
+  value: '2005-09-07'
 - type: confirmed
   value: '2005-05-23'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Cisco Systems Belgium
   role:
   - author
+revdate: '2005-09-07'
 biblionote:
 - content: S2-051929
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

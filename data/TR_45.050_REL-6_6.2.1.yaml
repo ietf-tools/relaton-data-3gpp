@@ -16,6 +16,8 @@ docnumber: TR 45.050:Rel-6/6.2.1
 date:
 - type: created
   value: '2005-03-21'
+- type: published
+  value: '2005-03-21'
 - type: confirmed
   value: '2011-04-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2005-03-21'
 biblionote:
 - content: Make fig 7 in annex G visible
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

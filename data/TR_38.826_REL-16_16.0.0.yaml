@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 38.826:Rel-16/16.0.0
 date:
+- type: published
+  value: '2019-01-16'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,13 +47,14 @@ contributor:
         - LG Electronics Inc.
   role:
   - author
+revdate: '2019-01-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

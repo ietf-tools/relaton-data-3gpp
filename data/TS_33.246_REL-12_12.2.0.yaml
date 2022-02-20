@@ -16,6 +16,8 @@ docnumber: TS 33.246:Rel-12/12.2.0
 date:
 - type: created
   value: '2014-12-22'
+- type: published
+  value: '2014-12-22'
 - type: confirmed
   value: '2002-10-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2014-12-22'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

@@ -18,6 +18,8 @@ docnumber: TS 32.633:Rel-6/6.5.0
 date:
 - type: created
   value: '2006-12-22'
+- type: published
+  value: '2006-12-22'
 - type: confirmed
   value: '2008-12-21'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2006-12-22'
 language:
 - en
 script:
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

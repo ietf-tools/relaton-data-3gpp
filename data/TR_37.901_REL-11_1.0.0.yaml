@@ -16,6 +16,8 @@ docnumber: TR 37.901:Rel-11/1.0.0
 date:
 - type: created
   value: '2011-06-08'
+- type: published
+  value: '2011-06-08'
 - type: confirmed
   value: '2011-09-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - AT&T GNS Belgium SPRL
   role:
   - author
+revdate: '2011-06-08'
 biblionote:
 - content: RP-110704
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R5

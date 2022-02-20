@@ -15,6 +15,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 09.07:Ph1/3.10.0
+date:
+- type: published
+  value: '1995-01-01'
 contributor:
 - organization:
     name:
@@ -43,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '1995-01-01'
 biblionote:
 - content: "#5: 3.8.0  #9: 3.9.0  #14: 3.10.0"
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C3

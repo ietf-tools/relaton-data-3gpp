@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 43.930:Rel-5/5.0.0
+date:
+- type: published
+  value: '2002-07-19'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2002-07-19'
 biblionote:
 - content: 'This record originally created as Rel-6, but GP-10 approves as Rel-5.  GP-11:
     Withdrawn and replaced with 43.130.'
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: G2

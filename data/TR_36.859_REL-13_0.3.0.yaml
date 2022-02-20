@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 36.859:Rel-13/0.3.0
+date:
+- type: published
+  value: '2015-11-26'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - MediaTek Inc.
   role:
   - author
+revdate: '2015-11-26'
 biblionote:
 - content: R1-157190
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

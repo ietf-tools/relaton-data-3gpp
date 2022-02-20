@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 24.216:Rel-16/16.0.0
 date:
+- type: published
+  value: '2020-07-09'
 - type: confirmed
   value: '2007-09-25'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2020-07-09'
 biblionote:
 - content: automatic upgrade from previous release
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

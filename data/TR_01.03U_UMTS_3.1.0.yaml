@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 01.03U:UMTS/3.1.0
 date:
+- type: published
+  value: '1996-05-15'
 - type: confirmed
   value: '2003-05-27'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '1996-05-15'
 biblionote:
 - content: ETSI ETR 291, withdrawn.
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SMG5

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.851:Rel-6/0.4.1
 date:
+- type: published
+  value: '2003-08-19'
 - type: confirmed
   value: '2003-09-23'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - TeliaSonera AB
   role:
   - author
+revdate: '2003-08-19'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

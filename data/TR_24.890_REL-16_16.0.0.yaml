@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 24.890:Rel-16/16.0.0
+date:
+- type: published
+  value: '2020-07-09'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2020-07-09'
 biblionote:
 - content: automatic upgrade from previous release
   type: comment
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

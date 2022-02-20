@@ -16,6 +16,8 @@ docnumber: TR 22.805:Rel-12/0.3.1
 date:
 - type: created
   value: '2012-05-21'
+- type: published
+  value: '2012-05-21'
 - type: confirmed
   value: '2012-09-28'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - KDDI Corporation
   role:
   - author
+revdate: '2012-05-21'
 biblionote:
 - content: S1-121433
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

@@ -16,6 +16,8 @@ docnumber: TR 29.865:Rel-8/0.2.0
 date:
 - type: created
   value: '2007-11-16'
+- type: published
+  value: '2007-11-16'
 - type: confirmed
   value: '2008-07-08'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - TELECOM ITALIA S.p.A.
   role:
   - author
+revdate: '2007-11-16'
 biblionote:
 - content: C3-071168
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C3

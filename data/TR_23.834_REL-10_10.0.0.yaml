@@ -17,6 +17,8 @@ docnumber: TR 23.834:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-06-14'
+- type: published
+  value: '2010-06-14'
 - type: confirmed
   value: '2010-06-14'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2010-06-14'
 biblionote:
 - content: 'SP-48: TR will not be maintained.'
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

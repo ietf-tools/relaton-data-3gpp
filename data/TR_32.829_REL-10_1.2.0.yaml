@@ -18,6 +18,8 @@ docnumber: TR 32.829:Rel-10/1.2.0
 date:
 - type: created
   value: '2010-09-06'
+- type: published
+  value: '2010-09-06'
 - type: confirmed
   value: '2011-03-29'
 contributor:
@@ -48,13 +50,14 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2010-09-06'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

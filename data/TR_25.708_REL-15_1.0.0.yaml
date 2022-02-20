@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.708:Rel-15/1.0.0
 date:
+- type: published
+  value: '2017-05-26'
 - type: confirmed
   value: '2017-06-22'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HiSilicon Technologies Co. Ltd
   role:
   - author
+revdate: '2017-05-26'
 biblionote:
 - content: SA#76 = RP-170990.
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

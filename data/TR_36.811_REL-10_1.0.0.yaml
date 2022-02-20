@@ -18,6 +18,8 @@ docnumber: TR 36.811:Rel-10/1.0.0
 date:
 - type: created
   value: '2010-09-14'
+- type: published
+  value: '2010-09-14'
 - type: confirmed
   value: '2011-06-08'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - TerreStar Networks Inc.
   role:
   - author
+revdate: '2010-09-14'
 biblionote:
 - content: RP-100804
   type: comment
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -16,6 +16,8 @@ docnumber: TR 23.705:Rel-13/0.11.0
 date:
 - type: created
   value: '2014-06-03'
+- type: published
+  value: '2014-06-03'
 - type: confirmed
   value: '2014-12-05'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Allot Communications Ltd.
   role:
   - author
+revdate: '2014-06-03'
 biblionote:
 - content: '2014-03-31: SA2 resuscitates the WI and hence the TR.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

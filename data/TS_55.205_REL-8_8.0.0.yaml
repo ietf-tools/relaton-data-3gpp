@@ -17,6 +17,8 @@ docnumber: TS 55.205:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-12-22'
+- type: published
+  value: '2008-12-22'
 - type: confirmed
   value: '2012-09-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2008-12-22'
 biblionote:
 - content: Upgraded unchanged from Rel-7
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

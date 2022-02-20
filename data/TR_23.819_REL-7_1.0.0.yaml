@@ -16,6 +16,8 @@ docnumber: TR 23.819:Rel-7/1.0.0
 date:
 - type: created
   value: '2006-06-12'
+- type: published
+  value: '2006-06-12'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Qualcomm Incorporated
   role:
   - author
+revdate: '2006-06-12'
 biblionote:
 - content: SP-060298
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

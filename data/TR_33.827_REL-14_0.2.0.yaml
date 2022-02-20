@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 33.827:Rel-14/0.2.0
 date:
+- type: published
+  value: '2016-05-07'
 - type: confirmed
   value: '2016-10-03'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - SPRINT Corporation
   role:
   - author
+revdate: '2016-05-07'
 biblionote:
 - content: S3i160192 (it contains a wrong version 010)
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

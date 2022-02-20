@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 26.235:Rel-4/0.0.1
 date:
+- type: published
+  value: '2000-10-01'
 - type: confirmed
   value: '2005-01-06'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Facebook
   role:
   - author
+revdate: '2000-10-01'
 biblionote:
 - content: 'SP-12: withdrawn from Rel-4, moved to Rel-5.'
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

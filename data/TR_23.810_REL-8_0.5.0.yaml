@@ -16,6 +16,8 @@ docnumber: TR 23.810:Rel-8/0.5.0
 date:
 - type: created
   value: '2007-08-16'
+- type: published
+  value: '2007-08-16'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2007-08-16'
 biblionote:
 - content: emaill circulation; but this version was based on wrong starting version
     so should be treated with caution.
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

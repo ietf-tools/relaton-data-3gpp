@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 04.22:R99/8.0.0
 date:
+- type: published
+  value: '1999-06-25'
 - type: confirmed
   value: '2001-10-11'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '1999-06-25'
 biblionote:
 - content: "#29: 8.0.0 (to be deleted, moved to 3GPP)"
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C3

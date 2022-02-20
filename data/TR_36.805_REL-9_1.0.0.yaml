@@ -17,6 +17,8 @@ docnumber: TR 36.805:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-06-08'
+- type: published
+  value: '2009-06-08'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - QUALCOMM JAPAN LLC.
   role:
   - author
+revdate: '2009-06-08'
 biblionote:
 - content: RP-090476
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 09.14:R98/7.1.0
 date:
+- type: published
+  value: '2005-04-28'
 - type: confirmed
   value: '2003-11-25'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2005-04-28'
 biblionote:
 - content: "(SPS1)"
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: TISPAN

@@ -17,6 +17,8 @@ docnumber: TR 32.860:Rel-12/0.9.0
 date:
 - type: created
   value: '2015-11-12'
+- type: published
+  value: '2015-11-12'
 - type: confirmed
   value: '2017-06-22'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Cisco Systems Belgium
   role:
   - author
+revdate: '2015-11-12'
 biblionote:
 - content: S5-155383
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

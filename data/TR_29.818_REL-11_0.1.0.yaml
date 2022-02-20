@@ -16,6 +16,8 @@ docnumber: TR 29.818:Rel-11/0.1.0
 date:
 - type: created
   value: '2012-02-20'
+- type: published
+  value: '2012-02-20'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2012-02-20'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

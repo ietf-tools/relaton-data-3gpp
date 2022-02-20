@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.01U:UMTS/0.7.0
 date:
+- type: published
+  value: '1998-08-04'
 - type: confirmed
   value: '2004-12-24'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '1998-08-04'
 biblionote:
 - content: "#27: for info"
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: SMG12

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.721:Rel-14/0.2.1
 date:
+- type: published
+  value: '2016-02-18'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2016-02-18'
 biblionote:
 - content: Corrections to implementation of v0.2.0
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

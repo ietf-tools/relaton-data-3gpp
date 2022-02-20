@@ -17,6 +17,8 @@ docnumber: TR 26.849:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-12-22'
+- type: published
+  value: '2014-12-22'
 - type: confirmed
   value: '2014-12-22'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Qualcomm UK Ltd
   role:
   - author
+revdate: '2014-12-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

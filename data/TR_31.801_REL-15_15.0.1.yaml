@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 31.801:Rel-15/15.0.1
+date:
+- type: published
+  value: '2020-01-14'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Morpho Cards GmbH
   role:
   - author
+revdate: '2020-01-14'
 biblionote:
 - content: 5G logo updated
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C6

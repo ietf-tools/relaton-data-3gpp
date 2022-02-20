@@ -16,6 +16,8 @@ docnumber: TS 22.258:Rel-7/0.5.0
 date:
 - type: created
   value: '2005-06-22'
+- type: published
+  value: '2005-06-22'
 - type: confirmed
   value: '2005-07-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2005-06-22'
 biblionote:
 - content: '2005-08-02: May be postponed to Rel-8 since later stages will not be ready
     for Rel-7. SP-31: Withdrawn from Rel-7, becomes Rel-8.'
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

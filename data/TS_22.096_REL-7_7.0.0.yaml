@@ -16,6 +16,8 @@ docnumber: TS 22.096:Rel-7/7.0.0
 date:
 - type: created
   value: '2007-06-22'
+- type: published
+  value: '2007-06-22'
 - type: confirmed
   value: '2012-09-28'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2007-06-22'
 biblionote:
 - content: Upgraded unchanged from Rel-6
   type: comment
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

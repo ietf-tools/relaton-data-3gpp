@@ -17,6 +17,8 @@ docnumber: TR 33.860:Rel-13/0.2.0
 date:
 - type: created
   value: '2015-05-22'
+- type: published
+  value: '2015-05-22'
 contributor:
 - organization:
     name:
@@ -45,13 +47,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2015-05-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

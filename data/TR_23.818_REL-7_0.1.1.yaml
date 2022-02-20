@@ -16,6 +16,8 @@ docnumber: TR 23.818:Rel-7/0.1.1
 date:
 - type: created
   value: '2005-12-15'
+- type: published
+  value: '2005-12-15'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2005-12-15'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

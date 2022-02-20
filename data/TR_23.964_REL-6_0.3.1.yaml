@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.964:Rel-6/0.3.1
+date:
+- type: published
+  value: '2003-02-03'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2003-02-03'
 biblionote:
 - content: '2003-02-03: Renumbered to 23.864.'
   type: remark
@@ -56,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.811:Rel-17/0.8.0
+date:
+- type: published
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2021-12-08'
 biblionote:
 - content: S5-216607
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 37.105:Rel-14/14.5.0
 date:
+- type: published
+  value: '2019-04-05'
 - type: confirmed
   value: '2017-09-22'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2019-04-05'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R4

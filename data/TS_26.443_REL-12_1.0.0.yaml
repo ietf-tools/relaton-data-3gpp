@@ -16,6 +16,8 @@ docnumber: TS 26.443:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-12-17'
+- type: published
+  value: '2014-12-17'
 - type: confirmed
   value: '2014-09-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Fraunhofer IIS
   role:
   - author
+revdate: '2014-12-17'
 biblionote:
 - content: SP-140729
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

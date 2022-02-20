@@ -16,6 +16,8 @@ docnumber: TS 25.214:Rel-6/6.9.0
 date:
 - type: created
   value: '2006-06-15'
+- type: published
+  value: '2006-06-15'
 - type: confirmed
   value: '2005-06-21'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2006-06-15'
 biblionote:
 - content: created for M.1457 update
   type: remark
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

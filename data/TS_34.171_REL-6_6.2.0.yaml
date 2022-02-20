@@ -17,6 +17,8 @@ docnumber: TS 34.171:Rel-6/6.2.0
 date:
 - type: created
   value: '2005-12-15'
+- type: published
+  value: '2005-12-15'
 - type: confirmed
   value: '2005-06-23'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Spirent Communications
   role:
   - author
+revdate: '2005-12-15'
 biblionote:
 - content: 'Initial intention: for info TP-26, approval TP-28.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -16,6 +16,8 @@ docnumber: TR 32.835:Rel-11/0.0.4
 date:
 - type: created
   value: '2012-04-16'
+- type: published
+  value: '2012-04-16'
 - type: confirmed
   value: '2014-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2012-04-16'
 biblionote:
 - content: SP-64 timed out of Rel-11.
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

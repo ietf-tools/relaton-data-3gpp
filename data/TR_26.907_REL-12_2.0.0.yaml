@@ -16,6 +16,8 @@ docnumber: TR 26.907:Rel-12/2.0.0
 date:
 - type: created
   value: '2014-09-22'
+- type: published
+  value: '2014-09-22'
 - type: confirmed
   value: '2014-09-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Samsung Telecoms America
   role:
   - author
+revdate: '2014-09-22'
 biblionote:
 - content: SP-140480
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

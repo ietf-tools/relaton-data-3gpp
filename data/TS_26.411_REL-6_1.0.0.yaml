@@ -17,6 +17,8 @@ docnumber: TS 26.411:Rel-6/1.0.0
 date:
 - type: created
   value: '2005-03-21'
+- type: published
+  value: '2005-03-21'
 - type: confirmed
   value: '2004-08-30'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Dolby Laboratories Inc.
   role:
   - author
+revdate: '2005-03-21'
 biblionote:
 - content: SP-050146 for approval
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

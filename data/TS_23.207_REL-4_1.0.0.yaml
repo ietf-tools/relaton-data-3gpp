@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.207:Rel-4/1.0.0
 date:
+- type: published
+  value: '2001-01-31'
 - type: confirmed
   value: '2002-06-18'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nippon Ericsson K.K.
   role:
   - author
+revdate: '2001-01-31'
 biblionote:
 - content: 'SP-12: becomes Rel-5'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

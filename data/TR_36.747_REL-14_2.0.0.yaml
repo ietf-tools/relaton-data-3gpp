@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 36.747:Rel-14/2.0.0
+date:
+- type: published
+  value: '2017-09-03'
 contributor:
 - organization:
     name:
@@ -42,13 +45,14 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2017-09-03'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

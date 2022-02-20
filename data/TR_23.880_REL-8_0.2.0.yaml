@@ -16,6 +16,8 @@ docnumber: TR 23.880:Rel-8/0.2.0
 date:
 - type: created
   value: '2008-03-20'
+- type: published
+  value: '2008-03-20'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2008-03-20'
 biblionote:
 - content: '2009-04: WG chairman indicates work may continue in Rel-10; WI changed
     to make it more specific: 350014 -> 370031.'
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

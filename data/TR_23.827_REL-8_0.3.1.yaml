@@ -16,6 +16,8 @@ docnumber: TR 23.827:Rel-8/0.3.1
 date:
 - type: created
   value: '2007-08-13'
+- type: published
+  value: '2007-08-13'
 - type: confirmed
   value: '2008-08-04'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2007-08-13'
 biblionote:
 - content: 'SP-41: stopped, content implemented in TS 23.327.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

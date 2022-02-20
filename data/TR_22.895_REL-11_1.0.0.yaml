@@ -17,6 +17,8 @@ docnumber: TR 22.895:Rel-11/1.0.0
 date:
 - type: created
   value: '2011-09-26'
+- type: published
+  value: '2011-09-26'
 - type: confirmed
   value: '2012-03-15'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2011-09-26'
 biblionote:
 - content: 'SP-53: timed out to Rel-12.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

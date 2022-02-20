@@ -16,6 +16,8 @@ docnumber: TR 22.952:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-10-03'
+- type: published
+  value: '2014-10-03'
 - type: confirmed
   value: '2003-09-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Applied Communication Sciences
   role:
   - author
+revdate: '2014-10-03'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

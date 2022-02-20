@@ -18,6 +18,8 @@ docnumber: TR 36.978:Rel-12/0.0.0
 date:
 - type: created
   value: '2014-06-25'
+- type: published
+  value: '2014-06-25'
 - type: confirmed
   value: '2014-12-22'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - Keysight Technologies UK Ltd
   role:
   - author
+revdate: '2014-06-25'
 biblionote:
 - content: 'Not certain to be completed within Rel-12 time frame. RP-66: timed out
     of Rel-12.'
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R5

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 02.84:Ph2/4.4.7
+date:
+- type: published
+  value: '1995-10-20'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '1995-10-20'
 biblionote:
 - content: "#7: 4.4.2   #11: 4.4.5  #16: 4.4.7"
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

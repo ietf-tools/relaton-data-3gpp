@@ -16,6 +16,8 @@ docnumber: TS 31.101:Rel-7/7.2.2
 date:
 - type: created
   value: '2011-06-24'
+- type: published
+  value: '2011-06-24'
 - type: confirmed
   value: '2003-06-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2011-06-24'
 biblionote:
 - content: corrects unnumbered reference in figure
   type: comment
@@ -66,7 +69,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

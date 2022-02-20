@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.809:Rel-16/0.6.0
+date:
+- type: published
+  value: '2019-09-22'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Apple Computer Trading Co. Ltd
   role:
   - author
+revdate: '2019-09-22'
 biblionote:
 - content: S3-193176
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

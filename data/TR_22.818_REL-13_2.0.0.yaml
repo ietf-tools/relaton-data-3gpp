@@ -17,6 +17,8 @@ docnumber: TR 22.818:Rel-13/2.0.0
 date:
 - type: created
   value: '2015-06-21'
+- type: published
+  value: '2015-06-21'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - KDDI Corporation
   role:
   - author
+revdate: '2015-06-21'
 biblionote:
 - content: SP-150279
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

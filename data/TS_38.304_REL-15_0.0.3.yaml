@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 38.304:Rel-15/0.0.3
 date:
+- type: published
+  value: '2017-06-17'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2017-06-17'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R2

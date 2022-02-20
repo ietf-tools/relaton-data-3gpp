@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 29.812:Rel-13/13.0.0
+date:
+- type: published
+  value: '2015-12-18'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - CATR
   role:
   - author
+revdate: '2015-12-18'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

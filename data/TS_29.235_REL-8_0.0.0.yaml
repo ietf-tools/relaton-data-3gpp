@@ -17,6 +17,8 @@ docnumber: TS 29.235:Rel-8/0.0.0
 date:
 - type: created
   value: '2007-11-12'
+- type: published
+  value: '2007-11-12'
 - type: confirmed
   value: '2012-06-29'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2007-11-12'
 biblionote:
 - content: C3-071058 (a previous offering bearing the same version number was in C3-071027)
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C3

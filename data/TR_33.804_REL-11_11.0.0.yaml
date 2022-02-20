@@ -17,6 +17,8 @@ docnumber: TR 33.804:Rel-11/11.0.0
 date:
 - type: created
   value: '2012-03-16'
+- type: published
+  value: '2012-03-16'
 - type: confirmed
   value: '2012-03-16'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2012-03-16'
 biblionote:
 - content: 'SP-55: Rel-11 resuscitated from 33.914.'
   type: remark
@@ -58,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

@@ -16,6 +16,8 @@ docnumber: TR 23.853:Rel-11/0.4.0
 date:
 - type: created
   value: '2012-06-06'
+- type: published
+  value: '2012-06-06'
 - type: confirmed
   value: '2012-12-18'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - LG Electronics France
   role:
   - author
+revdate: '2012-06-06'
 biblionote:
 - content: 'SP-56: timed out of Rel-11.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.700-91:Rel-17/0.1.0
+date:
+- type: published
+  value: '2019-10-31'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2019-10-31'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#135
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

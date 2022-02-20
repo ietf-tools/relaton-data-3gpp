@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 23.10U:UMTS/3.0.0
+date:
+- type: published
+  value: '1999-02-24'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - InterDigital Communications
   role:
   - author
+revdate: '1999-02-24'
 biblionote:
 - content: "#27: for info"
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: "-"

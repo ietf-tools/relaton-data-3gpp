@@ -16,6 +16,8 @@ docnumber: TS 26.442:Rel-12/12.1.0
 date:
 - type: created
   value: '2014-12-22'
+- type: published
+  value: '2014-12-22'
 - type: confirmed
   value: '2014-09-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Fraunhofer IIS
   role:
   - author
+revdate: '2014-12-22'
 biblionote:
 - content: 'SA#73: This version withdrawn: C code faults cause interworking problems
     with later versions.'
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S4

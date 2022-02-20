@@ -18,6 +18,8 @@ docnumber: TR 23.869:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-03-17'
+- type: published
+  value: '2009-03-17'
 contributor:
 - organization:
     name:
@@ -46,6 +48,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2009-03-17'
 biblionote:
 - content: '2008-08: timed out of Rel-8.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

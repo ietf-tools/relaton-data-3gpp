@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 10.02:R96/5.1.0
+date:
+- type: published
+  value: '1999-02-12'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Nokia Solutions & Networks (S)
   role:
   - author
+revdate: '1999-02-12'
 biblionote:
 - content: "#21: 1.0.0  #25: 1.1.0->5.0.0 #28:5.1.0"
   type: remark
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 04.53:R98/1.4.0
+date:
+- type: published
+  value: '1998-09-18'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '1998-09-18'
 biblionote:
 - content: "#25: 1.0.0 for info  #27: 1.6.0 for info"
   type: remark
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: "-"

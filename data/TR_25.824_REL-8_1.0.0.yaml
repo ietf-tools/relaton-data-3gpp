@@ -16,6 +16,8 @@ docnumber: TR 25.824:Rel-8/1.0.0
 date:
 - type: created
   value: '2008-06-06'
+- type: published
+  value: '2008-06-06'
 - type: confirmed
   value: '2008-06-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - RITT
   role:
   - author
+revdate: '2008-06-06'
 biblionote:
 - content: RP-080333 for approval
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -17,6 +17,8 @@ docnumber: TR 36.844:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-07-07'
+- type: published
+  value: '2014-07-07'
 - type: confirmed
   value: '2014-07-04'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ligado Networks
   role:
   - author
+revdate: '2014-07-07'
 biblionote:
 - content: Approval missed by MCC at RP-63, so version not produced following that
     meeting but instead after RP-64.
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

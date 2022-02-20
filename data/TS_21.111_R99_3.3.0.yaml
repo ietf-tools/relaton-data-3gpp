@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 21.111:R99/3.3.0
 date:
+- type: published
+  value: '2000-10-18'
 - type: confirmed
   value: '2005-06-14'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Morpho Cards GmbH
   role:
   - author
+revdate: '2000-10-18'
 language:
 - en
 script:
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -17,6 +17,8 @@ docnumber: TS 29.198-01:Rel-5/5.8.3
 date:
 - type: created
   value: '2006-06-23'
+- type: published
+  value: '2006-06-23'
 - type: confirmed
   value: '2003-04-04'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Philips International B.V.
   role:
   - author
+revdate: '2006-06-23'
 biblionote:
 - content: Release tables updated editorially, Javadoc titles updated
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: CP

@@ -17,6 +17,8 @@ docnumber: TR 36.814:Rel-9/2.0.0
 date:
 - type: created
   value: '2010-03-19'
+- type: published
+  value: '2010-03-19'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2010-03-19'
 biblionote:
 - content: R1-101706, RP-100165
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -16,6 +16,8 @@ docnumber: TR 25.827:Rel-7/1.0.0
 date:
 - type: created
   value: '2006-11-28'
+- type: published
+  value: '2006-11-28'
 - type: confirmed
   value: '2007-03-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2006-11-28'
 biblionote:
 - content: RP-060771  ex R1-47
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

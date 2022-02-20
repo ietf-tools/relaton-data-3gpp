@@ -16,6 +16,8 @@ docnumber: TS 25.306:Rel-10/10.8.0
 date:
 - type: created
   value: '2012-09-24'
+- type: published
+  value: '2012-09-24'
 - type: confirmed
   value: '2006-03-28'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson India Private Limited
   role:
   - author
+revdate: '2012-09-24'
 language:
 - en
 script:
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -17,6 +17,8 @@ docnumber: TS 36.307:Rel-9/9.12.0
 date:
 - type: created
   value: '2014-07-04'
+- type: published
+  value: '2014-07-04'
 - type: confirmed
   value: '2010-04-04'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Fujitsu Limited
   role:
   - author
+revdate: '2014-07-04'
 biblionote:
 - content: 'RP-46: Agreed that WI would create Rel-9 spec, and a subsequent CR would
     reverse engineer a Rel-8 instance.'
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R4

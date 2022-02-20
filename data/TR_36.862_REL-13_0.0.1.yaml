@@ -16,6 +16,8 @@ docnumber: TR 36.862:Rel-13/0.0.1
 date:
 - type: created
   value: '2014-09-29'
+- type: published
+  value: '2014-09-29'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Dish Network
   role:
   - author
+revdate: '2014-09-29'
 biblionote:
 - content: R4-144233
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 28.890:Rel-16/1.0.2
+date:
+- type: published
+  value: '2019-01-04'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2019-01-04'
 biblionote:
 - content: 'Based on predecessor TR 28.900 v1.0.1. ^ 2019-01-04: First version of
     TR 28.890 (was previously TR 28.900)'
@@ -52,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

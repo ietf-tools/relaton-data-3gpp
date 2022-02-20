@@ -16,6 +16,8 @@ docnumber: TR 36.850:Rel-11/0.4.0
 date:
 - type: created
   value: '2012-09-28'
+- type: published
+  value: '2012-09-28'
 - type: confirmed
   value: '2013-03-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2012-09-28'
 biblionote:
 - content: '2015-01: This TR proposed to be superseded by 36.852-11 to harmonize TR
     numbering.'
@@ -58,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

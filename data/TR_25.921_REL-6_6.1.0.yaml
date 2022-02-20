@@ -16,6 +16,8 @@ docnumber: TR 25.921:Rel-6/6.1.0
 date:
 - type: created
   value: '2005-10-14'
+- type: published
+  value: '2005-10-14'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - NOKIA UK R&D Ltd
   role:
   - author
+revdate: '2005-10-14'
 biblionote:
 - content: 'Possible typo in ASN.1 definition of Test-msg-r5-IEs sequence: newUseOfexistingIE-F-rF
     should be newUseOfexistingIE-F-r5.'
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

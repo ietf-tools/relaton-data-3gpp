@@ -16,6 +16,8 @@ docnumber: TS 22.368:Rel-12/12.3.0
 date:
 - type: created
   value: '2013-12-20'
+- type: published
+  value: '2013-12-20'
 - type: confirmed
   value: '2010-04-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - TNO
   role:
   - author
+revdate: '2013-12-20'
 biblionote:
 - content: includes some editorial corrections
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

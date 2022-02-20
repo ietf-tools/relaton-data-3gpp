@@ -16,6 +16,8 @@ docnumber: TR 22.838:Rel-14/2.0.0
 date:
 - type: created
   value: '2015-12-21'
+- type: published
+  value: '2015-12-21'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2015-12-21'
 biblionote:
 - content: SP-150767
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

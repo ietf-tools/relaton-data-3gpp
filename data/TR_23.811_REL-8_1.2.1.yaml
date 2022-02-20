@@ -16,6 +16,8 @@ docnumber: TR 23.811:Rel-8/1.2.1
 date:
 - type: created
   value: '2008-02-27'
+- type: published
+  value: '2008-02-27'
 - type: confirmed
   value: '2007-12-05'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2008-02-27'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

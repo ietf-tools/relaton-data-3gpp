@@ -17,6 +17,8 @@ docnumber: TR 25.812:Rel-7/0.0.0
 date:
 - type: created
   value: '2005-03-03'
+- type: published
+  value: '2005-03-03'
 - type: confirmed
   value: '2005-03-03'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2005-03-03'
 biblionote:
 - content: 'Post-RP-27: converted to xx.9xx series TR for increased visibility. Will
     be ratified RP-28.'
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

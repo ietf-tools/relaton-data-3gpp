@@ -17,6 +17,8 @@ docnumber: TS 32.611:Rel-13/13.0.0
 date:
 - type: created
   value: '2016-01-14'
+- type: published
+  value: '2016-01-14'
 - type: confirmed
   value: '2002-06-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2016-01-14'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

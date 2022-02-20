@@ -16,6 +16,8 @@ docnumber: TR 33.833:Rel-13/1.5.0
 date:
 - type: created
   value: '2015-09-22'
+- type: published
+  value: '2015-09-22'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2015-09-22'
 biblionote:
 - content: S3-152079
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

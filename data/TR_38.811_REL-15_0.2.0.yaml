@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 38.811:Rel-15/0.2.0
 date:
+- type: published
+  value: '2017-09-26'
 - type: confirmed
   value: '2018-08-07'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - THALES
   role:
   - author
+revdate: '2017-09-26'
 biblionote:
 - content: 'RP-172074 (agreed by RAN #77)'
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

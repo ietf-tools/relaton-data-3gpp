@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 28.801:Rel-15/15.1.0
 date:
+- type: published
+  value: '2018-01-04'
 - type: confirmed
   value: '2017-09-22'
 contributor:
@@ -45,13 +47,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2018-01-04'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S5

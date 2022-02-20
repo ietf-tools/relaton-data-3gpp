@@ -17,6 +17,8 @@ docnumber: TR 36.871:Rel-11/11.0.0
 date:
 - type: created
   value: '2011-12-22'
+- type: published
+  value: '2011-12-22'
 - type: confirmed
   value: '2011-12-06'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Ofcom (U.K.)
   role:
   - author
+revdate: '2011-12-22'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

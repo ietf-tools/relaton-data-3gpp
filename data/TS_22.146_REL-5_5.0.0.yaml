@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 22.146:Rel-5/5.0.0
 date:
+- type: published
+  value: '2001-10-05'
 - type: confirmed
   value: '2011-04-08'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - NOKIA UK R&D Ltd
   role:
   - author
+revdate: '2001-10-05'
 biblionote:
 - content: 'SP-15: To be a Rel-6 service, not Rel-5.  SP-16 formally wthdrw Rel-5.'
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

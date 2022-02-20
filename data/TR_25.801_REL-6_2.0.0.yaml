@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TR 25.801:Rel-6/2.0.0
 date:
+- type: published
+  value: '2003-09-26'
 - type: confirmed
   value: '2003-01-31'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Interdigital Asia LLC
   role:
   - author
+revdate: '2003-09-26'
 biblionote:
 - content: RP-030425
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

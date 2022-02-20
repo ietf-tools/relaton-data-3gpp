@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.877:Rel-6/1.1.0
 date:
+- type: published
+  value: '2004-01-21'
 - type: confirmed
   value: '2004-03-16'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2004-01-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

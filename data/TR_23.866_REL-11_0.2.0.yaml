@@ -16,6 +16,8 @@ docnumber: TR 23.866:Rel-11/0.2.0
 date:
 - type: created
   value: '2011-06-16'
+- type: published
+  value: '2011-06-16'
 - type: confirmed
   value: '2012-06-22'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2011-06-16'
 biblionote:
 - content: 'SP-56: timed out of Rel-11.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

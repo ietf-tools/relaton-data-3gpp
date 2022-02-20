@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.844:Rel-4/1.0.0
+date:
+- type: published
+  value: '2000-12-20'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Ericsson AB
   role:
   - author
+revdate: '2000-12-20'
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.'
   type: remark
@@ -52,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

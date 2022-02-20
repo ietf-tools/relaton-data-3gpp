@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.759:Rel-15/15.0.0
+date:
+- type: published
+  value: '2017-09-18'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2017-09-18'
 biblionote:
 - content: MCC Editorial update to create Rel-15 version after approval at TSG SA#77
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

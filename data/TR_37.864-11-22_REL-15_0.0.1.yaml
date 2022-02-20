@@ -16,6 +16,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 37.864-11-22:Rel-15/0.0.1
+date:
+- type: published
+  value: '2018-05-14'
 contributor:
 - organization:
     name:
@@ -44,13 +47,14 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2018-05-14'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

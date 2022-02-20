@@ -16,6 +16,8 @@ docnumber: TR 33.802:Rel-7/0.1.1
 date:
 - type: created
   value: '2005-10-05'
+- type: published
+  value: '2005-10-05'
 - type: confirmed
   value: '2005-07-04'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2005-10-05'
 biblionote:
 - content: '2008-05: to be declared obsolete at SP-40.'
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

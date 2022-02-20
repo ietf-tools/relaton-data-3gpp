@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.951:Rel-5/1.1.0
 date:
+- type: published
+  value: '2001-10-01'
 - type: confirmed
   value: '2006-10-05'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2001-10-01'
 biblionote:
 - content: '2002-01-24: Gutierrez: moved from Rel-4.  RP-19: to Rel-6.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

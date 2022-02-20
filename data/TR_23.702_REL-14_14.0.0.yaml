@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.702:Rel-14/14.0.0
 date:
+- type: published
+  value: '2016-12-16'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2016-12-16'
 biblionote:
 - content: MCC Editorial update for publication after TSG SA#74 approval
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

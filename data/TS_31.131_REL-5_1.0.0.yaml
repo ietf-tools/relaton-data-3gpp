@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 31.131:Rel-5/1.0.0
 date:
+- type: published
+  value: '2002-01-02'
 - type: confirmed
   value: '2011-04-08'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Morpho Cards GmbH
   role:
   - author
+revdate: '2002-01-02'
 biblionote:
 - content: 'TP-17: Clear that the spec is Rel-6 not Rel-5.'
   type: remark
@@ -67,7 +70,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

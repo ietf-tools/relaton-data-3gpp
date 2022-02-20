@@ -16,6 +16,8 @@ docnumber: TR 21.905:Rel-8/8.1.0
 date:
 - type: created
   value: '2007-06-22'
+- type: published
+  value: '2007-06-22'
 - type: confirmed
   value: '2004-06-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2007-06-22'
 language:
 - en
 script:
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

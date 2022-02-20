@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 02.21:Ph1/3.4.0
+date:
+- type: published
+  value: '1994-05-10'
 contributor:
 - organization:
     name:
@@ -27,6 +30,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '1994-05-10'
 language:
 - en
 script:
@@ -36,7 +40,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

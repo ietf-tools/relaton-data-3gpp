@@ -16,6 +16,8 @@ docnumber: TS 23.040:Rel-6/6.8.1
 date:
 - type: created
   value: '2006-10-19'
+- type: published
+  value: '2006-10-19'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Germany
   role:
   - author
+revdate: '2006-10-19'
 biblionote:
 - content: adds compression test vectors (unchanged)
   type: comment
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

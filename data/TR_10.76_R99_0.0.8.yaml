@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 10.76:R99/0.0.8
+date:
+- type: published
+  value: '1999-08-15'
 contributor:
 - organization:
     name:
@@ -27,6 +30,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '1999-08-15'
 biblionote:
 - content: '2002-01-23: Usai indicates "stopped".'
   type: remark
@@ -39,7 +43,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

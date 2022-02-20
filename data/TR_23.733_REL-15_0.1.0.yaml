@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 23.733:Rel-15/0.1.0
 date:
+- type: published
+  value: '2016-12-20'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2016-12-20'
 biblionote:
 - content: First draft after S2#118 (before TR number allocated)
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

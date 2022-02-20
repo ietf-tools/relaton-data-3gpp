@@ -16,6 +16,8 @@ docnumber: TS 23.142:Rel-9/0.3.0
 date:
 - type: created
   value: '2009-03-24'
+- type: published
+  value: '2009-03-24'
 - type: confirmed
   value: '2009-12-21'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2009-03-24'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

@@ -16,6 +16,8 @@ docnumber: TS 23.380:Rel-8/8.3.0
 date:
 - type: created
   value: '2009-06-08'
+- type: published
+  value: '2009-06-08'
 - type: confirmed
   value: '2009-03-25'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nanjing Ericsson Panda Com Ltd
   role:
   - author
+revdate: '2009-06-08'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

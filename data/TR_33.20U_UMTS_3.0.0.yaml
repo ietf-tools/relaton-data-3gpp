@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.20U:UMTS/3.0.0
+date:
+- type: published
+  value: '1997-06-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Hillebrand GmbH
   role:
   - author
+revdate: '1997-06-13'
 biblionote:
 - content: "#19: 3.0.0"
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: "-"

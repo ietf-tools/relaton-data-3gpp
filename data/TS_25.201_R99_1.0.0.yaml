@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.201:R99/1.0.0
 date:
+- type: published
+  value: '1999-02-15'
 - type: confirmed
   value: '2001-11-15'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '1999-02-15'
 language:
 - en
 script:
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

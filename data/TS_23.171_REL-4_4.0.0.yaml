@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.171:Rel-4/4.0.0
 date:
+- type: published
+  value: '2002-06-18'
 - type: confirmed
   value: '2002-09-24'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2002-06-18'
 biblionote:
 - content: 'Kall: Apr-2001:Superseded by 23.271 for Rel-4.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

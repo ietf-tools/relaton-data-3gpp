@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 32.402:Rel-4/2.0.0
+date:
+- type: published
+  value: '2001-10-11'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2001-10-11'
 biblionote:
 - content: SP-010467 approved as 52.042
   type: comment
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

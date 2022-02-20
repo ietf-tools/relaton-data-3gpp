@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 50.099:Rel-4/0.23.0
+date:
+- type: published
+  value: '2002-11-26'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - AT&T GNS Belgium SPRL
   role:
   - author
+revdate: '2002-11-26'
 biblionote:
 - content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
     numbered and were not subsequent at all, so do not appear in history; latest draft
@@ -57,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: GP

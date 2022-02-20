@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 33.501:Rel-15/15.14.1
+date:
+- type: published
+  value: '2021-11-09'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2021-11-09'
 biblionote:
 - content: Changing the file name. Content is identical.
   type: comment
@@ -53,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

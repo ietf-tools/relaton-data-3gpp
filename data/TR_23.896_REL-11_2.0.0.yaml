@@ -16,6 +16,8 @@ docnumber: TR 23.896:Rel-11/2.0.0
 date:
 - type: created
   value: '2015-03-18'
+- type: published
+  value: '2015-03-18'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2015-03-18'
 biblionote:
 - content: 'SP-150033 ^ 2015-03-11: Not clear whether this should be approved at Rel-12
     (already frozen) or Rel-13.'
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

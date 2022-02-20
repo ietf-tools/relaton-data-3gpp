@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 50.059:Rel-4/4.0.1
 date:
+- type: published
+  value: '2001-10-01'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -45,13 +47,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2001-10-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -16,6 +16,8 @@ docnumber: TR 36.837:Rel-11/0.3.0
 date:
 - type: created
   value: '2012-09-28'
+- type: published
+  value: '2012-09-28'
 - type: confirmed
   value: '2013-01-15'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Motorola Solutions UK Ltd.
   role:
   - author
+revdate: '2012-09-28'
 biblionote:
 - content: R4-124975
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

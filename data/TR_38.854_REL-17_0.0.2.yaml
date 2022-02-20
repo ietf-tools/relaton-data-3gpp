@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 38.854:Rel-17/0.0.2
+date:
+- type: published
+  value: '2021-04-02'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2021-04-02'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

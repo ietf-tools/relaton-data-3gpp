@@ -16,6 +16,8 @@ docnumber: TR 33.829:Rel-11/1.0.0
 date:
 - type: created
   value: '2012-09-14'
+- type: published
+  value: '2012-09-14'
 - type: confirmed
   value: '2012-05-30'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2012-09-14'
 biblionote:
 - content: Timed out of Rel-11
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

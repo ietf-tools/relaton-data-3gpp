@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TR 37.977:Rel-14/14.6.0
 date:
+- type: published
+  value: '2018-07-06'
 - type: confirmed
   value: '2014-01-14'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Vodafone España SA
   role:
   - author
+revdate: '2018-07-06'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

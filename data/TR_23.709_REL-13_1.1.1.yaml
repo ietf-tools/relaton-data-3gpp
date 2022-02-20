@@ -16,6 +16,8 @@ docnumber: TR 23.709:Rel-13/1.1.1
 date:
 - type: created
   value: '2015-05-11'
+- type: published
+  value: '2015-05-11'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nanjing Ericsson Panda Com Ltd
   role:
   - author
+revdate: '2015-05-11'
 biblionote:
 - content: MCC editorial corrections to figure numbers, figure reference and History
     box text.
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

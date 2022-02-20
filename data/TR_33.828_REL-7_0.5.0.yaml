@@ -16,6 +16,8 @@ docnumber: TR 33.828:Rel-7/0.5.0
 date:
 - type: created
   value: '2008-01-23'
+- type: published
+  value: '2008-01-23'
 - type: confirmed
   value: '2009-03-10'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2008-01-23'
 biblionote:
 - content: 'SP-39: moved from WI UID 732028, hence to Rel-8.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

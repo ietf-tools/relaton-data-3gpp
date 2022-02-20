@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.706:Rel-13/1.2.2
+date:
+- type: published
+  value: '2015-09-14'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - HiSilicon Technologies Co. Ltd
   role:
   - author
+revdate: '2015-09-14'
 biblionote:
 - content: R2-152813
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

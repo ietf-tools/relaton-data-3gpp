@@ -17,6 +17,8 @@ docnumber: TR 24.802:Rel-12/0.4.1
 date:
 - type: created
   value: '2013-11-04'
+- type: published
+  value: '2013-11-04'
 - type: confirmed
   value: '2014-03-12'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2013-11-04'
 biblionote:
 - content: corrects wrongly implemented text proposal
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C3

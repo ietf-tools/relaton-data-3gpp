@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.751:Rel-14/0.4.1
+date:
+- type: published
+  value: '2017-04-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2017-04-13'
 biblionote:
 - content: MCC Correction of references
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

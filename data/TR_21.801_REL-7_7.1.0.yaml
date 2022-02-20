@@ -16,6 +16,8 @@ docnumber: TR 21.801:Rel-7/7.1.0
 date:
 - type: created
   value: '2005-10-11'
+- type: published
+  value: '2005-10-11'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2005-10-11'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

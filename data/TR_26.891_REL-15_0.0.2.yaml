@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 26.891:Rel-15/0.0.2
+date:
+- type: published
+  value: '2017-06-30'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Samsung Research America
   role:
   - author
+revdate: '2017-06-30'
 biblionote:
 - content: S4-170743
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

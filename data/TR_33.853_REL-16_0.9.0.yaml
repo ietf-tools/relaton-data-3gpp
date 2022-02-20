@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 33.853:Rel-16/0.9.0
+date:
+- type: published
+  value: '2020-05-29'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2020-05-29'
 biblionote:
 - content: S3-201430
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

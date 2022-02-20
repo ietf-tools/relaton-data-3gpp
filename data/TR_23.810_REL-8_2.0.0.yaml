@@ -16,6 +16,8 @@ docnumber: TR 23.810:Rel-8/2.0.0
 date:
 - type: created
   value: '2008-09-24'
+- type: published
+  value: '2008-09-24'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2008-09-24'
 biblionote:
 - content: SP-080548, S2 reports "Study Work complete, no new WID proposed (yet)"
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

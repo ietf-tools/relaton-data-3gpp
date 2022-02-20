@@ -16,6 +16,8 @@ docnumber: TS 25.402:Rel-6/6.5.0
 date:
 - type: created
   value: '2006-12-13'
+- type: published
+  value: '2006-12-13'
 - type: confirmed
   value: '2011-04-03'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Solutions & Networks (I)
   role:
   - author
+revdate: '2006-12-13'
 biblionote:
 - content: created for M.1457 update
   type: remark
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R3

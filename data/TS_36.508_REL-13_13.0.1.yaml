@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 36.508:Rel-13/13.0.1
 date:
+- type: published
+  value: '2016-07-21'
 - type: confirmed
   value: '2009-03-19'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Motorola Mobility UK Ltd.
   role:
   - author
+revdate: '2016-07-21'
 biblionote:
 - content: restoring deleted Table 4.3.1.1.66A-3 of R5-163193
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

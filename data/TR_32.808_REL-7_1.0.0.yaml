@@ -17,6 +17,8 @@ docnumber: TR 32.808:Rel-7/1.0.0
 date:
 - type: created
   value: '2006-11-24'
+- type: published
+  value: '2006-11-24'
 - type: confirmed
   value: '2006-07-17'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Huawei Technologies Sweden AB
   role:
   - author
+revdate: '2006-11-24'
 biblionote:
 - content: 'SP-36: WI is Rel-7, but draft presented for approval as Rel-8 because
     no extension granted to the WI.'
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

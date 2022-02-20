@@ -18,6 +18,8 @@ docnumber: TR 37.977:Rel-11/0.2.0
 date:
 - type: created
   value: '2012-09-28'
+- type: published
+  value: '2012-09-28'
 - type: confirmed
   value: '2014-01-14'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - Vodafone España SA
   role:
   - author
+revdate: '2012-09-28'
 biblionote:
 - content: 'RP-59: timed out of Rel-11.'
   type: remark
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

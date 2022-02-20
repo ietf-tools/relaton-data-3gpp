@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 10.60:R96/5.4.0
+date:
+- type: published
+  value: '1998-03-05'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Apica IT
   role:
   - author
+revdate: '1998-03-05'
 biblionote:
 - content: "#25: (5.x.y withdrawn)"
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S2

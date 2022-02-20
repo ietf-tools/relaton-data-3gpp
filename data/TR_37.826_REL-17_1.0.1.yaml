@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 37.826:Rel-17/1.0.1
+date:
+- type: published
+  value: '2022-01-12'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2022-01-12'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

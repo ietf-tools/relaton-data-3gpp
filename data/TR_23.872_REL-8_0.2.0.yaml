@@ -17,6 +17,8 @@ docnumber: TR 23.872:Rel-8/0.2.0
 date:
 - type: created
   value: '2008-03-20'
+- type: published
+  value: '2008-03-20'
 - type: confirmed
   value: '2008-06-03'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2008-03-20'
 biblionote:
 - content: 'SP-41: WI had been moved to Rel-9 in view of projected FS completion date,
     but finished early, so reverted to Rel-8.'
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

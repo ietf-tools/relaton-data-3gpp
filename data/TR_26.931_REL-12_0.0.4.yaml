@@ -16,6 +16,8 @@ docnumber: TR 26.931:Rel-12/0.0.4
 date:
 - type: created
   value: '2015-04-02'
+- type: published
+  value: '2015-04-02'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HEAD acoustics GmbH
   role:
   - author
+revdate: '2015-04-02'
 biblionote:
 - content: Timed out of Rel-12.
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

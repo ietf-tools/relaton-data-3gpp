@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 36.806:Rel-9/0.3.0
 date:
+- type: published
+  value: '2011-12-02'
 - type: confirmed
   value: '2010-04-21'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-12-02'
 biblionote:
 - content: R2-101844
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

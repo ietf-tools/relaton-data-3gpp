@@ -16,6 +16,8 @@ docnumber: TR 36.883:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-07-05'
+- type: published
+  value: '2015-07-05'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - HuaWei Technologies Co., Ltd
   role:
   - author
+revdate: '2015-07-05'
 biblionote:
 - content: RP-150689
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

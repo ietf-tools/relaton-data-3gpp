@@ -17,6 +17,8 @@ docnumber: TS 24.234:Rel-12/12.2.0
 date:
 - type: created
   value: '2015-03-20'
+- type: published
+  value: '2015-03-20'
 - type: confirmed
   value: '2006-03-30'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2015-03-20'
 biblionote:
 - content: 'CP-66: Debate over whether to withdraw this spec from Rel-12, and whether
     or not to promote to Rel-13 when the time comes. TSG SA to decide the general
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

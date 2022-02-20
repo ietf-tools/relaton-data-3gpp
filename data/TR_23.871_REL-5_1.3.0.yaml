@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.871:Rel-5/1.3.0
 date:
+- type: published
+  value: '2002-03-19'
 - type: confirmed
   value: '2002-03-11'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2002-03-19'
 biblionote:
 - content: 'Not to progress to Rel-6: see 23.271.'
   type: remark
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

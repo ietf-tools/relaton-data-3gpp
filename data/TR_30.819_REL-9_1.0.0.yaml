@@ -17,6 +17,8 @@ docnumber: TR 30.819:Rel-9/1.0.0
 date:
 - type: created
   value: '2010-09-28'
+- type: published
+  value: '2010-09-28'
 - type: confirmed
   value: '2009-02-06'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2010-09-28'
 biblionote:
 - content: 'SP-48: anticipate approval at SP-49.'
   type: remark
@@ -58,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

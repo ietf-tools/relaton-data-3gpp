@@ -18,6 +18,8 @@ docnumber: TS 34.229-1:Rel-11/11.1.0
 date:
 - type: created
   value: '2014-03-17'
+- type: published
+  value: '2014-03-17'
 - type: confirmed
   value: '2010-04-11'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - ROHDE & SCHWARZ
   role:
   - author
+revdate: '2014-03-17'
 language:
 - en
 script:
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.873:Rel-5/2.0.0
 date:
+- type: published
+  value: '2002-03-19'
 - type: confirmed
   value: '2004-03-25'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2002-03-19'
 biblionote:
 - content: SP-020145. Much of the contents are related to Rel-6, so it is only tenuously
     a Rel-5 document. Not approved.
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

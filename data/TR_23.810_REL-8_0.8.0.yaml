@@ -16,6 +16,8 @@ docnumber: TR 23.810:Rel-8/0.8.0
 date:
 - type: created
   value: '2007-10-23'
+- type: published
+  value: '2007-10-23'
 contributor:
 - organization:
     name:
@@ -44,13 +46,14 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2007-10-23'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

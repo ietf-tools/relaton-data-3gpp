@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 01.00:R99/8.0.0
 date:
+- type: published
+  value: '1999-11-11'
 - type: confirmed
   value: '2002-02-06'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Hillebrand GmbH
   role:
   - author
+revdate: '1999-11-11'
 biblionote:
 - content: 'SP-15: withdrawn since SMG and PT-SMG no longer exist.'
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

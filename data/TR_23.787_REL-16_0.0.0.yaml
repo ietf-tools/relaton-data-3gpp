@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.787:Rel-16/0.0.0
+date:
+- type: published
+  value: '2018-01-31'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2018-01-31'
 biblionote:
 - content: 'SP-170381: UID: 760045. WI_Code: FS_ENTRADE. ^ 2018-01-31: S2-180958:
     Skeleton approved at SA2#125'
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

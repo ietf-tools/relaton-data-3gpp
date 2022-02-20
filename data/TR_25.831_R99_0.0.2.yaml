@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.831:R99/0.0.2
+date:
+- type: published
+  value: '1999-06-23'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '1999-06-23'
 biblionote:
 - content: 'RP-19 (post R3-31): stopped.'
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R3

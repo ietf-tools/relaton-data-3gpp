@@ -16,6 +16,8 @@ docnumber: TR 33.805:Rel-12/0.2.1
 date:
 - type: created
   value: '2013-02-07'
+- type: published
+  value: '2013-02-07'
 - type: confirmed
   value: '2013-12-20'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2013-02-07'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

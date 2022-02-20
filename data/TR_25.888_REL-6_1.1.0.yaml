@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.888:Rel-6/1.1.0
+date:
+- type: published
+  value: '2003-01-06'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - SAMSUNG Electronics Co., Ltd.
   role:
   - author
+revdate: '2003-01-06'
 biblionote:
 - content: RP-020815
   type: comment
@@ -51,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

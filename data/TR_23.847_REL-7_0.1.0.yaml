@@ -17,6 +17,8 @@ docnumber: TR 23.847:Rel-7/0.1.0
 date:
 - type: created
   value: '2006-07-10'
+- type: published
+  value: '2006-07-10'
 - type: confirmed
   value: '2007-12-13'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Siemens Networks S.p.A
   role:
   - author
+revdate: '2006-07-10'
 biblionote:
 - content: 'SP-35: timed out of Rel-7'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

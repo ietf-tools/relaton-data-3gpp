@@ -16,6 +16,8 @@ docnumber: TR 25.702:Rel-12/1.0.1
 date:
 - type: created
   value: '2013-09-12'
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2013-09-20'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - QUALCOMM JAPAN LLC.
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: RP-131344
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

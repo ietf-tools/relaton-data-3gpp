@@ -16,6 +16,8 @@ docnumber: TS 29.311:Rel-10/10.5.0
 date:
 - type: created
   value: '2013-06-27'
+- type: published
+  value: '2013-06-27'
 - type: confirmed
   value: '2010-04-02'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2013-06-27'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C3

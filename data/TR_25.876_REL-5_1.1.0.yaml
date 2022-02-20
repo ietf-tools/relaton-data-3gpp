@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.876:Rel-5/1.1.0
 date:
+- type: published
+  value: '2002-07-31'
 - type: confirmed
   value: '2003-11-03'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2002-07-31'
 biblionote:
 - content: '2003-11-03: Timed out of Rel-5, must be Rel-6.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

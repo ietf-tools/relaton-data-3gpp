@@ -17,6 +17,8 @@ docnumber: TS 36.523-3:Rel-8/1.0.0
 date:
 - type: created
   value: '2009-02-26'
+- type: published
+  value: '2009-02-26'
 - type: confirmed
   value: '2009-02-12'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2009-02-26'
 biblionote:
 - content: 'RP-43: Approval target RP-46.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

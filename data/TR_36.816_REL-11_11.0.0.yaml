@@ -17,6 +17,8 @@ docnumber: TR 36.816:Rel-11/11.0.0
 date:
 - type: created
   value: '2011-06-24'
+- type: published
+  value: '2011-06-24'
 - type: confirmed
   value: '2011-06-24'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2011-06-24'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

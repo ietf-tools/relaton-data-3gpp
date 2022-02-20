@@ -16,6 +16,8 @@ docnumber: TR 26.852:Rel-13/1.0.0
 date:
 - type: created
   value: '2015-09-24'
+- type: published
+  value: '2015-09-24'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Samsung Telecoms America
   role:
   - author
+revdate: '2015-09-24'
 biblionote:
 - content: SP-150440
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

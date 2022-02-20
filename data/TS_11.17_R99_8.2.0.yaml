@@ -16,6 +16,8 @@ docnumber: TS 11.17:R99/8.2.0
 date:
 - type: created
   value: '2005-06-14'
+- type: published
+  value: '2005-06-14'
 - type: confirmed
   value: '2005-03-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Comprion GmbH
   role:
   - author
+revdate: '2005-06-14'
 biblionote:
 - content: 'May 00: R99 not anticipated.  TP-18: R99 created.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C6

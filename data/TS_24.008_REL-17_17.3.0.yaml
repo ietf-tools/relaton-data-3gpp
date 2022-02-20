@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 24.008:Rel-17/17.3.0
 date:
+- type: published
+  value: '2021-06-25'
 - type: confirmed
   value: '2001-10-05'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Guangdong OPPO Mobile Telecom.
   role:
   - author
+revdate: '2021-06-25'
 language:
 - en
 script:
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

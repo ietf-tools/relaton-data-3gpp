@@ -16,6 +16,8 @@ docnumber: TR 22.892:Rel-8/8.0.0
 date:
 - type: created
   value: '2008-03-26'
+- type: published
+  value: '2008-03-26'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NEC Europe Ltd
   role:
   - author
+revdate: '2008-03-26'
 biblionote:
 - content: 'SP-38: lack of consensus, may be abandoned at SP-39.'
   type: remark
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

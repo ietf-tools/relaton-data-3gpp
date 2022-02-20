@@ -16,6 +16,8 @@ docnumber: TR 21.801:Rel-10/10.2.1
 date:
 - type: created
   value: '2012-04-03'
+- type: published
+  value: '2012-04-03'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2012-04-03'
 biblionote:
 - content: fixes typo in §4
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

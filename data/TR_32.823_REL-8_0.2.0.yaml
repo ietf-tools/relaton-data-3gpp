@@ -17,6 +17,8 @@ docnumber: TR 32.823:Rel-8/0.2.0
 date:
 - type: created
   value: '2008-07-23'
+- type: published
+  value: '2008-07-23'
 - type: confirmed
   value: '2009-06-11'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2008-07-23'
 biblionote:
 - content: 'SP-43: Timed out of Rel-8.'
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -16,6 +16,8 @@ docnumber: TR 23.889:Rel-9/1.2.0
 date:
 - type: created
   value: '2010-05-11'
+- type: published
+  value: '2010-05-11'
 - type: confirmed
   value: '2010-09-28'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - GSM Association
   role:
   - author
+revdate: '2010-05-11'
 biblionote:
 - content: 'CP-49: timed out of Rel-9'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C4

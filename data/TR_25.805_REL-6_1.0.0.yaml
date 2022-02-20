@@ -16,6 +16,8 @@ docnumber: TR 25.805:Rel-6/1.0.0
 date:
 - type: created
   value: '2006-01-09'
+- type: published
+  value: '2006-01-09'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2006-01-09'
 biblionote:
 - content: 'RP-19: Work Item has been closed as "completed" but no decision taken
     on the fate of this TR.  2006-01: To be formally stopped at RP-31? 2007-08: ...
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

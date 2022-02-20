@@ -16,6 +16,8 @@ docnumber: TR 25.927:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-10-08'
+- type: published
+  value: '2010-10-08'
 - type: confirmed
   value: '2010-10-08'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2010-10-08'
 biblionote:
 - content: 3GPP internal TR, no SDO transposition
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

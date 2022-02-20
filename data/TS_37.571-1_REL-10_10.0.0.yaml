@@ -17,6 +17,8 @@ docnumber: TS 37.571-1:Rel-10/10.0.0
 date:
 - type: created
   value: '2012-07-04'
+- type: published
+  value: '2012-07-04'
 - type: confirmed
   value: '2011-12-06'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Spirent Communications
   role:
   - author
+revdate: '2012-07-04'
 biblionote:
 - content: technically identical to v9.2.1
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

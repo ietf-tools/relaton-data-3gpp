@@ -17,6 +17,8 @@ docnumber: TR 23.741:Rel-13/0.1.0
 date:
 - type: created
   value: '2015-02-05'
+- type: published
+  value: '2015-02-04'
 contributor:
 - organization:
     name:
@@ -45,6 +47,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2015-02-04'
 biblionote:
 - content: Created after S2-107 meeting
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

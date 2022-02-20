@@ -16,6 +16,8 @@ docnumber: TR 21.801:Rel-10/10.1.0
 date:
 - type: created
   value: '2010-09-28'
+- type: published
+  value: '2010-09-28'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2010-09-28'
 biblionote:
 - content: typo in history table; CR30 is in SP-100629.
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 22.174:Rel-6/2.0.0
 date:
+- type: published
+  value: '2002-09-17'
 - type: confirmed
   value: '2011-04-07'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2002-09-17'
 biblionote:
 - content: 'SP-15: Timed out of Rel-5. SP-18: S1 seems to have lost interest in this
     spec. Known to be some holes in it.'
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

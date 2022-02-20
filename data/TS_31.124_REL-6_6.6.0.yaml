@@ -17,6 +17,8 @@ docnumber: TS 31.124:Rel-6/6.6.0
 date:
 - type: created
   value: '2006-10-06'
+- type: published
+  value: '2006-10-06'
 - type: confirmed
   value: '2010-04-13'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Comprion GmbH
   role:
   - author
+revdate: '2006-10-06'
 biblionote:
 - content: To contain contents for all prior Releases.
   type: remark
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C6

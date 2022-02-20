@@ -16,6 +16,8 @@ docnumber: TR 30.531:Rel-13/1.21.0
 date:
 - type: created
   value: '2015-08-31'
+- type: published
+  value: '2015-08-31'
 - type: confirmed
   value: '2011-09-05'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2015-08-31'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

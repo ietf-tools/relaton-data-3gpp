@@ -16,6 +16,8 @@ docnumber: TR 36.822:Rel-11/0.0.0
 date:
 - type: created
   value: '2013-06-04'
+- type: published
+  value: '2013-06-03'
 - type: confirmed
   value: '2012-09-19'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - BlackBerry UK Limited
   role:
   - author
+revdate: '2013-06-03'
 biblionote:
 - content: R2-114833
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

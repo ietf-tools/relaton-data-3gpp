@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 44.160:Rel-16/16.0.0
 date:
+- type: published
+  value: '2020-07-19'
 - type: confirmed
   value: '2011-04-01'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - MediaTek Inc.
   role:
   - author
+revdate: '2020-07-19'
 biblionote:
 - content: upgrade
   type: comment
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: RP

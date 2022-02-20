@@ -17,6 +17,8 @@ docnumber: TR 24.880:Rel-8/2.0.0
 date:
 - type: created
   value: '2007-12-14'
+- type: published
+  value: '2007-12-14'
 - type: confirmed
   value: '2007-12-14'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Alcatel-Lucent Telecom Ltd
   role:
   - author
+revdate: '2007-12-14'
 biblionote:
 - content: CP-070775 approved as Rel-8
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

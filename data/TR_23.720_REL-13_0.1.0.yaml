@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 23.720:Rel-13/0.1.0
 date:
+- type: published
+  value: '2015-08-06'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2015-08-06'
 biblionote:
 - content: 'Created after S2-110 ^ 2015-08-06: First version created after S2-110'
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

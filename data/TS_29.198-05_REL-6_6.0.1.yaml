@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 29.198-05:Rel-6/6.0.1
 date:
+- type: published
+  value: '2004-02-18'
 - type: confirmed
   value: '2005-01-03'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Philips International B.V.
   role:
   - author
+revdate: '2004-02-18'
 biblionote:
 - content: J2EE code supplied
   type: comment
@@ -57,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: CP

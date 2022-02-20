@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 21.801:Rel-15/15.1.0
 date:
+- type: published
+  value: '2018-09-19'
 - type: confirmed
   value: '2008-03-26'
 contributor:
@@ -44,13 +46,14 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2018-09-19'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: SP

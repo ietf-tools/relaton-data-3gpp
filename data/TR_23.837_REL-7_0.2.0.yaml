@@ -17,6 +17,8 @@ docnumber: TR 23.837:Rel-7/0.2.0
 date:
 - type: created
   value: '2006-02-24'
+- type: published
+  value: '2006-02-24'
 - type: confirmed
   value: '2006-01-23'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - SK Telecom
   role:
   - author
+revdate: '2006-02-24'
 biblionote:
 - content: '2008-07: WI is complete, so either scrap TR or bring under change control?
     WG Secretary indicates withdrawal most likely.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

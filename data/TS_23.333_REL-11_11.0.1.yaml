@@ -17,6 +17,8 @@ docnumber: TS 23.333:Rel-11/11.0.1
 date:
 - type: created
   value: '2012-11-15'
+- type: published
+  value: '2012-11-15'
 - type: confirmed
   value: '2010-12-22'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2012-11-15'
 biblionote:
 - content: fixes history table (well, nearly)
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C4

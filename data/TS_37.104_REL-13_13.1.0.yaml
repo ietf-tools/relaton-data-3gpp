@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 37.104:Rel-13/13.1.0
 date:
+- type: published
+  value: '2016-03-25'
 - type: confirmed
   value: '2010-03-30'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2016-03-25'
 language:
 - en
 script:
@@ -54,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R4

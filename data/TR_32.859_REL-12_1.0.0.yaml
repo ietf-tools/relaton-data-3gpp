@@ -16,6 +16,8 @@ docnumber: TR 32.859:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-06-20'
+- type: published
+  value: '2013-06-20'
 - type: confirmed
   value: '2013-09-20'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - TeliaSonera AB
   role:
   - author
+revdate: '2013-06-20'
 biblionote:
 - content: SP-130282
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

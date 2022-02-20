@@ -17,6 +17,8 @@ docnumber: TR 34.943:Rel-5/1.0.0
 date:
 - type: created
   value: '2005-05-20'
+- type: published
+  value: '2005-05-20'
 - type: confirmed
   value: '2005-09-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2005-05-20'
 biblionote:
 - content: 'RP-29: Decided not to upgrade to Rel-6 unless a clear need arises.'
   type: remark
@@ -59,7 +62,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R5

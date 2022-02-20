@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.922:R99/3.1.0
 date:
+- type: published
+  value: '2000-03-15'
 - type: confirmed
   value: '2004-04-14'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - TELECOM ITALIA S.p.A.
   role:
   - author
+revdate: '2000-03-15'
 language:
 - en
 script:
@@ -53,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

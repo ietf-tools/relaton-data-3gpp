@@ -16,6 +16,8 @@ docnumber: TR 22.888:Rel-11/0.8.1
 date:
 - type: created
   value: '2013-02-07'
+- type: published
+  value: '2013-02-07'
 - type: confirmed
   value: '2013-03-21'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2013-02-07'
 biblionote:
 - content: Timed out of Rel-11.
   type: remark
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

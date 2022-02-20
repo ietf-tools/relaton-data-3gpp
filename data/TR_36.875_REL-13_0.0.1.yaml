@@ -17,6 +17,8 @@ docnumber: TR 36.875:Rel-13/0.0.1
 date:
 - type: created
   value: '2015-03-18'
+- type: published
+  value: '2015-03-18'
 contributor:
 - organization:
     name:
@@ -45,13 +47,14 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '2015-03-18'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

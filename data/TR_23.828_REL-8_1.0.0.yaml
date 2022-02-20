@@ -17,6 +17,8 @@ docnumber: TR 23.828:Rel-8/1.0.0
 date:
 - type: created
   value: '2008-06-06'
+- type: published
+  value: '2008-06-06'
 - type: confirmed
   value: '2008-09-16'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2008-06-06'
 biblionote:
 - content: SP-080362 for approval, but not approved; note that title likely to change
     at SP-41 (currently ETWS "specification").
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

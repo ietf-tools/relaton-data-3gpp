@@ -16,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 36.521-1:Rel-13/13.1.0
 date:
+- type: published
+  value: '2016-04-01'
 - type: confirmed
   value: '2009-02-12'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2016-04-01'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
     No matching files inside zip. Quality checks cannot be executed'
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 24.841:Rel-6/1.5.1
 date:
+- type: published
+  value: '2004-04-27'
 - type: confirmed
   value: '2004-06-14'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Alcatel-Lucent Telecom Ltd
   role:
   - author
+revdate: '2004-04-27'
 biblionote:
 - content: N1-040762
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

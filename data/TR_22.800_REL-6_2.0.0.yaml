@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 22.800:Rel-6/2.0.0
 date:
+- type: published
+  value: '2003-09-29'
 - type: confirmed
   value: '2003-09-30'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - TeliaSonera AB
   role:
   - author
+revdate: '2003-09-29'
 biblionote:
 - content: 'SP-20: seems difficult to reach agreement; expect it for info at SP-21,
     simply cleaned up but technically incomplete.'
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

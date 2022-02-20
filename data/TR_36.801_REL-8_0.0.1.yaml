@@ -16,6 +16,8 @@ docnumber: TR 36.801:Rel-8/0.0.1
 date:
 - type: created
   value: '2007-04-04'
+- type: published
+  value: '2007-04-04'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2007-04-04'
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

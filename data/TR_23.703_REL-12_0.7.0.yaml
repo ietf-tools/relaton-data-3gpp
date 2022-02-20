@@ -17,6 +17,8 @@ docnumber: TR 23.703:Rel-12/0.7.0
 date:
 - type: created
   value: '2013-10-09'
+- type: published
+  value: '2013-10-09'
 - type: confirmed
   value: '2014-03-10'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2013-10-09'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -16,6 +16,8 @@ docnumber: TR 25.701:Rel-12/1.0.0
 date:
 - type: created
   value: '2013-09-12'
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2013-12-20'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - China Unicom
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: RP-131261 shows v0.3.0 on cover, but no update to history box; is a rapporteur's
     draft, not agreed by WG.
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

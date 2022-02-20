@@ -17,6 +17,8 @@ docnumber: TR 25.993:Rel-7/7.0.0
 date:
 - type: created
   value: '2006-10-17'
+- type: published
+  value: '2006-10-17'
 - type: confirmed
   value: '2004-09-23'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Solutions & Networks (I)
   role:
   - author
+revdate: '2006-10-17'
 biblionote:
 - content: 'RP-33: Upgrade from Rel-6 without technical change.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

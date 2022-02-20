@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 43.005:Rel-5/5.0.0
 date:
+- type: published
+  value: '2002-07-04'
 - type: confirmed
   value: '2001-11-14'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2002-07-04'
 biblionote:
 - content: 'NP-21: Decision not to progress this to Rel-6. NP-26: change of plan!'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: CP

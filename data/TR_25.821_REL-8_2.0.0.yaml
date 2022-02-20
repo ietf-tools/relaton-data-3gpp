@@ -16,6 +16,8 @@ docnumber: TR 25.821:Rel-8/2.0.0
 date:
 - type: created
   value: '2007-09-24'
+- type: published
+  value: '2007-09-24'
 - type: confirmed
   value: '2007-09-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Fujitsu Limited
   role:
   - author
+revdate: '2007-09-24'
 biblionote:
 - content: RP-070685
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

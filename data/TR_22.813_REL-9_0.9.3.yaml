@@ -17,6 +17,8 @@ docnumber: TR 22.813:Rel-9/0.9.3
 date:
 - type: created
   value: '2009-06-23'
+- type: published
+  value: '2009-06-23'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2009-06-23'
 biblionote:
 - content: 'SP-46: impasse @ S4. Likely to be delayed to Rel-10. S1 work complete,
     awaits S4 work.'
@@ -60,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

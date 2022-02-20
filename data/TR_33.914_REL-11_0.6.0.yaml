@@ -17,6 +17,8 @@ docnumber: TR 33.914:Rel-11/0.6.0
 date:
 - type: created
   value: '2012-01-04'
+- type: published
+  value: '2012-01-04'
 - type: confirmed
   value: '2011-06-08'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks Oy
   role:
   - author
+revdate: '2012-01-04'
 biblionote:
 - content: 'S3-111239; this version is wrongly identified: it should be v1.1.0'
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S3

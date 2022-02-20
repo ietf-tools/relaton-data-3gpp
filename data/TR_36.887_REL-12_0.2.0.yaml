@@ -17,6 +17,8 @@ docnumber: TR 36.887:Rel-12/0.2.0
 date:
 - type: created
   value: '2013-09-12'
+- type: published
+  value: '2013-09-12'
 - type: confirmed
   value: '2014-06-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2013-09-12'
 biblionote:
 - content: R3-131614
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

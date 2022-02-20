@@ -16,6 +16,8 @@ docnumber: TR 45.860:Rel-11/0.7.0
 date:
 - type: created
   value: '2011-09-26'
+- type: published
+  value: '2011-09-26'
 - type: confirmed
   value: '2011-09-30'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-09-26'
 biblionote:
 - content: GP-111178
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

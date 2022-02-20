@@ -16,6 +16,8 @@ docnumber: TR 23.870:Rel-9/1.1.0
 date:
 - type: created
   value: '2009-04-14'
+- type: published
+  value: '2009-04-14'
 contributor:
 - organization:
     name:
@@ -44,13 +46,14 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2009-04-14'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

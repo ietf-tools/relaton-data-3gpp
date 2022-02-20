@@ -16,6 +16,8 @@ docnumber: TS 25.102:Rel-7/7.5.0
 date:
 - type: created
   value: '2006-12-15'
+- type: published
+  value: '2006-12-15'
 - type: confirmed
   value: '2003-06-27'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - ROHDE & SCHWARZ
   role:
   - author
+revdate: '2006-12-15'
 language:
 - en
 script:
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: R4

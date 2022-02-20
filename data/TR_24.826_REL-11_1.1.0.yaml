@@ -17,6 +17,8 @@ docnumber: TR 24.826:Rel-11/1.1.0
 date:
 - type: created
   value: '2011-05-20'
+- type: published
+  value: '2011-05-20'
 - type: confirmed
   value: '2011-06-08'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2011-05-20'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

@@ -16,6 +16,8 @@ docnumber: TS 29.230:Rel-7/7.16.0
 date:
 - type: created
   value: '2011-09-26'
+- type: published
+  value: '2011-09-26'
 - type: confirmed
   value: '2004-06-03'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Solutions & Networks (S)
   role:
   - author
+revdate: '2011-09-26'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C4

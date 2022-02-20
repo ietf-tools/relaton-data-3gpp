@@ -15,6 +15,8 @@ docid:
   primary: true
 docnumber: TR 26.843:Rel-15/0.0.3
 date:
+- type: published
+  value: '2017-11-27'
 - type: confirmed
   value: '2018-07-12'
 contributor:
@@ -45,6 +47,7 @@ contributor:
         - Intel Deutschland GmbH
   role:
   - author
+revdate: '2017-11-27'
 biblionote:
 - content: S4-171354
   type: comment
@@ -54,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

@@ -16,6 +16,8 @@ docnumber: TR 25.828:Rel-8/0.3.0
 date:
 - type: created
   value: '2008-09-14'
+- type: published
+  value: '2008-09-14'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2008-09-14'
 biblionote:
 - content: 'RP-47: work abandoned.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -17,6 +17,8 @@ docnumber: TR 36.816:Rel-10/1.1.1
 date:
 - type: created
   value: '2014-02-26'
+- type: published
+  value: '2014-02-26'
 - type: confirmed
   value: '2011-06-24'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2014-02-26'
 biblionote:
 - content: 'RP-52: timed out of Rel-10.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R2

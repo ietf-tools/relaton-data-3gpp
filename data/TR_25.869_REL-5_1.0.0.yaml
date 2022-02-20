@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.869:Rel-5/1.0.0
+date:
+- type: published
+  value: '2001-06-28'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - Samsung Electronics Co., Ltd
   role:
   - author
+revdate: '2001-06-28'
 biblionote:
 - content: 'RP-20: to Rel-6.'
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R1

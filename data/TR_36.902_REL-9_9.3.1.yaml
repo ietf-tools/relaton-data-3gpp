@@ -17,6 +17,8 @@ docnumber: TR 36.902:Rel-9/9.3.1
 date:
 - type: created
   value: '2011-04-07'
+- type: published
+  value: '2011-04-07'
 - type: confirmed
   value: '2009-05-27'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Deutsche Telekom AG
   role:
   - author
+revdate: '2011-04-07'
 biblionote:
 - content: 'RP-44: Timed out of Rel-8. RP-48: Will not be upgraded to Rel-10; work
     will continue in an R3-internal document.'
@@ -62,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R3

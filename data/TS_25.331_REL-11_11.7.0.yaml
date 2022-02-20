@@ -16,6 +16,8 @@ docnumber: TS 25.331:Rel-11/11.7.0
 date:
 - type: created
   value: '2013-09-19'
+- type: published
+  value: '2013-09-19'
 - type: confirmed
   value: '2006-04-04'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson India Private Limited
   role:
   - author
+revdate: '2013-09-19'
 biblionote:
 - content: See important information at http://www.3gpp.org/ftp/Specs/archive/25_series/25.331/25331_readme.txt
     .
@@ -65,7 +68,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

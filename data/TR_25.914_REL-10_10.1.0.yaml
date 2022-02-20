@@ -16,6 +16,8 @@ docnumber: TR 25.914:Rel-10/10.1.0
 date:
 - type: created
   value: '2011-06-21'
+- type: published
+  value: '2011-06-21'
 - type: confirmed
   value: '2006-06-23'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-06-21'
 biblionote:
 - content: 'CR0004R1 : not implemented because it was covered by another CR that was
     submitted by the same proponents'
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R4

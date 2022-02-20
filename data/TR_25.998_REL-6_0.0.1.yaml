@@ -14,6 +14,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 25.998:Rel-6/0.0.1
+date:
+- type: published
+  value: '2004-02-06'
 contributor:
 - organization:
     name:
@@ -42,6 +45,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2004-02-06'
 biblionote:
 - content: R2-040403, RP-040080
   type: comment
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: R2

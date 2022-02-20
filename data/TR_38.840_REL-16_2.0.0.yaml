@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 38.840:Rel-16/2.0.0
 date:
+- type: published
+  value: '2019-05-29'
 - type: confirmed
   value: '2019-06-20'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2019-05-29'
 biblionote:
 - content: For approval to RAN#84 (R1-1907967)
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

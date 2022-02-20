@@ -16,6 +16,8 @@ docnumber: TS 24.303:Rel-8/8.2.0
 date:
 - type: created
   value: '2009-06-08'
+- type: published
+  value: '2009-06-08'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2009-06-08'
 language:
 - en
 script:
@@ -55,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

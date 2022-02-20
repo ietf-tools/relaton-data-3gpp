@@ -18,6 +18,8 @@ docnumber: TS 28.602:Rel-12/12.0.0
 date:
 - type: created
   value: '2013-12-20'
+- type: published
+  value: '2013-12-20'
 - type: confirmed
   value: '2013-12-20'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - China Mobile US Research Cente
   role:
   - author
+revdate: '2013-12-20'
 biblionote:
 - content: 'SP-65: to be withdrawn from this Release onwards.'
   type: remark
@@ -62,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -16,6 +16,8 @@ docnumber: TR 23.854:Rel-11/2.0.0
 date:
 - type: created
   value: '2011-06-08'
+- type: published
+  value: '2011-06-08'
 - type: confirmed
   value: '2011-06-08'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - NTT DOCOMO INC.
   role:
   - author
+revdate: '2011-06-08'
 biblionote:
 - content: SP-110354
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

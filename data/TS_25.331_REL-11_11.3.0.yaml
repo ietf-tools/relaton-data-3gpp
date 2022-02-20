@@ -16,6 +16,8 @@ docnumber: TS 25.331:Rel-11/11.3.0
 date:
 - type: created
   value: '2012-09-26'
+- type: published
+  value: '2012-09-26'
 - type: confirmed
   value: '2006-04-04'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson India Private Limited
   role:
   - author
+revdate: '2012-09-26'
 biblionote:
 - content: 'Warning: due to an error in CR4669r1 (RP-110838) the feature 1.28 Mcps
     TDD E-DCH does not work properly with this version of TS 25.331. Use v10.11.0
@@ -67,7 +70,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -16,6 +16,8 @@ docnumber: TR 29.809:Rel-12/1.0.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 - type: confirmed
   value: '2014-06-20'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2014-03-10'
 biblionote:
 - content: CP-140038
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: C4

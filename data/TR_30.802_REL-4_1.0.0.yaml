@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 30.802:Rel-4/1.0.0
+date:
+- type: published
+  value: '1999-10-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - InterDigital Communications
   role:
   - author
+revdate: '1999-10-13'
 biblionote:
 - content: '2001-02-02: In Nov-00, mistakenly put up 30.002 v4.0.0 under this number;
     now removed. TSG#11: Work stopped.'
@@ -54,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S2

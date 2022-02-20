@@ -16,6 +16,8 @@ docnumber: TR 23.839:Rel-11/0.6.0
 date:
 - type: created
   value: '2011-04-27'
+- type: published
+  value: '2011-04-27'
 - type: confirmed
   value: '2013-06-24'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2011-04-27'
 biblionote:
 - content: 'SP-49: Work item timed out of Rel-10. SP-56: timed out of Rel-11.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

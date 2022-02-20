@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 33.246:Rel-6/1.3.0
 date:
+- type: published
+  value: '2004-07-23'
 - type: confirmed
   value: '2002-10-23'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - Qualcomm CDMA Technologies
   role:
   - author
+revdate: '2004-07-23'
 biblionote:
 - content: 'SP-22: target for v2.0.0 is SP-23, but this will be challenging.'
   type: remark
@@ -58,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S3

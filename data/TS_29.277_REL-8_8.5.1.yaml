@@ -17,6 +17,8 @@ docnumber: TS 29.277:Rel-8/8.5.1
 date:
 - type: created
   value: '2010-04-22'
+- type: published
+  value: '2010-04-22'
 - type: confirmed
   value: '2010-04-06'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2010-04-22'
 biblionote:
 - content: correction to history table
   type: comment
@@ -59,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: C4

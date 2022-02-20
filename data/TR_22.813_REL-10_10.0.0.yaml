@@ -17,6 +17,8 @@ docnumber: TR 22.813:Rel-10/10.0.0
 date:
 - type: created
   value: '2010-04-01'
+- type: published
+  value: '2010-04-01'
 - type: confirmed
   value: '2010-03-31'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Orange
   role:
   - author
+revdate: '2010-04-01'
 biblionote:
 - content: 'SP-47: approved at Rel-10.'
   type: remark
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

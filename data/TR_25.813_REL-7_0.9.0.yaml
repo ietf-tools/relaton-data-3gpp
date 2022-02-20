@@ -17,6 +17,8 @@ docnumber: TR 25.813:Rel-7/0.9.0
 date:
 - type: created
   value: '2006-05-15'
+- type: published
+  value: '2006-05-15'
 - type: confirmed
   value: '2006-01-18'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2006-05-15'
 biblionote:
 - content: R2-061769
   type: comment
@@ -56,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -16,6 +16,8 @@ docnumber: TR 45.871:Rel-12/0.2.0
 date:
 - type: created
   value: '2014-03-10'
+- type: published
+  value: '2014-03-10'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2014-03-10'
 biblionote:
 - content: GP-140128
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: RP

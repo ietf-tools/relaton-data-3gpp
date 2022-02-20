@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 24.811:Rel-17/0.3.0
+date:
+- type: published
+  value: '2021-03-12'
 contributor:
 - organization:
     name:
@@ -41,13 +44,14 @@ contributor:
         - LG Electronics France
   role:
   - author
+revdate: '2021-03-12'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: C1

@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 22.141:Rel-5/5.1.0
 date:
+- type: published
+  value: '2002-01-10'
 - type: confirmed
   value: '2011-08-10'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - HOME OFFICE
   role:
   - author
+revdate: '2002-01-10'
 biblionote:
 - content: 'SP-16: moved to Rel-6'
   type: remark
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: S1

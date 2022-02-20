@@ -17,6 +17,8 @@ docnumber: TR 36.833-1-42:Rel-12/12.0.0
 date:
 - type: created
   value: '2014-07-04'
+- type: published
+  value: '2014-07-04'
 - type: confirmed
   value: '2014-04-03'
 contributor:
@@ -47,13 +49,14 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2014-07-04'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

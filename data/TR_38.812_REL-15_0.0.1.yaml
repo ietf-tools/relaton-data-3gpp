@@ -14,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 38.812:Rel-15/0.0.1
 date:
+- type: published
+  value: '2018-03-16'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -44,6 +46,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2018-03-16'
 biblionote:
 - content: R1-1603329
   type: comment
@@ -53,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R1

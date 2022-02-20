@@ -16,6 +16,8 @@ docnumber: TR 26.916:Rel-13/0.1.2
 date:
 - type: created
   value: '2015-11-09'
+- type: published
+  value: '2015-11-09'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2015-11-09'
 biblionote:
 - content: S4-151556
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S4

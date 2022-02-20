@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 23.700-40:Rel-17/1.3.0
+date:
+- type: published
+  value: '2021-03-16'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - ZTE Corporation
   role:
   - author
+revdate: '2021-03-16'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#143E
   type: comment
@@ -50,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

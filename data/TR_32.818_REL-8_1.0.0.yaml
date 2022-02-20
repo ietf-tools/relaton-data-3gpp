@@ -16,6 +16,8 @@ docnumber: TR 32.818:Rel-8/1.0.0
 date:
 - type: created
   value: '2007-05-23'
+- type: published
+  value: '2007-05-23'
 - type: confirmed
   value: '2007-09-25'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Waiting for new Company
   role:
   - author
+revdate: '2007-05-23'
 biblionote:
 - content: SP-070304
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

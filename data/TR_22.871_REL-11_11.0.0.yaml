@@ -16,6 +16,8 @@ docnumber: TR 22.871:Rel-11/11.0.0
 date:
 - type: created
   value: '2010-12-24'
+- type: published
+  value: '2010-12-24'
 - type: confirmed
   value: '2011-02-11'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Qualcomm UK Ltd
   role:
   - author
+revdate: '2010-12-24'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

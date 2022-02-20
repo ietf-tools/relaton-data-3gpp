@@ -16,6 +16,8 @@ docnumber: TR 23.800:Rel-12/0.1.0
 date:
 - type: created
   value: '2012-07-16'
+- type: published
+  value: '2012-07-16'
 - type: confirmed
   value: '2013-03-08'
 contributor:
@@ -46,13 +48,14 @@ contributor:
         - Marvell Semiconductor
   role:
   - author
+revdate: '2012-07-16'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

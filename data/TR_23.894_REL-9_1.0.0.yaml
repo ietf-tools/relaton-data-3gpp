@@ -17,6 +17,8 @@ docnumber: TR 23.894:Rel-9/1.0.0
 date:
 - type: created
   value: '2009-03-17'
+- type: published
+  value: '2009-03-17'
 - type: confirmed
   value: '2009-12-15'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - TELECOM ITALIA S.p.A.
   role:
   - author
+revdate: '2009-03-17'
 biblionote:
 - content: 'SP-46: Timed out of Rel-9.'
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

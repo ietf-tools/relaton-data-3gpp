@@ -16,6 +16,8 @@ docnumber: TR 22.885:Rel-14/1.0.0
 date:
 - type: created
   value: '2015-09-24'
+- type: published
+  value: '2015-09-24'
 - type: confirmed
   value: '2017-03-31'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - LG Electronics Inc.
   role:
   - author
+revdate: '2015-09-24'
 biblionote:
 - content: SP-150545
   type: comment
@@ -55,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

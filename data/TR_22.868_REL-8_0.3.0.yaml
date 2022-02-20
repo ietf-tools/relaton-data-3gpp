@@ -16,6 +16,8 @@ docnumber: TR 22.868:Rel-8/0.3.0
 date:
 - type: created
   value: '2006-03-24'
+- type: published
+  value: '2006-03-24'
 - type: confirmed
   value: '2009-02-06'
 contributor:
@@ -46,6 +48,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2006-03-24'
 biblionote:
 - content: 'SP-34: anticipate approval at SP-35.'
   type: remark
@@ -57,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

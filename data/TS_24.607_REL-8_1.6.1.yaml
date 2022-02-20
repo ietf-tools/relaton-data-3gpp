@@ -18,6 +18,8 @@ docnumber: TS 24.607:Rel-8/1.6.1
 date:
 - type: created
   value: '2008-06-06'
+- type: published
+  value: '2008-06-06'
 - type: confirmed
   value: '2008-04-30'
 contributor:
@@ -48,6 +50,7 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2008-06-06'
 biblionote:
 - content: CP-080328 for approval
   type: comment
@@ -60,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TS
 editorialgroup:
 - name: C1

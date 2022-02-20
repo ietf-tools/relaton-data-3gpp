@@ -16,6 +16,8 @@ docnumber: TR 22.802:Rel-13/0.4.0
 date:
 - type: created
   value: '2014-08-29'
+- type: published
+  value: '2014-08-29'
 contributor:
 - organization:
     name:
@@ -44,6 +46,7 @@ contributor:
         - GIESECKE & DEVRIENT GmbH
   role:
   - author
+revdate: '2014-08-29'
 biblionote:
 - content: S1-143382
   type: comment
@@ -56,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S1

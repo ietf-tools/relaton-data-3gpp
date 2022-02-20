@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TR 30.504:Rel-4/1.4.0
+date:
+- type: published
+  value: '1999-10-13'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - MOTOROLA JAPAN LTD
   role:
   - author
+revdate: '1999-10-13'
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.  RP-20: stopped'
   type: remark
@@ -53,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: R4

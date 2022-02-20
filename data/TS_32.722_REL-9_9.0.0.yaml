@@ -17,6 +17,8 @@ docnumber: TS 32.722:Rel-9/9.0.0
 date:
 - type: created
   value: '2009-12-31'
+- type: published
+  value: '2009-12-31'
 - type: confirmed
   value: '2008-12-21'
 contributor:
@@ -47,6 +49,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2009-12-31'
 biblionote:
 - content: Upgraded from previous Release without technical change
   type: remark
@@ -61,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: S5

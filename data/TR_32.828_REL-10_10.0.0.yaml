@@ -18,6 +18,8 @@ docnumber: TR 32.828:Rel-10/10.0.0
 date:
 - type: created
   value: '2011-03-29'
+- type: published
+  value: '2011-03-29'
 - type: confirmed
   value: '2011-03-29'
 contributor:
@@ -48,13 +50,14 @@ contributor:
         - Nokia Networks
   role:
   - author
+revdate: '2011-03-29'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TR
 editorialgroup:
 - name: S5

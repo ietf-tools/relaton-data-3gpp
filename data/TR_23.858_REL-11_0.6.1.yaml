@@ -16,6 +16,8 @@ docnumber: TR 23.858:Rel-11/0.6.1
 date:
 - type: created
   value: '2012-08-10'
+- type: published
+  value: '2012-08-10'
 contributor:
 - organization:
     name:
@@ -30,6 +32,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+revdate: '2012-08-10'
 biblionote:
 - content: corrects history box
   type: comment
@@ -42,7 +45,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-19'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -13,6 +13,9 @@ docid:
   type: 3GPP
   primary: true
 docnumber: TS 41.103:Rel-5/1.2.0
+date:
+- type: published
+  value: '2002-03-19'
 contributor:
 - organization:
     name:
@@ -41,6 +44,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2002-03-19'
 biblionote:
 - content: " SP-20: Superseded by 41.101 Rel-5."
   type: remark
@@ -55,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-16'
+fetched: '2022-02-20'
 doctype: TS
 editorialgroup:
 - name: SP
