@@ -4,12 +4,18 @@ title:
 - type: main
   content: Study on charging aspect of 5G LAN-type Services
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.822/28822-110.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 28.822:Rel-17/1.1.0
   type: 3GPP
   primary: true
 docnumber: TR 28.822:Rel-17/1.1.0
+date:
+- type: published
+  value: '2022-02-18'
 contributor:
 - organization:
     name:
@@ -38,13 +44,17 @@ contributor:
         - Huawei Tech.(UK) Co.. Ltd
   role:
   - author
+revdate: '2022-02-18'
+biblionote:
+- content: S5-221644
+  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-20'
+fetched: '2022-02-21'
 doctype: TR
 editorialgroup:
 - name: S5
