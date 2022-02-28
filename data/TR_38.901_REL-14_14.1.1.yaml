@@ -35,7 +35,7 @@ contributor:
 - person:
     name:
       completename:
-        content: NAM, Young-han
+        content: JANG, Youngrok
         language:
         - en
         script:
@@ -43,7 +43,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung Research America
+        - Samsung Electronics Co., Ltd
   role:
   - author
 revdate: '2017-07-05'
@@ -60,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-21'
+fetched: '2022-02-28'
 doctype: TR
 editorialgroup:
 - name: R1
