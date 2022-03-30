@@ -2,7 +2,7 @@
 id: 3GPPTR23.700-90-Rel-18/0.2.0
 title:
 - type: main
-  content: Study of interconnection and migration aspects for railways
+  content: Study on interconnection and migration aspects for railways
   format: text/plain
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/23_series/23.700-90/23700-90-020.zip
@@ -51,7 +51,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TR
 editorialgroup:
 - name: S6

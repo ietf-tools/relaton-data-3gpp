@@ -29,6 +29,20 @@ contributor:
       postcode: '06921'
   role:
   - author
+- person:
+    name:
+      completename:
+        content: SHEN, Zukang
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Lenovo (Beijing) Ltd
+  role:
+  - author
 biblionote:
 - content: R1-121835
   type: comment
@@ -38,7 +52,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TR
 editorialgroup:
 - name: R1

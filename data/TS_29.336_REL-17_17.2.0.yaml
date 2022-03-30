@@ -57,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TS
 editorialgroup:
 - name: C4
@@ -69,9 +69,9 @@ release:
   defunct: false
   wpm_code_2g: GSM_Release_17
   wpm_code_3g: 3G4G5G_Rel-17
-  freeze_meeting: SA#95
+  freeze_meeting: SA#95-e
   freeze_stage1_meeting: SA#86
   freeze_stage2_meeting: SA#92-e
   freeze_stage3_meeting: SA#95
   project_start: '2018-06-15'
-  project_end: '2022-06-10'
+  project_end: '2022-03-25'

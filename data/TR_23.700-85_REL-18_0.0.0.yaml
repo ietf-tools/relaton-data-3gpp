@@ -4,12 +4,18 @@ title:
 - type: main
   content: Study on enhancement of 5G UE Policy
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-85/23700-85-000.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 23.700-85:Rel-18/0.0.0
   type: 3GPP
   primary: true
 docnumber: TR 23.700-85:Rel-18/0.0.0
+date:
+- type: published
+  value: '2022-03-04'
 contributor:
 - organization:
     name:
@@ -38,8 +44,9 @@ contributor:
         - Intel Corporation (UK) Ltd
   role:
   - author
+revdate: '2022-03-04'
 biblionote:
-- content: Initial version allocated for pCRs at SA2#149-e
+- content: 'S2-2200665: Initial Skeleton'
   type: comment
 language:
 - en
@@ -47,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TR
 editorialgroup:
 - name: S2

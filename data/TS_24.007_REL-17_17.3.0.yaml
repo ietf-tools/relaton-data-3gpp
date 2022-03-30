@@ -1,0 +1,86 @@
+---
+id: 3GPPTS24.007-Rel-17/17.3.0
+title:
+- type: main
+  content: Mobile radio interface signalling layer 3; General Aspects
+  format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/24_series/24.007/24007-h30.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 24.007:Rel-17/17.3.0
+  type: 3GPP
+  primary: true
+docnumber: TS 24.007:Rel-17/17.3.0
+date:
+- type: published
+  value: '2022-03-26'
+- type: confirmed
+  value: '2001-10-08'
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+- person:
+    name:
+      completename:
+        content: CHIN, ChenHo
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Guangdong OPPO Mobile Telecom.
+  role:
+  - author
+revdate: '2022-03-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the principal architecture of Layer 3 and
+    its sub-layers on the GSM Um interface, i.e. the interface between mobile station
+    (MS) and network; for the CM sub-layer, the description is restricted to paradigmatic
+    examples, CC, supplementary services, and short message services for non-general
+    packet radio service (GPRS) services. It also defines the basic message format
+    and error handling applied by the Layer 3 protocols.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-03-30'
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+- name: N1
+  type: former
+radiotechnology: 2G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'

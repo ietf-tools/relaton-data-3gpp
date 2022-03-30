@@ -5,12 +5,18 @@ title:
   content: Security Assurance Specification (SCAS) threats and critical assets in
     3GPP virtualized network product classes
   format: text/plain
+link:
+- content: https://ftp.3gpp.org//Specs/archive/33_series/33.927/33927-010.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 33.927:Rel-18/0.1.0
   type: 3GPP
   primary: true
 docnumber: TR 33.927:Rel-18/0.1.0
+date:
+- type: published
+  value: '2022-03-04'
 contributor:
 - organization:
     name:
@@ -39,6 +45,7 @@ contributor:
         - China Mobile Com. Corporation
   role:
   - author
+revdate: '2022-03-04'
 language:
 - en
 script:
@@ -48,7 +55,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TR
 editorialgroup:
 - name: S3

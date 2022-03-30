@@ -34,6 +34,20 @@ contributor:
       postcode: '06921'
   role:
   - author
+- person:
+    name:
+      completename:
+        content: XU, Yang
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - China Unicom
+  role:
+  - author
 revdate: '2014-12-01'
 language:
 - en
@@ -41,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-02-28'
+fetched: '2022-03-30'
 doctype: TR
 editorialgroup:
 - name: S2

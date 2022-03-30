@@ -1,0 +1,67 @@
+---
+id: 3GPPTS37.481-Rel-17/1.0.0
+title:
+- type: main
+  content: E1 layer 1
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 37.481:Rel-17/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TS 37.481:Rel-17/1.0.0
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+- person:
+    name:
+      completename:
+        content: HAN, Jaemin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Intel Technology India Pvt Ltd
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-03-30'
+doctype: TS
+editorialgroup:
+- name: R3
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'
