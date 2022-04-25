@@ -4,12 +4,18 @@ title:
 - type: main
   content: NR support for high speed train scenario in frequency range 2 (FR2)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.854/38854-101.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.854:Rel-17/1.0.1
   type: 3GPP
   primary: true
 docnumber: TR 38.854:Rel-17/1.0.1
+date:
+- type: published
+  value: '2022-04-01'
 contributor:
 - organization:
     name:
@@ -38,13 +44,14 @@ contributor:
         - Nokia Corporation
   role:
   - author
+revdate: '2022-04-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -4,6 +4,9 @@ title:
 - type: main
   content: 'UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.419/25419-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 25.419:Rel-17/17.0.0
@@ -11,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 25.419:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-04-05'
 - type: confirmed
   value: '2006-03-24'
 contributor:
@@ -41,6 +46,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2022-04-05'
 language:
 - en
 script:
@@ -54,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R3

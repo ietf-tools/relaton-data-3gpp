@@ -4,12 +4,18 @@ title:
 - type: main
   content: Support of 5G glass-type Augmented Reality / Mixed Reality (AR/MR) devices
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.998/26998-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 26.998:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TR 26.998:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-03-31'
 contributor:
 - organization:
     name:
@@ -38,6 +44,7 @@ contributor:
         - Samsung R&D Institute UK
   role:
   - author
+revdate: '2022-03-31'
 language:
 - en
 script:
@@ -47,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S4

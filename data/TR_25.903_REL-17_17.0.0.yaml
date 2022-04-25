@@ -4,6 +4,9 @@ title:
 - type: main
   content: Continuous connectivity for packet data users
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/25_series/25.903/25903-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 25.903:Rel-17/17.0.0
@@ -11,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 25.903:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-04-08'
 - type: confirmed
   value: '2006-04-26'
 contributor:
@@ -41,6 +46,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2022-04-08'
 language:
 - en
 script:
@@ -50,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: RP

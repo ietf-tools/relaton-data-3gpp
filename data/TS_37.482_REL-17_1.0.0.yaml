@@ -4,12 +4,18 @@ title:
 - type: main
   content: E1 signalling transport
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.482/37482-100.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.482:Rel-17/1.0.0
   type: 3GPP
   primary: true
 docnumber: TS 37.482:Rel-17/1.0.0
+date:
+- type: published
+  value: '2022-04-06'
 contributor:
 - organization:
     name:
@@ -38,6 +44,7 @@ contributor:
         - Huawei Technologies France
   role:
   - author
+revdate: '2022-04-06'
 language:
 - en
 script:
@@ -47,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R3

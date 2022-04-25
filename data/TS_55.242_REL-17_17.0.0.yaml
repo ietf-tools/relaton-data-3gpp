@@ -5,6 +5,9 @@ title:
   content: Specification of the GIA4 integrity algorithm for General Packet Radio
     Service (GPRS); Implementers' test data
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/55_series/55.242/55242-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 55.242:Rel-17/17.0.0
@@ -12,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 55.242:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-03-30'
 - type: confirmed
   value: '2016-10-10'
 contributor:
@@ -42,6 +47,7 @@ contributor:
         - VODAFONE Group Plc
   role:
   - author
+revdate: '2022-03-30'
 language:
 - en
 script:
@@ -51,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: S3

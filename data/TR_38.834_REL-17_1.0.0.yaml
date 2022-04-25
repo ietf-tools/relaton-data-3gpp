@@ -5,12 +5,18 @@ title:
   content: Measurements of User Equipment (UE) Over-the-Air (OTA) performance for
     NR FR1; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.834/38834-100.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.834:Rel-17/1.0.0
   type: 3GPP
   primary: true
 docnumber: TR 38.834:Rel-17/1.0.0
+date:
+- type: published
+  value: '2022-04-01'
 contributor:
 - organization:
     name:
@@ -28,7 +34,7 @@ contributor:
 - person:
     name:
       completename:
-        content: WANG, Ruixin
+        content: LIU, Qifei
         language:
         - en
         script:
@@ -36,16 +42,17 @@ contributor:
     affiliation:
     - organization:
         name:
-        - vivo Communication Technology
+        - OPPO
   role:
   - author
+revdate: '2022-04-01'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

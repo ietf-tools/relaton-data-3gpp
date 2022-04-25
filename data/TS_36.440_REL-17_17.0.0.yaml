@@ -6,6 +6,9 @@ title:
     and principles for interfaces supporting Multimedia Broadcast Multicast Service
     (MBMS) within E-UTRAN
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.440/36440-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 36.440:Rel-17/17.0.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 36.440:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-04-05'
 - type: confirmed
   value: '2011-06-24'
 contributor:
@@ -43,6 +48,7 @@ contributor:
         - Alcatel-Lucent
   role:
   - author
+revdate: '2022-04-05'
 language:
 - en
 script:
@@ -52,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R3

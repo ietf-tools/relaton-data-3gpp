@@ -4,12 +4,18 @@ title:
 - type: main
   content: E1 Application Protocol (E1AP)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.483/37483-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 37.483:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TS 37.483:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-04-06'
 contributor:
 - organization:
     name:
@@ -38,6 +44,10 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2022-04-06'
+biblionote:
+- content: Successor to TS 38.463
+  type: comment
 language:
 - en
 script:
@@ -47,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R3

@@ -30,6 +30,20 @@ contributor:
       postcode: '06921'
   role:
   - author
+- person:
+    name:
+      completename:
+        content: WIEHE, Ulrich
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Nokia Shanghai Bell
+  role:
+  - author
 revdate: '2022-03-22'
 language:
 - en
@@ -40,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: C4

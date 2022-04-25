@@ -4,12 +4,18 @@ title:
 - type: main
   content: Study on 5G media streaming extensions
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-200.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 26.804:Rel-17/2.0.0
   type: 3GPP
   primary: true
 docnumber: TR 26.804:Rel-17/2.0.0
+date:
+- type: published
+  value: '2022-03-31'
 contributor:
 - organization:
     name:
@@ -38,13 +44,14 @@ contributor:
         - Ericsson LM
   role:
   - author
+revdate: '2022-03-31'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S4

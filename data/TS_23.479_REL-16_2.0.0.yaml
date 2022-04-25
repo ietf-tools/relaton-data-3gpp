@@ -2,8 +2,8 @@
 id: 3GPPTS23.479-Rel-16/2.0.0
 title:
 - type: main
-  content: User Equipment (UE) Multimedia Broadcast / Multicast Service (MBMS) Application
-    Programming Interfaces (APIs) for Mission Critical Services (MCX)
+  content: Technical Specification Group Services and System Aspects; UE MBMS APIs
+    for Mission Critical Services;
   format: text/plain
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.479/23479-200.zip
@@ -55,7 +55,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: S6

@@ -5,12 +5,18 @@ title:
   content: High power UE for NR inter-band Carrier Aggregation with 2 bands downlink
     and x bands uplink (x =1,2)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.841/38841-060.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.841:Rel-17/0.6.0
   type: 3GPP
   primary: true
 docnumber: TR 38.841:Rel-17/0.6.0
+date:
+- type: published
+  value: '2022-04-02'
 contributor:
 - organization:
     name:
@@ -39,13 +45,14 @@ contributor:
         - China Telecom Corporation Ltd.
   role:
   - author
+revdate: '2022-04-02'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

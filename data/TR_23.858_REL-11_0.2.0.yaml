@@ -32,20 +32,6 @@ contributor:
       postcode: '06921'
   role:
   - author
-- person:
-    name:
-      completename:
-        content: ZONG, Zaifeng
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - ZTE Corporation
-  role:
-  - author
 revdate: '2012-03-14'
 biblionote:
 - content: S1-113437. Based on v0.1.0 not on v0.1.1, and still shows version 0.1.0
@@ -60,7 +46,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S2

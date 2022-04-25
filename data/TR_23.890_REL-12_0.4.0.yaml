@@ -35,20 +35,6 @@ contributor:
       postcode: '06921'
   role:
   - author
-- person:
-    name:
-      completename:
-        content: BARRETT, Stephen
-        language:
-        - en
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - BlackBerry UK Limited
-  role:
-  - author
 revdate: '2013-05-15'
 language:
 - en
@@ -56,7 +42,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S2

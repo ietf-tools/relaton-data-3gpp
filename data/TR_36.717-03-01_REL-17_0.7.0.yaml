@@ -4,12 +4,18 @@ title:
 - type: main
   content: Rel-17 LTE inter-band Carrier Aggregation for 3 bands DL with 1 band UL
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-03-01/36717-03-01-070.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 36.717-03-01:Rel-17/0.7.0
   type: 3GPP
   primary: true
 docnumber: TR 36.717-03-01:Rel-17/0.7.0
+date:
+- type: published
+  value: '2022-04-02'
 contributor:
 - organization:
     name:
@@ -38,13 +44,14 @@ contributor:
         - HiSilicon Technologies Co. Ltd
   role:
   - author
+revdate: '2022-04-02'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

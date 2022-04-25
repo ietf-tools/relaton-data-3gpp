@@ -34,7 +34,7 @@ contributor:
 - person:
     name:
       completename:
-        content: WANG, Ruixin
+        content: LIU, Qifei
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - vivo Communication Technology
+        - OPPO
   role:
   - author
 revdate: '2021-11-23'
@@ -52,7 +52,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

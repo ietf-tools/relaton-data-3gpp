@@ -33,7 +33,7 @@ contributor:
 - person:
     name:
       completename:
-        content: SONG, Yuexia
+        content: SHAN, Huiping
         language:
         - en
         script:
@@ -51,7 +51,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -41,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Beijing OPPO Com. corp., ltd
+        - OPPO Beijing
   role:
   - author
 revdate: '2022-01-27'
@@ -54,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: C1

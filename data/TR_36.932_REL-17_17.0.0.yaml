@@ -4,6 +4,9 @@ title:
 - type: main
   content: Scenarios and requirements for small cell enhancements for E-UTRA and E-UTRAN
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.932/36932-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 36.932:Rel-17/17.0.0
@@ -11,6 +14,8 @@ docid:
   primary: true
 docnumber: TR 36.932:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-04-06'
 - type: confirmed
   value: '2013-03-18'
 contributor:
@@ -41,6 +46,7 @@ contributor:
         - CATT
   role:
   - author
+revdate: '2022-04-06'
 language:
 - en
 script:
@@ -50,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: RP

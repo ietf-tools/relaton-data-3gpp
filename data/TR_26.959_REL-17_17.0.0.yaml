@@ -4,12 +4,18 @@ title:
 - type: main
   content: Study on enhanced Voice over LTE (VoLTE) performance
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.959/26959-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 26.959:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TR 26.959:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-04-07'
 contributor:
 - organization:
     name:
@@ -27,7 +33,7 @@ contributor:
 - person:
     name:
       completename:
-        content: KOO, Eng Wei
+        content: ATTI, Venkatraman
         language:
         - en
         script:
@@ -35,9 +41,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ViaviSolutions Deutsch. GmbH
+        - Qualcomm UK Ltd
   role:
   - author
+revdate: '2022-04-07'
 language:
 - en
 script:
@@ -47,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S4

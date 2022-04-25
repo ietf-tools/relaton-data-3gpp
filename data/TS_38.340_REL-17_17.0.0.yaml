@@ -4,12 +4,18 @@ title:
 - type: main
   content: NR; Backhaul Adaptation Protocol (BAP) specification
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.340/38340-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.340:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TS 38.340:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-04-14'
 contributor:
 - organization:
     name:
@@ -38,6 +44,7 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2022-04-14'
 language:
 - en
 script:
@@ -47,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R2

@@ -4,12 +4,18 @@ title:
 - type: main
   content: Service capability exposure functionality over Nt reference point
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.154/29154-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 29.154:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TS 29.154:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-03-29'
 contributor:
 - organization:
     name:
@@ -38,6 +44,10 @@ contributor:
         - HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
+revdate: '2022-03-29'
+biblionote:
+- content: Automatic upgrade from previous Release
+  type: comment
 language:
 - en
 script:
@@ -47,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: C3

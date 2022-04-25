@@ -30,6 +30,20 @@ contributor:
       postcode: '06921'
   role:
   - author
+- person:
+    name:
+      completename:
+        content: PETERSEN, Robert
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson LM
+  role:
+  - author
 revdate: '2022-03-24'
 biblionote:
 - content: Skeleton
@@ -40,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: S5

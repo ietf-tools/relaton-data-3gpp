@@ -45,11 +45,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+radiotechnology: 5G
 release:
   version2g: i
   version3g: i

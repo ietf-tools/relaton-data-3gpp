@@ -4,6 +4,9 @@ title:
 - type: main
   content: Multiple Subscriber Profile (MSP) (Phase 2); Stage 2
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.097/23097-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 23.097:Rel-17/17.0.0
@@ -11,6 +14,8 @@ docid:
   primary: true
 docnumber: TS 23.097:Rel-17/17.0.0
 date:
+- type: published
+  value: '2022-04-01'
 - type: confirmed
   value: '2019-01-02'
 contributor:
@@ -41,6 +46,7 @@ contributor:
         - Vodafone GmbH
   role:
   - author
+revdate: '2022-04-01'
 language:
 - en
 script:
@@ -50,7 +56,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: C4

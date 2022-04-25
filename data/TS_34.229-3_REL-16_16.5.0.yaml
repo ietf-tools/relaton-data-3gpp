@@ -6,6 +6,9 @@ title:
     Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
     (UE) conformance specification; Part 3: Abstract test suite (ATS)'
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-g50.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 34.229-3:Rel-16/16.5.0
@@ -13,6 +16,8 @@ docid:
   primary: true
 docnumber: TS 34.229-3:Rel-16/16.5.0
 date:
+- type: published
+  value: '2022-04-07'
 - type: confirmed
   value: '2010-04-11'
 contributor:
@@ -43,6 +48,7 @@ contributor:
         - ETSI
   role:
   - author
+revdate: '2022-04-07'
 language:
 - en
 script:
@@ -52,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-03-30'
+fetched: '2022-04-25'
 doctype: TS
 editorialgroup:
 - name: R5
