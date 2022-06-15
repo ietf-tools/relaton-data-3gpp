@@ -35,10 +35,11 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
-        content: CATMUR, Richard
+        content: CARDALDA GARCIA, Adrian
         language:
         - en
         script:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Spirent Communications
+        - ROHDE & SCHWARZ
   role:
   - author
 revdate: '2014-12-18'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TS
 editorialgroup:
 - name: R5

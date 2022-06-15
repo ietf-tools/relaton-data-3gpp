@@ -24,6 +24,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TS
 editorialgroup:
 - name: S1

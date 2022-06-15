@@ -34,6 +34,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Corporation
+        - ZTE Corporation.
   role:
   - author
 revdate: '2015-04-24'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: S2

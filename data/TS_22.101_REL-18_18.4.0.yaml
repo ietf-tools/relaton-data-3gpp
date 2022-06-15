@@ -1,0 +1,76 @@
+---
+id: 3GPPTS22.101-Rel-18/18.4.0
+title:
+- type: main
+  content: Service aspects; Service principles
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 22.101:Rel-18/18.4.0
+  type: 3GPP
+  primary: true
+docnumber: TS 22.101:Rel-18/18.4.0
+date:
+- type: confirmed
+  value: '2006-06-20'
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: DEOL, Amar
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the service principles of the UMTS.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-06-15'
+doctype: TS
+editorialgroup:
+- name: S1
+  type: prime
+- name: S1
+  type: former
+radiotechnology: 3G
+common-ims-spec: true
+release:
+  version2g: i
+  version3g: i
+  defunct: false
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G5G_Rel-18
+  freeze_meeting: SA#102
+  freeze_stage1_meeting: SA#94-e
+  freeze_stage2_meeting: SA#99
+  freeze_stage3_meeting: SA#102
+  project_start: '2019-09-16'

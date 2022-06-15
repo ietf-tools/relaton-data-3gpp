@@ -30,10 +30,11 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
-        content: LIM, Suhwan
+        content: LEE, Sang-wook
         language:
         - en
         script:
@@ -41,7 +42,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - LG Electronics Deutschland
   role:
   - author
 revdate: '2021-06-11'
@@ -51,7 +52,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: R4

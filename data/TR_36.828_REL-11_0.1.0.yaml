@@ -29,6 +29,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 biblionote:
 - content: R1-121835
   type: comment
@@ -38,7 +39,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -30,6 +30,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 revdate: '1999-11-11'
 biblionote:
 - content: "#30: 1.0.0"
@@ -43,7 +44,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TS
 editorialgroup:
 - name: "-"

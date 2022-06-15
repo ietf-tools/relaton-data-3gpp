@@ -1,0 +1,81 @@
+---
+id: 3GPPTS25.331-Rel-17/17.1.0
+title:
+- type: main
+  content: Radio Resource Control (RRC); Protocol specification
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TS 25.331:Rel-17/17.1.0
+  type: 3GPP
+  primary: true
+docnumber: TS 25.331:Rel-17/17.1.0
+date:
+- type: confirmed
+  value: '2006-04-04'
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: SHREEVASTAV, Ritesh
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Ericsson India Private Limited
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification describes the RRC protocol for the radio system. The
+    scope of this specification contains also the information to be transported in
+    a transparent container between source RNC and target RNC in connection to SRNC
+    relocation.
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-06-15'
+doctype: TS
+editorialgroup:
+- name: RP
+  type: prime
+- name: R2
+  type: other
+- name: R2
+  type: former
+radiotechnology: 3G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'

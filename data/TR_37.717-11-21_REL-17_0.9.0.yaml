@@ -5,12 +5,18 @@ title:
   content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2,3,4) LTE inter-band CA
     (xDL/1UL) and 2 bands NR inter-band CA (2DL/1UL)
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.717-11-21/37717-11-21-090.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 37.717-11-21:Rel-17/0.9.0
   type: 3GPP
   primary: true
 docnumber: TR 37.717-11-21:Rel-17/0.9.0
+date:
+- type: published
+  value: '2022-06-06'
 contributor:
 - organization:
     name:
@@ -25,10 +31,11 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
-        content: LIM, Suhwan
+        content: LEE, Sang-wook
         language:
         - en
         script:
@@ -36,16 +43,17 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - LG Electronics Deutschland
   role:
   - author
+revdate: '2022-06-06'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: R4

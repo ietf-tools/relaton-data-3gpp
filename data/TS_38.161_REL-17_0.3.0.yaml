@@ -6,12 +6,18 @@ title:
     Sensitivity) requirements; Range 1 Standalone and Range 1 Interworking operation
     with other radios
   format: text/plain
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.161/38161-030.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 38.161:Rel-17/0.3.0
   type: 3GPP
   primary: true
 docnumber: TS 38.161:Rel-17/0.3.0
+date:
+- type: published
+  value: '2022-06-07'
 contributor:
 - organization:
     name:
@@ -26,6 +32,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
@@ -40,6 +47,7 @@ contributor:
         - vivo Communication Technology
   role:
   - author
+revdate: '2022-06-07'
 language:
 - en
 script:
@@ -49,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TS
 editorialgroup:
 - name: R4

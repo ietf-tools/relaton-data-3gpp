@@ -32,6 +32,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 revdate: '2011-08-19'
 language:
 - en
@@ -42,7 +43,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: S2

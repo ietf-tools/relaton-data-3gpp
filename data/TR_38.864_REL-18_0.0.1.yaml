@@ -4,12 +4,18 @@ title:
 - type: main
   content: Study on network energy savings for NR
   format: text/plain
+link:
+- content: https://ftp.3gpp.org//Specs/archive/38_series/38.864/38864-001.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.864:Rel-18/0.0.1
   type: 3GPP
   primary: true
 docnumber: TR 38.864:Rel-18/0.0.1
+date:
+- type: published
+  value: '2022-04-29'
 contributor:
 - organization:
     name:
@@ -24,6 +30,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 - person:
     name:
       completename:
@@ -38,13 +45,14 @@ contributor:
         - HUAWEI Technologies Japan K.K.
   role:
   - author
+revdate: '2022-04-29'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: R1

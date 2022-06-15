@@ -35,6 +35,7 @@ contributor:
       postcode: '06921'
   role:
   - author
+  - publisher
 revdate: '2013-09-12'
 biblionote:
 - content: SP-130389
@@ -45,7 +46,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-04-25'
+fetched: '2022-06-15'
 doctype: TR
 editorialgroup:
 - name: S2

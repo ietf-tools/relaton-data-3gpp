@@ -1,0 +1,60 @@
+---
+id: 3GPPTR22.856-Rel-19/0.1.0
+title:
+- type: main
+  content: Study on Localized Mobile Metaverse Services
+  format: text/plain
+type: standard
+docid:
+- id: 3GPP TR 22.856:Rel-19/0.1.0
+  type: 3GPP
+  primary: true
+docnumber: TR 22.856:Rel-19/0.1.0
+contributor:
+- organization:
+    name:
+    - 3rd Generation Partnership Project
+    abbreviation: 3GPP
+    contact:
+    - street:
+      - c/o ETSI 650, route des Lucioles
+      - 3GPP Mobile Competence Centre
+      city: Sophia Antipolis Cedex
+      country: France
+      postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: GUTTMAN, Erik
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - Samsung R&D Institute UK
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-06-15'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: j
+  version3g: j
+  defunct: false
+  wpm_code_2g: GSM_Release_19
+  wpm_code_3g: 3G4G5G_Rel-19
+  project_start: '2021-06-18'
