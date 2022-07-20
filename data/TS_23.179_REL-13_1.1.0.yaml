@@ -27,12 +27,13 @@ contributor:
     - 3rd Generation Partnership Project
     abbreviation: 3GPP
     contact:
-    - street:
-      - c/o ETSI 650, route des Lucioles
-      - 3GPP Mobile Competence Centre
-      city: Sophia Antipolis Cedex
-      country: France
-      postcode: '06921'
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
   role:
   - author
   - publisher
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-06-15'
+fetched: '2022-07-20'
 doctype: TS
 editorialgroup:
 - name: S6
