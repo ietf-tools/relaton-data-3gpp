@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR36.714-00-02-Rel-14/0.4.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced intra-band
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced intra-band
     Carrier Aggregation (CA) Rel-14 for x Down Link (DL) / y Up Link (UL)  with x=3,
     4, 5
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 36.714-00-02:Rel-14/0.4.0
@@ -18,8 +18,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -42,7 +43,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - content: LG Electronics Inc.
   role:
   - author
 language:
@@ -51,7 +52,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

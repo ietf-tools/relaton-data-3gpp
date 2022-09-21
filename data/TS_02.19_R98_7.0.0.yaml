@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS02.19-R98/7.0.0
 title:
-- type: main
-  content: Subscriber Identity Module Application Programming Interface (SIM API);
+- content: Subscriber Identity Module Application Programming Interface (SIM API);
     Stage 1
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.19/0219-700.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Oracle Corporation
+        - content: Oracle Corporation
   role:
   - author
 revdate: '1998-10-16'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6

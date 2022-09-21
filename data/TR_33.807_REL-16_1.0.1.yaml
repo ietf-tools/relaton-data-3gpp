@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.807-Rel-16/1.0.1
 title:
-- type: main
-  content: 'Study on the security of the wireless and wireline convergence for the
+- content: 'Study on the security of the wireless and wireline convergence for the
     5G system architecture  '
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/33_series/33.807/33807-101.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 revdate: '2019-09-17'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

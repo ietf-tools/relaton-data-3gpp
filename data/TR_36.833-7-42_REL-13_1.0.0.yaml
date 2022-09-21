@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.833-7-42-Rel-13/1.0.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
     contiguous Carrier Aggregation (CA) in Band 42 for 4 downlinks (4DL)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.833-7-42/36833-7-42-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATT
+        - content: CATT
   role:
   - author
 revdate: '2015-12-09'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

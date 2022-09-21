@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.935-Rel-16/1.0.0
 title:
-- type: main
-  content: Study on detailed Long Term Key Update Process (LTKUP) detailed solutions
+- content: Study on detailed Long Term Key Update Process (LTKUP) detailed solutions
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/33_series/33.935/33935-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2020-06-15'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

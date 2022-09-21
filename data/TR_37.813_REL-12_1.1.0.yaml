@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR37.813-Rel-12/1.1.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
     LTE - High Rate Packet Data in 3GPP2 (HRPD) Inter-Radio-Access-Technology (RAT)
     self-configuring and self-optimizing network (SON) use cases and solutions
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.813/37813-110.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Telecommunications
+        - content: China Telecommunications
   role:
   - author
 revdate: '2013-02-06'
@@ -62,7 +63,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

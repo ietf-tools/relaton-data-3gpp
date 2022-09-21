@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.886-Rel-16/0.6.0
 title:
-- type: main
-  content: V2X Services based on NR; User Equipment (UE) radio transmission and reception
+- content: V2X Services based on NR; User Equipment (UE) radio transmission and reception
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/38_series/38.886/38886-060.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - content: LG Electronics Inc.
   role:
   - author
 revdate: '2020-04-10'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

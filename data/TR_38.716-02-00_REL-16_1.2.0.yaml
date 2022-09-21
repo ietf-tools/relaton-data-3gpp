@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.716-02-00-Rel-16/1.2.0
 title:
-- type: main
-  content: NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16
+- content: NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16
     for 2 bands Down Link (DL) / x bands Up Link (UL) (x = 1, 2)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-02-00/38716-02-00-120.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Wistron Telecom AB
+        - content: ZTE Wistron Telecom AB
   role:
   - author
 revdate: '2020-06-22'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.808-Rel-7/0.1.0
 title:
-- type: main
-  content: Supporting Globally Routable User Agent URI in IMS; Report and conclusions
+- content: Supporting Globally Routable User Agent URI in IMS; Report and conclusions
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 23.808:Rel-7/0.1.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - BlackBerry UK Limited
+        - content: BlackBerry UK Limited
   role:
   - author
 language:
@@ -52,7 +53,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

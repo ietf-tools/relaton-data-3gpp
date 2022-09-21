@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS29.250-Rel-17/17.0.0
 title:
-- type: main
-  content: Nu reference point between SCEF and PFDF for sponsored data connectivity
+- content: Nu reference point between SCEF and PFDF for sponsored data connectivity
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/29_series/29.250/29250-h00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HuaWei Technologies Co., Ltd
+        - content: HuaWei Technologies Co., Ltd
   role:
   - author
 revdate: '2022-03-29'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C3

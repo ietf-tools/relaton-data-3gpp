@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS33.200-Rel-4/4.2.0
 title:
-- type: main
-  content: 3G Security; Network Domain Security (NDS); Mobile Application Part (MAP)
+- content: 3G Security; Network Domain Security (NDS); Mobile Application Part (MAP)
     application layer security
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.200/33200-420.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: Qualcomm CDMA Technologies
   role:
   - author
 revdate: '2002-01-07'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

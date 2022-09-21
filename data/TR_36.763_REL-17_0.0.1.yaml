@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.763-Rel-17/0.0.1
 title:
-- type: main
-  content: Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type
+- content: Study on Narrow-Band Internet of Things (NB-IoT) / enhanced Machine Type
     Communication (eMTC) support for Non-Terrestrial Networks (NTN)
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/36_series/36.763/36763-001.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - MediaTek Inc.
+        - content: MediaTek Inc.
   role:
   - author
 revdate: '2021-01-14'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS24.411-Rel-8/8.1.0
 title:
-- type: main
-  content: 'TISPAN; PSTN/ISDN simulation services: Anonymous Communication Rejection
+- content: 'TISPAN; PSTN/ISDN simulation services: Anonymous Communication Rejection
     (ACR) and Communication Barring (CB); Protocol specification'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.411/24411-810.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 revdate: '2008-06-06'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS28.309-Rel-16/16.0.0
 title:
-- type: main
-  content: Management of Quality of Experience (QoE) measurement collection Integration
+- content: Management of Quality of Experience (QoE) measurement collection Integration
     Reference Point (IRP); Solution Set (SS) definitions
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/28_series/28.309/28309-g00.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2020-09-25'
@@ -57,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

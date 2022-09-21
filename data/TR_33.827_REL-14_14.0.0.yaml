@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.827-Rel-14/14.0.0
 title:
-- type: main
-  content: Study on providing for Lawful Interception (LI) in the S8 Home Routeing
+- content: Study on providing for Lawful Interception (LI) in the S8 Home Routeing
     (S8HR) architecture for Voice over LTE (VoLTE)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.827/33827-e00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - SPRINT Corporation
+        - content: SPRINT Corporation
   role:
   - author
 revdate: '2016-10-03'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

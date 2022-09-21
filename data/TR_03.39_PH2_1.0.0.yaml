@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR03.39-Ph2/1.0.0
 title:
-- type: main
-  content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
+- content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
     for the Connection of Short Message Service Centers (SMSCs) to Short Message Entities
     (SMEs)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 03.39:Ph2/1.0.0
@@ -15,8 +15,9 @@ docnumber: TR 03.39:Ph2/1.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -39,7 +40,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 biblionote:
@@ -54,7 +55,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: T2

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.894-Rel-9/1.2.0
 title:
-- type: main
-  content: System enhancements for the use of IP Multimedia Subsystem (IMS)  services
+- content: System enhancements for the use of IP Multimedia Subsystem (IMS)  services
     in local breakout and optimal routeing of media
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.894/23894-120.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TELECOM ITALIA S.p.A.
+        - content: TELECOM ITALIA S.p.A.
   role:
   - author
 revdate: '2009-09-25'
@@ -64,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

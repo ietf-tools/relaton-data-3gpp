@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS32.745-Rel-7/7.0.0
 title:
-- type: main
-  content: Telecommunication management; Configuration Management (CM); Signalling
+- content: Telecommunication management; Configuration Management (CM); Signalling
     Transport Network (STN) interface Network Resource Model (NRM) Integration Reference
     Point (IRP); Bulk CM eXtensible Markup Language (XML) file format definition
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.745/32745-700.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2006-10-12'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

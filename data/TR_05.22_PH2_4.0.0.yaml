@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR05.22-Ph2/4.0.0
 title:
-- type: main
-  content: Radio link management in hierarchical networks
+- content: Radio link management in hierarchical networks
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.22/0522-400.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Deutsche Telekom AG
+        - content: Deutsche Telekom AG
   role:
   - author
 revdate: '1996-04-12'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G1

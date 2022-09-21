@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR26.862-Rel-17/0.5.0
 title:
-- type: main
-  content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT)
+- content: Immersive Teleconferencing and Telepresence for Remote Terminals (ITT4RT)
     Use Cases, Requirements and Potential Solutions
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 26.862:Rel-17/0.5.0
@@ -14,8 +14,9 @@ docnumber: TR 26.862:Rel-17/0.5.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TNO
+        - content: TNO
   role:
   - author
 language:
@@ -47,7 +48,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS26.235-Rel-4/4.1.0
 title:
-- type: main
-  content: Packet switched conversational multimedia applications; Default codecs
+- content: Packet switched conversational multimedia applications; Default codecs
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 26.235:Rel-4/4.1.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Meta Ireland
+        - content: Meta Ireland
   role:
   - author
 biblionote:
@@ -57,7 +58,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4

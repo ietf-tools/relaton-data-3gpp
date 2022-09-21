@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.825-Rel-8/0.0.1
 title:
-- type: main
-  content: Dual-cell High Speed Downlink Packet Access (HSDPA) operation
+- content: Dual-cell High Speed Downlink Packet Access (HSDPA) operation
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 25.825:Rel-8/0.0.1
@@ -13,8 +13,9 @@ docnumber: TR 25.825:Rel-8/0.0.1
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm UK Ltd
+        - content: Qualcomm UK Ltd
   role:
   - author
 biblionote:
@@ -52,7 +53,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

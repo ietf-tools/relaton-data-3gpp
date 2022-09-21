@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR45.926-Rel-11/1.2.1
 title:
-- type: main
-  content: Solutions for GSM/EDGE Base Transceiver Station (BTS) energy saving
+- content: Solutions for GSM/EDGE Base Transceiver Station (BTS) energy saving
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 45.926:Rel-11/1.2.1
@@ -13,8 +13,9 @@ docnumber: TR 45.926:Rel-11/1.2.1
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 biblionote:
@@ -52,7 +53,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

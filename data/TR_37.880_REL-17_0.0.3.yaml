@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.880-Rel-17/0.0.3
 title:
-- type: main
-  content: Study on high-power UE operation for fixed-wireless/vehicle-mounted use
+- content: Study on high-power UE operation for fixed-wireless/vehicle-mounted use
     cases in LTE bands 5 and 12 and NR band n71
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 37.880:Rel-17/0.0.3
@@ -14,8 +14,9 @@ docnumber: TR 37.880:Rel-17/0.0.3
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia France
+        - content: Nokia France
   role:
   - author
 language:
@@ -47,7 +48,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

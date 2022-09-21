@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.903-Rel-15/1.0.0
 title:
-- type: main
-  content: NR; Derivation of test tolerances and measurement uncertainty for User
+- content: NR; Derivation of test tolerances and measurement uncertainty for User
     Equipment (UE) conformance test cases
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.903/38903-100.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HuaWei Technologies Co., Ltd
+        - content: HuaWei Technologies Co., Ltd
   role:
   - author
 revdate: '2018-09-10'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5

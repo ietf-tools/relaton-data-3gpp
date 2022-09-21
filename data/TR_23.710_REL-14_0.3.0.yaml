@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.710-Rel-14/0.3.0
 title:
-- type: main
-  content: Study on improvement of awareness of user location change
+- content: Study on improvement of awareness of user location change
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.710/23710-030.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Unicom
+        - content: China Unicom
   role:
   - author
 revdate: '2016-02-14'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

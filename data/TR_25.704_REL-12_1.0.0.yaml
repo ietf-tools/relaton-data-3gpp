@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.704-Rel-12/1.0.0
 title:
-- type: main
-  content: Study on enhanced broadcast of system information
+- content: Study on enhanced broadcast of system information
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.704/25704-100.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson Japan K.K.
+        - content: Ericsson Japan K.K.
   role:
   - author
 revdate: '2013-11-26'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

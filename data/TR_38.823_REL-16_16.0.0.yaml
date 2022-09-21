@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.823-Rel-16/16.0.0
 title:
-- type: main
-  content: Study of further enhancement for disaggregated gNB
+- content: Study of further enhancement for disaggregated gNB
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/38_series/38.823/38823-g00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Telecom Corporation Ltd.
+        - content: China Telecom Corporation Ltd.
   role:
   - author
 revdate: '2020-01-15'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR32.846-Rel-17/1.0.0
 title:
-- type: main
-  content: Charging management; Study on charging aspects of Proximity-based Services
+- content: Charging management; Study on charging aspects of Proximity-based Services
     (ProSe) in 5GS
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/32_series/32.846/32846-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATT
+        - content: CATT
   role:
   - author
 revdate: '2021-06-08'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

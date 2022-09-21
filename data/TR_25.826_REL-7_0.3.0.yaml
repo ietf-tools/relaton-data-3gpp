@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.826-Rel-7/0.3.0
 title:
-- type: main
-  content: 3.84 Mcps TDD enhanced uplink; Physical layer aspects
+- content: 3.84 Mcps TDD enhanced uplink; Physical layer aspects
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.826/25826-030.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - BlackBerry UK Limited
+        - content: BlackBerry UK Limited
   role:
   - author
 revdate: '2005-12-15'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR28.820-Rel-12/0.1.2
 title:
-- type: main
-  content: Telecommunication management; Fixed Mobile Convergence (FMC) Federated
+- content: Telecommunication management; Fixed Mobile Convergence (FMC) Federated
     Network Operation Model (FNOM) Umbrella Operation Model (UOM)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.820/28820-012.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2014-09-29'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.700-24-Rel-17/0.7.0
 title:
-- type: main
-  content: Study on support of the 5G MSG (Message) Service
+- content: Study on support of the 5G MSG (Message) Service
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.700-24/23700-24-070.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2020-08-06'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6

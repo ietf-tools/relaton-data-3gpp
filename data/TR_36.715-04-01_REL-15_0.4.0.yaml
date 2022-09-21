@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.715-04-01-Rel-15/0.4.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-15 for 4 Down Link (DL) / 1 Up Link (UL)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.715-04-01/36715-04-01-040.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2018-04-06'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

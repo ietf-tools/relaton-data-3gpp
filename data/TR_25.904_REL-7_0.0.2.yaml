@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.904-Rel-7/0.0.2
 title:
-- type: main
-  content: Improved support of gaming over HSDPA/EDCH
+- content: Improved support of gaming over HSDPA/EDCH
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.904/25904-002.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - AT&T
+        - content: AT&T
   role:
   - author
 revdate: '2006-09-07'
@@ -63,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR32.825-Rel-9/1.0.0
 title:
-- type: main
-  content: Telecommunication management; Charging management; Rc reference point study
+- content: Telecommunication management; Charging management; Rc reference point study
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.825/32825-100.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 revdate: '2009-06-08'
@@ -65,7 +66,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

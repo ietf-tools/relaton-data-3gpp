@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR26.957-Rel-14/1.1.1
 title:
-- type: main
-  content: Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP
+- content: Study on Server And Network-assisted Dynamic Adaptive Streaming over HTTP
     (DASH) (SAND) for 3GPP multimedia services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.957/26957-111.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -36,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: OYMAN, Ozgur
+        content: CURCIO, Igor
         language:
         - en
         script:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Nokia Corporation
   role:
   - author
 revdate: '2016-11-08'
@@ -60,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

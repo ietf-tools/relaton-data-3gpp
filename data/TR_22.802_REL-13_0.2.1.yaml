@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.802-Rel-13/0.2.1
 title:
-- type: main
-  content: Study on scenarios where multiple APNs are needed
+- content: Study on scenarios where multiple APNs are needed
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.802/22802-021.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - GIESECKE & DEVRIENT GmbH
+        - content: GIESECKE & DEVRIENT GmbH
   role:
   - author
 revdate: '2014-02-27'
@@ -58,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

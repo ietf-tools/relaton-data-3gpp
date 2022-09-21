@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR37.905-Rel-12/0.0.2
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Derivation of test points for User
     Equipment (UE) radio transmission and reception conformance test cases
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.905/37905-002.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2015-11-02'
@@ -63,7 +64,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5

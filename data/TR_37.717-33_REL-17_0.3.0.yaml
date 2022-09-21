@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.717-33-Rel-17/0.3.0
 title:
-- type: main
-  content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL)
+- content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL)
     and y bands (y=3-x) NR inter-band CA (yDL/yUL)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 37.717-33:Rel-17/0.3.0
@@ -14,8 +14,9 @@ docnumber: TR 37.717-33:Rel-17/0.3.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Corporation
+        - content: ZTE Corporation
   role:
   - author
 language:
@@ -47,7 +48,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

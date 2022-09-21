@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS04.81-R96/5.0.1
 title:
-- type: main
-  content: Line Identification Supplementary Services; Stage 3
+- content: Line Identification Supplementary Services; Stage 3
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.81/0481-501.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Solutions & Networks (S)
+        - content: Nokia Solutions & Networks (S)
   role:
   - author
 revdate: '1996-11-11'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4

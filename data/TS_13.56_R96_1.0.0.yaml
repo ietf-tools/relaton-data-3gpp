@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS13.56-R96/1.0.0
 title:
-- type: main
-  content: Cordless Telephony System Mobile Stations (CTS-MS); Access
+- content: Cordless Telephony System Mobile Stations (CTS-MS); Access
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/13_series/13.56/1356-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"

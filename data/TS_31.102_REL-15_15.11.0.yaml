@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS31.102-Rel-15/15.11.0
 title:
-- type: main
-  content: Characteristics of the Universal Subscriber Identity Module (USIM) application
+- content: Characteristics of the Universal Subscriber Identity Module (USIM) application
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/31_series/31.102/31102-fb0.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - G+D MS
+        - content: G+D MS
   role:
   - author
 revdate: '2020-09-23'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6

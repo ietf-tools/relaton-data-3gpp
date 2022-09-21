@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.705-Rel-12/0.2.0
 title:
-- type: main
-  content: Study on system enhancements for user plane congestion management
+- content: Study on system enhancements for user plane congestion management
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.705/23705-020.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Allot Communications Ltd.
+        - content: Allot Communications Ltd.
   role:
   - author
 revdate: '2013-02-12'
@@ -64,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

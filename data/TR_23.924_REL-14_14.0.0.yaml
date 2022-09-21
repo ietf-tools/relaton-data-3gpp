@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.924-Rel-14/14.0.0
 title:
-- type: main
-  content: Feasibility study on Non-Access Stratum (NAS) node selection function above
+- content: Feasibility study on Non-Access Stratum (NAS) node selection function above
     Base Station Controller (BSC) / Radio Network Controller (RNC)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.924/23924-e00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2017-03-15'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

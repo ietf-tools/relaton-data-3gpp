@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.985-Rel-16/1.0.0
 title:
-- type: main
-  content: Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything
+- content: Overall description of Radio Access Network (RAN) aspects for Vehicle-to-everything
     (V2X) based on LTE and NR
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/37_series/37.985/37985-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 revdate: '2019-11-27'
@@ -60,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

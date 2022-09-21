@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.800-Rel-4/0.3.5
 title:
-- type: main
-  content: Principles for Network Domain Security
+- content: Principles for Network Domain Security
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 33.800:Rel-4/0.3.5
@@ -13,8 +13,9 @@ docnumber: TR 33.800:Rel-4/0.3.5
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: Qualcomm CDMA Technologies
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

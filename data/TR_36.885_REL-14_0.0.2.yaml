@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.885-Rel-14/0.0.2
 title:
-- type: main
-  content: Study on LTE-based V2X services
+- content: Study on LTE-based V2X services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.885/36885-002.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - content: LG Electronics Inc.
   role:
   - author
 revdate: '2015-09-23'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

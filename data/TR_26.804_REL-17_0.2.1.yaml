@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR26.804-Rel-17/0.2.1
 title:
-- type: main
-  content: Study on 5G media streaming extensions
+- content: Study on 5G media streaming extensions
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.804/26804-021.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2021-05-10'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

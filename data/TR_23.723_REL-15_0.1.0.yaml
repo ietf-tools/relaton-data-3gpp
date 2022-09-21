@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.723-Rel-15/0.1.0
 title:
-- type: main
-  content: Study of system level impacts due to introduction of light connection for
+- content: Study of system level impacts due to introduction of light connection for
     LTE in EPS
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.723/23723-010.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Deutschland GmbH
+        - content: Intel Deutschland GmbH
   role:
   - author
 revdate: '2017-04-07'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

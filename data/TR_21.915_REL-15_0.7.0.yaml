@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR21.915-Rel-15/0.7.0
 title:
-- type: main
-  content: Release 15 Description; Summary of Rel-15 Work Items
+- content: Release 15 Description; Summary of Rel-15 Work Items
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 21.915:Rel-15/0.7.0
@@ -13,8 +13,9 @@ docnumber: TR 21.915:Rel-15/0.7.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 biblionote:
@@ -52,7 +53,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP

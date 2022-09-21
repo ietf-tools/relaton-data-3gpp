@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR37.910-Rel-15/0.2.0
 title:
-- type: main
-  content: Study on self evaluation towards IMT-2020 submission
+- content: Study on self evaluation towards IMT-2020 submission
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 37.910:Rel-15/0.2.0
@@ -13,8 +13,9 @@ docnumber: TR 37.910:Rel-15/0.2.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies Sweden AB
+        - content: Huawei Technologies Sweden AB
   role:
   - author
 language:
@@ -49,7 +50,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

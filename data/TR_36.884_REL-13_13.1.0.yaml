@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.884-Rel-13/13.1.0
 title:
-- type: main
-  content: Performance requirements of MMSE-IRC receiver for LTE BS
+- content: Performance requirements of MMSE-IRC receiver for LTE BS
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.884/36884-d10.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Telecommunications
+        - content: China Telecommunications
   role:
   - author
 revdate: '2016-10-02'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.803-Rel-8/1.1.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     radio transmission and reception
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.803/36803-110.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Dish Network
+        - content: Dish Network
   role:
   - author
 revdate: '2008-04-22'
@@ -62,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

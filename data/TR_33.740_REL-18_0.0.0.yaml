@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.740-Rel-18/0.0.0
 title:
-- type: main
-  content: Study on security aspects of Proximity Based Services (ProSe) in 5G System
+- content: Study on security aspects of Proximity Based Services (ProSe) in 5G System
     (5GS) phase 2
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/33_series/33.740/33740-000.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATT
+        - content: CATT
   role:
   - author
 revdate: '2022-05-09'
@@ -57,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

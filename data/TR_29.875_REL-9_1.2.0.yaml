@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR29.875-Rel-9/1.2.0
 title:
-- type: main
-  content: Interworking Proxy between GTP based and PMIP based interfaces
+- content: Interworking Proxy between GTP based and PMIP based interfaces
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.875/29875-120.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT DOCOMO INC.
+        - content: NTT DOCOMO INC.
   role:
   - author
 revdate: '2010-06-17'
@@ -61,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

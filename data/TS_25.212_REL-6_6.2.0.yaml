@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS25.212-Rel-6/6.2.0
 title:
-- type: main
-  content: Multiplexing and channel coding (FDD)
+- content: Multiplexing and channel coding (FDD)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.212/25212-620.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson Japan K.K.
+        - content: Ericsson Japan K.K.
   role:
   - author
 revdate: '2004-06-18'
@@ -65,7 +66,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: RP

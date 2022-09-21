@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.873-Rel-12/12.5.1
 title:
-- type: main
-  content: Study on 3D channel model for LTE
+- content: Study on 3D channel model for LTE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.873/36873-c51.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Solutions & Networks (I)
+        - content: Nokia Solutions & Networks (I)
   role:
   - author
 revdate: '2017-07-05'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

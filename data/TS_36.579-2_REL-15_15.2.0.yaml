@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS36.579-2-Rel-15/15.2.0
 title:
-- type: main
-  content: 'Mission Critical (MC) services over LTE; Part 2: Mission Critical Push
+- content: 'Mission Critical (MC) services over LTE; Part 2: Mission Critical Push
     To Talk (MCPTT) User Equipment (UE) Protocol conformance specification'
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.579-2/36579-2-f20.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NIST
+        - content: NIST
   role:
   - author
 revdate: '2022-01-10'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS29.198-11-Rel-5/5.0.0
 title:
-- type: main
-  content: 'Open Service Access (OSA) Application Programming Interface (API); Part
+- content: 'Open Service Access (OSA) Application Programming Interface (API); Part
     11: Account management Service Capability Feature (SCF)'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.198-11/29198-11-500.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Philips International B.V.
+        - content: Philips International B.V.
   role:
   - author
 revdate: '2002-07-05'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: CP

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR32.845-Rel-16/1.2.0
 title:
-- type: main
-  content: Charging management; Study on charging aspects of network slicing
+- content: Charging management; Study on charging aspects of network slicing
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/32_series/32.845/32845-120.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 revdate: '2020-01-02'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

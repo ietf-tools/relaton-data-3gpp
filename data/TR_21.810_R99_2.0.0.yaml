@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR21.810-R99/2.0.0
 title:
-- type: main
-  content: Report on multi-mode UE issues; ongoing work and identified additional
+- content: Report on multi-mode UE issues; ongoing work and identified additional
     work
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 21.810:R99/2.0.0
@@ -14,8 +14,9 @@ docnumber: TR 21.810:R99/2.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: T2

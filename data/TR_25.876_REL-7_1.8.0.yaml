@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.876-Rel-7/1.8.0
 title:
-- type: main
-  content: Multiple Input Multiple Output (MIMO) antennae in UTRA
+- content: Multiple Input Multiple Output (MIMO) antennae in UTRA
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.876/25876-180.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent
+        - content: Alcatel-Lucent
   role:
   - author
 revdate: '2005-12-15'
@@ -62,7 +63,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

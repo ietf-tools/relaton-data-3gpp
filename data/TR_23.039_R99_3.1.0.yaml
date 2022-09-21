@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.039-R99/3.1.0
 title:
-- type: main
-  content: Interface Protocols for the connection of Short Message Service Centers
+- content: Interface Protocols for the connection of Short Message Service Centers
     (SMSCs) to Short Message Entities (SMEs)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.039/23039-310.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Intel Corporation (UK) Ltd
   role:
   - author
 revdate: '1999-12-17'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1

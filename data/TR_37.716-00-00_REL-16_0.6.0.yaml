@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.716-00-00-Rel-16/0.6.0
 title:
-- type: main
-  content: Band combinations for Stand-Alone (SA) NR Supplementary UpLink (SUL), Non-Stand-Alone
+- content: Band combinations for Stand-Alone (SA) NR Supplementary UpLink (SUL), Non-Stand-Alone
     (NSA) NR SUL, NSA NR SUL with UL sharing from the UE perspective (ULSUP)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-00-00/37716-00-00-060.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies France
+        - content: Huawei Technologies France
   role:
   - author
 revdate: '2020-07-22'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

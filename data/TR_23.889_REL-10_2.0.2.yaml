@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.889-Rel-10/2.0.2
 title:
-- type: main
-  content: Local Call Local Switch (LCLS) system impacts; Feasibility study
+- content: Local Call Local Switch (LCLS) system impacts; Feasibility study
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.889/23889-202.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - GSM Association
+        - content: GSM Association
   role:
   - author
 revdate: '2010-09-28'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

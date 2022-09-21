@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR37.842-Rel-13/2.1.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Universal Terrestrial
     Radio Access (UTRA; Radio Frequency (RF) requirement background for Active Antenna
     System (AAS) Base Station (BS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.842/37842-210.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 revdate: '2016-09-22'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

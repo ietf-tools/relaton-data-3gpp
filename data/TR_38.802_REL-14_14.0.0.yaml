@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.802-Rel-14/14.0.0
 title:
-- type: main
-  content: Study on new radio access technology Physical layer aspects
+- content: Study on new radio access technology Physical layer aspects
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.802/38802-e00.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT DOCOMO INC.
+        - content: NTT DOCOMO INC.
   role:
   - author
 revdate: '2017-03-25'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

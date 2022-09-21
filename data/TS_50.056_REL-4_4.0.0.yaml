@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS50.056-Rel-4/4.0.0
 title:
-- type: main
-  content: 'Project scheduling and open issues: GSM Cordless Telephony System CTS,
+- content: 'Project scheduling and open issues: GSM Cordless Telephony System CTS,
     Phase 1'
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 50.056:Rel-4/4.0.0
@@ -14,8 +14,9 @@ docnumber: TS 50.056:Rel-4/4.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 biblionote:
@@ -55,7 +56,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2

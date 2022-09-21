@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.863-Rel-14/14.1.0
 title:
-- type: main
-  content: Study on battery efficient security for very low throughput Machine Type
+- content: Study on battery efficient security for very low throughput Machine Type
     Communication (MTC) devices
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.863/33863-e10.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2017-03-17'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

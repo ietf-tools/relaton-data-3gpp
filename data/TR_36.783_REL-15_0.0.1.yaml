@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.783-Rel-15/0.0.1
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1024
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Introduction of 1024
     Quadrature Amplitude Modulation (QAM) in LTE downlink
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.783/36783-001.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm Incorporated
+        - content: Qualcomm Incorporated
   role:
   - author
 revdate: '2017-05-11'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR28.890-Rel-16/16.0.0
 title:
-- type: main
-  content: Management and orchestration; Study on integration of Open Network Automation
+- content: Management and orchestration; Study on integration of Open Network Automation
     Platform (ONAP) and 3GPP management for 5G networks
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.890/28890-g00.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Orange
+        - content: Orange
   role:
   - author
 revdate: '2019-03-28'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

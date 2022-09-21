@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR38.842-Rel-17/0.1.0
 title:
-- type: main
-  content: High power User Equipment (UE) (power class 2) for NR inter-band Carrier
+- content: High power User Equipment (UE) (power class 2) for NR inter-band Carrier
     Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x>2) bands
     DL and y (y=1, 2) bands UL
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.842/38842-010.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies R&D UK
+        - content: Huawei Technologies R&D UK
   role:
   - author
 revdate: '2021-06-11'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

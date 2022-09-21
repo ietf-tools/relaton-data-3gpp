@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR32.839-Rel-12/0.1.1
 title:
-- type: main
-  content: Management Specification Tooling Environment
+- content: Management Specification Tooling Environment
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.839/32839-011.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2014-09-29'
@@ -58,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

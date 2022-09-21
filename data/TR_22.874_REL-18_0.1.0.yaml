@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR22.874-Rel-18/0.1.0
 title:
-- type: main
-  content: 5G System (5GS); Study on traffic characteristics and performance requirements
+- content: 5G System (5GS); Study on traffic characteristics and performance requirements
     for AI/ML model transfer
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/22_series/22.874/22874-010.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Guangdong OPPO Mobile Telecom.
+        - content: Guangdong OPPO Mobile Telecom.
   role:
   - author
 revdate: '2020-10-06'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

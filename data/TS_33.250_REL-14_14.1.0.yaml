@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS33.250-Rel-14/14.1.0
 title:
-- type: main
-  content: Security assurance specification for the PGW network product class
+- content: Security assurance specification for the PGW network product class
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.250/33250-e10.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile (Suzhou) Software
+        - content: China Mobile (Suzhou) Software
   role:
   - author
 revdate: '2019-09-25'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

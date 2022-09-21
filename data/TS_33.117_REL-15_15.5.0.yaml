@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS33.117-Rel-15/15.5.0
 title:
-- type: main
-  content: 'Catalogue of general security assurance requirements '
+- content: 'Catalogue of general security assurance requirements '
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/33_series/33.117/33117-f50.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT DOCOMO INC.
+        - content: NTT DOCOMO INC.
   role:
   - author
 revdate: '2020-07-10'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

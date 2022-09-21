@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS09.12-R96/5.2.1
 title:
-- type: main
-  content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
+- content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
     Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface;
     Part 1: Protocol specification'
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 09.12:R96/5.2.1
@@ -18,8 +18,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -42,7 +43,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 language:
@@ -54,7 +55,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: TISPAN

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.810-Rel-7/0.0.2
 title:
-- type: main
-  content: UMTS 2.6 GHz (FDD) Work Item Technical Report
+- content: UMTS 2.6 GHz (FDD) Work Item Technical Report
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.810/25810-002.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks Oy
+        - content: Nokia Networks Oy
   role:
   - author
 revdate: '2005-02-25'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

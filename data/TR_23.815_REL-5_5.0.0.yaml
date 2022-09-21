@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.815-Rel-5/5.0.0
 title:
-- type: main
-  content: Charging implications of IMS architecture
+- content: Charging implications of IMS architecture
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.815/23815-500.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2002-04-05'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

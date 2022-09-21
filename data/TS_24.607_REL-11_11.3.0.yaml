@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS24.607-Rel-11/11.3.0
 title:
-- type: main
-  content: Originating Identification Presentation (OIP) and Originating Identification
+- content: Originating Identification Presentation (OIP) and Originating Identification
     Restriction (OIR) using IP Multimedia (IM)  Core Network (CN) subsystem; Protocol
     specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.607/24607-b30.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2014-03-17'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

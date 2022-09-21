@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR26.913-R99/0.0.0
 title:
-- type: main
-  content: Quantitative performance evaluation of real-time packet switched multimedia
+- content: Quantitative performance evaluation of real-time packet switched multimedia
     services over 3G
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.913/26913-000.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Corporation
+        - content: Nokia Corporation
   role:
   - author
 revdate: '1999-04-23'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

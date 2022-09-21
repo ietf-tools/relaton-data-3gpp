@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.832-Rel-12/0.0.3
 title:
-- type: main
-  content: LTE in the 1670-1675MHz Band for the United States
+- content: LTE in the 1670-1675MHz Band for the United States
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 36.832:Rel-12/0.0.3
@@ -13,8 +13,9 @@ docnumber: TR 36.832:Rel-12/0.0.3
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ligado Networks
+        - content: Ligado Networks
   role:
   - author
 language:
@@ -49,7 +50,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

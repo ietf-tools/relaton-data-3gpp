@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR29.994-Rel-5/5.0.1
 title:
-- type: main
-  content: Recommended infrastructure measures to overcome specific Mobile Station
+- content: Recommended infrastructure measures to overcome specific Mobile Station
     (MS) and User Equipment (UE) faults
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.994/29994-501.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia France
+        - content: Nokia France
   role:
   - author
 revdate: '2002-12-16'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1

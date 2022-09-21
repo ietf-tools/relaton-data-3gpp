@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.896-Rel-6/0.1.1
 title:
-- type: main
-  content: Feasibility study for enhanced uplink for UTRA FDD
+- content: Feasibility study for enhanced uplink for UTRA FDD
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 25.896:Rel-6/0.1.1
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks Oy
+        - content: Nokia Networks Oy
   role:
   - author
 language:
@@ -49,7 +50,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

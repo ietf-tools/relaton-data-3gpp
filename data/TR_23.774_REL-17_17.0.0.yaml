@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.774-Rel-17/17.0.0
 title:
-- type: main
-  content: Study on mission critical services over 5G multicast broadcast system
+- content: Study on mission critical services over 5G multicast broadcast system
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.774/23774-h00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - AT&T
+        - content: AT&T
   role:
   - author
 revdate: '2020-03-24'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6

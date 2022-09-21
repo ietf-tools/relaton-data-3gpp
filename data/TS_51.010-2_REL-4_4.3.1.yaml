@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS51.010-2-Rel-4/4.3.1
 title:
-- type: main
-  content: 'Mobile Station (MS) conformance specification; Part 2: Protocol Implementation
+- content: 'Mobile Station (MS) conformance specification; Part 2: Protocol Implementation
     Conformance Statement (PICS) proforma specification'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-2/51010-2-431.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sierra Wireless. S.A.
+        - content: Sierra Wireless. S.A.
   role:
   - author
 revdate: '2002-01-18'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

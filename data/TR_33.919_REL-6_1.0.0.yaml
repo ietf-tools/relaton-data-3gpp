@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.919-Rel-6/1.0.0
 title:
-- type: main
-  content: 3G Security; Generic Authentication Architecture (GAA); System description
+- content: 3G Security; Generic Authentication Architecture (GAA); System description
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.919/33919-100.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent Bell NV
+        - content: Alcatel-Lucent Bell NV
   role:
   - author
 revdate: '2004-01-05'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

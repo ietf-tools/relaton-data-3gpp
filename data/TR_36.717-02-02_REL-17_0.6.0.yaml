@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.717-02-02-Rel-17/0.6.0
 title:
-- type: main
-  content: Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 2 bands UL
+- content: Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 2 bands UL
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.717-02-02/36717-02-02-060.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies France
+        - content: Huawei Technologies France
   role:
   - author
 revdate: '2022-06-07'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

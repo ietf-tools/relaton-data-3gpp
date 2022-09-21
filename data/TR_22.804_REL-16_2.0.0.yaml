@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.804-Rel-16/2.0.0
 title:
-- type: main
-  content: Study on Communication for Automation in Vertical domains (CAV)
+- content: Study on Communication for Automation in Vertical domains (CAV)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.804/22804-200.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Siemens AG
+        - content: Siemens AG
   role:
   - author
 revdate: '2018-06-04'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

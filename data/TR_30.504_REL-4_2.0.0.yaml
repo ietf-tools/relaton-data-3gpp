@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR30.504-Rel-4/2.0.0
 title:
-- type: main
-  content: Work Plan and Study Items - RAN WG4
+- content: Work Plan and Study Items - RAN WG4
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.504/30504-200.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - MOTOROLA JAPAN LTD
+        - content: MOTOROLA JAPAN LTD
   role:
   - author
 revdate: '1999-12-17'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

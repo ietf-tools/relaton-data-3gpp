@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS48.071-Rel-4/4.2.0
 title:
-- type: main
-  content: Location Services (LCS); Serving Mobile Location Centre - Base Station
+- content: Location Services (LCS); Serving Mobile Location Centre - Base Station
     System (SMLC-BSS) interface; Layer 3 specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/48_series/48.071/48071-420.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Anemone Technology
+        - content: Anemone Technology
   role:
   - author
 revdate: '2002-01-08'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: RP

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR25.874-Rel-11/0.2.0
 title:
-- type: main
-  content: High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements
+- content: High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements
     for Low Chip Rate (LCR) Time Division Duplex (TDD)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.874/25874-020.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TD Tech Ltd
+        - content: TD Tech Ltd
   role:
   - author
 revdate: '2012-09-19'
@@ -61,7 +62,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

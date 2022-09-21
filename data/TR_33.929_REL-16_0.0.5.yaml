@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.929-Rel-16/0.0.5
 title:
-- type: main
-  content: Lawful Interception (LI) implementation guidance
+- content: Lawful Interception (LI) implementation guidance
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.929/33929-005.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Corporation
+        - content: Nokia Corporation
   role:
   - author
 revdate: '2020-08-12'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.944-Rel-5/5.0.0
 title:
-- type: main
-  content: Report on service requirements for UE functionality split
+- content: Report on service requirements for UE functionality split
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.944/22944-500.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
 revdate: '2002-04-02'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

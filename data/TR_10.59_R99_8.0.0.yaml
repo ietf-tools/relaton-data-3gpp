@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR10.59-R99/8.0.0
 title:
-- type: main
-  content: Project scheduling and open issues for EDGE
+- content: Project scheduling and open issues for EDGE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.59/1059-800.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2000-06-20'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G1

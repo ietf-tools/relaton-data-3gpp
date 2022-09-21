@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR28.813-Rel-17/0.1.0
 title:
-- type: main
-  content: Management and orchestration; Study on new aspects of Energy Efficiency
+- content: Management and orchestration; Study on new aspects of Energy Efficiency
     (EE) for 5G
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/28_series/28.813/28813-010.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Orange
+        - content: Orange
   role:
   - author
 revdate: '2020-06-16'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

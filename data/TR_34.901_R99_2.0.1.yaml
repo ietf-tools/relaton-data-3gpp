@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR34.901-R99/2.0.1
 title:
-- type: main
-  content: Test Time Optimisation based on statistical approaches; Statistical theory
+- content: Test Time Optimisation based on statistical approaches; Statistical theory
     applied and evaluation of statistical significance
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.901/34901-201.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Agilent Technologies Int Japan
+        - content: Agilent Technologies Int Japan
   role:
   - author
 revdate: '2003-06-17'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5

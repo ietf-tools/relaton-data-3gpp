@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.982-Rel-8/0.2.0
 title:
-- type: main
-  content: IP Multimedia System (IMS) centralized services
+- content: IP Multimedia System (IMS) centralized services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.982/23982-020.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Cisco Systems Belgium
+        - content: Cisco Systems Belgium
   role:
   - author
 revdate: '2007-01-30'
@@ -58,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

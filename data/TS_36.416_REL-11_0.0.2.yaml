@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS36.416-Rel-11/0.0.2
 title:
-- type: main
-  content: Mobile Relay for E-UTRA
+- content: Mobile Relay for E-UTRA
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.416/36416-002.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATT
+        - content: CATT
   role:
   - author
 revdate: '2011-12-16'
@@ -58,7 +59,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R3

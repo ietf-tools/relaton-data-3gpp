@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR22.873-Rel-18/0.6.0
 title:
-- type: main
-  content: Study on evolution of the IP Multimedia Subsystem (IMS) multimedia telephony
+- content: Study on evolution of the IP Multimedia Subsystem (IMS) multimedia telephony
     service
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 22.873:Rel-18/0.6.0
@@ -14,8 +14,9 @@ docnumber: TR 22.873:Rel-18/0.6.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Research Inst.
+        - content: China Mobile Research Inst.
   role:
   - author
 language:
@@ -47,7 +48,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

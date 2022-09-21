@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS02.93-R96/5.1.0
 title:
-- type: main
-  content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage
+- content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage
     1
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 02.93:R96/5.1.0
@@ -14,8 +14,9 @@ docnumber: TS 02.93:R96/5.1.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TELECOM ITALIA S.p.A.
+        - content: TELECOM ITALIA S.p.A.
   role:
   - author
 biblionote:
@@ -54,7 +55,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1

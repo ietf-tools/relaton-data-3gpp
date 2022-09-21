@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS28.681-Rel-13/1.0.0
 title:
-- type: main
-  content: Telecommunication management; Wireless Local Area Network (WLAN) Network
+- content: Telecommunication management; Wireless Local Area Network (WLAN) Network
     Resource Model (NRM) Integration Reference Point (IRP); Requirements
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.681/28681-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Intel Corporation (UK) Ltd
   role:
   - author
 revdate: '2015-12-09'
@@ -60,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

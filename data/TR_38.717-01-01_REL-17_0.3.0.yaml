@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.717-01-01-Rel-17/0.3.0
 title:
-- type: main
-  content: Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous
+- content: Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous
     and non-contiguous spectrum (x>=y)
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.717-01-01/38717-01-01-030.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2021-04-13'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

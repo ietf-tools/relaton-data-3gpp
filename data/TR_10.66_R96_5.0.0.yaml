@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR10.66-R96/5.0.0
 title:
-- type: main
-  content: Support of Mobile Number Portability (MNP); Project plan
+- content: Support of Mobile Number Portability (MNP); Project plan
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 10.66:R96/5.0.0
@@ -13,8 +13,9 @@ docnumber: TR 10.66:R96/5.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - EDP Telecom
+        - content: EDP Telecom
   role:
   - author
 language:
@@ -49,7 +50,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

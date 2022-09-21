@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS22.00U-UMTS/1.3.0
 title:
-- type: main
-  content: UMTS Phase 1
+- content: UMTS Phase 1
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.00U/2200U-130.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 revdate: '1998-11-24'
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"

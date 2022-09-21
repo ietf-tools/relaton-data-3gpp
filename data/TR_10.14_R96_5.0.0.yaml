@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR10.14-R96/5.0.0
 title:
-- type: main
-  content: System overview for 14.4 kbit/s Work Item
+- content: System overview for 14.4 kbit/s Work Item
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 10.14:R96/5.0.0
@@ -13,8 +13,9 @@ docnumber: TR 10.14:R96/5.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 language:
@@ -46,7 +47,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

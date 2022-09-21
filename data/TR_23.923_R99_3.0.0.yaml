@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.923-R99/3.0.0
 title:
-- type: main
-  content: Combined GSM and Mobile IP mobility handling in UMTS IP CN
+- content: Combined GSM and Mobile IP mobility handling in UMTS IP CN
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.923/23923-300.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 revdate: '2000-06-05'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

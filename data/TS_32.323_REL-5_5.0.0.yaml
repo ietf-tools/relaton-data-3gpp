@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS32.323-Rel-5/5.0.0
 title:
-- type: main
-  content: Telecommunication management; Test management Integration Reference Point
+- content: Telecommunication management; Test management Integration Reference Point
     (IRP); Common Object Request Broker Architecture (CORBA) Solution Set (SS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.323/32323-500.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2002-09-18'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

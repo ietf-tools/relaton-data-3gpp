@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.921-Rel-17/0.4.0
 title:
-- type: main
-  content: Study on International Mobile Telecommunications (IMT) parameters for 6.425
+- content: Study on International Mobile Telecommunications (IMT) parameters for 6.425
     - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 38.921:Rel-17/0.4.0
@@ -14,8 +14,9 @@ docnumber: TR 38.921:Rel-17/0.4.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

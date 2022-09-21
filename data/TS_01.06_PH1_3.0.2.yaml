@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS01.06-Ph1/3.0.2
 title:
-- type: main
-  content: Service implementation phases and possible further phases in the GSM PLMN
+- content: Service implementation phases and possible further phases in the GSM PLMN
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/01_series/01.06/0106-302.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - inCode
+        - content: inCode
   role:
   - author
 revdate: '1992-05-06'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"

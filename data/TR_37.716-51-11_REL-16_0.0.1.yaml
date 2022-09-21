@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR37.716-51-11-Rel-16/0.0.1
 title:
-- type: main
-  content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
+- content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of 5 bands LTE inter-band Carrier aggregation (CA) (5 Down Link (DL) /
     1 Up Link (UL)) and 1 NR band (1 DL / 1 UL)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.716-51-11/37716-51-11-001.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
 revdate: '2018-08-10'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

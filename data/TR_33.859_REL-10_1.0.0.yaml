@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.859-Rel-10/1.0.0
 title:
-- type: main
-  content: Study on the Introduction of Key Hierarchy in Universal Terrestrial Radio
+- content: Study on the Introduction of Key Hierarchy in Universal Terrestrial Radio
     Access Network (UTRAN)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.859/33859-100.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nanjing Ericsson Panda Com Ltd
+        - content: Nanjing Ericsson Panda Com Ltd
   role:
   - author
 revdate: '2010-12-21'
@@ -67,7 +68,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

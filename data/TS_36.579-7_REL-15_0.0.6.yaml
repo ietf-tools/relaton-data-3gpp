@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS36.579-7-Rel-15/0.0.6
 title:
-- type: main
-  content: 'Mission Critical (MC) services over LTE; Part 7: Mission Critical Data
+- content: 'Mission Critical (MC) services over LTE; Part 7: Mission Critical Data
     (MCData) User Equipment (UE) Protocol conformance specification'
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 36.579-7:Rel-15/0.0.6
@@ -14,8 +14,9 @@ docnumber: TS 36.579-7:Rel-15/0.0.6
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NIST
+        - content: NIST
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

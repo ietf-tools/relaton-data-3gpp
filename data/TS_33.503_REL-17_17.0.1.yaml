@@ -1,0 +1,77 @@
+---
+id: 3GPPTS33.503-Rel-17/17.0.1
+title:
+- content: Security Aspects of Proximity based Services (ProSe) in the 5G System (5GS)
+  format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.503/33503-h01.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TS 33.503:Rel-17/17.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 33.503:Rel-17/17.0.1
+date:
+- type: published
+  value: '2022-06-17'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: ZHOU, Wei
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: CATT
+  role:
+  - author
+revdate: '2022-06-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-09-21'
+doctype: TS
+editorialgroup:
+- name: S3
+  type: prime
+radiotechnology: 5G
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'

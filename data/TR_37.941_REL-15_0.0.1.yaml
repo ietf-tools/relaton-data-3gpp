@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.941-Rel-15/0.0.1
 title:
-- type: main
-  content: Radio Frequency (RF) conformance testing background for radiated Base Station
+- content: Radio Frequency (RF) conformance testing background for radiated Base Station
     (BS) requirements
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 37.941:Rel-15/0.0.1
@@ -14,8 +14,9 @@ docnumber: TR 37.941:Rel-15/0.0.1
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies Sweden AB
+        - content: Huawei Technologies Sweden AB
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

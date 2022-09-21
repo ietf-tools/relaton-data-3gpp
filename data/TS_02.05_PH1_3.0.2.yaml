@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS02.05-Ph1/3.0.2
 title:
-- type: main
-  content: Simultaneous and Alternate Use of Services
+- content: Simultaneous and Alternate Use of Services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.05/0205-302.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -42,7 +43,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.804-Rel-6/0.3.2
 title:
-- type: main
-  content: Feasibility study on uplink enhancements for UTRA TDD
+- content: Feasibility study on uplink enhancements for UTRA TDD
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.804/25804-032.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - InterDigital Communications
+        - content: InterDigital Communications
   role:
   - author
 revdate: '2004-12-03'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

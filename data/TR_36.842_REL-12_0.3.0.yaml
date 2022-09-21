@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.842-Rel-12/0.3.0
 title:
-- type: main
-  content: Study on Small Cell enhancements for E-UTRA and E-UTRAN; Higher layer aspects
+- content: Study on Small Cell enhancements for E-UTRA and E-UTRAN; Higher layer aspects
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.842/36842-030.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - DOCOMO Communications Lab.
+        - content: DOCOMO Communications Lab.
   role:
   - author
 revdate: '2014-02-26'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2

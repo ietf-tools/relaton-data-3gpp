@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.889-Rel-13/0.6.0
 title:
-- type: main
-  content: Study on security aspects of Machine-Type Communications (MTC) architecture
+- content: Study on security aspects of Machine-Type Communications (MTC) architecture
     and feature enhancements
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 33.889:Rel-13/0.6.0
@@ -14,8 +14,9 @@ docnumber: TR 33.889:Rel-13/0.6.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
 biblionote:
@@ -50,7 +51,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

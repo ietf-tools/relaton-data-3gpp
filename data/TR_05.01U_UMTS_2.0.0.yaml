@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR05.01U-UMTS/2.0.0
 title:
-- type: main
-  content: Universal Mobile Telecommunications System (UMTS); Objectives and framework
+- content: Universal Mobile Telecommunications System (UMTS); Objectives and framework
     for the Telecommunications Management Network (TMN) of the UMTS
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/05_series/05.01U/0501U-200.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP

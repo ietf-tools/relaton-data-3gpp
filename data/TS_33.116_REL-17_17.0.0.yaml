@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS33.116-Rel-17/17.0.0
 title:
-- type: main
-  content: Security Assurance Specification (SCAS) for the MME network product class
+- content: Security Assurance Specification (SCAS) for the MME network product class
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.116/33116-h00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT DOCOMO INC.
+        - content: NTT DOCOMO INC.
   role:
   - author
 revdate: '2022-03-30'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.879-Rel-5/0.3.0
 title:
-- type: main
-  content: Separation of resource reservation and radio link activation
+- content: Separation of resource reservation and radio link activation
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.879/25879-030.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
 revdate: '2001-12-03'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

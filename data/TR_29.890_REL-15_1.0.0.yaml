@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR29.890-Rel-15/1.0.0
 title:
-- type: main
-  content: CT WG3 aspects of 5G System Phase 1
+- content: CT WG3 aspects of 5G System Phase 1
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.890/29890-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson India Private Limited
+        - content: Ericsson India Private Limited
   role:
   - author
 revdate: '2017-09-04'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3

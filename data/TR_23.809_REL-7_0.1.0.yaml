@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.809-Rel-7/0.1.0
 title:
-- type: main
-  content: One Tunnel solution for Optimisation of Packet Data Traffic
+- content: One Tunnel solution for Optimisation of Packet Data Traffic
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.809/23809-010.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks Oy
+        - content: Nokia Networks Oy
   role:
   - author
 revdate: '2006-04-28'
@@ -61,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

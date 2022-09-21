@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.867-Rel-17/17.1.0
 title:
-- type: main
-  content: Study on user consent for 3GPP services
+- content: Study on user consent for 3GPP services
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.867/33867-h10.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 revdate: '2022-03-24'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

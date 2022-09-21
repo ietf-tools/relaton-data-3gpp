@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR43.058-Rel-14/14.0.0
 title:
-- type: main
-  content: Characterisation, test methods and quality assessment for handsfree Mobile
+- content: Characterisation, test methods and quality assessment for handsfree Mobile
     Stations (MSs)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/43_series/43.058/43058-e00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Orange
+        - content: Orange
   role:
   - author
 revdate: '2017-03-18'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

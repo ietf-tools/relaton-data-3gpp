@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.972-R99/0.0.0
 title:
-- type: main
-  content: Circuit-switched multimedia
+- content: Circuit-switched multimedia
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.972/22972-000.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - EMCOM Ltd
+        - content: EMCOM Ltd
   role:
   - author
 revdate: '1999-04-23'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: "-"

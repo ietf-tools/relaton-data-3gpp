@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS08.64-R97/1.0.0
 title:
-- type: main
-  content: GPRS support node - BSS protocol (SGSN_BSS) interface; BSSGP layer 3
+- content: GPRS support node - BSS protocol (SGSN_BSS) interface; BSSGP layer 3
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/08_series/08.64/0864-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - SCANDEW PTY Ltd
+        - content: SCANDEW PTY Ltd
   role:
   - author
 revdate: '1996-07-15'
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"

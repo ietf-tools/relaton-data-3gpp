@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.831-Rel-17/17.0.0
 title:
-- type: main
-  content: Study on Support for Minimization of service Interruption
+- content: Study on Support for Minimization of service Interruption
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/22_series/22.831/22831-h00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics France
+        - content: LG Electronics France
   role:
   - author
 revdate: '2019-10-03'
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

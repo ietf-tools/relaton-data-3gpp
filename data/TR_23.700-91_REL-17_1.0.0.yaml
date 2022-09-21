@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.700-91-Rel-17/1.0.0
 title:
-- type: main
-  content: Study on enablers for network automation for the 5G System (5GS); Phase
+- content: Study on enablers for network automation for the 5G System (5GS); Phase
     2
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/23_series/23.700-91/23700-91-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HuaWei Technologies Co., Ltd
+        - content: HuaWei Technologies Co., Ltd
   role:
   - author
 revdate: '2020-09-11'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

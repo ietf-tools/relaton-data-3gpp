@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.866-Rel-17/0.3.0
 title:
-- type: main
-  content: Study on security aspects of enablers for Network Automation (eNA) for
+- content: Study on security aspects of enablers for Network Automation (eNA) for
     the 5G system (5GS) Phase 2
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/33_series/33.866/33866-030.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2021-01-29'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

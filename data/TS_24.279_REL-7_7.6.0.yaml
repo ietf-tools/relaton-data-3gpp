@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS24.279-Rel-7/7.6.0
 title:
-- type: main
-  content: Combining Circuit Switched (CS) and IP Multimedia Subsystem (IMS) services;
+- content: Combining Circuit Switched (CS) and IP Multimedia Subsystem (IMS) services;
     Stage 3
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.279/24279-760.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - BlackBerry UK Limited
+        - content: BlackBerry UK Limited
   role:
   - author
 revdate: '2007-09-25'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

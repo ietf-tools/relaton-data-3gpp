@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS24.247-Rel-6/6.7.0
 title:
-- type: main
-  content: Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem;
+- content: Messaging service using the IP Multimedia (IM) Core Network (CN) subsystem;
     Stage 3
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.247/24247-670.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 revdate: '2006-12-12'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

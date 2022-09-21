@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR46.085-Rel-8/8.0.0
 title:
-- type: main
-  content: Subjective tests on the interoperability of the Half Rate / Full Rate /
+- content: Subjective tests on the interoperability of the Half Rate / Full Rate /
     Enhanced Full Rate (HR/FR/EFR) speech codecs, single, tandem and tandem free operation
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/46_series/46.085/46085-800.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 revdate: '2008-12-18'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

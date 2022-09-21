@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR29.892-Rel-16/0.5.0
 title:
-- type: main
-  content: Study on User Plane Protocol in 5GC
+- content: Study on User Plane Protocol in 5GC
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.892/29892-050.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - SoftBank Corp.
+        - content: SoftBank Corp.
   role:
   - author
 revdate: '2019-03-08'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

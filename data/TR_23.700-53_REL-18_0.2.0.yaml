@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.700-53-Rel-18/0.2.0
 title:
-- type: main
-  content: Study on access traffic steering, switching and splitting support in the
+- content: Study on access traffic steering, switching and splitting support in the
     5G system architecture; Phase 3
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-53/23700-53-020.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Lenovo Mobile Com. Technology
+        - content: Lenovo Mobile Com. Technology
   role:
   - author
 revdate: '2022-04-18'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

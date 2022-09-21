@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR22.935-Rel-13/13.0.0
 title:
-- type: main
-  content: Feasibility study on Location Services (LCS) for Wireless Local Area Network
+- content: Feasibility study on Location Services (LCS) for Wireless Local Area Network
     (WLAN) interworking
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.935/22935-d00.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Applied Communication Sciences
+        - content: Applied Communication Sciences
   role:
   - author
 revdate: '2016-01-05'
@@ -66,7 +67,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

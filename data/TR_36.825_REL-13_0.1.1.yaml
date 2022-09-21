@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.825-Rel-13/0.1.1
 title:
-- type: main
-  content: Feasibility study on possible additional configuration for LTE TDD
+- content: Feasibility study on possible additional configuration for LTE TDD
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.825/36825-011.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATT
+        - content: CATT
   role:
   - author
 revdate: '2015-06-21'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

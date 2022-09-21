@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS51.010-5-Rel-10/10.17.0
 title:
-- type: main
-  content: 'Mobile Station (MS) conformance specification; Part 5: Inter-Radio-Access-Technology
+- content: 'Mobile Station (MS) conformance specification; Part 5: Inter-Radio-Access-Technology
     (RAT) (GERAN / UTRAN) interaction Abstract Test Suite (ATS)'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/51_series/51.010-5/51010-5-ah0.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 revdate: '2017-01-05'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

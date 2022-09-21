@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS29.199-Rel-6/1.0.0
 title:
-- type: main
-  content: Open Service Access (OSA); Web Services Application Programming Interface
+- content: Open Service Access (OSA); Web Services Application Programming Interface
     (API)  for OSA; Parlay X services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.199/29199-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2003-11-14'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: N5

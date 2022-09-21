@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR10.02-R96/1.1.0
 title:
-- type: main
-  content: Guidelines for the modification of the Mobile Application Part (MAP) in
+- content: Guidelines for the modification of the Mobile Application Part (MAP) in
     phase 2+
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.02/1002-110.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Solutions & Networks (S)
+        - content: Nokia Solutions & Networks (S)
   role:
   - author
 revdate: '1998-03-20'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR30.531-Rel-10/1.1.0
 title:
-- type: main
-  content: Work Plan and Working Procedures - RAN WG3
+- content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/30_series/30.531/30531-110.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 revdate: '2010-10-05'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

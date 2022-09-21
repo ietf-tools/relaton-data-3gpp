@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.850-Rel-17/0.8.0
 title:
-- type: main
-  content: Study on security aspects of enhancements for 5G Multicast-Broadcast Services
+- content: Study on security aspects of enhancements for 5G Multicast-Broadcast Services
     (MBS)
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.850/33850-080.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECH. GmbH
+        - content: HUAWEI TECH. GmbH
   role:
   - author
 revdate: '2021-10-18'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

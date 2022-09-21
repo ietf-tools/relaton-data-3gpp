@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.990-R99/0.0.2
 title:
-- type: main
-  content: Vocabulary for UTRAN
+- content: Vocabulary for UTRAN
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.990/25990-002.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Motorola Inc.
+        - content: Motorola Inc.
   role:
   - author
 revdate: '1999-04-23'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

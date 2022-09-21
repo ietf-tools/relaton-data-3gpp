@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.923-R99/1.0.0
 title:
-- type: main
-  content: Stage 2 Functional Specification of Location Services in UTRAN
+- content: Stage 2 Functional Specification of Location Services in UTRAN
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.923/25923-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 revdate: '1999-04-30'
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: "-"

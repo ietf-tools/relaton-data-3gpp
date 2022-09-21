@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.879-Rel-13/13.0.0
 title:
-- type: main
-  content: Study on security enhancements for Mission Critical Push To Talk (MCPTT)
+- content: Study on security enhancements for Mission Critical Push To Talk (MCPTT)
     over LTE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.879/33879-d00.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CESG
+        - content: CESG
   role:
   - author
 revdate: '2016-03-22'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

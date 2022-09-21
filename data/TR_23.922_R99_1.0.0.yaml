@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.922-R99/1.0.0
 title:
-- type: main
-  content: Architecture for an All IP network
+- content: Architecture for an All IP network
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.922/23922-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent Telecom Ltd
+        - content: Alcatel-Lucent Telecom Ltd
   role:
   - author
 revdate: '1999-10-13'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

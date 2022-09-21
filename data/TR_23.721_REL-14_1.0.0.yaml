@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.721-Rel-14/1.0.0
 title:
-- type: main
-  content: Study on sponsored data connectivity improvements
+- content: Study on sponsored data connectivity improvements
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.721/23721-100.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Unicom
+        - content: China Unicom
   role:
   - author
 revdate: '2016-06-15'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR37.826-Rel-17/0.3.0
 title:
-- type: main
-  content: High power UE (power class 2) for EN-DC with 1 LTE band + 1 NR TDD band
+- content: High power UE (power class 2) for EN-DC with 1 LTE band + 1 NR TDD band
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/37_series/37.826/37826-030.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Unicom
+        - content: China Unicom
   role:
   - author
 revdate: '2021-04-30'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

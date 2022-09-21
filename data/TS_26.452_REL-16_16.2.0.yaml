@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS26.452-Rel-16/16.2.0
 title:
-- type: main
-  content: Codec for Enhanced Voice Services (EVS); ANSI C code; Alternative fixed-point
+- content: Codec for Enhanced Voice Services (EVS); ANSI C code; Alternative fixed-point
     using updated basic operators
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/26_series/26.452/26452-g20.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Cadence Design Systems Inc.
+        - content: Cadence Design Systems Inc.
   role:
   - author
 revdate: '2020-07-21'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4

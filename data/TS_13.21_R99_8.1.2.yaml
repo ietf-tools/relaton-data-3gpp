@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS13.21-R99/8.1.2
 title:
-- type: main
-  content: Base station systems and repeater equipment covering essential requirements
+- content: Base station systems and repeater equipment covering essential requirements
     under article 3.2 of the R&TTE directive
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 13.21:R99/8.1.2
@@ -14,8 +14,9 @@ docnumber: TS 13.21:R99/8.1.2
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -39,7 +40,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: MSG

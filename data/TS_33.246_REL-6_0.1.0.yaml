@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS33.246-Rel-6/0.1.0
 title:
-- type: main
-  content: 3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)
+- content: 3G Security; Security of Multimedia Broadcast/Multicast Service (MBMS)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 33.246:Rel-6/0.1.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: Qualcomm CDMA Technologies
   role:
   - author
 biblionote:
@@ -55,7 +56,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

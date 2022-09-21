@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS41.103-Rel-5/5.1.0
 title:
-- type: main
-  content: GSM Release 5 specifications
+- content: GSM Release 5 specifications
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/41_series/41.103/41103-510.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 revdate: '2002-09-18'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: SP

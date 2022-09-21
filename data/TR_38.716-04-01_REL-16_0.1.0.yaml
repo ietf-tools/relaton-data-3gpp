@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.716-04-01-Rel-16/0.1.0
 title:
-- type: main
-  content: NR inter-band Carrier Aggregation (CA) Rel-16 for 4 bands Down Link (DL)
+- content: NR inter-band Carrier Aggregation (CA) Rel-16 for 4 bands Down Link (DL)
     / 1 bands Up Link (UL)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/38_series/38.716-04-01/38716-04-01-010.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2020-02-14'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

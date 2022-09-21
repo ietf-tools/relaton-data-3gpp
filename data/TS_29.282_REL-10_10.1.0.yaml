@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS29.282-Rel-10/10.1.0
 title:
-- type: main
-  content: Mobile IPv6 vendor specific option format and usage within 3GPP
+- content: Mobile IPv6 vendor specific option format and usage within 3GPP
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.282/29282-a10.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT DOCOMO INC.
+        - content: NTT DOCOMO INC.
   role:
   - author
 revdate: '2011-06-15'
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4

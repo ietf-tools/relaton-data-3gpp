@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.741-Rel-14/1.0.2
 title:
-- type: main
-  content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
+- content: Study on further enhancements to Coordinated Multi-Point (CoMP) operation
     for LTE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.741/36741-102.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Intel Corporation (UK) Ltd
   role:
   - author
 revdate: '2017-03-01'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

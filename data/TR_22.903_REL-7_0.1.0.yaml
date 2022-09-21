@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.903-Rel-7/0.1.0
 title:
-- type: main
-  content: Study on Videotelephony teleservice
+- content: Study on Videotelephony teleservice
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.903/22903-010.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Deutsche Telekom AG
+        - content: Deutsche Telekom AG
   role:
   - author
 revdate: '2005-04-21'
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

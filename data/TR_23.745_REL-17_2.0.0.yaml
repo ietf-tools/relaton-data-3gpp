@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.745-Rel-17/2.0.0
 title:
-- type: main
-  content: Study on application layer support for Factories of the Future in 5G network
+- content: Study on application layer support for Factories of the Future in 5G network
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/23_series/23.745/23745-200.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Corporation
+        - content: ZTE Corporation
   role:
   - author
 revdate: '2021-09-08'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6

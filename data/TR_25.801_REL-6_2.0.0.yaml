@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR25.801-Rel-6/2.0.0
 title:
-- type: main
-  content: Feasibility study for improved access to User Equipment (UE) measurement
+- content: Feasibility study for improved access to User Equipment (UE) measurement
     data for Controlling Radio Network Controller (CRNC) to support Time Division
     Duplex (TDD) Radio Resource Management (RRM)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.801/25801-200.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Interdigital Asia LLC
+        - content: Interdigital Asia LLC
   role:
   - author
 revdate: '2003-09-26'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

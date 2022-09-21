@@ -1,20 +1,27 @@
 ---
 id: 3GPPTR38.852-Rel-17/17.0.0
 title:
-- type: main
-  content: Introduction of 1900MHz NR band for Europe for Rail Mobile Radio (RMR)
+- content: Introduction of 1900MHz NR band for Europe for Rail Mobile Radio (RMR)
   format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.852/38852-h00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 38.852:Rel-17/17.0.0
   type: 3GPP
   primary: true
 docnumber: TR 38.852:Rel-17/17.0.0
+date:
+- type: published
+  value: '2022-06-24'
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,16 +44,17 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Swiss Federal Railways Ltd
+        - content: Swiss Federal Railways Ltd
   role:
   - author
+revdate: '2022-06-24'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

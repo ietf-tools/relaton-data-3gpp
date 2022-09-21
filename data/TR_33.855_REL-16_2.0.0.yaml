@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.855-Rel-16/2.0.0
 title:
-- type: main
-  content: Study on security aspects of the 5G Service Based Architecture (SBA)
+- content: Study on security aspects of the 5G Service Based Architecture (SBA)
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/33_series/33.855/33855-200.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2020-06-15'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

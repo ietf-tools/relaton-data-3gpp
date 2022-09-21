@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS34.131-Rel-14/14.0.0
 title:
-- type: main
-  content: Test Specification for C-language binding to (Universal) Subscriber Interface
+- content: Test Specification for C-language binding to (Universal) Subscriber Interface
     Module ((U)SIM) Application Programming Interface (API)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.131/34131-e00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Morpho Cards GmbH
+        - content: Morpho Cards GmbH
   role:
   - author
 revdate: '2017-03-23'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR28.808-Rel-17/2.0.0
 title:
-- type: main
-  content: Study on management and orchestration aspects of integrated satellite components
+- content: Study on management and orchestration aspects of integrated satellite components
     in a 5G network
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/28_series/28.808/28808-200.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TNO
+        - content: TNO
   role:
   - author
 revdate: '2021-03-17'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

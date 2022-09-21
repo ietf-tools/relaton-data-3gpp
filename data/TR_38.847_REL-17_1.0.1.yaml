@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.847-Rel-17/1.0.1
 title:
-- type: main
-  content: New frequency range for NR (47.2 – 48.2 GHz)
+- content: New frequency range for NR (47.2 – 48.2 GHz)
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.847/38847-101.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson Limited
+        - content: Ericsson Limited
   role:
   - author
 revdate: '2021-09-07'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

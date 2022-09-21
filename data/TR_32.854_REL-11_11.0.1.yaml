@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR32.854-Rel-11/11.0.1
 title:
-- type: main
-  content: Telecommunication management; Fixed Mobile Convergence (FMC) 3GPP / TM
+- content: Telecommunication management; Fixed Mobile Convergence (FMC) 3GPP / TM
     Forum concrete model relationships and use cases
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.854/32854-b01.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Siemens Networks LLC
+        - content: Nokia Siemens Networks LLC
   role:
   - author
 revdate: '2013-01-08'
@@ -61,7 +62,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

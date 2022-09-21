@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS32.175-Rel-6/6.2.0
 title:
-- type: main
-  content: 'Telecommunication management; Subscription Management (SuM) Network Resource
+- content: 'Telecommunication management; Subscription Management (SuM) Network Resource
     Model (NRM) Integration Reference Point (IRP): eXtensible Markup Language (XML)
     definition'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.175/32175-620.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Deutsche Telekom AG
+        - content: Deutsche Telekom AG
   role:
   - author
 revdate: '2006-03-20'
@@ -65,7 +66,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

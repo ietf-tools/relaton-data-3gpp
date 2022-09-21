@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS02.16-Ph1/3.0.1
 title:
-- type: main
-  content: International Mobile Station Equipment Identities (IMEI)
+- content: International Mobile Station Equipment Identities (IMEI)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/02_series/02.16/0216-301.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NOKIA UK R&D Ltd
+        - content: NOKIA UK R&D Ltd
   role:
   - author
 revdate: '1995-01-01'
@@ -56,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1

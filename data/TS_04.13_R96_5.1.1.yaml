@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS04.13-R96/5.1.1
 title:
-- type: main
-  content: Performance Requirements on Mobile Radio Interface
+- content: Performance Requirements on Mobile Radio Interface
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/04_series/04.13/0413-511.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2000-11-28'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

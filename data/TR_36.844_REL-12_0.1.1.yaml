@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.844-Rel-12/0.1.1
 title:
-- type: main
-  content: Study on expansion of LTE in the 1670-1675 MHz Band for the United States
+- content: Study on expansion of LTE in the 1670-1675 MHz Band for the United States
     to include 1670-1680 MHz Band
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 36.844:Rel-12/0.1.1
@@ -17,8 +17,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -41,7 +42,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ligado Networks
+        - content: Ligado Networks
   role:
   - author
 biblionote:
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

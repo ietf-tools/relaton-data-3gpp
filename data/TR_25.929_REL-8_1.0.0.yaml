@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.929-Rel-8/1.0.0
 title:
-- type: main
-  content: Continuous connectivity for packet data users; 1.28 Mcps TDD
+- content: Continuous connectivity for packet data users; 1.28 Mcps TDD
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.929/25929-100.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TD Tech Ltd
+        - content: TD Tech Ltd
   role:
   - author
 revdate: '2008-12-12'
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

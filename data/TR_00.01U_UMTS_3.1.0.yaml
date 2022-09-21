@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR00.01U-UMTS/3.1.0
 title:
-- type: main
-  content: Work programme for the standardization of Universal Mobile Telecommunications
+- content: Work programme for the standardization of Universal Mobile Telecommunications
     System (UMTS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/00_series/00.01U/0001U-310.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - PHILIPS CONSUMER COMMUNICATION
+        - content: PHILIPS CONSUMER COMMUNICATION
   role:
   - author
 revdate: '1996-05-21'
@@ -60,7 +61,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SMG5

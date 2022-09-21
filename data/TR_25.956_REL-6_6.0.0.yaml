@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR25.956-Rel-6/6.0.0
 title:
-- type: main
-  content: Universal Terrestrial Radio Access (UTRA) repeater planning guidelines
+- content: Universal Terrestrial Radio Access (UTRA) repeater planning guidelines
     and system analysis
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.956/25956-600.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TELEFONICA S.A.
+        - content: TELEFONICA S.A.
   role:
   - author
 revdate: '2005-01-05'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

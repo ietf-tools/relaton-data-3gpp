@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.988-Rel-14/14.0.0
 title:
-- type: main
-  content: Study on alternatives to E.164 for Machine-Type Communications (MTC)
+- content: Study on alternatives to E.164 for Machine-Type Communications (MTC)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.988/22988-e00.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - T-Mobile USA Inc.
+        - content: T-Mobile USA Inc.
   role:
   - author
 revdate: '2017-04-05'
@@ -58,7 +59,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

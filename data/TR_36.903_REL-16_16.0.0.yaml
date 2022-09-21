@@ -1,11 +1,14 @@
 ---
 id: 3GPPTR36.903-Rel-16/16.0.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Derivation of test tolerances for
     Radio Resource Management (RRM) conformance tests
   format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/36_series/36.903/36903-g00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 36.903:Rel-16/16.0.0
@@ -13,13 +16,16 @@ docid:
   primary: true
 docnumber: TR 36.903:Rel-16/16.0.0
 date:
+- type: published
+  value: '2022-06-30'
 - type: confirmed
   value: '2011-09-30'
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -42,9 +48,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
+revdate: '2022-06-30'
 language:
 - en
 script:
@@ -54,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5

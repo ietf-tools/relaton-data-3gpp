@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR01.01U-UMTS/3.0.0
 title:
-- type: main
-  content: Universal Mobile Telecommunications System (UMTS); Objectives and overview
+- content: Universal Mobile Telecommunications System (UMTS); Objectives and overview
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 01.01U:UMTS/3.0.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP

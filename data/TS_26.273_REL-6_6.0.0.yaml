@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS26.273-Rel-6/6.0.0
 title:
-- type: main
-  content: ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband
+- content: ANSI-C code for the fixed-point Extended Adaptive Multi-Rate - Wideband
     (AMR-WB+) speech codec
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.273/26273-600.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2005-04-01'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4

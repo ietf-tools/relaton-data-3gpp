@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR25.850-Rel-4/0.0.2
 title:
-- type: main
-  content: UE positioning in UTRAN Iub/Iur protocol aspects
+- content: UE positioning in UTRAN Iub/Iur protocol aspects
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.850/25850-002.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Corporation
+        - content: Nokia Corporation
   role:
   - author
 revdate: '2000-12-21'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3

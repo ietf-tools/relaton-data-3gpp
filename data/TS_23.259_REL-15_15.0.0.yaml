@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS23.259-Rel-15/15.0.0
 title:
-- type: main
-  content: Personal Network Management (PNM); Procedures and information flows; Stage
+- content: Personal Network Management (PNM); Procedures and information flows; Stage
     2
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.259/23259-f00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Vodafone GmbH
+        - content: Vodafone GmbH
   role:
   - author
 revdate: '2018-10-16'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1

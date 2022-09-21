@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.823-Rel-9/1.0.0
 title:
-- type: main
-  content: Intra Domain Connection of RAN Nodes to Multiple CN Nodes
+- content: Intra Domain Connection of RAN Nodes to Multiple CN Nodes
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.823/23823-100.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2009-09-29'
@@ -61,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

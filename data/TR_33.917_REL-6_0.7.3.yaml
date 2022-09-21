@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.917-Rel-6/0.7.3
 title:
-- type: main
-  content: "(Universal) Subscriber Interface Module (U)SIM security reuse by peripheral
+- content: "(Universal) Subscriber Interface Module (U)SIM security reuse by peripheral
     devices on local interfaces"
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.917/33917-073.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Waiting for new Company
+        - content: Waiting for new Company
   role:
   - author
 revdate: '2003-11-03'
@@ -61,7 +62,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

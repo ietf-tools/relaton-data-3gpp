@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.899-Rel-6/0.5.0
 title:
-- type: main
-  content: Combining Circuit Switched (CS) bearers with IP Multimeida Subsystem (IMS)
+- content: Combining Circuit Switched (CS) bearers with IP Multimeida Subsystem (IMS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.899/23899-050.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Digital Fountain
+        - content: Digital Fountain
   role:
   - author
 revdate: '2004-12-03'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

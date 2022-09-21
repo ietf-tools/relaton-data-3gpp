@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS55.241-Rel-16/16.0.0
 title:
-- type: main
-  content: Specification of the GIA4 integrity algorithm for General Packet Radio
+- content: Specification of the GIA4 integrity algorithm for General Packet Radio
     Service (GPRS); GIA4 specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/55_series/55.241/55241-g00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2020-07-10'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

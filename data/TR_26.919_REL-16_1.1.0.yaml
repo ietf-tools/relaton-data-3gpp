@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR26.919-Rel-16/1.1.0
 title:
-- type: main
-  content: Study on media handling aspects of conversational services in 5G systems
+- content: Study on media handling aspects of conversational services in 5G systems
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.919/26919-110.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -35,7 +36,7 @@ contributor:
 - person:
     name:
       completename:
-        content: OYMAN, Ozgur
+        content: CURCIO, Igor
         language:
         - en
         script:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Nokia Corporation
   role:
   - author
 revdate: '2018-07-17'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.742-Rel-16/0.4.0
 title:
-- type: main
-  content: Study on Enhancements to the Service-Based Architecture
+- content: Study on Enhancements to the Service-Based Architecture
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.742/23742-040.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile US Research Cente
+        - content: China Mobile US Research Cente
   role:
   - author
 revdate: '2018-08-31'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

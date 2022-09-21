@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS22.179-Rel-13/0.2.0
 title:
-- type: main
-  content: Mission Critical Push to Talk (MCPTT); Stage 1
+- content: Mission Critical Push to Talk (MCPTT); Stage 1
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 22.179:Rel-13/0.2.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - U.S. Department of Commerce
+        - content: U.S. Department of Commerce
   role:
   - author
 language:
@@ -52,7 +53,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1

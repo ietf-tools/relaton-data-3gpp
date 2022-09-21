@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.760-Rel-15/0.1.0
 title:
-- type: main
-  content: LTE Advanced high power TDD UE (power class 2) for Rel-15
+- content: LTE Advanced high power TDD UE (power class 2) for Rel-15
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.760/36760-010.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HiSilicon Technologies Co. Ltd
+        - content: HiSilicon Technologies Co. Ltd
   role:
   - author
 revdate: '2017-11-17'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

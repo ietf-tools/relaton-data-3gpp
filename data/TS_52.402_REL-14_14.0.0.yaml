@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS52.402-Rel-14/14.0.0
 title:
-- type: main
-  content: Telecommunication management; Performance Management (PM); Performance
+- content: Telecommunication management; Performance Management (PM); Performance
     measurements - GSM
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/52_series/52.402/52402-e00.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies France
+        - content: Huawei Technologies France
   role:
   - author
 revdate: '2017-04-07'
@@ -59,7 +60,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

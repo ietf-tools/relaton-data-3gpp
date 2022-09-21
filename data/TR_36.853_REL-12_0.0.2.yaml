@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.853-Rel-12/0.0.2
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced
     3 Band Carrier Aggregation (CA) (3DL/1UL)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 36.853:Rel-12/0.0.2
@@ -14,8 +14,9 @@ docnumber: TR 36.853:Rel-12/0.0.2
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - AT&T GNS Belgium SPRL
+        - content: AT&T GNS Belgium SPRL
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

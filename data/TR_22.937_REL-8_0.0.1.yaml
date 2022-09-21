@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR22.937-Rel-8/0.0.1
 title:
-- type: main
-  content: Requirements for service continuity between mobile and Wireless Local Area
+- content: Requirements for service continuity between mobile and Wireless Local Area
     Network (WLAN) networks
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.937/22937-001.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NEC Europe Ltd
+        - content: NEC Europe Ltd
   role:
   - author
 revdate: '2007-02-20'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

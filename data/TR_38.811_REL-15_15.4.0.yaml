@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.811-Rel-15/15.4.0
 title:
-- type: main
-  content: Study on New Radio (NR) to support non-terrestrial networks
+- content: Study on New Radio (NR) to support non-terrestrial networks
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.811/38811-f40.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - THALES
+        - content: THALES
   role:
   - author
 revdate: '2020-10-08'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP

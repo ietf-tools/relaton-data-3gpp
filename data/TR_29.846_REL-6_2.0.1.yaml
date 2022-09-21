@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR29.846-Rel-6/2.0.1
 title:
-- type: main
-  content: Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description
+- content: Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 29.846:Rel-6/2.0.1
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HUAWEI TECHNOLOGIES Co. Ltd.
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
   - author
 biblionote:
@@ -52,7 +53,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1

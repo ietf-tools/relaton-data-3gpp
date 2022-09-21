@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.717-04-01-Rel-17/0.0.1
 title:
-- type: main
-  content: Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x=4, 5) with
+- content: Rel-17 LTE inter-band Carrier Aggregation for x bands DL (x=4, 5) with
     1 band UL
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/36_series/36.717-04-01/36717-04-01-001.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 revdate: '2020-08-07'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

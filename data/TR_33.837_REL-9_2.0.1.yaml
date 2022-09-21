@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.837-Rel-9/2.0.1
 title:
-- type: main
-  content: Study of mechanisms for Protection against Unsolicited Communication for
+- content: Study of mechanisms for Protection against Unsolicited Communication for
     IMS (PUCI)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.837/33837-201.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NEC Europe Ltd
+        - content: NEC Europe Ltd
   role:
   - author
 revdate: '2009-12-12'
@@ -62,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

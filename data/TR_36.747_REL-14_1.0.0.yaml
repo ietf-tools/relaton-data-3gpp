@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.747-Rel-14/1.0.0
 title:
-- type: main
-  content: 'Enhanced CRS and 4Rx SU-MIMO Interference Mitigation Performance Requirements
+- content: 'Enhanced CRS and 4Rx SU-MIMO Interference Mitigation Performance Requirements
     for LTE '
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.747/36747-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HuaWei Technologies Co., Ltd
+        - content: HuaWei Technologies Co., Ltd
   role:
   - author
 revdate: '2017-05-27'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

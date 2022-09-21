@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS36.360-Rel-13/0.1.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-WLAN Aggregation
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-WLAN Aggregation
     Adaptation Protocol (LWAAP) specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.360/36360-010.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - content: LG Electronics Inc.
   role:
   - author
 revdate: '2016-03-07'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R2

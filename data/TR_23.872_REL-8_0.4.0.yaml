@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.872-Rel-8/0.4.0
 title:
-- type: main
-  content: Study on architecture of IP Multimedia Subsystem (IMS) based Customized
+- content: Study on architecture of IP Multimedia Subsystem (IMS) based Customized
     Alerting Tone (CAT)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.872/23872-040.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2008-05-21'
@@ -62,7 +63,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

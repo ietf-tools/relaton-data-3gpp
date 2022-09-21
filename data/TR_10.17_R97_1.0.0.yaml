@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR10.17-R97/1.0.0
 title:
-- type: main
-  content: General Packet Radio Service (GPRS); Charging in GPRS
+- content: General Packet Radio Service (GPRS); Charging in GPRS
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.17/1017-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Empower Interactive Group Ltd
+        - content: Empower Interactive Group Ltd
   role:
   - author
 revdate: '1998-03-20'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: "-"

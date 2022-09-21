@@ -1,11 +1,14 @@
 ---
 id: 3GPPTS34.229-3-Rel-16/16.6.0
 title:
-- type: main
-  content: 'Internet Protocol (IP) multimedia call control protocol based on Session
+- content: 'Internet Protocol (IP) multimedia call control protocol based on Session
     Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
     (UE) conformance specification; Part 3: Abstract test suite (ATS)'
   format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/34_series/34.229-3/34229-3-g60.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 34.229-3:Rel-16/16.6.0
@@ -13,13 +16,16 @@ docid:
   primary: true
 docnumber: TS 34.229-3:Rel-16/16.6.0
 date:
+- type: published
+  value: '2022-06-30'
 - type: confirmed
   value: '2010-04-11'
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -42,9 +48,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
+revdate: '2022-06-30'
 language:
 - en
 script:
@@ -54,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

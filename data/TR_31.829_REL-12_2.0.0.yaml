@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR31.829-Rel-12/2.0.0
 title:
-- type: main
-  content: Conformance requirements for IP Multimedia Services Identity Module (ISIM)
+- content: Conformance requirements for IP Multimedia Services Identity Module (ISIM)
     application test specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.829/31829-200.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Gemalto N.V.
+        - content: Gemalto N.V.
   role:
   - author
 revdate: '2015-06-21'
@@ -62,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C6

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.873-Rel-16/1.0.0
 title:
-- type: main
-  content: Study on optimizations of UE radio capability signalling; NR / Evolved
+- content: Study on optimizations of UE radio capability signalling; NR / Evolved
     Universal Terrestrial Radio Access Network (E-UTRAN) aspects
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/37_series/37.873/37873-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - MediaTek Inc.
+        - content: MediaTek Inc.
   role:
   - author
 revdate: '2019-03-11'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2

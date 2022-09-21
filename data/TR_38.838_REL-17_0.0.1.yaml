@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.838-Rel-17/0.0.1
 title:
-- type: main
-  content: Study on XR (Extended Reality) evaluations for NR
+- content: Study on XR (Extended Reality) evaluations for NR
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.838/38838-001.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: Qualcomm CDMA Technologies
   role:
   - author
 revdate: '2020-11-19'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

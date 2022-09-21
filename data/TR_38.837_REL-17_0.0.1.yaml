@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.837-Rel-17/0.0.1
 title:
-- type: main
-  content: UE RF Requirements for Transparent Tx Diversity (TxD) for NR
+- content: UE RF Requirements for Transparent Tx Diversity (TxD) for NR
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/38_series/38.837/38837-001.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - vivo Communication Technology
+        - content: vivo Communication Technology
   role:
   - author
 revdate: '2021-08-06'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR01.60-R97/1.0.0
 title:
-- type: main
-  content: GPRS requirements
+- content: GPRS requirements
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 01.60:R97/1.0.0
@@ -13,8 +13,9 @@ docnumber: TR 01.60:R97/1.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - TELECOM ITALIA S.p.A.
+        - content: TELECOM ITALIA S.p.A.
   role:
   - author
 language:
@@ -49,7 +50,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

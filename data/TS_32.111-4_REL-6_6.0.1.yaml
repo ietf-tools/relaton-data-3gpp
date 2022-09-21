@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS32.111-4-Rel-6/6.0.1
 title:
-- type: main
-  content: 'Telecommunication management; Fault Management; Part 4: Alarm Integration
+- content: 'Telecommunication management; Fault Management; Part 4: Alarm Integration
     Reference Point (IRP): Common Management Information Protocol (CMIP) Solution
     Set (SS)'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.111-4/32111-4-601.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2004-01-13'
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS28.511-Rel-14/0.1.0
 title:
-- type: main
-  content: Telecommunication management; Configuration Management (CM) for mobile
+- content: Telecommunication management; Configuration Management (CM) for mobile
     networks that include virtualized network functions; Procedures
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/28_series/28.511/28511-010.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ZTE Corporation
+        - content: ZTE Corporation
   role:
   - author
 revdate: '2015-11-10'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.811-Rel-7/0.4.1
 title:
-- type: main
-  content: Review of network selection principles
+- content: Review of network selection principles
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.811/22811-041.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Telefonica Germany GmbH
+        - content: Telefonica Germany GmbH
   role:
   - author
 revdate: '2005-05-09'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

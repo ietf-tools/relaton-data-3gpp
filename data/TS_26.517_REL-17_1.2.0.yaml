@@ -1,20 +1,27 @@
 ---
 id: 3GPPTS26.517-Rel-17/1.2.0
 title:
-- type: main
-  content: 5G Multicast-Broadcast User Services; Protocols and Formats
+- content: 5G Multicast-Broadcast User Services; Protocols and Formats
   format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.517/26517-120.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 26.517:Rel-17/1.2.0
   type: 3GPP
   primary: true
 docnumber: TS 26.517:Rel-17/1.2.0
+date:
+- type: published
+  value: '2022-08-04'
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -29,7 +36,7 @@ contributor:
 - person:
     name:
       completename:
-        content: STOCKHAMMER, Thomas
+        content: BRADBURY, Richard
         language:
         - en
         script:
@@ -37,9 +44,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: BBC
   role:
   - author
+revdate: '2022-08-04'
 language:
 - en
 script:
@@ -49,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4

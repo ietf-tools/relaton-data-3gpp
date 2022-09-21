@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR03.47-R99/8.0.0
 title:
-- type: main
-  content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and
+- content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and
     Mobile Services Switching Centre(s) (MSC)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 03.47:R99/8.0.0
@@ -14,8 +14,9 @@ docnumber: TR 03.47:R99/8.0.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 biblionote:
@@ -53,7 +54,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.827-Rel-16/16.1.0
 title:
-- type: main
-  content: Study on radiated metrics and test methodology for the verification of
+- content: Study on radiated metrics and test methodology for the verification of
     multi-antenna reception performance of NR User Equipment (UE)
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp//Specs/archive/38_series/38.827/38827-g10.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - vivo Communication Technology
+        - content: vivo Communication Technology
   role:
   - author
 revdate: '2021-01-10'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.716-01-01-Rel-16/0.10.0
 title:
-- type: main
-  content: NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) /
+- content: NR intra band Carrier Aggregation (CA) Rel-16 for xCC Down Link (DL) /
     yCC Up Link (UL) including contiguous and non-contiguous spectrum (x >= y)
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 38.716-01-01:Rel-16/0.10.0
@@ -14,8 +14,9 @@ docnumber: TR 38.716-01-01:Rel-16/0.10.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -38,7 +39,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 language:
@@ -47,7 +48,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

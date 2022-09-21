@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR37.902-Rel-11/11.0.1
 title:
-- type: main
-  content: Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals;
+- content: Measurements of User Equipment (UE) radio performances for LTE/UMTS terminals;
     Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/37_series/37.902/37902-b01.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CATR
+        - content: CATR
   role:
   - author
 revdate: '2012-12-19'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

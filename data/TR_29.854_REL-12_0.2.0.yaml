@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR29.854-Rel-12/0.2.0
 title:
-- type: main
-  content: Study on shared data update for multiple subscribers
+- content: Study on shared data update for multiple subscribers
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.854/29854-020.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - HuaWei Technologies Co., Ltd
+        - content: HuaWei Technologies Co., Ltd
   role:
   - author
 revdate: '2014-02-24'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

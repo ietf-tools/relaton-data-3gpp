@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS44.071-Rel-10/10.0.0
 title:
-- type: main
-  content: GSM/EDGE Location Services (LCS); Mobile radio interface layer 3 LCS specification
+- content: GSM/EDGE Location Services (LCS); Mobile radio interface layer 3 LCS specification
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 44.071:Rel-10/10.0.0
@@ -16,8 +16,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Anemone Technology
+        - content: Anemone Technology
   role:
   - author
 biblionote:
@@ -57,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: RP

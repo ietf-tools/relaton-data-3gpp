@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.898-Rel-7/2.0.0
 title:
-- type: main
-  content: Access Class Barring and Overload Protection (ACBOP)
+- content: Access Class Barring and Overload Protection (ACBOP)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.898/23898-200.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - DoCoMo Europe S.A.
+        - content: DoCoMo Europe S.A.
   role:
   - author
 revdate: '2005-03-21'
@@ -62,7 +63,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

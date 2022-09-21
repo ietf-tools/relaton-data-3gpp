@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS32.257-Rel-17/1.2.0
 title:
-- type: main
-  content: Telecommunication management; Charging management; Edge Computing domain
-    charging; stage 2
+- content: Telecommunication management; Charging management; Edge computing domain
+    charging
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/32_series/32.257/32257-120.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,13 +45,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Intel Corporation (UK) Ltd
   role:
   - author
 revdate: '2022-06-02'
-biblionote:
-- content: S5-223667
-  type: comment
 language:
 - en
 script:
@@ -60,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

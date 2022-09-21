@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR23.869-Rel-9/0.3.0
 title:
-- type: main
-  content: Support for Internet Protocol (IP) based IP Multimedia Subsystem (IMS)
+- content: Support for Internet Protocol (IP) based IP Multimedia Subsystem (IMS)
     Emergency calls over General Packet Radio Service (GPRS) and Evolved Packet Service
     (EPS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.869/23869-030.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent
+        - content: Alcatel-Lucent
   role:
   - author
 revdate: '2008-09-13'
@@ -60,7 +61,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

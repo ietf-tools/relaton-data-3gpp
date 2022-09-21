@@ -1,0 +1,64 @@
+---
+id: 3GPPTR22.890-Rel-19/19.0.0
+title:
+- content: Study on supporting railway smart station services
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TR 22.890:Rel-19/19.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 22.890:Rel-19/19.0.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: HAN, Andrew Min-gyu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Hansung University
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-09-21'
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: S6
+  type: other
+radiotechnology: 5G
+release:
+  version2g: j
+  version3g: j
+  defunct: false
+  wpm_code_2g: GSM_Release_19
+  wpm_code_3g: 3G4G5G_Rel-19
+  project_start: '2021-06-18'

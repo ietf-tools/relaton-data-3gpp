@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.878-Rel-13/13.0.0
 title:
-- type: main
-  content: Study on performance enhancements for high speed scenario in LTE
+- content: Study on performance enhancements for high speed scenario in LTE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.878/36878-d00.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies France
+        - content: Huawei Technologies France
   role:
   - author
 revdate: '2016-01-08'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

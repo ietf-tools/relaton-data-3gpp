@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.815-Rel-13/0.3.0
 title:
-- type: main
-  content: Study on Multimedia Broadcast Supplement for Public Warning System (MBSP)
+- content: Study on Multimedia Broadcast Supplement for Public Warning System (MBSP)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/22_series/22.815/22815-030.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm UK Ltd
+        - content: Qualcomm UK Ltd
   role:
   - author
 revdate: '2014-06-13'
@@ -65,7 +66,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR32.856-Rel-14/0.0.0
 title:
-- type: main
-  content: Study on Operations, Administration and Maintenance (OAM) support for assessment
+- content: Study on Operations, Administration and Maintenance (OAM) support for assessment
     of energy efficiency in mobile access networks
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.856/32856-000.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Orange
+        - content: Orange
   role:
   - author
 revdate: '2015-12-17'
@@ -62,7 +63,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

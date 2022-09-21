@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR31.901-Rel-12/0.4.0
 title:
-- type: main
-  content: Review of dedicated 3GPP UICC features (Red_UCe)
+- content: Review of dedicated 3GPP UICC features (Red_UCe)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/31_series/31.901/31901-040.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - BlackBerry UK Limited
+        - content: BlackBerry UK Limited
   role:
   - author
 revdate: '2014-08-01'
@@ -65,7 +66,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C6

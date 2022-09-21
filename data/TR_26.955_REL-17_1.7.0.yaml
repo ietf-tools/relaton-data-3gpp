@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR26.955-Rel-17/1.7.0
 title:
-- type: main
-  content: Video codec characteristics for 5G-based services and applications
+- content: Video codec characteristics for 5G-based services and applications
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/26_series/26.955/26955-170.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,13 +44,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm CDMA Technologies
+        - content: Qualcomm CDMA Technologies
   role:
   - author
 revdate: '2022-05-26'
-biblionote:
-- content: Initial version SA4-119e
-  type: comment
 language:
 - en
 script:
@@ -59,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

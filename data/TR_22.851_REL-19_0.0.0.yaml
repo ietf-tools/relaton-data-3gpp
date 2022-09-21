@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR22.851-Rel-19/0.0.0
 title:
-- type: main
-  content: Study on Network Sharing Aspects
+- content: Study on Network Sharing Aspects
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/22_series/22.851/22851-000.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Unicom
+        - content: China Unicom
   role:
   - author
 revdate: '2022-04-29'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1

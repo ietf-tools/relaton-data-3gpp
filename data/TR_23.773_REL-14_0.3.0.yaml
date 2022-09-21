@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.773-Rel-14/0.3.0
 title:
-- type: main
-  content: Study on group based enhancements in the network capability exposure functions
+- content: Study on group based enhancements in the network capability exposure functions
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.773/23773-030.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
 revdate: '2016-05-02'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

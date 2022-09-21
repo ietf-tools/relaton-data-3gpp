@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.743-Rel-16/16.0.0
 title:
-- type: main
-  content: Study on optimisations on UE radio capability signalling
+- content: Study on optimisations on UE radio capability signalling
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp//Specs/archive/23_series/23.743/23743-g00.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm UK Ltd
+        - content: Qualcomm UK Ltd
   role:
   - author
 revdate: '2019-03-28'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

@@ -1,20 +1,27 @@
 ---
 id: 3GPPTS28.538-Rel-17/17.1.0
 title:
-- type: main
-  content: Management and orchestration; Edge Computing Management
+- content: Management and orchestration; Edge Computing Management
   format: text/plain
+  type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.538/28538-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 28.538:Rel-17/17.1.0
   type: 3GPP
   primary: true
 docnumber: TS 28.538:Rel-17/17.1.0
+date:
+- type: published
+  value: '2022-06-16'
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,9 +44,10 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Samsung R&D Institute UK
+        - content: Samsung R&D Institute UK
   role:
   - author
+revdate: '2022-06-16'
 language:
 - en
 script:
@@ -49,7 +57,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

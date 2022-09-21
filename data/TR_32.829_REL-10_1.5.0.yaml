@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR32.829-Rel-10/1.5.0
 title:
-- type: main
-  content: Telecommunication management; Study on alignment of 3GPP alarm Integration
+- content: Telecommunication management; Study on alignment of 3GPP alarm Integration
     Reference Point (IRP) and TeleManagement Forum (TMF) Interface Program (TIP) fault
     management
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.829/32829-150.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent
+        - content: Alcatel-Lucent
   role:
   - author
 revdate: '2011-03-28'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

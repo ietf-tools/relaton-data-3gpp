@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR29.817-Rel-12/0.4.0
 title:
-- type: main
-  content: Study on eXtensible Markup Language (XML) based access of the Application
+- content: Study on eXtensible Markup Language (XML) based access of the Application
     Function (AF) to the Policy and Charging Rules Function (PCRF)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.817/29817-040.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent Deutschland AG
+        - content: Alcatel-Lucent Deutschland AG
   role:
   - author
 revdate: '2013-11-26'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3

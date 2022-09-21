@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR03.47-Ph2/4.2.0
 title:
-- type: main
-  content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and
+- content: Example Protocol Stacks for Interconnecting Service Centre(s) (SC) and
     Mobile Services Switching Centre(s) (MSC)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.47/0347-420.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Tech.(UK) Co.. Ltd
+        - content: Huawei Tech.(UK) Co.. Ltd
   role:
   - author
 revdate: '1993-10-01'
@@ -57,7 +58,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4

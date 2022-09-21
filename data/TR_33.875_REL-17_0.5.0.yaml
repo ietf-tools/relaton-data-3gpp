@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.875-Rel-17/0.5.0
 title:
-- type: main
-  content: Study on enhanced security aspects of the 5G Service Based Architecture
+- content: Study on enhanced security aspects of the 5G Service Based Architecture
     (eSBA)
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/33_series/33.875/33875-050.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 revdate: '2021-11-25'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

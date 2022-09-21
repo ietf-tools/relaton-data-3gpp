@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS36.440-Rel-9/9.1.1
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects
+- content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); General aspects
     and principles for interfaces supporting Multimedia Broadcast Multicast Service
     (MBMS) within E-UTRAN
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.440/36440-911.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent
+        - content: Alcatel-Lucent
   role:
   - author
 revdate: '2011-04-07'
@@ -65,7 +66,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R3

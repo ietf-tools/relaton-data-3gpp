@@ -1,0 +1,69 @@
+---
+id: 3GPPTS26.113-Rel-18/0.0.1
+title:
+- content: Enabler for Immersive Real-time Communication
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 26.113:Rel-18/0.0.1
+  type: 3GPP
+  primary: true
+docnumber: TS 26.113:Rel-18/0.0.1
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - author
+  - publisher
+- person:
+    name:
+      completename:
+        content: JUNG, Kyunghun
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Meta Ireland
+  role:
+  - author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+fetched: '2022-09-21'
+doctype: TS
+editorialgroup:
+- name: S4
+  type: prime
+radiotechnology: LTE
+release:
+  version2g: i
+  version3g: i
+  defunct: false
+  wpm_code_2g: GSM_Release_18
+  wpm_code_3g: 3G4G5G_Rel-18
+  freeze_meeting: SA#102
+  freeze_stage1_meeting: SA#94-e
+  freeze_stage2_meeting: SA#99
+  freeze_stage3_meeting: SA#102
+  project_start: '2019-09-16'

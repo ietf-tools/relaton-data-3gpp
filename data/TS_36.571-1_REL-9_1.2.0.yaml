@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS36.571-1-Rel-9/1.2.0
 title:
-- type: main
-  content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
+- content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; UE positioning in E-UTRA; Part 1: Minimum Performance
     conformance'
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 36.571-1:Rel-9/1.2.0
@@ -15,8 +15,9 @@ docnumber: TS 36.571-1:Rel-9/1.2.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -39,7 +40,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Spirent Communications
+        - content: Spirent Communications
   role:
   - author
 biblionote:
@@ -54,7 +55,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

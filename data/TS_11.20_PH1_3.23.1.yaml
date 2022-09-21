@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS11.20-Ph1/3.23.1
 title:
-- type: main
-  content: GSM DCS 1800 Base Station Specification
+- content: GSM DCS 1800 Base Station Specification
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/11_series/11.20/1120-3n1.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - " "
+        - content: " "
   role:
   - author
 revdate: '1996-12-13'
@@ -56,7 +57,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: GP

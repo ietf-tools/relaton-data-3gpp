@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.883-Rel-9/0.4.0
 title:
-- type: main
-  content: Study on enhancements to IMS Centralized Services (ICS)
+- content: Study on enhancements to IMS Centralized Services (ICS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.883/23883-040.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Cisco Systems Belgium
+        - content: Cisco Systems Belgium
   role:
   - author
 revdate: '2009-05-20'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

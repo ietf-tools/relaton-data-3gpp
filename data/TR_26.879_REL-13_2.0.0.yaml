@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR26.879-Rel-13/2.0.0
 title:
-- type: main
-  content: Mission Critical Push To Talk (MCPTT); Media, codecs and Multimedia Broadcast/Multicast
+- content: Mission Critical Push To Talk (MCPTT); Media, codecs and Multimedia Broadcast/Multicast
     Service (MBMS) enhancements for MCPTT over LTE
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.879/26879-200.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2015-12-02'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

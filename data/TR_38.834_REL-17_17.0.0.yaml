@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.834-Rel-17/17.0.0
 title:
-- type: main
-  content: Measurements of User Equipment (UE) Over-the-Air (OTA) performance for
+- content: Measurements of User Equipment (UE) Over-the-Air (OTA) performance for
     NR FR1; Total Radiated Power (TRP) and Total Radiated Sensitivity (TRS) test methodology
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.834/38834-h00.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - OPPO
+        - content: OPPO
   role:
   - author
 revdate: '2022-04-01'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

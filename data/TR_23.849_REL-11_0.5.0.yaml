@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.849-Rel-11/0.5.0
 title:
-- type: main
-  content: Study on Stage 2 aspects of Optimised Service Charging and Allocation of
+- content: Study on Stage 2 aspects of Optimised Service Charging and Allocation of
     Resources (OSCAR) in the IP Multimedia Subsystem (IMS) whilst roaming
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.849/23849-050.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - BlackBerry UK Limited
+        - content: BlackBerry UK Limited
   role:
   - author
 revdate: '2011-10-25'
@@ -58,7 +59,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

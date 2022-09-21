@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS35.231-Rel-15/15.0.0
 title:
-- type: main
-  content: 'Specification of the TUAK algorithm set: A second example algorithm set
+- content: 'Specification of the TUAK algorithm set: A second example algorithm set
     for the 3GPP authentication and key generation functions f1, f1*, f2, f3, f4,
     f5 and f5*; Document 1: Algorithm specification'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/35_series/35.231/35231-f00.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2018-06-22'
@@ -60,7 +61,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3

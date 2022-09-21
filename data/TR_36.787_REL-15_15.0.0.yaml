@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR36.787-Rel-15/15.0.0
 title:
-- type: main
-  content: Vehicle-to-Everything (V2X) new band combinations
+- content: Vehicle-to-Everything (V2X) new band combinations
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.787/36787-f00.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics Inc.
+        - content: LG Electronics Inc.
   role:
   - author
 revdate: '2018-07-09'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

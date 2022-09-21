@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR28.825-Rel-17/17.0.0
 title:
-- type: main
-  content: Management and orchestration; Study on management aspects of 5G network
+- content: Management and orchestration; Study on management aspects of 5G network
     sharing
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.825/28825-h00.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Unicom
+        - content: China Unicom
   role:
   - author
 revdate: '2021-12-22'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

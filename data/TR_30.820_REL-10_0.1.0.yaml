@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR30.820-Rel-10/0.1.0
 title:
-- type: main
-  content: Telecommunication management; Project scheduling and open issues for SA5,
+- content: Telecommunication management; Project scheduling and open issues for SA5,
     Release 10
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 30.820:Rel-10/0.1.0
@@ -17,8 +17,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -41,7 +42,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 language:
@@ -50,7 +51,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

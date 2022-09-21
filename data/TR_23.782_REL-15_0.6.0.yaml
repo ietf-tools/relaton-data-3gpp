@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.782-Rel-15/0.6.0
 title:
-- type: main
-  content: Study on mission critical communication interworking between LTE and non-LTE
+- content: Study on mission critical communication interworking between LTE and non-LTE
     systems
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.782/23782-060.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - L3Harris Technologies
+        - content: L3Harris Technologies
   role:
   - author
 revdate: '2017-05-18'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6

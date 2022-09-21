@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.700-87-Rel-18/0.3.0
 title:
-- type: main
-  content: Study on system architecture enhancement for next generation real time
+- content: Study on system architecture enhancement for next generation real time
     communication
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-87/23700-87-030.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,20 +45,17 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2022-05-31'
-biblionote:
-- content: Updated with P-CRs approved at SA2#151-e
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

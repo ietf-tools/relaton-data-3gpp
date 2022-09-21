@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR10.68-R99/1.22.0
 title:
-- type: main
-  content: 'Introduction to the services: enhanced Multi-Level Precedence and Pre-emption
+- content: 'Introduction to the services: enhanced Multi-Level Precedence and Pre-emption
     (eMLPP), Voice Group Call Service (VGCS), Voice Broadcast Service (VBS)'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/10_series/10.68/1068-1m0.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - KPN N.V.
+        - content: KPN N.V.
   role:
   - author
 revdate: '2000-04-01'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

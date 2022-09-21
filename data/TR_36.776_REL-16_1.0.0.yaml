@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.776-Rel-16/1.0.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on LTE-based
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on LTE-based
     5G terrestrial broadcast
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.776/36776-100.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm Incorporated
+        - content: Qualcomm Incorporated
   role:
   - author
 revdate: '2018-11-27'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR32.862-Rel-13/0.2.0
 title:
-- type: main
-  content: Study on Key Quality Indicators (KQIs) for service experience
+- content: Study on Key Quality Indicators (KQIs) for service experience
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.862/32862-020.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -45,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Huawei Technologies Sweden AB
+        - content: Huawei Technologies Sweden AB
   role:
   - author
 revdate: '2015-05-22'
@@ -55,7 +56,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

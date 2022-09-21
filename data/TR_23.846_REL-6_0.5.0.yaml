@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.846-Rel-6/0.5.0
 title:
-- type: main
-  content: Multimedia Broadcast/Multicast Service (MBMS); Stage 2
+- content: Multimedia Broadcast/Multicast Service (MBMS); Stage 2
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.846/23846-050.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NOKIA UK R&D Ltd
+        - content: NOKIA UK R&D Ltd
   role:
   - author
 revdate: '2002-05-22'
@@ -56,7 +57,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

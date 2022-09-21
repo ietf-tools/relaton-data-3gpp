@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.746-Rel-14/0.2.1
 title:
-- type: main
-  content: Study on further enhancements to LTE Device to Device (D2D), UE to network
+- content: Study on further enhancements to LTE Device to Device (D2D), UE to network
     relays for Internet of Things (IoT) and wearables
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.746/36746-021.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - LG Electronics France
+        - content: LG Electronics France
   role:
   - author
 revdate: '2016-10-31'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2

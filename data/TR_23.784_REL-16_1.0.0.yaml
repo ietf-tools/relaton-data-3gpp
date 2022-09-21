@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR23.784-Rel-16/1.0.0
 title:
-- type: main
-  content: Study on discreet listening and logging for mission critical services
+- content: Study on discreet listening and logging for mission critical services
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.784/23784-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Motorola Solutions UK Ltd.
+        - content: Motorola Solutions UK Ltd.
   role:
   - author
 revdate: '2019-03-14'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6

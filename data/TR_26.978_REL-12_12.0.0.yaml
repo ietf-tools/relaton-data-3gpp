@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR26.978-Rel-12/12.0.0
 title:
-- type: main
-  content: Results of the Adaptive Multi-Rate (AMR) noise suppression selection phase
+- content: Results of the Adaptive Multi-Rate (AMR) noise suppression selection phase
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/26_series/26.978/26978-c00.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ETSI
+        - content: ETSI
   role:
   - author
 revdate: '2014-09-26'
@@ -65,7 +66,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

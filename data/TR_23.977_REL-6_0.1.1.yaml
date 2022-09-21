@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.977-Rel-6/0.1.1
 title:
-- type: main
-  content: Bandwidth And Resource Savings (BARS) and speech enhancements for Circuit
+- content: Bandwidth And Resource Savings (BARS) and speech enhancements for Circuit
     Switched (CS) networks
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.977/23977-011.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Deutsche Telekom AG
+        - content: Deutsche Telekom AG
   role:
   - author
 revdate: '2003-07-30'
@@ -64,7 +65,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

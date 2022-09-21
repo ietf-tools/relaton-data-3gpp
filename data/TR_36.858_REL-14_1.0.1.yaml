@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.858-Rel-14/1.0.1
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE 2.6 GHz FDD SDL
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE 2.6 GHz FDD SDL
     band (2570-2620 MHz)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.858/36858-101.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Orange
+        - content: Orange
   role:
   - author
 revdate: '2016-06-23'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

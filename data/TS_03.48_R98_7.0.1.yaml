@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS03.48-R98/7.0.1
 title:
-- type: main
-  content: Security mechanisms for SIM application toolkit; Stage 2
+- content: Security mechanisms for SIM application toolkit; Stage 2
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/03_series/03.48/0348-701.zip
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6

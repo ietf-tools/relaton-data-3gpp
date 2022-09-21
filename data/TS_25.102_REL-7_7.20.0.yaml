@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS25.102-Rel-7/7.20.0
 title:
-- type: main
-  content: User Equipment (UE) radio transmission and reception (TDD)
+- content: User Equipment (UE) radio transmission and reception (TDD)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/25_series/25.102/25102-7k0.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ROHDE & SCHWARZ
+        - content: ROHDE & SCHWARZ
   role:
   - author
 revdate: '2011-04-12'
@@ -67,7 +68,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R4

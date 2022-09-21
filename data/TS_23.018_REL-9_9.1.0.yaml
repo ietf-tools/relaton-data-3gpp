@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS23.018-Rel-9/9.1.0
 title:
-- type: main
-  content: Basic call handling; Technical realization
+- content: Basic call handling; Technical realization
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.018/23018-910.zip
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -47,7 +48,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Alcatel-Lucent
+        - content: Alcatel-Lucent
   role:
   - author
 revdate: '2010-04-06'
@@ -63,7 +64,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4

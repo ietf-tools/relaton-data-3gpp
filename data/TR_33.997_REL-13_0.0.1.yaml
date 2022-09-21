@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR33.997-Rel-13/0.0.1
 title:
-- type: main
-  content: Study on isolated E-UTRAN operation for public safety; Security aspects
+- content: Study on isolated E-UTRAN operation for public safety; Security aspects
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TR 33.997:Rel-13/0.0.1
@@ -13,8 +13,9 @@ docnumber: TR 33.997:Rel-13/0.0.1
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - General Dynamics UK Limited
+        - content: General Dynamics UK Limited
   role:
   - author
 language:
@@ -49,7 +50,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

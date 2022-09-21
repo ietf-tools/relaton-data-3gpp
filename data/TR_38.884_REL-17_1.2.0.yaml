@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR38.884-Rel-17/1.2.0
 title:
-- type: main
-  content: Study on enhanced test methods for Frequency Range 2 (FR2) NR User Equipment
+- content: Study on enhanced test methods for Frequency Range 2 (FR2) NR User Equipment
     (UE)
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/38_series/38.884/38884-120.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Apple Italia S.R.L.
+        - content: Apple Italia S.R.L.
   role:
   - author
 revdate: '2021-11-23'
@@ -54,7 +55,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

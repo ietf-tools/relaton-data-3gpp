@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS29.171-Rel-9/9.4.0
 title:
-- type: main
-  content: Location Services (LCS); LCS Application Protocol (LCS-AP) between the
+- content: Location Services (LCS); LCS Application Protocol (LCS-AP) between the
     Mobile Management Entity (MME) and Evolved Serving Mobile Location Centre (E-SMLC);
     SLs interface
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/29_series/29.171/29171-940.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2011-06-15'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4

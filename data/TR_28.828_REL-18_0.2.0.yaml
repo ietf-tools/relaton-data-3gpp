@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR28.828-Rel-18/0.2.0
 title:
-- type: main
-  content: Study on charging aspects for enhanced support of non-public networks
+- content: Study on charging aspects for enhanced support of non-public networks
   format: text/plain
+  type: main
 link:
 - content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.828/28828-020.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,20 +44,17 @@ contributor:
     affiliation:
     - organization:
         name:
-        - China Mobile Com. Corporation
+        - content: China Mobile Com. Corporation
   role:
   - author
 revdate: '2022-06-03'
-biblionote:
-- content: S5-223671
-  type: comment
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR33.895-Rel-12/0.12.0
 title:
-- type: main
-  content: Study on Security aspects of integration of Single Sign-On (SSO) frameworks
+- content: Study on Security aspects of integration of Single Sign-On (SSO) frameworks
     with 3GPP operator-controlled resources and mechanisms
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/33_series/33.895/33895-0c0.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Ericsson LM
+        - content: Ericsson LM
   role:
   - author
 revdate: '2015-05-22'
@@ -59,7 +60,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3

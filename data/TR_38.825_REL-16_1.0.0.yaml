@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR38.825-Rel-16/1.0.0
 title:
-- type: main
-  content: Study on NR industrial Internet of Things (IoT)
+- content: Study on NR industrial Internet of Things (IoT)
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/38_series/38.825/38825-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 revdate: '2019-03-11'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2

@@ -1,11 +1,11 @@
 ---
 id: 3GPPTR32.828-Rel-10/1.2.1
 title:
-- type: main
-  content: Telecommunication management; Study on alignment of 3GPP generic Network
+- content: Telecommunication management; Study on alignment of 3GPP generic Network
     Resource Model (NRM) Integration Reference Point (IRP) and the TeleManagement
     Forum (TMF) Shared Information/Data (SID) model
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.828/32828-121.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Networks
+        - content: Nokia Networks
   role:
   - author
 revdate: '2010-10-05'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

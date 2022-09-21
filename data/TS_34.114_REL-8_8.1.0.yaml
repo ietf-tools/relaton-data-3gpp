@@ -1,10 +1,10 @@
 ---
 id: 3GPPTS34.114-Rel-8/8.1.0
 title:
-- type: main
-  content: User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance;
+- content: User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance;
     Conformance testing
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/34_series/34.114/34114-810.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - ROHDE & SCHWARZ
+        - content: ROHDE & SCHWARZ
   role:
   - author
 revdate: '2009-03-19'
@@ -61,7 +62,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5

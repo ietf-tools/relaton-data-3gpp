@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR26.803-Rel-17/0.2.1
 title:
-- type: main
-  content: Study on 5G Media Streaming Extensions for Edge Processing
+- content: Study on 5G Media Streaming Extensions for Edge Processing
   format: text/plain
+  type: main
 link:
 - content: https://ftp.3gpp.org//Specs/archive/26_series/26.803/26803-021.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm Incorporated
+        - content: Qualcomm Incorporated
   role:
   - author
 revdate: '2020-11-03'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4

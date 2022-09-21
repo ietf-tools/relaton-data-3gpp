@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR24.879-Rel-7/2.0.0
 title:
-- type: main
-  content: Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS)
+- content: Combining Circuit-Switched (CS) calls and IP Multimedia Subsystem  (IMS)
     sessions
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/24_series/24.879/24879-200.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 revdate: '2006-03-20'
@@ -59,7 +60,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1

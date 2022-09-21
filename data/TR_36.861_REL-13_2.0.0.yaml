@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.861-Rel-13/2.0.0
 title:
-- type: main
-  content: 'Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010
+- content: 'Technical Report for Study Item: Study on LTE FDD in the bands 1980-2010
     MHz and 2170-2200 MHz'
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.861/36861-200.zip
   type: src
@@ -20,8 +20,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -44,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - KT Corp.
+        - content: KT Corp.
   role:
   - author
 revdate: '2015-12-09'
@@ -57,7 +58,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

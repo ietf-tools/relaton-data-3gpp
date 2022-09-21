@@ -1,9 +1,9 @@
 ---
 id: 3GPPTR28.803-Rel-16/1.0.0
 title:
-- type: main
-  content: Telecommunication management;Study on management aspects of edge computing
+- content: Telecommunication management;Study on management aspects of edge computing
   format: text/plain
+  type: main
 link:
 - content: http://ftp.3gpp.org//Specs/archive/28_series/28.803/28803-100.zip
   type: src
@@ -19,8 +19,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -43,7 +44,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Intel Corporation (UK) Ltd
+        - content: Intel Corporation (UK) Ltd
   role:
   - author
 revdate: '2019-05-28'
@@ -53,7 +54,7 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5

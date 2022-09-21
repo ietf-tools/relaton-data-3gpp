@@ -1,11 +1,11 @@
 ---
 id: 3GPPTS32.594-Rel-12/12.0.0
 title:
-- type: main
-  content: Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration,
+- content: Telecommunication management; Home enhanced Node B (HeNB) Operations, Administration,
     Maintenance and Provisioning (OAM&P); XML definitions for Type 1 interface HeNB
     to HeNB Management System (HeMS)
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/32_series/32.594/32594-c00.zip
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -49,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Germany
+        - content: Nokia Germany
   role:
   - author
 revdate: '2013-12-20'
@@ -62,7 +63,7 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5

@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR23.836-Rel-7/1.0.0
 title:
-- type: main
-  content: Quality of Service (QoS) and policy aspects of 3GPP - Wirless Local Area
+- content: Quality of Service (QoS) and policy aspects of 3GPP - Wirless Local Area
     Network (WLAN) interworking
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.836/23836-100.zip
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -48,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Qualcomm Incorporated
+        - content: Qualcomm Incorporated
   role:
   - author
 revdate: '2005-12-12'
@@ -68,7 +69,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2

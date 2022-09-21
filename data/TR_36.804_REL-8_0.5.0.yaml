@@ -1,10 +1,10 @@
 ---
 id: 3GPPTR36.804-Rel-8/0.5.0
 title:
-- type: main
-  content: Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS)
+- content: Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station (BS)
     radio transmission and reception
   format: text/plain
+  type: main
 link:
 - content: http://www.3gpp.org/ftp/Specs/archive/36_series/36.804/36804-050.zip
   type: src
@@ -22,8 +22,9 @@ date:
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -46,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nanjing Ericsson Panda Com Ltd
+        - content: Nanjing Ericsson Panda Com Ltd
   role:
   - author
 revdate: '2007-07-05'
@@ -64,7 +65,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4

@@ -1,9 +1,9 @@
 ---
 id: 3GPPTS09.01U-UMTS/2.5.0
 title:
-- type: main
-  content: 'UMS Security as[ects; Part 01: Security aspects for UMS'
+- content: 'UMS Security as[ects; Part 01: Security aspects for UMS'
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: 3GPP TS 09.01U:UMTS/2.5.0
@@ -13,8 +13,9 @@ docnumber: TS 09.01U:UMTS/2.5.0
 contributor:
 - organization:
     name:
-    - 3rd Generation Partnership Project
-    abbreviation: 3GPP
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
     contact:
     - address:
         street:
@@ -37,7 +38,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VODAFONE Group Plc
+        - content: VODAFONE Group Plc
   role:
   - author
 biblionote:
@@ -52,7 +53,7 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-07-20'
+fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: SMG5
