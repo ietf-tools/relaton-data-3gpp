@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS55.226-Rel-6/0.1.0
+schema-version: v1.2.1
+id: TS55.226-Rel-6-0.1.0
 title:
 - content: 3G Security; Specification of the A5/4 Encryption Algorithms for GSM and
     ECSD, and the GEA4 Encryption Algorithm for GPRS
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: NEC Europe Ltd
   role:
-  - author
+  - type: author
 revdate: '2006-01-30'
 biblionote:
 - content: 'SP-23: likely that this will -> Rel-7.  SP-24: agreed to shift to Rel-7.'
@@ -63,11 +64,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

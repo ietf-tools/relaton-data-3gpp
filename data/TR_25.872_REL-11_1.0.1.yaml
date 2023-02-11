@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.872-Rel-11/1.0.1
+schema-version: v1.2.1
+id: TR25.872-Rel-11-1.0.1
 title:
 - content: High Speed Packet Access (HSDPA) multipoint transmission
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 revdate: '2011-09-26'
 language:
 - en
@@ -58,13 +59,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R2, R3
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.846-Rel-6/2.0.1
+schema-version: v1.2.1
+id: TR29.846-Rel-6-2.0.1
 title:
 - content: Multimedia Broadcast/Multicast Service (MBMS); CN1 procedure description
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 biblionote:
 - content: NP-040368
   type: comment
@@ -53,11 +54,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

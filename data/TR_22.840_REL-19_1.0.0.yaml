@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: TR22.840-Rel-19-1.0.0
+title:
+- content: Study on Ambient power-enabled Internet of Things
+  format: text/plain
+  type: main
+link:
+- content: https://ftp.3gpp.org//Specs/archive/22_series/22.840/22840-100.zip
+  type: src
+type: standard
+docid:
+- id: 3GPP TR 22.840:Rel-19/1.0.0
+  type: 3GPP
+  primary: true
+docnumber: TR 22.840:Rel-19/1.0.0
+date:
+- type: published
+  value: '2022-12-07'
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: SO, Tricci
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: ZTE Corporation
+  role:
+  - type: author
+revdate: '2022-12-07'
+language:
+- en
+script:
+- Latn
+place:
+- Sophia Antipolis Cedex, France
+doctype: TR
+editorialgroup:
+- name: S1
+  type: prime
+- name: S5
+  type: other
+ext:
+  schema-version: v1.0.1
+radiotechnology: 5G
+release:
+  version2g: j
+  version3g: j
+  defunct: false
+  wpm_code_2g: GSM_Release_19
+  wpm_code_3g: 3G4G5G_Rel-19
+  project_start: '2021-06-18'

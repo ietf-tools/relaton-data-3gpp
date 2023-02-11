@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.835-Rel-6/1.0.0
+schema-version: v1.2.1
+id: TR23.835-Rel-6-1.0.0
 title:
 - content: Study into applicability of Galileo in Location Services (LCS)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 revdate: '2003-05-28'
 biblionote:
 - content: 'SP-26: May turn out to be Rel-7, may be clearer at SP-27.'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

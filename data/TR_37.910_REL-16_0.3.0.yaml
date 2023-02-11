@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.910-Rel-16/0.3.0
+schema-version: v1.2.1
+id: TR37.910-Rel-16-0.3.0
 title:
 - content: Study on self evaluation towards IMT-2020 submission
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Huawei Technologies Sweden AB
   role:
-  - author
+  - type: author
 revdate: '2018-09-29'
 biblionote:
 - content: RP-182057
@@ -60,13 +61,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R2, R4, Ritu
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

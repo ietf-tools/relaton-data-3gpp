@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.406-Rel-7/7.2.0
+schema-version: v1.2.1
+id: TS23.406-Rel-7-7.2.0
 title:
 - content: TISPAN; IP Multimedia Subsystem (IMS); Stage 2 description [3GPP TS 23.228
     v7.2.0, modified]
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2008-09-24'
 language:
 - en
@@ -62,11 +63,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

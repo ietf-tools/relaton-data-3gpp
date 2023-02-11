@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.898-Rel-14/1.6.0
+schema-version: v1.2.1
+id: TR36.898-Rel-14-1.6.0
 title:
 - content: Network Assistance for Network Synchronization
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
-  - author
+  - type: author
 revdate: '2016-06-02'
 language:
 - en
@@ -54,11 +55,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS22.70U-UMTS/2.0.0
+schema-version: v1.2.1
+id: TS22.70U-UMTS-2.0.0
 title:
 - content: Virtual Home Environment
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: FUJITSU Laboratories of Europe
   role:
-  - author
+  - type: author
 biblionote:
 - content: "#25: 3.0.0"
   type: remark
@@ -55,13 +56,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"
   type: prime
 - name: SMG01
   type: former
+ext:
+  schema-version: v1.0.1
 release:
   version2g: '3'
   version3g: '3'

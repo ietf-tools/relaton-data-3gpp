@@ -1,15 +1,22 @@
 ---
-id: 3GPPTR23.700-89-Rel-18/18.0.0
+schema-version: v1.2.1
+id: TR23.700-89-Rel-18-18.0.0
 title:
-- content: Study on enhancement of 5G AM Policy
+- content: Study on 5G AM Policy
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/23_series/23.700-89/23700-89-i00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 23.700-89:Rel-18/18.0.0
   type: 3GPP
   primary: true
 docnumber: TR 23.700-89:Rel-18/18.0.0
+date:
+- type: published
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -25,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,18 +47,20 @@ contributor:
         name:
         - content: China Telecom Corporation Ltd.
   role:
-  - author
+  - type: author
+revdate: '2022-09-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: i

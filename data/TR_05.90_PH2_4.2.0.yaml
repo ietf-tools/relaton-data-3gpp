@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR05.90-Ph2/4.2.0
+schema-version: v1.2.1
+id: TR05.90-Ph2-4.2.0
 title:
 - content: GSM Electromagnetic Compatibility (EMC) considerations
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -53,13 +54,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
 - name: SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

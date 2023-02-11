@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS02.38-R96/1.2.0
+schema-version: v1.2.1
+id: TS02.38-R96-1.2.0
 title:
 - content: SIM application toolkit (SAT); Stage 1
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: BlackBerry UK Limited
   role:
-  - author
+  - type: author
 biblionote:
 - content: SMG P-99-379
   type: comment
@@ -53,7 +54,6 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
@@ -62,6 +62,8 @@ editorialgroup:
   type: other
 - name: S1  /  SMG09
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

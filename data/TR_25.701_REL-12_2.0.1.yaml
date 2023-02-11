@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.701-Rel-12/2.0.1
+schema-version: v1.2.1
+id: TR25.701-Rel-12-2.0.1
 title:
 - content: Study on scalable UMTS Frequency Division Duplex (FDD) bandwidth
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: China Unicom
   role:
-  - author
+  - type: author
 revdate: '2013-12-20'
 language:
 - en
@@ -58,13 +59,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

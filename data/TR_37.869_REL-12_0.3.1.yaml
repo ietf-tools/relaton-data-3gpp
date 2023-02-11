@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.869-Rel-12/0.3.1
+schema-version: v1.2.1
+id: TR37.869-Rel-12-0.3.1
 title:
 - content: Study on enhancements to Machine-Type Communications (MTC) and other mobile
     data applications; Radio Access Network (RAN) aspects
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: ZTE Corporation
   role:
-  - author
+  - type: author
 revdate: '2014-02-26'
 biblionote:
 - content: R2-133039
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

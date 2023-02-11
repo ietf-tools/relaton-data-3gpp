@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS25.324-R99/3.7.0
+schema-version: v1.2.1
+id: TS25.324-R99-3.7.0
 title:
 - content: Broadcast/Multicast Control (BMC)
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Qualcomm Incorporated
   role:
-  - author
+  - type: author
 revdate: '2003-03-25'
 language:
 - en
@@ -64,7 +65,6 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: RP
@@ -73,6 +73,8 @@ editorialgroup:
   type: other
 - name: R2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

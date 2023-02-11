@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.872-Rel-12/1.0.1
+schema-version: v1.2.1
+id: TR36.872-Rel-12-1.0.1
 title:
 - content: Small cell enhancements for E-UTRA and E-UTRAN - Physical layer aspects
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Huawei Telecommunication India
   role:
-  - author
+  - type: author
 revdate: '2013-09-12'
 biblionote:
 - content: RP-131321
@@ -61,13 +62,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
 - name: R2, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

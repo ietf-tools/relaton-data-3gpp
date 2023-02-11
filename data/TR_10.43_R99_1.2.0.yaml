@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR10.43-R99/1.2.0
+schema-version: v1.2.1
+id: TR10.43-R99-1.2.0
 title:
 - content: Support of Localised Service Area (SoLSA); Work Item Status
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 revdate: '1998-04-17'
 biblionote:
 - content: "#25: 1.11.0 #30b: 1.11.0 2001-April:Clayton: stopped."
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
 - name: SMG01
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

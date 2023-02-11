@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR11.15-R97/1.0.0
+schema-version: v1.2.1
+id: TR11.15-R97-1.0.0
 title:
 - content: Standardised Security Mechanisms for SIM Application Toolkit; Feasibility
     study
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 biblionote:
 - content: 1997-06
   type: comment
@@ -43,11 +44,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: smg9
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

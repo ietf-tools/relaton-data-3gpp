@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.892-Rel-6/0.3.1
+schema-version: v1.2.1
+id: TR25.892-Rel-6-0.3.1
 title:
 - content: Feasibility study for Orthogonal Frequency Division Multiplexing (OFDM)
     for UTRAN enhancement
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 revdate: '2003-09-05'
 language:
 - en
@@ -57,13 +58,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.776-Rel-17/0.2.0
+schema-version: v1.2.1
+id: TR23.776-Rel-17-0.2.0
 title:
 - content: Study on architecture enhancements for 3GPP support of advanced Vehicle-to-Everything
     (V2X) services; Phase 2
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: LG Electronics France
   role:
-  - author
+  - type: author
 revdate: '2020-09-03'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#140E
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

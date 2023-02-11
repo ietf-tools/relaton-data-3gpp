@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.813-Rel-12/1.3.0
+schema-version: v1.2.1
+id: TR37.813-Rel-12-1.3.0
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Study on
     LTE - High Rate Packet Data in 3GPP2 (HRPD) Inter-Radio-Access-Technology (RAT)
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: China Telecommunications
   role:
-  - author
+  - type: author
 revdate: '2013-08-01'
 language:
 - en
@@ -60,11 +61,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

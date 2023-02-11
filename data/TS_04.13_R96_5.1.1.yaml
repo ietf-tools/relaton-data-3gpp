@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS04.13-R96/5.1.1
+schema-version: v1.2.1
+id: TS04.13-R96-5.1.1
 title:
 - content: Performance Requirements on Mobile Radio Interface
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2000-11-28'
 biblionote:
 - content: "#18: 5.0.0  #20: 5.1.0"
@@ -60,13 +61,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
 - name: N1  /  SMG03A
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

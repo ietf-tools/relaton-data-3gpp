@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS24.237-Rel-9/9.13.0
+schema-version: v1.2.1
+id: TS24.237-Rel-9-9.13.0
 title:
 - content: IP Multimedia (IM) Core Network (CN) subsystem IP Multimedia Subsystem
     (IMS) service continuity; Stage 3
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Samsung R&D Institute India
   role:
-  - author
+  - type: author
 revdate: '2012-12-21'
 language:
 - en
@@ -62,11 +63,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

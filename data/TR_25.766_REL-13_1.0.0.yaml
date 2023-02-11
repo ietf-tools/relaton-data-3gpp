@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.766-Rel-13/1.0.0
+schema-version: v1.2.1
+id: TR25.766-Rel-13-1.0.0
 title:
 - content: Study on Network-Assisted Interference Cancellation and Suppression for
     UMTS
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2015-06-21'
 biblionote:
 - content: RP-150680
@@ -60,13 +61,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

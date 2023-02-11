@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.811-Rel-7/1.0.0
+schema-version: v1.2.1
+id: TR25.811-Rel-7-1.0.0
 title:
 - content: UMTS 2.6 GHz TDD Work Item Technical Report
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Sony Europe Limited
   role:
-  - author
+  - type: author
 revdate: '2005-09-15'
 biblionote:
 - content: RP-050428
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

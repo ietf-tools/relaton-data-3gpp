@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.868-Rel-11/0.7.0
+schema-version: v1.2.1
+id: TR33.868-Rel-11-0.7.0
 title:
 - content: Study on security aspects of Machine-Type Communications (MTC) and other
     mobile data applications communications enhancements
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Samsung R&D Institute UK
   role:
-  - author
+  - type: author
 revdate: '2012-03-08'
 biblionote:
 - content: 'SP-56: incomplete, so continues under new WID for Rel-12.'
@@ -67,11 +68,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: b

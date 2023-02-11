@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.832-Rel-9/0.3.1
+schema-version: v1.2.1
+id: TR23.832-Rel-9-0.3.1
 title:
 - content: IP Multimedia Subsystem (IMS) aspects of architecture for Home Node B (HNB);
     Stage 2
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 revdate: '2009-05-20'
 biblionote:
 - content: 'SP-47: timed out of Rel-9'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.868-Rel-12/2.0.0
+schema-version: v1.2.1
+id: TR36.868-Rel-12-2.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on group communication
     for E-UTRA
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: CATT
   role:
-  - author
+  - type: author
 revdate: '2014-03-10'
 biblionote:
 - content: R2-141027, RP-140183
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

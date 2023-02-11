@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.833-5-40-Rel-12/0.0.2
+schema-version: v1.2.1
+id: TR36.833-5-40-Rel-12-0.0.2
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced intra-band
     contiguous Carrier Aggregation (CA) in Band 40 for 3 downlinks (3DL)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: China Mobile Com. Corporation
   role:
-  - author
+  - type: author
 revdate: '2014-04-03'
 biblionote:
 - content: corrected to Rel-13 but still v0.0.1
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

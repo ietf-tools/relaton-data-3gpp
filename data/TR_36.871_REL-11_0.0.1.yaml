@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.871-Rel-11/0.0.1
+schema-version: v1.2.1
+id: TR36.871-Rel-11-0.0.1
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Downlink Multiple
     Input Multiple Output (MIMO) enhancement for LTE-Advanced
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Ofcom (U.K.)
   role:
-  - author
+  - type: author
 revdate: '2011-12-02'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

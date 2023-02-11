@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS36.457-Rel-17/17.0.0
+schema-version: v1.2.1
+id: TS36.457-Rel-17-17.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); SLm interface
     layer 1
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: TruePosition
   role:
-  - author
+  - type: author
 revdate: '2022-04-05'
 language:
 - en
@@ -60,11 +61,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: h

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.849-Rel-12/0.4.0
+schema-version: v1.2.1
+id: TR33.849-Rel-12-0.4.0
 title:
 - content: Study on subscriber privacy impact in 3GPP
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: China Unicom
   role:
-  - author
+  - type: author
 revdate: '2014-10-07'
 biblionote:
 - content: 'SP-65: timed out of Rel-12.'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: c

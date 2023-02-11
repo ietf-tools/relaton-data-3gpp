@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.01U-UMTS/1.0.0
+schema-version: v1.2.1
+id: TS23.01U-UMTS-1.0.0
 title:
 - content: General UMTS architecture
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: "#27: for info"
   type: remark
@@ -56,7 +57,6 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: SMG12
@@ -65,6 +65,8 @@ editorialgroup:
   type: other
 - name: SMG12
   type: former
+ext:
+  schema-version: v1.0.1
 release:
   version2g: '3'
   version3g: '3'

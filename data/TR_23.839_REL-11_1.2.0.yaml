@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.839-Rel-11/1.2.0
+schema-version: v1.2.1
+id: TR23.839-Rel-11-1.2.0
 title:
 - content: Study on support of Broadband Forum (BBF) access Interworking
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2011-07-22'
 biblionote:
 - content: 'SP-49: Work item timed out of Rel-10. SP-56: timed out of Rel-11.'
@@ -64,11 +65,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: b

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR31.901-Rel-12/0.5.0
+schema-version: v1.2.1
+id: TR31.901-Rel-12-0.5.0
 title:
 - content: Review of dedicated 3GPP UICC features (Red_UCe)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: BlackBerry UK Limited
   role:
-  - author
+  - type: author
 revdate: '2014-08-01'
 biblionote:
 - content: 'CP-66: timed out of Rel-12.'
@@ -66,11 +67,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C6
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

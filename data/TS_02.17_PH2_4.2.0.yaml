@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS02.17-Ph2/4.2.0
+schema-version: v1.2.1
+id: TS02.17-Ph2-4.2.0
 title:
 - content: Subscriber Identity Module (SIM); Functional characteristics
   format: text/plain
@@ -33,8 +34,22 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: L'HERITEAU, Denis
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Waiting for new Company
+  role:
+  - type: author
 revdate: '1993-06-25'
 biblionote:
 - content: 98/93, ex PT12 Jan 93
@@ -48,7 +63,6 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6
@@ -57,6 +71,8 @@ editorialgroup:
   type: other
 - name: SMG09  /  SMG01
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

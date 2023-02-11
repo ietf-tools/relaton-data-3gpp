@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR21.910-R99/3.0.0
+schema-version: v1.2.1
+id: TR21.910-R99-3.0.0
 title:
 - content: Multi-mode UE issues; categories, principles and procedures
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 revdate: '2000-03-15'
 biblionote:
 - content: 'TSG#7: 2.0.0, but not approved. Number changed to 21.810. TSG#8: Re-instated
@@ -61,13 +62,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
 - name: T2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

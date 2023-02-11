@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.914-Rel-10/10.0.0
+schema-version: v1.2.1
+id: TR25.914-Rel-10-10.0.0
 title:
 - content: Measurements of radio performances for UMTS terminals in speech mode
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2011-04-12'
 language:
 - en
@@ -61,11 +62,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.808-Rel-7/0.0.1
+schema-version: v1.2.1
+id: TR32.808-Rel-7-0.0.1
 title:
 - content: Telecommunication management; Study of Common Profile Storage (CPS) Framework
     of User Data for network services and management
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Huawei Technologies Sweden AB
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-36: WI is Rel-7, but draft presented for approval as Rel-8 because
     no extension granted to the WI.'
@@ -60,11 +61,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

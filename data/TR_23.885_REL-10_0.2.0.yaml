@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.885-Rel-10/0.2.0
+schema-version: v1.2.1
+id: TR23.885-Rel-10-0.2.0
 title:
 - content: Feasibility Study of Single Radio Voice Call Continuity (SRVCC) from UTRAN/GERAN
     to E-UTRAN/HSPA; Stage 2
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Orange SA
   role:
-  - author
+  - type: author
 revdate: '2010-03-30'
 biblionote:
 - content: 'SP-54: timed out to Rel-11.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: a

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.938-Rel-8/8.0.0
+schema-version: v1.2.1
+id: TR36.938-Rel-8-8.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Improved
     network controlled mobility between E-UTRAN and 3GPP2/mobile WiMAX radio technologies
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2008-03-20'
 biblionote:
 - content: V1.0.0 was approved at RP-38 but v8.0.0 not implemented till RP-39
@@ -65,13 +66,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
 - name: R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '8'

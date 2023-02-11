@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS43.020-Rel-14/14.0.0
+schema-version: v1.2.1
+id: TS43.020-Rel-14-14.0.0
 title:
 - content: Security related network functions
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2016-09-30'
 language:
 - en
@@ -59,7 +60,6 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
@@ -68,6 +68,8 @@ editorialgroup:
   type: other
 - name: SMG10  /  SMG03  /  SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: e

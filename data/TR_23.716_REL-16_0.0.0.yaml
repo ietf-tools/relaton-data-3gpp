@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.716-Rel-16/0.0.0
+schema-version: v1.2.1
+id: TR23.716-Rel-16-0.0.0
 title:
 - content: Study on the wireless and wireline convergence for the 5G System (5GS)
     architecture
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2017-09-04'
 biblionote:
 - content: 'S2-175623: ToC proposal (skeleton) at SA WG2#122BIS'
@@ -60,11 +61,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

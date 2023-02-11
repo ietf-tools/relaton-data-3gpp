@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.895-Rel-6/6.0.0
+schema-version: v1.2.1
+id: TR25.895-Rel-6-6.0.0
 title:
 - content: Analysis of higher chip rates for UTRA TDD evolution
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '2004-09-28'
 biblionote:
 - content: '2002-10-07: anticipate approval at RP-20. RP-23: anticipate approval RP-25.'
@@ -59,13 +60,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

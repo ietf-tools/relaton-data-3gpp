@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.804-Rel-6/0.3.2
+schema-version: v1.2.1
+id: TR25.804-Rel-6-0.3.2
 title:
 - content: Feasibility study on uplink enhancements for UTRA TDD
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: InterDigital Communications
   role:
-  - author
+  - type: author
 revdate: '2004-12-03'
 biblionote:
 - content: 'RP-25: estimate approval RP-26.'
@@ -61,13 +62,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.748-Rel-17/2.0.0
+schema-version: v1.2.1
+id: TR23.748-Rel-17-2.0.0
 title:
 - content: Study on enhancement of support for Edge Computing in 5G Core network (5GC)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2020-11-30'
 biblionote:
 - content: 'SP-200970: MCC editorial update for presentation to TSG SA#90E for approval'
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

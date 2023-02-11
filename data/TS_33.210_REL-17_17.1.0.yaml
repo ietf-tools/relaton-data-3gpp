@@ -1,9 +1,13 @@
 ---
-id: 3GPPTS33.210-Rel-17/17.1.0
+schema-version: v1.2.1
+id: TS33.210-Rel-17-17.1.0
 title:
 - content: Network Domain Security (NDS); IP network layer security
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.210/33210-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.210:Rel-17/17.1.0
@@ -11,6 +15,8 @@ docid:
   primary: true
 docnumber: TS 33.210:Rel-17/17.1.0
 date:
+- type: published
+  value: '2022-09-22'
 - type: confirmed
   value: '2002-03-12'
 contributor:
@@ -28,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +49,8 @@ contributor:
         name:
         - content: Juniper Networks
   role:
-  - author
+  - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:
@@ -53,11 +60,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.800-Rel-7/0.2.0
+schema-version: v1.2.1
+id: TR29.800-Rel-7-0.2.0
 title:
 - content: Signalling System No. 7 (SS7) Security Gateway; Architecture, functional
     description and protocol details
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,18 +45,19 @@ contributor:
         name:
         - content: Nokia Solutions & Networks (S)
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

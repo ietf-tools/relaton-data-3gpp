@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS36.211-Rel-8/1.2.2
+schema-version: v1.2.1
+id: TS36.211-Rel-8-1.2.2
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Physical channels
     and modulation
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: email circulation
   type: comment
@@ -57,11 +58,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '8'

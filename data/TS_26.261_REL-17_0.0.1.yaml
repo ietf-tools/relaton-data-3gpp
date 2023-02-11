@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS26.261-Rel-17/0.0.1
+schema-version: v1.2.1
+id: TS26.261-Rel-17-0.0.1
 title:
 - content: Terminal audio quality performance requirements for immersive audio services
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Orange
   role:
-  - author
+  - type: author
 revdate: '2019-04-26'
 biblionote:
 - content: S4-190543
@@ -60,11 +61,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

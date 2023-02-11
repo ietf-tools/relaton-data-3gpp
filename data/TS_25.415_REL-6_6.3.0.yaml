@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS25.415-Rel-6/6.3.0
+schema-version: v1.2.1
+id: TS25.415-Rel-6-6.3.0
 title:
 - content: UTRAN Iu interface user plane protocols
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2006-06-16'
 biblionote:
 - content: created for M.1457 update
@@ -68,13 +69,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R3
   type: prime
 - name: R3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

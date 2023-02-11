@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.912-Rel-9/2.0.0
+schema-version: v1.2.1
+id: TR36.912-Rel-9-2.0.0
 title:
 - content: Feasibility study for Further Advancements for E-UTRA (LTE-Advanced)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2009-09-02'
 biblionote:
 - content: R1-093736 = RT-090043 but history box not updated
@@ -64,13 +65,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
 - name: R1, R2, R3, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '9'

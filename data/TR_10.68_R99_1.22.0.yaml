@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR10.68-R99/1.22.0
+schema-version: v1.2.1
+id: TR10.68-R99-1.22.0
 title:
 - content: 'Introduction to the services: enhanced Multi-Level Precedence and Pre-emption
     (eMLPP), Voice Group Call Service (VGCS), Voice Broadcast Service (VBS)'
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: KPN N.V.
   role:
-  - author
+  - type: author
 revdate: '2000-04-01'
 language:
 - en
@@ -55,13 +56,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
 - name: SMG12
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

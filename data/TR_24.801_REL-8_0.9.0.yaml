@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR24.801-Rel-8/0.9.0
+schema-version: v1.2.1
+id: TR24.801-Rel-8-0.9.0
 title:
 - content: 3GPP System Architecture Evolution (SAE); CT WG1 aspects
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Intel Deutschland GmbH
   role:
-  - author
+  - type: author
 revdate: '2008-05-15'
 language:
 - en
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.240-Rel-5/0.4.1
+schema-version: v1.2.1
+id: TS23.240-Rel-5-0.4.1
 title:
 - content: 3GPP Generic User Profile (GUP); Architecture (Stage 2)
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: VTT
   role:
-  - author
+  - type: author
 biblionote:
 - content: "-> Rel-6"
   type: remark
@@ -56,11 +57,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

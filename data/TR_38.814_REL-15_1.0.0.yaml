@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.814-Rel-15/1.0.0
+schema-version: v1.2.1
+id: TR38.814-Rel-15-1.0.0
 title:
 - content: New frequency range for NR (4.4-5.0 GHz)
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: DOCOMO Communications Lab.
   role:
-  - author
+  - type: author
 revdate: '2018-04-06'
 language:
 - en
@@ -56,11 +57,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: f

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.865-Rel-12/0.2.0
+schema-version: v1.2.1
+id: TR33.865-Rel-12-0.2.0
 title:
 - content: Security Aspects of WLAN Network Selection for 3GPP Terminals
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2013-04-30'
 biblionote:
 - content: 'SP-63: likely to slip to Rel-13 timeframe.'
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: c

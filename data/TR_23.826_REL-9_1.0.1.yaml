@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.826-Rel-9/1.0.1
+schema-version: v1.2.1
+id: TR23.826-Rel-9-1.0.1
 title:
 - content: Feasibility study on Voice Call Continuity (VCC) support for emergency
     calls
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Qualcomm CDMA Technologies
   role:
-  - author
+  - type: author
 revdate: '2009-02-09'
 language:
 - en
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

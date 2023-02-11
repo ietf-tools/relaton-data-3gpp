@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.902-Rel-8/1.0.0
+schema-version: v1.2.1
+id: TR36.902-Rel-8-1.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN); Self-configuring
     and self-optimizing network (SON) use cases and solutions
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2008-09-23'
 biblionote:
 - content: 'post RP-43: Rapporteur proposes to move this work to Rel-9 with appropriate
@@ -68,11 +69,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '8'

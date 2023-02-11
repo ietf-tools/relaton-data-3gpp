@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR34.902-Rel-5/1.1.0
+schema-version: v1.2.1
+id: TR34.902-Rel-5-1.1.0
 title:
 - content: Derivation of test tolerances for multi-cell Radio Resource Management
     (RRM) conformance tests
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'TP-21: assume Rel-7 in view of projected end date. TP-22: Document ready
     for approval as Rel-5 (!!)'
@@ -58,11 +59,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

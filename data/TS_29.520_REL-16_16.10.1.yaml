@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.520-Rel-16/16.10.1
+schema-version: v1.2.1
+id: TS29.520-Rel-16-16.10.1
 title:
 - content: 5G System; Network Data Analytics Services; Stage 3
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: China Mobile Com. Corporation
   role:
-  - author
+  - type: author
 revdate: '2022-03-25'
 biblionote:
 - content: 'New version issued due to wrong filename.  ^ 2022-03-25: New version issued
@@ -61,11 +62,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

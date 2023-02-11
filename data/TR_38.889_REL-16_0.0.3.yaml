@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.889-Rel-16/0.0.3
+schema-version: v1.2.1
+id: TR38.889-Rel-16-0.0.3
 title:
 - content: Study on NR-based access to unlicensed spectrum
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Qualcomm Incorporated
   role:
-  - author
+  - type: author
 revdate: '2018-09-07'
 biblionote:
 - content: Endorsed in R1-1809795
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

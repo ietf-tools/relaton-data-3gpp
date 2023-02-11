@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.856-Rel-16/0.0.1
+schema-version: v1.2.1
+id: TR38.856-Rel-16-0.0.1
 title:
 - content: Study on local NR positioning in NG-RAN
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: China Mobile International Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: This version is withdrawn (Corresponding Tdoc number is not available)
   type: comment
@@ -50,11 +51,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

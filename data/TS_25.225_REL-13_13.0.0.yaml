@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS25.225-Rel-13/13.0.0
+schema-version: v1.2.1
+id: TS25.225-Rel-13-13.0.0
 title:
 - content: Physical layer; Measurements (TDD)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: InterDigital Germany GmbH
   role:
-  - author
+  - type: author
 revdate: '2016-01-06'
 biblionote:
 - content: Upgraded from previous Release without technical change
@@ -71,7 +72,6 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: RP
@@ -80,6 +80,8 @@ editorialgroup:
   type: other
 - name: R1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

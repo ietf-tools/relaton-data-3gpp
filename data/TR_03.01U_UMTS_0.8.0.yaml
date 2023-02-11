@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR03.01U-UMTS/0.8.0
+schema-version: v1.2.1
+id: TR03.01U-UMTS-0.8.0
 title:
 - content: Framework of network requirements, interworking and integration for the
     Universal Mobile Telecommunication System
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 biblionote:
 - content: td 391/94, also smg04 td 267/94
   type: comment
@@ -40,11 +41,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '3'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.866-Rel-16/16.1.0
+schema-version: v1.2.1
+id: TR38.866-Rel-16-16.1.0
 title:
 - content: Study on remote interference management for NR
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: China Mobile Com. Corporation
   role:
-  - author
+  - type: author
 revdate: '2019-03-27'
 language:
 - en
@@ -56,13 +57,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
 - name: R3
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.022-R99/3.1.0
+schema-version: v1.2.1
+id: TS23.022-R99-3.1.0
 title:
 - content: Functions related to Mobile Station (MS) in idle mode and group receive
     mode
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Anemone Technology
   role:
-  - author
+  - type: author
 revdate: '1999-06-23'
 biblionote:
 - content: 3.1.0 dates from June 99
@@ -61,13 +62,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"
   type: prime
 - name: N1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.876-Rel-5/0.0.1
+schema-version: v1.2.1
+id: TR25.876-Rel-5-0.0.1
 title:
 - content: Multiple Input Multiple Output (MIMO) antennae in UTRA
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2003-11-03: Timed out of Rel-5, must be Rel-6.'
   type: remark
@@ -58,13 +59,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

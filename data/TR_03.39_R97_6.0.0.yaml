@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR03.39-R97/6.0.0
+schema-version: v1.2.1
+id: TR03.39-R97-6.0.0
 title:
 - content: Digital Cellular Telecommunications System (Phase 2) Interface Protocols
     for the Connection of Short Message Service Centers (SMSCs) to Short Message Entities
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '1998-10-16'
 biblionote:
 - content: "#27: 6.0.0TSG#9:withdrawn cos contains misleading information/references"
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: T2
   type: prime
 - name: T2  /  SMG04
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

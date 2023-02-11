@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR03.43-R99/8.0.0
+schema-version: v1.2.1
+id: TR03.43-R99-8.0.0
 title:
 - content: Support of Videotex
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2000-11-20'
 biblionote:
 - content: Frozen at v7
@@ -60,13 +61,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
 - name: SMG04
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

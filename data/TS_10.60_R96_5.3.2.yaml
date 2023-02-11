@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS10.60-R96/5.3.2
+schema-version: v1.2.1
+id: TS10.60-R96-5.3.2
 title:
 - content: General Packet Radio Services (GPRS); Project Scheduling and Open Issues
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Apica IT
   role:
-  - author
+  - type: author
 revdate: '1998-02-05'
 biblionote:
 - content: "#25: (5.x.y withdrawn)"
@@ -60,13 +61,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
 - name: SMG12
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

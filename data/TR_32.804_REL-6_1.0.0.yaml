@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.804-Rel-6/1.0.0
+schema-version: v1.2.1
+id: TR32.804-Rel-6-1.0.0
 title:
 - content: Telecommunication management; Control of Remote Electrical Tilting (RET)
     antennas; Requirements
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2004-06-14'
 biblionote:
 - content: SP-040264
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

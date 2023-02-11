@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.880-Rel-8/0.0.1
+schema-version: v1.2.1
+id: TR23.880-Rel-8-0.0.1
 title:
 - content: Stage 2 for Registration in Densely-populated area (RED); Solution Placeholder
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2009-04: WG chairman indicates work may continue in Rel-10; WI changed
     to make it more specific: 350014 -> 370031.'
@@ -54,11 +55,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

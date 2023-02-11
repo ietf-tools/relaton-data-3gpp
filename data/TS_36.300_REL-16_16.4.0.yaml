@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS36.300-Rel-16/16.4.0
+schema-version: v1.2.1
+id: TS36.300-Rel-16-16.4.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN); Overall description; Stage 2
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 revdate: '2021-01-07'
 language:
 - en
@@ -60,11 +61,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: g

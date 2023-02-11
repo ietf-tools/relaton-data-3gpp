@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR21.866-Rel-15/15.0.0
+schema-version: v1.2.1
+id: TR21.866-Rel-15-15.0.0
 title:
 - content: Study on Energy Efficiency Aspects of 3GPP Standards
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Orange
   role:
-  - author
+  - type: author
 revdate: '2017-06-12'
 biblionote:
 - content: 'Created from SP-170573: Approved at TSG SA#76'
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: f

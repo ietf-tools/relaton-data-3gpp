@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.412-Rel-7/1.1.2
+schema-version: v1.2.1
+id: TS29.412-Rel-7-1.1.2
 title:
 - content: TISPAN; Interworking; Trunking Gateway Control Procedures for interworking
     between NGN and external CS networks
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2008-02-20'
 biblionote:
 - content: TISPAN R1 frozen
@@ -67,11 +68,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

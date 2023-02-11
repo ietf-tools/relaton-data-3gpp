@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS36.521-1-Rel-10/10.3.0
+schema-version: v1.2.1
+id: TS36.521-1-Rel-10-10.3.0
 title:
 - content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; Radio transmission and reception; Part 1: Conformance
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '2012-09-28'
 language:
 - en
@@ -63,11 +64,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: a

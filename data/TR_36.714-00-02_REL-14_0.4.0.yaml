@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.714-00-02-Rel-14/0.4.0
+schema-version: v1.2.1
+id: TR36.714-00-02-Rel-14-0.4.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced intra-band
     Carrier Aggregation (CA) Rel-14 for x Down Link (DL) / y Up Link (UL)  with x=3,
@@ -30,8 +31,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -45,18 +46,19 @@ contributor:
         name:
         - content: LG Electronics Inc.
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

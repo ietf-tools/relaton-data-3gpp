@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.863-Rel-7/2.0.0
+schema-version: v1.2.1
+id: TR29.863-Rel-7-2.0.0
 title:
 - content: Feasibility Study for the multimedia inter-working between the IP Multimedia
     Core Network (CN) Subsystem (IMS) and Circuit Switched (CS) networks
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2006-12-04'
 biblionote:
 - content: CP-060638
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

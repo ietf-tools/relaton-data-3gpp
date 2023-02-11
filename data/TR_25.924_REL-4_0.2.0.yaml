@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.924-Rel-4/0.2.0
+schema-version: v1.2.1
+id: TR25.924-Rel-4-0.2.0
 title:
 - content: Opportunity Driven Multiple Access (ODMA)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '1999-10-13'
 biblionote:
 - content: '2002-01-23: .WG Secretary reports that this is really R99. Watch this
@@ -61,13 +62,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
 - name: R2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

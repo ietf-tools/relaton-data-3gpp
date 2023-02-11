@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.852-Rel-12/12.0.0
+schema-version: v1.2.1
+id: TR37.852-Rel-12-12.0.0
 title:
 - content: RAN enhancements for UMTS/HSPA and LTE interworking
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: China Unicom
   role:
-  - author
+  - type: author
 revdate: '2013-12-19'
 language:
 - en
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

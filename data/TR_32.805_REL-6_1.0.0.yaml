@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.805-Rel-6/1.0.0
+schema-version: v1.2.1
+id: TR32.805-Rel-6-1.0.0
 title:
 - content: Telecommunication management; Process guide; Backward compatibility recommendations
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2004-11-30'
 biblionote:
 - content: '2006-05-22: Clarified that this TR will not be propagated to Rel-7.'
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

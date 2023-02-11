@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.894-Rel-9/1.3.0
+schema-version: v1.2.1
+id: TR23.894-Rel-9-1.3.0
 title:
 - content: System enhancements for the use of IP Multimedia Subsystem (IMS)  services
     in local breakout and optimal routeing of media
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: TELECOM ITALIA S.p.A.
   role:
-  - author
+  - type: author
 revdate: '2009-11-24'
 biblionote:
 - content: 'SP-46: Timed out of Rel-9.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.877-Rel-12/0.0.1
+schema-version: v1.2.1
+id: TR36.877-Rel-12-0.0.1
 title:
 - content: LTE Device to Device Proximity Services; User Equipment (UE) radio transmission
     and reception
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: Qualcomm UK Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: R4-142042
   type: comment
@@ -51,13 +52,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
 - name: R1, R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

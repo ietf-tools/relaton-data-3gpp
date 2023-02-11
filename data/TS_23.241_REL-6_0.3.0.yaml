@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.241-Rel-6/0.3.0
+schema-version: v1.2.1
+id: TS23.241-Rel-6-0.3.0
 title:
 - content: 3GPP Generic User Profile (GUP); Stage 2; Data Description Method (DDM)
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2002-05-28'
 biblionote:
 - content: 'RP-15: Delayed from Rel-5.   2004-11-16: N4 intends to withdraw this spec
@@ -63,13 +64,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: N4
   type: prime
 - name: CP
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

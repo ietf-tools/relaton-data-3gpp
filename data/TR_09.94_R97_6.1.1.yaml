@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR09.94-R97/6.1.1
+schema-version: v1.2.1
+id: TR09.94-R97-6.1.1
 title:
 - content: Recommended infrastructure measures to overcome specific Mobile Station
     (MS) faults
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 revdate: '2002-12-16'
 biblionote:
 - content: '2002-05-02 (Hietalahti): Anticipate resurrection as null document pointing
@@ -66,13 +67,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
 - name: N1  /  SMG03A
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

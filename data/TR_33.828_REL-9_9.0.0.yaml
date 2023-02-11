@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.828-Rel-9/9.0.0
+schema-version: v1.2.1
+id: TR33.828-Rel-9-9.0.0
 title:
 - content: IP Multimedia Subsystem (IMS) media plane security
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2010-04-06'
 biblionote:
 - content: 'SP-43: moved from WI UID 360017, hence to Rel-9.'
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

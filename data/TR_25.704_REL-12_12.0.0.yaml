@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.704-Rel-12/12.0.0
+schema-version: v1.2.1
+id: TR25.704-Rel-12-12.0.0
 title:
 - content: Study on enhanced broadcast of system information
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson Japan K.K.
   role:
-  - author
+  - type: author
 revdate: '2014-01-07'
 language:
 - en
@@ -58,13 +59,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS32.602-2-Rel-4/2.0.0
+schema-version: v1.2.1
+id: TS32.602-2-Rel-4-2.0.0
 title:
 - content: 'Telecommunication management; Configuration Management (CM); CMt: Bulk
     Configuration Management Integration Reference Point (IRP): Information service'
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 revdate: '2001-06-18'
 language:
 - en
@@ -44,11 +45,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

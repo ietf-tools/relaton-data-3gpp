@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR41.031-Rel-8/8.0.0
+schema-version: v1.2.1
+id: TR41.031-Rel-8-8.0.0
 title:
 - content: Fraud Information Gathering System (FIGS); Service requirements; Stage
     0
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2008-12-22'
 biblionote:
 - content: Upgraded unchanged from Rel-7
@@ -65,13 +66,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
 - name: SMG10
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

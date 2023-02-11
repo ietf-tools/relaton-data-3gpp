@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR10.01-R97/0.0.2
+schema-version: v1.2.1
+id: TR10.01-R97-0.0.2
 title:
 - content: GSM features and releases
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 revdate: '1997-10-23'
 language:
 - en
@@ -43,11 +44,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SMG3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

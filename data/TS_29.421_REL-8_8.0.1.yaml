@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.421-Rel-8/8.0.1
+schema-version: v1.2.1
+id: TS29.421-Rel-8-8.0.1
 title:
 - content: TISPAN; NGN Release 1; Endorsement of 3GPP TS 29.162 Interworking between
     IM CN Sub-system and IP networks
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2008-12-18'
 biblionote:
 - content: Identical to v7.0.0 since no TISPAN R2 version exists.
@@ -67,11 +68,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

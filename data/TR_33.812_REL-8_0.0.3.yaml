@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.812-Rel-8/0.0.3
+schema-version: v1.2.1
+id: TR33.812-Rel-8-0.0.3
 title:
 - content: Feasibility study on the security aspects of remote provisioning and change
     of subscription for Machine to Machine (M2M) equipment
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-43: timed out of Rel-8.'
   type: remark
@@ -57,11 +58,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

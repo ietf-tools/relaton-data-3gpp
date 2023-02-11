@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.717-01-01-Rel-17/0.3.0
+schema-version: v1.2.1
+id: TR38.717-01-01-Rel-17-0.3.0
 title:
 - content: Rel-17 NR intra band Carrier Aggregation for xCC DL/yCC UL including contiguous
     and non-contiguous spectrum (x>=y)
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2021-04-13'
 language:
 - en
@@ -55,11 +56,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

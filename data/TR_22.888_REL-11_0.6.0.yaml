@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.888-Rel-11/0.6.0
+schema-version: v1.2.1
+id: TR22.888-Rel-11-0.6.0
 title:
 - content: Study on enhancements  for Machine-Type Communications (MTC)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2012-03-14'
 biblionote:
 - content: Timed out of Rel-11.
@@ -66,11 +67,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

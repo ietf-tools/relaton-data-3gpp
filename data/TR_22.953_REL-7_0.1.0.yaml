@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.953-Rel-7/0.1.0
+schema-version: v1.2.1
+id: TR22.953-Rel-7-0.1.0
 title:
 - content: Multimedia priority service feasibility study
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Applied Communication Sciences
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-30: target for completion = SP-33.'
   type: remark
@@ -56,11 +57,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

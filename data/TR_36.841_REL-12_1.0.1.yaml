@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.841-Rel-12/1.0.1
+schema-version: v1.2.1
+id: TR36.841-Rel-12-1.0.1
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Intra-band non-contiguous
     Carrier Aggregation (CA) for band 25 for LTE
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: SPRINT Corporation
   role:
-  - author
+  - type: author
 revdate: '2013-06-20'
 biblionote:
 - content: RP-130796
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

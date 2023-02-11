@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR24.819-Rel-7/7.0.0
+schema-version: v1.2.1
+id: TR24.819-Rel-7-7.0.0
 title:
 - content: Protocol impact from providing IMS services via fixed broadband; Stage-3
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2005-12-15'
 biblionote:
 - content: All important content will be fed to TSs and this TR will not be maintained.
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

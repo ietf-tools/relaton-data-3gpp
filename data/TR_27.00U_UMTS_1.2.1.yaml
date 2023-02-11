@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR27.00U-UMTS/1.2.1
+schema-version: v1.2.1
+id: TR27.00U-UMTS-1.2.1
 title:
 - content: Principles for handling of data services in the UMTS
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -50,11 +51,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 release:
   version2g: '3'
   version3g: '3'

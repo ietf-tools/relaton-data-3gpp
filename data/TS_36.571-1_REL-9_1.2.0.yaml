@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS36.571-1-Rel-9/1.2.0
+schema-version: v1.2.1
+id: TS36.571-1-Rel-9-1.2.0
 title:
 - content: 'Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     conformance specification; UE positioning in E-UTRA; Part 1: Minimum Performance
@@ -27,8 +28,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -42,7 +43,7 @@ contributor:
         name:
         - content: Spirent Communications
   role:
-  - author
+  - type: author
 biblionote:
 - content: R5-113133
   type: comment
@@ -55,11 +56,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

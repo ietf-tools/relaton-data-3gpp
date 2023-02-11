@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.855-Rel-14/14.0.0
+schema-version: v1.2.1
+id: TR32.855-Rel-14-14.0.0
 title:
 - content: Study on OAM support for Licensed Shared Access (LSA)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Germany
   role:
-  - author
+  - type: author
 revdate: '2016-03-21'
 biblionote:
 - content: 'This version was uploaded with the following quality checks failures:
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

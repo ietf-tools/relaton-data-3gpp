@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.888-Rel-12/2.1.1
+schema-version: v1.2.1
+id: TR36.888-Rel-12-2.1.1
 title:
 - content: Study on provision of low-cost Machine-Type Communications (MTC) User Equipments
     (UEs) based on LTE
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2013-06-20'
 biblionote:
 - content: RP-130798
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

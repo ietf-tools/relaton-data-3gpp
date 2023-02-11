@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.801-Rel-10/0.9.1
+schema-version: v1.2.1
+id: TR37.801-Rel-10-0.9.1
 title:
 - content: UMTS-LTE 3500 MHz Work Item Technical Repor
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: R4-104399
   type: comment
@@ -53,11 +54,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

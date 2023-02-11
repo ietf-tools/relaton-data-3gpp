@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.890-Rel-17/0.10.0
+schema-version: v1.2.1
+id: TR37.890-Rel-17-0.10.0
 title:
 - content: Feasibility Study on 6 GHz for LTE and NR in Licensed and Unlicensed Operations
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Ericsson Limited
   role:
-  - author
+  - type: author
 revdate: '2021-01-08'
 biblionote:
 - content: RP-202273
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

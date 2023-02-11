@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS02.93-R96/5.5.0
+schema-version: v1.2.1
+id: TS02.93-R96-5.5.0
 title:
 - content: Completion of Calls to Busy Subcriber (CCBS) Service  Description; Stage
     1
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: TELECOM ITALIA S.p.A.
   role:
-  - author
+  - type: author
 biblionote:
 - content: "#16: 5.0.0  #19: 5.1.0  #20: 5.2.0  #22: 5.3.0  #23: 5.4.0  #24: 5.5.0
     \ #25: withdrawn"
@@ -55,13 +56,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
 - name: S1  /  SMG01
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

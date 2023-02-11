@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.900-Rel-5/0.4.1
+schema-version: v1.2.1
+id: TR33.900-Rel-5-0.4.1
 title:
 - content: Guide to 3G security
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: DCMS
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2007-08-20: Propose to abandon at SP-37.'
   type: remark
@@ -55,13 +56,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
 - name: S3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR35.936-Rel-12/1.0.0
+schema-version: v1.2.1
+id: TR35.936-Rel-12-1.0.0
 title:
 - content: 'Specification of the TUAK algorithm set: A second example algorithm set
     for the 3GPP authentication and key generation functions f1, f1*, f2 ,f3, f4,
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2014-12-17'
 biblionote:
 - content: SP-140818
@@ -66,11 +67,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

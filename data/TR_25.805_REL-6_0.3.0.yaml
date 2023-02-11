@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.805-Rel-6/0.3.0
+schema-version: v1.2.1
+id: TR25.805-Rel-6-0.3.0
 title:
 - content: DS-CDMA introduction in the 800 MHz band
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2003-12-05'
 biblionote:
 - content: 'RP-19: Work Item has been closed as "completed" but no decision taken
@@ -64,11 +65,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

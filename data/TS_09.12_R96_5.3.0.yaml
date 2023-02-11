@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS09.12-R96/5.3.0
+schema-version: v1.2.1
+id: TS09.12-R96-5.3.0
 title:
 - content: 'Application of ISDN User Part (ISUP) Version 2 for the Integrated Services
     Digital Network (ISDN) - Public Land Mobile Network (PLMN) signalling interface;
@@ -30,8 +31,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -45,7 +46,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -55,7 +56,6 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: TISPAN
@@ -64,6 +64,8 @@ editorialgroup:
   type: other
 - name: SPAN3  /  N4  /  SMG03?
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

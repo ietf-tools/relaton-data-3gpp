@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR00.02U-UMTS/3.0.0
+schema-version: v1.2.1
+id: TR00.02U-UMTS-3.0.0
 title:
 - content: Coordination guideline for SMG on UMTS with respect to ITU and European
     research programmes
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: PHILIPS CONSUMER COMMUNICATION
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -51,11 +52,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SMG5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '3'

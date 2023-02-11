@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.901-Rel-6/6.1.0
+schema-version: v1.2.1
+id: TR25.901-Rel-6-6.1.0
 title:
 - content: Network Assisted Cell Change (NACC) from UTRAN to GERAN; Network side aspects
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Qualcomm UK Ltd
   role:
-  - author
+  - type: author
 revdate: '2004-09-24'
 language:
 - en
@@ -59,11 +60,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

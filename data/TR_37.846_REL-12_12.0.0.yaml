@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.846-Rel-12/12.0.0
+schema-version: v1.2.1
+id: TR37.846-Rel-12-12.0.0
 title:
 - content: Study on 2GHz Frequency Division Duplex) FDD for Universal Terrestrial
     Radio Access (UTRA) and LTE in Region 1 (1980-2010 MHz and 2170-2200 MHz Bands)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Dish Network
   role:
-  - author
+  - type: author
 revdate: '2014-07-07'
 language:
 - en
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

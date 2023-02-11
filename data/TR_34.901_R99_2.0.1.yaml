@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR34.901-R99/2.0.1
+schema-version: v1.2.1
+id: TR34.901-R99-2.0.1
 title:
 - content: Test Time Optimisation based on statistical approaches; Statistical theory
     applied and evaluation of statistical significance
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Agilent Technologies Int Japan
   role:
-  - author
+  - type: author
 revdate: '2003-06-17'
 biblionote:
 - content: '2002-09-26: Anticipate approval at TP-18.'
@@ -65,11 +66,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

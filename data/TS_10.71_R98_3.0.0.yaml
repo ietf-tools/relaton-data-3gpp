@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS10.71-R98/3.0.0
+schema-version: v1.2.1
+id: TS10.71-R98-3.0.0
 title:
 - content: Project scheduling and open issues:Location services (LCS)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nortel Networks (USA)
   role:
-  - author
+  - type: author
 revdate: '2000-01-26'
 biblionote:
 - content: "#29: 7.0.0 #30: 2.0.6! #30b: 2.0.7 #31:2.1.0. 2001-01-24 Clayton: withdrawn."
@@ -60,13 +61,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
 - name: S1  /  SMG01
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

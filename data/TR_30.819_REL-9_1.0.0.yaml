@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR30.819-Rel-9/1.0.0
+schema-version: v1.2.1
+id: TR30.819-Rel-9-1.0.0
 title:
 - content: Telecommunication management; Project scheduling and open issues for SA5,
     Release 9
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2010-09-28'
 biblionote:
 - content: 'SP-48: anticipate approval at SP-49.'
@@ -64,11 +65,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

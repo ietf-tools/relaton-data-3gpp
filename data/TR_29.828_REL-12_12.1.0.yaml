@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.828-Rel-12/12.1.0
+schema-version: v1.2.1
+id: TR29.828-Rel-12-12.1.0
 title:
 - content: Study on extended IP Multimedia Subsystem (IMS) media plane security features
     and Transmission Control Protocol (TCP) related Network Address Translation (NAT)
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 revdate: '2015-01-06'
 language:
 - en
@@ -60,11 +61,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.743-Rel-16/0.3.0
+schema-version: v1.2.1
+id: TR23.743-Rel-16-0.3.0
 title:
 - content: Study on optimisations on UE radio capability signalling
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Qualcomm UK Ltd
   role:
-  - author
+  - type: author
 revdate: '2018-10-31'
 biblionote:
 - content: Updated with approved pCRs at SA WG2#129
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

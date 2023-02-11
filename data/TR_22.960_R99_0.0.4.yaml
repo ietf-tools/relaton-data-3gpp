@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.960-R99/0.0.4
+schema-version: v1.2.1
+id: TR22.960-R99-0.0.4
 title:
 - content: Mobile multimedia services
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '1997-10-17'
 language:
 - en
@@ -57,13 +58,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
 - name: S1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

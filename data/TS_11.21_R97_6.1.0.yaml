@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS11.21-R97/6.1.0
+schema-version: v1.2.1
+id: TS11.21-R97-6.1.0
 title:
 - content: Base Station System (BSS) equipment specification; Radio aspects
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: " "
   role:
-  - author
+  - type: author
 biblionote:
 - content: "#27:6.0.0 (Rodermund: not required [Aug-00]).  GP-09 (Usai) resurrected.
     \ GP-12 (Usai): scrapped again."
@@ -59,13 +60,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: G1
   type: prime
 - name: SMG02c
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

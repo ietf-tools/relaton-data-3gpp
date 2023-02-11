@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.895-Rel-6/6.0.0
+schema-version: v1.2.1
+id: TR23.895-Rel-6-6.0.0
 title:
 - content: Provision of UE specific behaviour information to network entities
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2003-01-13'
 biblionote:
 - content: Anticipate CR next mtg to clarify that this is not a loophole to allow
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

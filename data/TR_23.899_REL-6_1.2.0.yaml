@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.899-Rel-6/1.2.0
+schema-version: v1.2.1
+id: TR23.899-Rel-6-1.2.0
 title:
 - content: Combining Circuit Switched (CS) bearers with IP Multimeida Subsystem (IMS)
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Digital Fountain
   role:
-  - author
+  - type: author
 revdate: '2005-07-18'
 biblionote:
 - content: 'SP-30: S2 will do no further work on this TR.'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

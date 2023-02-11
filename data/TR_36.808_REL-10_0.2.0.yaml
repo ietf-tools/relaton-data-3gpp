@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.808-Rel-10/0.2.0
+schema-version: v1.2.1
+id: TR36.808-Rel-10-0.2.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Carrier Aggregation;
     Base Station (BS) radio transmission and reception
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 revdate: '2010-10-08'
 biblionote:
 - content: R4-103140
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: a

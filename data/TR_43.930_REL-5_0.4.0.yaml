@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR43.930-Rel-5/0.4.0
+schema-version: v1.2.1
+id: TR43.930-Rel-5-0.4.0
 title:
 - content: Iur-g interface; Stage 2
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2002-04-22'
 biblionote:
 - content: 'This record originally created as Rel-6, but GP-10 approves as Rel-5.  GP-11:
@@ -63,11 +64,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

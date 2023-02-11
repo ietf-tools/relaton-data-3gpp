@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR06.76-R99/8.0.1
+schema-version: v1.2.1
+id: TR06.76-R99-8.0.1
 title:
 - content: Adaptive Multi-Rate (AMR) speech codec; Study phase report
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2002-01-10'
 language:
 - en
@@ -57,13 +58,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
 - name: SMG11
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

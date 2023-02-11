@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR21.06U-UMTS/2.0.0
+schema-version: v1.2.1
+id: TR21.06U-UMTS-2.0.0
 title:
 - content: O&M requirements for the UMTS
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Vodafone GmbH
   role:
-  - author
+  - type: author
 revdate: '1997-02-17'
 language:
 - en
@@ -57,13 +58,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: "-"
   type: prime
 - name: SMG06
   type: former
+ext:
+  schema-version: v1.0.1
 release:
   version2g: '3'
   version3g: '3'

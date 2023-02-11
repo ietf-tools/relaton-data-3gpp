@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR06.02U-UMTS/0.0.0
+schema-version: v1.2.1
+id: TR06.02U-UMTS-0.0.0
 title:
 - content: Universal Mobile Telecommunications System (UMTS); Quality requirements
     and selection procedure for the support of voice- band data coding for the UMTS
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 language:
 - en
 script:
@@ -37,11 +38,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '3'

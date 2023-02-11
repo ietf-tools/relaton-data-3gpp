@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS03.06-Ph1/0.3.0
+schema-version: v1.2.1
+id: TS03.06-Ph1-0.3.0
 title:
 - content: Availability and Reliability Objectives
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 language:
 - en
 script:
@@ -36,11 +37,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: SMG3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '3'

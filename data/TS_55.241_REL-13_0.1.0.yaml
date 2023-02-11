@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS55.241-Rel-13/0.1.0
+schema-version: v1.2.1
+id: TS55.241-Rel-13-0.1.0
 title:
 - content: Specification of the GIA4 integrity algorithm for General Packet Radio
     Service (GPRS); GIA4 specification
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2016-06-14'
 biblionote:
 - content: "S3-160708\r\n"
@@ -63,11 +64,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: d

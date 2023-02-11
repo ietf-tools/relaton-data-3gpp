@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.951-Rel-11/2.0.0
+schema-version: v1.2.1
+id: TR26.951-Rel-11-2.0.0
 title:
 - content: Enhancements to Multimedia (EMM); EMM, DDE and IPME Aspects
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: InterDigital Communications
   role:
-  - author
+  - type: author
 revdate: '2012-12-13'
 biblionote:
 - content: SP-120762 Not suitable for .9xx TR, so converted to .8xx internal document
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR30.002-Rel-5/5.0.0
+schema-version: v1.2.1
+id: TR30.002-Rel-5-5.0.0
 title:
 - content: Guidelines for the modification of the Mobile Application Part (MAP)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Solutions & Networks (S)
   role:
-  - author
+  - type: author
 revdate: '2003-01-07'
 biblionote:
 - content: 'NP-18: Evidently Rel-5 is indeed required!'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: N4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.802-Rel-6/0.1.1
+schema-version: v1.2.1
+id: TR25.802-Rel-6-0.1.1
 title:
 - content: Remote control of electrical tilting antennas
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Vodafone GmbH
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'RP-19: Completion target: RP-22.  Thus assume service will be implemented
     in Rel-7. RP-21: In fact, the work item is in Rel-6, so for now, move it to Rel-6.
@@ -58,11 +59,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

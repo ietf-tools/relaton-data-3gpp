@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS33.109-Rel-6/0.2.0
+schema-version: v1.2.1
+id: TS33.109-Rel-6-0.2.0
 title:
 - content: Bootstrapping of application security using AKA and support for subscriber
     certificates; System description
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'S3-30: to be split into four separate documents.'
   type: remark
@@ -57,11 +58,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

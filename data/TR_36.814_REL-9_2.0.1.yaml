@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.814-Rel-9/2.0.1
+schema-version: v1.2.1
+id: TR36.814-Rel-9-2.0.1
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Further advancements
     for E-UTRA physical layer aspects
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2010-03-19'
 biblionote:
 - content: RP-100357
@@ -60,13 +61,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
 - name: R2, R3, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '9'

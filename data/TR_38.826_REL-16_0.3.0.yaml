@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.826-Rel-16/0.3.0
+schema-version: v1.2.1
+id: TR38.826-Rel-16-0.3.0
 title:
 - content: Study on evaluation for 2 receiver exception in Rel-15 vehicle mounted
     User Equipment (UE) for NR
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: LG Electronics Inc.
   role:
-  - author
+  - type: author
 revdate: '2018-12-04'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.850-Rel-11/1.0.0
+schema-version: v1.2.1
+id: TR36.850-Rel-11-1.0.0
 title:
 - content: Inter-band carrier aggregation
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2013-02-20'
 biblionote:
 - content: '2015-01: This TR proposed to be superseded by 36.852-11 to harmonize TR
@@ -64,11 +65,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: b

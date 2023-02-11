@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.891-Rel-18/0.0.0
+schema-version: v1.2.1
+id: TR38.891-Rel-18-0.0.0
 title:
 - content: User Equipment (UE) Further enhancements of NR RF requirements for frequency
     range 2 (FR2) for Rel-18
@@ -32,12 +33,12 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
-        content: ZHANG, juan
+        content: ZHANG, Juan
         language:
         - en
         script:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Beijing Xiaomi Mobile Software
   role:
-  - author
+  - type: author
 revdate: '2022-08-10'
 language:
 - en
@@ -55,11 +56,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: i

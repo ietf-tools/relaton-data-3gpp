@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.863-Rel-13/1.0.0
+schema-version: v1.2.1
+id: TR32.863-Rel-13-1.0.0
 title:
 - content: Telecommunication management; Fixed Mobile Convergence (FMC) metadefinitions
     for measurements and Key Performance Indicators (KPIs)
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Huawei Technologies France
   role:
-  - author
+  - type: author
 revdate: '2015-12-09'
 biblionote:
 - content: SP-150684
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

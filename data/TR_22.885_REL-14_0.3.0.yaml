@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.885-Rel-14/0.3.0
+schema-version: v1.2.1
+id: TR22.885-Rel-14-0.3.0
 title:
 - content: Study on LTE support for Vehicle-to-Everything (V2X) services
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: LG Electronics Inc.
   role:
-  - author
+  - type: author
 biblionote:
 - content: S1-150343
   type: comment
@@ -53,11 +54,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

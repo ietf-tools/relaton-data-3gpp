@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS51.010-6-Rel-6/0.0.1
+schema-version: v1.2.1
+id: TS51.010-6-Rel-6-0.0.1
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 6: Protocol Implementation
     eXtra Information for Testing (PIXIT) proforma specification'
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '2006-10-06'
 biblionote:
 - content: '2007-08-20: No progress, so propose to abandon at GP-35. GP-35: decided
@@ -66,11 +67,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: G3new
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR43.801-Rel-12/2.0.0
+schema-version: v1.2.1
+id: TR43.801-Rel-12-2.0.0
 title:
 - content: Solutions for Voice services over Adaptive Multi-user channels on One Slot
     (VAMOS) enhancements
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2014-06-27'
 biblionote:
 - content: GP-140419
@@ -62,13 +63,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: RP
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: c

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.857-Rel-17/0.2.0
+schema-version: v1.2.1
+id: TR38.857-Rel-17-0.2.0
 title:
 - content: Study on NR positioning enhancements
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Ericsson Inc.
   role:
-  - author
+  - type: author
 revdate: '2020-11-24'
 biblionote:
 - content: Endorsed in R1-2009670
@@ -57,13 +58,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
 - name: R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

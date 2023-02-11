@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS37.544-Rel-13/0.6.1
+schema-version: v1.2.1
+id: TS37.544-Rel-13-0.6.1
 title:
 - content: Universal Terrestrial Radio Access (UTRA) and Evolved UTRA (E-UTRA); User
     Equipment (UE) Over The Air (OTA) performance; Conformance testing
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: ROHDE & SCHWARZ
   role:
-  - author
+  - type: author
 revdate: '2015-12-23'
 biblionote:
 - content: Upgraded from previous Release without technical change
@@ -67,11 +68,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

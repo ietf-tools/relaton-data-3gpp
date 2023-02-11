@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS31.50U-UMTS/0.0.0
+schema-version: v1.2.1
+id: TS31.50U-UMTS-0.0.0
 title:
 - content: Essential requirements for UMTS Mobile Stations (ME) operating within frequency
     bands 1885-1980, 2010-2025 and 2110-2200 MHz
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 language:
 - en
 script:
@@ -37,11 +38,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: 
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '3'

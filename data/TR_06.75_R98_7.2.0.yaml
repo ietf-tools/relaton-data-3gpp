@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR06.75-R98/7.2.0
+schema-version: v1.2.1
+id: TR06.75-R98-7.2.0
 title:
 - content: Performance characterization of the GSM Adaptive Multi-Rate (AMR) speech
     codec
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2000-03-17'
 biblionote:
 - content: 'SMG#29 1.0.0 for information SMG#30: 7.0.0 SA#6: 7.1.0. TSG#7: 7.2.0'
@@ -63,13 +64,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
 - name: S4  /  SMG11
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.806-Rel-9/2.0.0
+schema-version: v1.2.1
+id: TR36.806-Rel-9-2.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Relay architectures
     for E-UTRA (LTE-Advanced)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2010-03-19'
 biblionote:
 - content: RP-100128
@@ -62,13 +63,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
 - name: R3
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '9'

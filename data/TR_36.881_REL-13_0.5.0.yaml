@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.881-Rel-13/0.5.0
+schema-version: v1.2.1
+id: TR36.881-Rel-13-0.5.0
 title:
 - content: Study on latency reduction techniques for LTE
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Ericsson Japan K.K.
   role:
-  - author
+  - type: author
 revdate: '2015-12-04'
 biblionote:
 - content: 'R2-157181 ^ 2015-12-04: R2-157181'
@@ -60,11 +61,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

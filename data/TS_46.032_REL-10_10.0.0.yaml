@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS46.032-Rel-10/10.0.0
+schema-version: v1.2.1
+id: TS46.032-Rel-10-10.0.0
 title:
 - content: Full rate speech; Voice Activity Detector (VAD) for full rate speech traffic
     channels
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '2011-04-05'
 biblionote:
 - content: Upgraded from previous Release without technical change
@@ -67,13 +68,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
 - name: SMG11
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: a

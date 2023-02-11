@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.967-Rel-9/9.0.0
+schema-version: v1.2.1
+id: TR26.967-Rel-9-9.0.0
 title:
 - content: eCall data transfer; In-band modem solution
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Qualcomm CDMA Technologies
   role:
-  - author
+  - type: author
 revdate: '2009-12-18'
 biblionote:
 - content: Upgraded from previous Release without technical change
@@ -66,11 +67,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

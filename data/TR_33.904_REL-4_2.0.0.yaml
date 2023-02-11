@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.904-Rel-4/2.0.0
+schema-version: v1.2.1
+id: TR33.904-Rel-4-2.0.0
 title:
 - content: Report on the Evaluation of 3GPP Standard Confidentiality and Integrity
     Algorithms
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: " "
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-15: Not to be promoted to Rel-5.  In fact, replaced by 33.908.'
   type: remark
@@ -56,13 +57,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
 - name: SAGE
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

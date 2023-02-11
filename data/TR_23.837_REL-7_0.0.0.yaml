@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.837-Rel-7/0.0.0
+schema-version: v1.2.1
+id: TR23.837-Rel-7-0.0.0
 title:
 - content: Location Services (LCS) architecture for 3GPP system - Wireless Local Area
     Network (WLAN) interworking
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: SK Telecom
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2008-07: WI is complete, so either scrap TR or bring under change control?
     WG Secretary indicates withdrawal most likely.'
@@ -58,11 +59,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

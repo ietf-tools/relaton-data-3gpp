@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.815-Rel-7/0.2.1
+schema-version: v1.2.1
+id: TR25.815-Rel-7-0.2.1
 title:
 - content: Signalling enhancements for Circuit Switched (CS) and Packet Switched (PS)
     connections; Analyses and recommendations
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2005-08-08'
 language:
 - en
@@ -59,13 +60,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: C1, R1, R2, R3
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

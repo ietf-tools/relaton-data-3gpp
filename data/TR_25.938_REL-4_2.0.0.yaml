@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.938-Rel-4/2.0.0
+schema-version: v1.2.1
+id: TR25.938-Rel-4-2.0.0
 title:
 - content: Terminal power saving features
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: SAMSUNG Electronics Co., Ltd.
   role:
-  - author
+  - type: author
 revdate: '2001-04-06'
 biblionote:
 - content: 'RP-15: Withdrawal confirmed.'
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
 - name: R3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

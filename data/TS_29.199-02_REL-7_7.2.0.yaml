@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.199-02-Rel-7/7.2.0
+schema-version: v1.2.1
+id: TS29.199-02-Rel-7-7.2.0
 title:
 - content: 'Open Service Access (OSA); Parlay X web services; Part 2: Third party
     call'
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Philips International B.V.
   role:
-  - author
+  - type: author
 revdate: '2006-12-21'
 language:
 - en
@@ -62,11 +63,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: CP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

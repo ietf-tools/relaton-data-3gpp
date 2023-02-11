@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR30.531-Rel-7/0.29.1
+schema-version: v1.2.1
+id: TR30.531-Rel-7-0.29.1
 title:
 - content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'RP-39: Timed out of Rel-7, continues in Rel-8.'
   type: remark
@@ -56,13 +57,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
 - name: R3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '7'

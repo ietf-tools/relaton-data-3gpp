@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS22.071-Rel-6/6.6.0
+schema-version: v1.2.1
+id: TS22.071-Rel-6-6.6.0
 title:
 - content: Location Services (LCS); Service description; Stage 1
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2004-01-06'
 language:
 - en
@@ -68,13 +69,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
 - name: S1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

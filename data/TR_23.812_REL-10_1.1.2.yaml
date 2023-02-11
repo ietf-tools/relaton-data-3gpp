@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.812-Rel-10/1.1.2
+schema-version: v1.2.1
+id: TR23.812-Rel-10-1.1.2
 title:
 - content: Feasibility study on IP Multimedia Subsystem (IMS) evolution
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2010-09-28'
 language:
 - en
@@ -61,11 +62,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

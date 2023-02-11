@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR21.915-Rel-15/0.6.0
+schema-version: v1.2.1
+id: TR21.915-Rel-15-0.6.0
 title:
 - content: Release 15 Description; Summary of Rel-15 Work Items
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2019-02-04'
 biblionote:
 - content: Circulated on "Leaders" email exploder.
@@ -60,11 +61,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: SP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: f

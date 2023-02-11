@@ -1,15 +1,22 @@
 ---
-id: 3GPPTS33.117-Rel-17/17.1.0
+schema-version: v1.2.1
+id: TS33.117-Rel-17-17.1.0
 title:
 - content: 'Catalogue of general security assurance requirements '
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/33_series/33.117/33117-h10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 33.117:Rel-17/17.1.0
   type: 3GPP
   primary: true
 docnumber: TS 33.117:Rel-17/17.1.0
+date:
+- type: published
+  value: '2022-09-22'
 contributor:
 - organization:
     name:
@@ -25,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +47,8 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
+revdate: '2022-09-22'
 language:
 - en
 script:
@@ -50,11 +58,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: h

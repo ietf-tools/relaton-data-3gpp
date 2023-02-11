@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.730-Rel-14/1.0.0
+schema-version: v1.2.1
+id: TR23.730-Rel-14-1.0.0
 title:
 - content: Study on extended architecture support for Cellular Internet of Things
     (CIoT)
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Intel Corporation (UK) Ltd
   role:
-  - author
+  - type: author
 revdate: '2016-09-22'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: e

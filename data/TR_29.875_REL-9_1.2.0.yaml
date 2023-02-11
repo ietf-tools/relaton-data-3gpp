@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.875-Rel-9/1.2.0
+schema-version: v1.2.1
+id: TR29.875-Rel-9-1.2.0
 title:
 - content: Interworking Proxy between GTP based and PMIP based interfaces
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2010-06-17'
 biblionote:
 - content: 'C4-49: stopped.'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

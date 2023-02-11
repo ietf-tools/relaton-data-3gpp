@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.002-Rel-9/9.11.0
+schema-version: v1.2.1
+id: TS29.002-Rel-9-9.11.0
 title:
 - content: Mobile Application Part (MAP) specification
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Nokia Solutions & Networks (S)
   role:
-  - author
+  - type: author
 revdate: '2013-06-27'
 language:
 - en
@@ -61,13 +62,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
 - name: N4
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

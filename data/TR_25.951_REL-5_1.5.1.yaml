@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.951-Rel-5/1.5.1
+schema-version: v1.2.1
+id: TR25.951-Rel-5-1.5.1
 title:
 - content: FDD Base Station (BS) classification
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2002-01-24: Gutierrez: moved from Rel-4.  RP-19: to Rel-6.'
   type: remark
@@ -58,11 +59,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

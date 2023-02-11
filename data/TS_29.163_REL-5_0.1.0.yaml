@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.163-Rel-5/0.1.0
+schema-version: v1.2.1
+id: TS29.163-Rel-5-0.1.0
 title:
 - content: Interworking between the IP Multimedia (IM) Core Network (CN) subsystem
     and Circuit Switched (CS) networks
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2001-06-01'
 biblionote:
 - content: 'NP-16: shifted to Rel-6.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

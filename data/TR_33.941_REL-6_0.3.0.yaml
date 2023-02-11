@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.941-Rel-6/0.3.0
+schema-version: v1.2.1
+id: TR33.941-Rel-6-0.3.0
 title:
 - content: Presence service; Security
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2007-08-20: Effectively replaced by 33.141 so propose to abandon this
     TR at SP-37.'
@@ -59,11 +60,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

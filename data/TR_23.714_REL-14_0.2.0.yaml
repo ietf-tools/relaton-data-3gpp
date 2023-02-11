@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.714-Rel-14/0.2.0
+schema-version: v1.2.1
+id: TR23.714-Rel-14-0.2.0
 title:
 - content: Study on Control Plane (CP) and User Plane (UP) separation of Evolved Packet
     Core (EPC) nodes
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2015-11-30'
 biblionote:
 - content: Update with pCRs from SA WG2#112
@@ -60,13 +61,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
 - name: S3, S5
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: e

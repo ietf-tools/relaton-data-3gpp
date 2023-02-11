@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.859-Rel-12/12.0.0
+schema-version: v1.2.1
+id: TR23.859-Rel-12-12.0.0
 title:
 - content: Local IP access (LIPA) mobility and Selected IP Traffic Offload (SIPTO)
     at the local network
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2013-03-08'
 biblionote:
 - content: Typo in title
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

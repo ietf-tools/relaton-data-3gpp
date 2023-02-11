@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS02.31-R99/8.0.1
+schema-version: v1.2.1
+id: TS02.31-R99-8.0.1
 title:
 - content: Fraud Information Gathering System (FIGS); Service description; Stage 1
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2001-06-05'
 biblionote:
 - content: 'SP-18: decided FIGS is joint GERAN/UTRAN so -> 22.031.'
@@ -64,13 +65,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
 - name: SMG10
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

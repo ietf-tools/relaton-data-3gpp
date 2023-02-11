@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.813-Rel-16/0.4.0
+schema-version: v1.2.1
+id: TR33.813-Rel-16-0.4.0
 title:
 - content: Study on security aspects of network slicing enhancement
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Germany
   role:
-  - author
+  - type: author
 revdate: '2019-05-13'
 biblionote:
 - content: S3-191731
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

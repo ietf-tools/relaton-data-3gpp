@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.746-Rel-15/0.6.0
+schema-version: v1.2.1
+id: TR36.746-Rel-15-0.6.0
 title:
 - content: Study on further enhancements to LTE Device to Device (D2D), UE to network
     relays for Internet of Things (IoT) and wearables
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: LG Electronics France
   role:
-  - author
+  - type: author
 revdate: '2017-06-24'
 language:
 - en
@@ -57,13 +58,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: f

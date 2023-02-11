@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.825-Rel-6/0.7.0
+schema-version: v1.2.1
+id: TR23.825-Rel-6-0.7.0
 title:
 - content: Overall architecture aspects of IP flow based bearer level charging; Stage
     2
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2003-09-01'
 language:
 - en
@@ -60,11 +61,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

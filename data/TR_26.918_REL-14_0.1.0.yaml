@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.918-Rel-14/0.1.0
+schema-version: v1.2.1
+id: TR26.918-Rel-14-0.1.0
 title:
 - content: Virtual Reality (VR) media services over 3GPP
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Orange
   role:
-  - author
+  - type: author
 revdate: '2016-04-26'
 biblionote:
 - content: 'S4-160512 ^ 2016-04-26: S4-160512'
@@ -60,11 +61,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: e

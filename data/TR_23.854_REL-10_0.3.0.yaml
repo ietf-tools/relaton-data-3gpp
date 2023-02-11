@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.854-Rel-10/0.3.0
+schema-version: v1.2.1
+id: TR23.854-Rel-10-0.3.0
 title:
 - content: Enhancements for Multimedia Priority Service (MPS)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2010-05-28'
 biblionote:
 - content: '2011-05: Timed out of Rel-10 and now depends from new WI #480135'
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: a

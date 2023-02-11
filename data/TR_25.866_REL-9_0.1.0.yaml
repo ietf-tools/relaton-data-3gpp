@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.866-Rel-9/0.1.0
+schema-version: v1.2.1
+id: TR25.866-Rel-9-0.1.0
 title:
 - content: 1.28 Mcps TDD Home Node B (HNB) study item technical report
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,18 +44,19 @@ contributor:
         name:
         - content: TD Tech Ltd
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

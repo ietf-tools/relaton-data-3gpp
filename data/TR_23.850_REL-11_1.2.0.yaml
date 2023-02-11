@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.850-Rel-11/1.2.0
+schema-version: v1.2.1
+id: TR23.850-Rel-11-1.2.0
 title:
 - content: Study on roaming architecture for voice over IP Multimedia Subsystem (IMS)
     with local breakout
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2011-11-22'
 language:
 - en
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

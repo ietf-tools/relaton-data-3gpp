@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.804-Rel-15/0.0.0
+schema-version: v1.2.1
+id: TR22.804-Rel-15-0.0.0
 title:
 - content: Study on Communication for Automation in Vertical domains (CAV)
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,18 +41,19 @@ contributor:
         name:
         - content: Siemens AG
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: f

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.805-Rel-8/0.2.0
+schema-version: v1.2.1
+id: TR29.805-Rel-8-0.2.0
 title:
 - content: InterWorking Function (IWF) between MAP based and Diameter based interfaces
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2008-03-20'
 language:
 - en
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

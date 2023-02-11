@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.840-Rel-7/7.0.1
+schema-version: v1.2.1
+id: TR23.840-Rel-7-7.0.1
 title:
 - content: Study into routeing of MT-SMs via the HPLMN
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: BlackBerry UK Limited
   role:
-  - author
+  - type: author
 revdate: '2007-01-31'
 biblionote:
 - content: Adds source files for figures
@@ -61,13 +62,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
 - name: C1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

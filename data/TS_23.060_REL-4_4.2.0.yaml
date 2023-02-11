@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.060-Rel-4/4.2.0
+schema-version: v1.2.1
+id: TS23.060-Rel-4-4.2.0
 title:
 - content: General Packet Radio Service (GPRS); Service description; Stage 2
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Motorola Mobility UK Ltd.
   role:
-  - author
+  - type: author
 revdate: '2001-10-12'
 language:
 - en
@@ -64,13 +65,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
 - name: S2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

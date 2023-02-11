@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR45.820-Rel-13/0.4.0
+schema-version: v1.2.1
+id: TR45.820-Rel-13-0.4.0
 title:
 - content: Cellular system support for ultra-low complexity and low throughput Internet
     of Things (CIoT)
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 biblionote:
 - content: circulate by email
   type: comment
@@ -54,13 +55,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: RP
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: d

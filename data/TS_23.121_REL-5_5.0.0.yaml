@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.121-Rel-5/5.0.0
+schema-version: v1.2.1
+id: TS23.121-Rel-5-5.0.0
 title:
 - content: Architectural requirements for Release 1999
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Alcatel-Lucent Telecom Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: " Oct00: CRs were approved by accident, it seems. Intention was to create
     23.221 v5.0.0 rather than a Rel-5 of this spec. CR will be retrospectively withdrawn."
@@ -63,13 +64,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
 - name: S2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

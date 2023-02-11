@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.843-Rel-12/2.0.0
+schema-version: v1.2.1
+id: TR23.843-Rel-12-2.0.0
 title:
 - content: Study on Core Network Overload (CNO) solutions
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: HUAWEI TECHNOLOGIES Co. Ltd.
   role:
-  - author
+  - type: author
 revdate: '2013-12-16'
 biblionote:
 - content: SP-130546
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

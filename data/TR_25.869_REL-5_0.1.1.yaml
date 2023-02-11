@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.869-Rel-5/0.1.1
+schema-version: v1.2.1
+id: TR25.869-Rel-5-0.1.1
 title:
 - content: Transmitter diversity solutions for multiple antennas
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Samsung Electronics Co., Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'RP-20: to Rel-6.'
   type: remark
@@ -53,11 +54,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

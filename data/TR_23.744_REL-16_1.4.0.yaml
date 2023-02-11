@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.744-Rel-16/1.4.0
+schema-version: v1.2.1
+id: TR23.744-Rel-16-1.4.0
 title:
 - content: Study on location enhancements for mission critical services
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Motorola Solutions UK Ltd.
   role:
-  - author
+  - type: author
 revdate: '2020-05-07'
 language:
 - en
@@ -54,11 +55,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S6
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: g

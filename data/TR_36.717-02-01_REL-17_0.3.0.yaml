@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.717-02-01-Rel-17/0.3.0
+schema-version: v1.2.1
+id: TR36.717-02-01-Rel-17-0.3.0
 title:
 - content: Rel-17 LTE inter-band Carrier Aggregation for 2 bands DL with 1 band UL
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,18 +41,19 @@ contributor:
         name:
         - content: Qualcomm Incorporated
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

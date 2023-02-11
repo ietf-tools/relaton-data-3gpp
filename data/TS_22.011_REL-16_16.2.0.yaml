@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS22.011-Rel-16/16.2.0
+schema-version: v1.2.1
+id: TS22.011-Rel-16-16.2.0
 title:
 - content: Service accessibility
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Orange
   role:
-  - author
+  - type: author
 revdate: '2018-06-23'
 language:
 - en
@@ -65,13 +66,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
 - name: S1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: g

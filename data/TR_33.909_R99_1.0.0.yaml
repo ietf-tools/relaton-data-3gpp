@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.909-R99/1.0.0
+schema-version: v1.2.1
+id: TR33.909-R99-1.0.0
 title:
 - content: '3G Security; Report on the design and evaluation of the MILENAGE algorithm
     set; Deliverable 5: An example algorithm for the 3GPP authentication and key generation
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2001-01-16'
 biblionote:
 - content: 'TSG#7: refered to in 33.908. Had been withdrawn, but reinstated at TSG#10.
@@ -67,13 +68,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
 - name: S3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

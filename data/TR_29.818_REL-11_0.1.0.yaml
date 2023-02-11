@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.818-Rel-11/0.1.0
+schema-version: v1.2.1
+id: TR29.818-Rel-11-0.1.0
 title:
 - content: Study on the enhancement of protocols for SMS service over SGs
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 revdate: '2012-02-20'
 language:
 - en
@@ -59,11 +60,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

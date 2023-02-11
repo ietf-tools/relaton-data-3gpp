@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR02.08-Ph2/0.1.0
+schema-version: v1.2.1
+id: TR02.08-Ph2-0.1.0
 title:
 - content: Quality of Service (QoS) / GSM system performance
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: inCode
   role:
-  - author
+  - type: author
 revdate: '1995-08-21'
 biblionote:
 - content: "#16: withdrawn"
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: smg
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS34.114-Rel-9/9.2.0
+schema-version: v1.2.1
+id: TS34.114-Rel-9-9.2.0
 title:
 - content: User Equipment (UE) / Mobile Station (MS) Over The Air (OTA) antenna performance;
     Conformance testing
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: ROHDE & SCHWARZ
   role:
-  - author
+  - type: author
 revdate: '2011-09-30'
 language:
 - en
@@ -62,13 +63,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
 - name: R5
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

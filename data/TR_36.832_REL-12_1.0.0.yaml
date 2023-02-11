@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.832-Rel-12/1.0.0
+schema-version: v1.2.1
+id: TR36.832-Rel-12-1.0.0
 title:
 - content: LTE in the 1670-1675MHz Band for the United States
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Ligado Networks
   role:
-  - author
+  - type: author
 biblionote:
 - content: RP-121165 not presented (withdrawn)
   type: comment
@@ -53,11 +54,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

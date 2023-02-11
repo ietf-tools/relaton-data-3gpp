@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.949-Rel-13/13.2.0
+schema-version: v1.2.1
+id: TR29.949-Rel-13-13.2.0
 title:
 - content: Study on technical aspects on roaming end-to-end scenarios with Voice over
     LTE (VoLTE) IP Multimedia Subsystem (IMS) and other networks
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Deutsche Telekom AG
   role:
-  - author
+  - type: author
 revdate: '2015-09-25'
 language:
 - en
@@ -62,11 +63,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

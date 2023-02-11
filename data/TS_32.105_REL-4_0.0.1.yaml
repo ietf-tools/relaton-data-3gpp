@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS32.105-Rel-4/0.0.1
+schema-version: v1.2.1
+id: TS32.105-Rel-4-0.0.1
 title:
 - content: 3G charging and billing; Stage 2 description
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: AT&T Corp.
   role:
-  - author
+  - type: author
 revdate: '1999-12-17'
 biblionote:
 - content: 'New at SP-06. SP-10:R99 version scrapped, will be Rel-4. SP-12: Rel-4
@@ -61,13 +62,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
 - name: S5
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

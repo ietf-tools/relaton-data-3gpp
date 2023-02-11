@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.898-Rel-6/1.3.0
+schema-version: v1.2.1
+id: TR23.898-Rel-6-1.3.0
 title:
 - content: Access Class Barring and Overload Protection (ACBOP)
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: DoCoMo Europe S.A.
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'post SP-25: Work item to which this TR pertains is Rel-7, so this TR must
     therefore be Rel-7!'
@@ -59,11 +60,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

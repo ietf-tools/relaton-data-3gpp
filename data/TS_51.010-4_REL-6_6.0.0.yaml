@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS51.010-4-Rel-6/6.0.0
+schema-version: v1.2.1
+id: TS51.010-4-Rel-6-6.0.0
 title:
 - content: 'Mobile Station (MS) conformance specification; Part 4: Subscriber Identity
     Module (SIM) application toolkit conformance test specification'
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Qualcomm CDMA Technologies
   role:
-  - author
+  - type: author
 revdate: '2014-07-03'
 biblionote:
 - content: Rel-6 created CP-30.  Later agreed that since there is no SIM functionality
@@ -69,13 +70,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
 - name: R5
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '6'

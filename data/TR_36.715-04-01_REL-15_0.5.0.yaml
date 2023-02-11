@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.715-04-01-Rel-15/0.5.0
+schema-version: v1.2.1
+id: TR36.715-04-01-Rel-15-0.5.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE Advanced inter-band
     Carrier Aggregation (CA) Rel-15 for 4 Down Link (DL) / 1 Up Link (UL)
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2018-06-04'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: f

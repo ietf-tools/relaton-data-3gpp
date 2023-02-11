@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR05.50-R98/7.1.0
+schema-version: v1.2.1
+id: TR05.50-R98-7.1.0
 title:
 - content: Background for RF Requirements
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Anemone Technology
   role:
-  - author
+  - type: author
 revdate: '1999-06-25'
 biblionote:
 - content: "#26: 7.0.0  #29: 7.1.0 #30: 7.2.0 #31:7.3.0 #31b:7.4.0"
@@ -60,13 +61,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
 - name: SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

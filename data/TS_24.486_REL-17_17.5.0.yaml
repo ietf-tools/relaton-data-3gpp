@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: TS24.486-Rel-17-17.5.0
+title:
+- content: Vehicle-to-Everything (V2X) Application Enabler (VAE) layer; Protocol aspects;
+    Stage 3
+  format: text/plain
+  type: main
+type: standard
+docid:
+- id: 3GPP TS 24.486:Rel-17/17.5.0
+  type: 3GPP
+  primary: true
+docnumber: TS 24.486:Rel-17/17.5.0
+contributor:
+- organization:
+    name:
+    - content: 3rd Generation Partnership Project
+    abbreviation:
+      content: 3GPP
+    contact:
+    - address:
+        street:
+        - c/o ETSI 650, route des Lucioles
+        - 3GPP Mobile Competence Centre
+        city: Sophia Antipolis Cedex
+        country: France
+        postcode: '06921'
+  role:
+  - type: author
+  - type: publisher
+- person:
+    name:
+      completename:
+        content: HERRERO-VERON, Christian
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - type: author
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+place:
+- Sophia Antipolis Cedex, France
+doctype: TS
+editorialgroup:
+- name: C1
+  type: prime
+ext:
+  schema-version: v1.0.1
+radiotechnology: LTE
+release:
+  version2g: h
+  version3g: h
+  defunct: false
+  wpm_code_2g: GSM_Release_17
+  wpm_code_3g: 3G4G5G_Rel-17
+  freeze_meeting: SA#95-e
+  freeze_stage1_meeting: SA#86
+  freeze_stage2_meeting: SA#92-e
+  freeze_stage3_meeting: SA#95
+  project_start: '2018-06-15'
+  project_end: '2022-03-25'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS12.07-Ph1/0.0.0
+schema-version: v1.2.1
+id: TS12.07-Ph1-0.0.0
 title:
 - content: Public Land Mobile Network (PLMN) Quality of Service (QoS)
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Hillebrand GmbH
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -50,13 +51,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: "-"
   type: prime
 - name: SMG06 / SMG01 / SMG03
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '3'

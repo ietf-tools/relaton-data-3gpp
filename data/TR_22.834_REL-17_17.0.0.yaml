@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.834-Rel-17/17.0.0
+schema-version: v1.2.1
+id: TR22.834-Rel-17-17.0.0
 title:
 - content: Study on support for devices with multiple Universal Subscriber Identity
     Modules (USIMs)
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Intel
   role:
-  - author
+  - type: author
 revdate: '2019-06-21'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

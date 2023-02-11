@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.889-Rel-10/2.0.2
+schema-version: v1.2.1
+id: TR23.889-Rel-10-2.0.2
 title:
 - content: Local Call Local Switch (LCLS) system impacts; Feasibility study
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: GSM Association
   role:
-  - author
+  - type: author
 revdate: '2010-09-28'
 biblionote:
 - content: CP-100628 draft based on v1.5.1
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

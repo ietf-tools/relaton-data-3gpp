@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.829-Rel-10/0.2.0
+schema-version: v1.2.1
+id: TR23.829-Rel-10-0.2.0
 title:
 - content: Local IP Access and Selected IP Traffic Offload (LIPA-SIPTO)
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Huawei Technologies France
   role:
-  - author
+  - type: author
 revdate: '2009-11-03'
 biblionote:
 - content: 'SP-51: Decided to approve TR at Rel-10.'
@@ -61,11 +62,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

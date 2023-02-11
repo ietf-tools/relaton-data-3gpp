@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.820-Rel-8/1.1.0
+schema-version: v1.2.1
+id: TR23.820-Rel-8-1.1.0
 title:
 - content: Study of IMS restoration procedures
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2008-03-20'
 language:
 - en
@@ -58,13 +59,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C4
   type: prime
 - name: C1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

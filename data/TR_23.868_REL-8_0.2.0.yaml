@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.868-Rel-8/0.2.0
+schema-version: v1.2.1
+id: TR23.868-Rel-8-0.2.0
 title:
 - content: Feasibility study on extension of support for IP Multimedia Subsystem (IMS)
     emergency calls
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Qualcomm CDMA Technologies
   role:
-  - author
+  - type: author
 revdate: '2008-01-29'
 biblionote:
 - content: 'SP-41: timed out of Rel-8.'
@@ -63,11 +64,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

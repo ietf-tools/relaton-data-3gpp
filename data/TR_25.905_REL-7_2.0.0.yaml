@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.905-Rel-7/2.0.0
+schema-version: v1.2.1
+id: TR25.905-Rel-7-2.0.0
 title:
 - content: Feasibility study on improvement of the Multimedia Broadcast/Multicast
     Service (MBMS) in UTRAN
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: LG Electronics France
   role:
-  - author
+  - type: author
 revdate: '2006-12-03'
 biblionote:
 - content: RP-060823 - draft R2-063643 circulated 2006-11-20
@@ -65,13 +66,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

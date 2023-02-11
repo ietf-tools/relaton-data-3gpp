@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS07.06-Ph2/4.2.1
+schema-version: v1.2.1
+id: TS07.06-Ph2-4.2.1
 title:
 - content: Use of the V Series Data Terminal Equipment - Data Circuit Terminating
     Equipment (DTE-DCE) Interface at the Mobile Station (MS) for Mobile Termination
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Waiting for new Company
   role:
-  - author
+  - type: author
 revdate: '1995-08-01'
 biblionote:
 - content: "#7: 4.1.0   #13: 4.2.0  #15: withdrawn"
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: T2
   type: prime
 - name: T2  /  SMG04
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

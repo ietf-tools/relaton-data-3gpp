@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR43.935-Rel-7/0.2.0
+schema-version: v1.2.1
+id: TR43.935-Rel-7-0.2.0
 title:
 - content: Feasibility study of enhanced support for video telephony service over
     GERAN via the A interface
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2005-03-21'
 biblionote:
 - content: GP-050903 at GP-24
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: G1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

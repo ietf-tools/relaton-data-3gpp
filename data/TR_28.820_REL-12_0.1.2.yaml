@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR28.820-Rel-12/0.1.2
+schema-version: v1.2.1
+id: TR28.820-Rel-12-0.1.2
 title:
 - content: Telecommunication management; Fixed Mobile Convergence (FMC) Federated
     Network Operation Model (FNOM) Umbrella Operation Model (UOM)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2014-09-29'
 language:
 - en
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

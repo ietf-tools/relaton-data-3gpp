@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.890-Rel-5/0.0.0
+schema-version: v1.2.1
+id: TR25.890-Rel-5-0.0.0
 title:
 - content: High Speed Downlink Packet Access (HSDPA); User Equipment (UE) radio transmission
     and reception (FDD)
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: Dish Network
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'RP-22: Went off the boil after RP-16. No need for it any more.'
   type: remark
@@ -54,11 +55,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS05.03-R99/8.4.0
+schema-version: v1.2.1
+id: TS05.03-R99-8.4.0
 title:
 - content: Channel coding
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2000-04-17'
 biblionote:
 - content: "#29: 8.0.0 #30: 8.1.0 #30b: 8.2.0 #31:8.3.0 #31b:8.3.0 #32:8.5.0 GERAN#2:8.6.0"
@@ -60,13 +61,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: G1
   type: prime
 - name: SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

@@ -1,15 +1,22 @@
 ---
-id: 3GPPTR22.890-Rel-19/19.0.0
+schema-version: v1.2.1
+id: TR22.890-Rel-19-19.0.0
 title:
 - content: Study on supporting railway smart station services
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/22_series/22.890/22890-j00.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 22.890:Rel-19/19.0.0
   type: 3GPP
   primary: true
 docnumber: TR 22.890:Rel-19/19.0.0
+date:
+- type: published
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -25,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,20 +47,22 @@ contributor:
         name:
         - content: Hansung University
   role:
-  - author
+  - type: author
+revdate: '2022-09-21'
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
 - name: S6
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: j

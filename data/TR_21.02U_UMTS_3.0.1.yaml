@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR21.02U-UMTS/3.0.1
+schema-version: v1.2.1
+id: TR21.02U-UMTS-3.0.1
 title:
 - content: High level requirements relevant for the definition of the UMTS Terrestrial
     Radio Access UTRA concept
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Anemone Technology
   role:
-  - author
+  - type: author
 revdate: '1998-11-03'
 language:
 - en
@@ -58,13 +59,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: GP
   type: prime
 - name: SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 release:
   version2g: '3'
   version3g: '3'

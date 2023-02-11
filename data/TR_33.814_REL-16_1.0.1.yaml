@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.814-Rel-16/1.0.1
+schema-version: v1.2.1
+id: TR33.814-Rel-16-1.0.1
 title:
 - content: Study on the security of the enhancement to the 5G Core (5GC) location
     services
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: CATT
   role:
-  - author
+  - type: author
 revdate: '2019-09-18'
 language:
 - en
@@ -55,11 +56,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

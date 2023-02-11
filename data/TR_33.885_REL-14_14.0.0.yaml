@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.885-Rel-14/14.0.0
+schema-version: v1.2.1
+id: TR33.885-Rel-14-14.0.0
 title:
 - content: Study on security aspects for LTE support of Vehicle-to-Everything (V2X)
     services
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
-  - author
+  - type: author
 revdate: '2017-06-15'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

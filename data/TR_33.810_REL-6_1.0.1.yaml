@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR33.810-Rel-6/1.0.1
+schema-version: v1.2.1
+id: TR33.810-Rel-6-1.0.1
 title:
 - content: 3G Security; Network Domain Security / Authentication Framework (NDS/AF);
     Feasibility Study to support NDS/IP evolution
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2002-09-18'
 biblionote:
 - content: 'SP-17: expect v2.0.0 at SP-18.'
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

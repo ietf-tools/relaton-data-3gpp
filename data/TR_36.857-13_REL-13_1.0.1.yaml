@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.857-13-Rel-13/1.0.1
+schema-version: v1.2.1
+id: TR36.857-13-Rel-13-1.0.1
 title:
 - content: LTE Advanced 5 Band Carrier Aggregation (CA) (5DL/1UL)
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2015-12-11'
 biblionote:
 - content: RP-152190
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

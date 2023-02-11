@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS43.046-Rel-4/4.0.0
+schema-version: v1.2.1
+id: TS43.046-Rel-4-4.0.0
 title:
 - content: Technical Realization of Facsimile Group 3 Service - non transparent
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2002-01-23'
 biblionote:
 - content: ".2002-01-23: Boswarthick: created in error; non-transparent fax ceases
@@ -64,13 +65,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: N3
   type: prime
 - name: N3 / SMG03D
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

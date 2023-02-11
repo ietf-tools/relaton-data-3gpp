@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS34.229-2-Rel-9/9.2.0
+schema-version: v1.2.1
+id: TS34.229-2-Rel-9-9.2.0
 title:
 - content: 'Internet Protocol (IP) multimedia call control protocol based on Session
     Initiation Protocol (SIP) and Session Description Protocol (SDP); User Equipment
@@ -38,8 +39,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -53,7 +54,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2010-10-08'
 language:
 - en
@@ -64,11 +65,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 common-ims-spec: true
 release:

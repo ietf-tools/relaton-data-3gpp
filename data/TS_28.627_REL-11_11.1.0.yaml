@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS28.627-Rel-11/11.1.0
+schema-version: v1.2.1
+id: TS28.627-Rel-11-11.1.0
 title:
 - content: Telecommunication management; Self-Organizing Networks (SON) Policy Network
     Resource Model (NRM) Integration Reference Point (IRP); Requirements
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
-  - author
+  - type: author
 revdate: '2014-06-27'
 language:
 - en
@@ -62,11 +63,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

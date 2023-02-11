@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.894-Rel-13/13.0.0
+schema-version: v1.2.1
+id: TR36.894-Rel-13-13.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on measurement
     gap enhancement for LTE
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: Intel
   role:
-  - author
+  - type: author
 revdate: '2016-01-08'
 language:
 - en
@@ -57,11 +58,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

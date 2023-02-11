@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.206-Rel-7/7.2.0
+schema-version: v1.2.1
+id: TS23.206-Rel-7-7.2.0
 title:
 - content: Voice Call Continuity (VCC) between Circuit Switched (CS) and IP Multimedia
     Subsystem (IMS); Stage 2
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Cisco Systems Belgium
   role:
-  - author
+  - type: author
 revdate: '2007-03-20'
 biblionote:
 - content: No upgrade to Rel-8 due to change of approach to VCC.
@@ -65,11 +66,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

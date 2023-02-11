@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.978-Rel-12/0.0.0
+schema-version: v1.2.1
+id: TR36.978-Rel-12-0.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE)
     antenna test function definition for two-stage Multiple Input Multiple Output
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: Keysight Technologies UK Ltd
   role:
-  - author
+  - type: author
 revdate: '2014-06-25'
 biblionote:
 - content: 'Not certain to be completed within Rel-12 time frame. RP-66: timed out
@@ -67,11 +68,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

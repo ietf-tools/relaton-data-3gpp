@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS26.132-Rel-12/12.1.0
+schema-version: v1.2.1
+id: TS26.132-Rel-12-12.1.0
 title:
 - content: Speech and video telephony terminal acoustic test specification
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2013-12-19'
 language:
 - en
@@ -61,13 +62,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S4
   type: prime
 - name: S4
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

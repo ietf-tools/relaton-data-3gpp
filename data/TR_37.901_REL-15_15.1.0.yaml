@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.901-Rel-15/15.1.0
+schema-version: v1.2.1
+id: TR37.901-Rel-15-15.1.0
 title:
 - content: User Equipment (UE) application layer data throughput performance
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: AT&T GNS Belgium SPRL
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -53,11 +54,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: f

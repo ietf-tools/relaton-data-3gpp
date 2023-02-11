@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.716-03-02-Rel-16/0.1.0
+schema-version: v1.2.1
+id: TR38.716-03-02-Rel-16-0.1.0
 title:
 - content: NR inter-band Carrier Aggregation (CA) / Dual Connectivity (DC) Rel-16
     for 3 bands Down Link (DL) / 2 bands Up Link (UL)
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: ZTE Wistron Telecom AB
   role:
-  - author
+  - type: author
 revdate: '2019-08-16'
 language:
 - en
@@ -55,11 +56,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: g

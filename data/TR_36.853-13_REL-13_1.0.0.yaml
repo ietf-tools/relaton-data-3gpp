@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.853-13-Rel-13/1.0.0
+schema-version: v1.2.1
+id: TR36.853-13-Rel-13-1.0.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced 3 Band
     Carrier Aggregation (CA) (3DL/1UL)
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: ZTE Corporation
   role:
-  - author
+  - type: author
 revdate: '2016-03-07'
 biblionote:
 - content: To be approved at end of Rel-13.
@@ -58,11 +59,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

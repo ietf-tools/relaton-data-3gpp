@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR38.842-Rel-17/0.0.1
+schema-version: v1.2.1
+id: TR38.842-Rel-17-0.0.1
 title:
 - content: High power User Equipment (UE) (power class 2) for NR inter-band Carrier
     Aggregation (CA) and Supplementary Uplink (SUL) configurations with x (x>2) bands
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Huawei Technologies R&D UK
   role:
-  - author
+  - type: author
 revdate: '2021-04-30'
 language:
 - en
@@ -56,11 +57,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

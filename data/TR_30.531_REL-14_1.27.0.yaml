@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR30.531-Rel-14/1.27.0
+schema-version: v1.2.1
+id: TR30.531-Rel-14-1.27.0
 title:
 - content: Work Plan and Working Procedures - RAN WG3
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2017-02-07'
 language:
 - en
@@ -56,13 +57,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
 - name: R3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: e

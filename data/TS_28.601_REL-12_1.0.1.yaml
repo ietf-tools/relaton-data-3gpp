@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS28.601-Rel-12/1.0.1
+schema-version: v1.2.1
+id: TS28.601-Rel-12-1.0.1
 title:
 - content: Telecommunication management; Core Network (CN) and non-3GPP access interworking
     system Network Resource Model (NRM) Integration Reference Point (IRP); Requirements
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: China Mobile US Research Cente
   role:
-  - author
+  - type: author
 revdate: '2013-10-01'
 biblionote:
 - content: 'SP-65: to be withdrawn from this Release onwards.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: c

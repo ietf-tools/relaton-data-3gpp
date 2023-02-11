@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS23.401-Rel-16/16.11.0
+schema-version: v1.2.1
+id: TS23.401-Rel-16-16.11.0
 title:
 - content: General Packet Radio Service (GPRS) enhancements for Evolved Universal
     Terrestrial Radio Access Network (E-UTRAN) access
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 revdate: '2021-09-24'
 biblionote:
 - content: Version updated with TSG SA#93E approved CRs
@@ -63,11 +64,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: g

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.833-R99/2.0.0
+schema-version: v1.2.1
+id: TR25.833-R99-2.0.0
 title:
 - content: Physical layer items not for inclusion in Release 99
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 biblionote:
 - content: '2003-11-28: WG Chairman intends that this be brought under change control
     at RP-22.'
@@ -53,7 +54,6 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
@@ -62,6 +62,8 @@ editorialgroup:
   type: other
 - name: R1
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

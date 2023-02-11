@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS21.103-Rel-5/1.0.0
+schema-version: v1.2.1
+id: TS21.103-Rel-5-1.0.0
 title:
 - content: 3rd Generation mobile system Release 5 specifications
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: ETSI
   role:
-  - author
+  - type: author
 revdate: '2001-10-01'
 biblionote:
 - content: 'SP-20: Superseded by 21.101 Rel-5.'
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: SP
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '5'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.199-Rel-6/0.0.3
+schema-version: v1.2.1
+id: TS29.199-Rel-6-0.0.3
 title:
 - content: Open Service Access (OSA); Web Services Application Programming Interface
     (API)  for OSA; Parlay X services
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -51,11 +52,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: N5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '6'

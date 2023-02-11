@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.807-Rel-10/1.4.0
+schema-version: v1.2.1
+id: TR36.807-Rel-10-1.4.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE)
     radio transmission and reception
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,18 +45,19 @@ contributor:
         name:
         - content: Dish Network
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: a

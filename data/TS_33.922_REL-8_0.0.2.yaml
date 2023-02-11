@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS33.922-Rel-8/0.0.2
+schema-version: v1.2.1
+id: TS33.922-Rel-8-0.0.2
 title:
 - content: Security aspects for inter-access mobility between non 3GPP and 3GPP access
     network
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: Microsoft Europe SARL
   role:
-  - author
+  - type: author
 biblionote:
 - content: For drafting and approval versions, see 22.822.
   type: remark
@@ -54,11 +55,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

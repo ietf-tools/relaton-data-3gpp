@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR30.007-Rel-11/0.2.0
+schema-version: v1.2.1
+id: TR30.007-Rel-11-0.2.0
 title:
 - content: Guideline on WI/SI for new Operating Bands
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2011-10-06'
 biblionote:
 - content: R4-113646
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

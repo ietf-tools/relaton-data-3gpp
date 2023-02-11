@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS29.228-Rel-5/0.3.0
+schema-version: v1.2.1
+id: TS29.228-Rel-5-0.3.0
 title:
 - content: IP Multimedia (IM) Subsystem Cx and Dx Interfaces; Signalling flows and
     message contents
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Nanjing Ericsson Panda Com Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: N4-010837
   type: comment
@@ -57,11 +58,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.826-Rel-9/0.2.0
+schema-version: v1.2.1
+id: TR32.826-Rel-9-0.2.0
 title:
 - content: Telecommunication management; Study on Energy Savings Management (ESM)
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Vodafone GmbH
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-47: timed out of Rel-9'
   type: remark
@@ -56,11 +57,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: '9'

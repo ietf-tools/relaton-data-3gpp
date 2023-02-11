@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.823-Rel-11/0.5.0
+schema-version: v1.2.1
+id: TR36.823-Rel-11-0.5.0
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Carrier aggregation
     enhancements; User Equipment (UE) and Base Station (BS) radio transmission and
@@ -30,8 +31,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -45,7 +46,7 @@ contributor:
         name:
         - content: Nokia Networks Oy
   role:
-  - author
+  - type: author
 biblionote:
 - content: WG agreed but known to have one missing TP
   type: comment
@@ -55,13 +56,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
 - name: R1, R2, R3
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: b

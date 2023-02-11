@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS25.317-Rel-9/1.0.0
+schema-version: v1.2.1
+id: TS25.317-Rel-9-1.0.0
 title:
 - content: High Speed Packet Access (HSPA); Requirements on User Equipments (UEs)
     supporting a release-independent frequency band combination
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2011-03-10'
 biblionote:
 - content: 'RP-48: Anticipate relaunch of this TS at Rel-10 under a new WI. RP-51:
@@ -69,13 +70,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: R2
   type: prime
 - name: R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '9'

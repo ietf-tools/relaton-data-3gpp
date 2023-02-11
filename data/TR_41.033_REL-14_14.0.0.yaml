@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR41.033-Rel-14/14.0.0
+schema-version: v1.2.1
+id: TR41.033-Rel-14-14.0.0
 title:
 - content: Lawful Interception requirements for GSM
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: BT Group Plc
   role:
-  - author
+  - type: author
 revdate: '2017-03-27'
 biblionote:
 - content: Upgraded by accident. Spec is withdrawn from Rel-13 onwards.
@@ -62,13 +63,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S3
   type: prime
 - name: SMG10
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: e

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.833-Rel-16/1.0.0
+schema-version: v1.2.1
+id: TR22.833-Rel-16-1.0.0
 title:
 - content: Study on Enhancement of LTE for Efficient delivery of Streaming Service
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 revdate: '2018-03-14'
 language:
 - en
@@ -40,11 +41,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: g

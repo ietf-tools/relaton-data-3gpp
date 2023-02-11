@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS22.259-Rel-7/0.0.3
+schema-version: v1.2.1
+id: TS22.259-Rel-7-0.0.3
 title:
 - content: Service requirements for Personal Network Management (PNM); Stage 1
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: VODAFONE Group Plc
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-35: Timed out of Rel-7, so Rel-7 version of this spec withdrawn.'
   type: remark
@@ -56,11 +57,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

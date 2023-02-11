@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.716-21-21-Rel-16/0.4.0
+schema-version: v1.2.1
+id: TR37.716-21-21-Rel-16-0.4.0
 title:
 - content: E-UTRA (Evolved Universal Terrestrial Radio Access) - NR Dual Connectivity
     (EN-DC) of x bands (x=1, 2, 3, 4) LTE inter-band Carrier aggregation (CA) (x Down
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: LG Electronics Inc.
   role:
-  - author
+  - type: author
 revdate: '2019-04-01'
 language:
 - en
@@ -56,11 +57,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: g

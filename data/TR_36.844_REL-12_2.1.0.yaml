@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.844-Rel-12/2.1.0
+schema-version: v1.2.1
+id: TR36.844-Rel-12-2.1.0
 title:
 - content: Study on expansion of LTE in the 1670-1675 MHz Band for the United States
     to include 1670-1680 MHz Band
@@ -29,8 +30,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -44,7 +45,7 @@ contributor:
         name:
         - content: Ligado Networks
   role:
-  - author
+  - type: author
 biblionote:
 - content: RP-140802 (produced since approval of v2.0.0 went unobserved). This version
     unseen by WG. Withdrawn.
@@ -58,11 +59,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

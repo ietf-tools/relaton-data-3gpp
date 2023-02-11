@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS22.243-Rel-5/0.0.2
+schema-version: v1.2.1
+id: TS22.243-Rel-5-0.0.2
 title:
 - content: Speech recognition framework for automated voice services; Stage 1
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Qualcomm UK Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'SP-15: Delayed to Rel-6.'
   type: remark
@@ -56,11 +57,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '5'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR37.717-33-Rel-17/0.6.0
+schema-version: v1.2.1
+id: TR37.717-33-Rel-17-0.6.0
 title:
 - content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2) LTE inter-band CA (xDL/xUL)
     and y bands (y=3-x) NR inter-band CA (yDL/yUL)
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: ZTE Corporation
   role:
-  - author
+  - type: author
 revdate: '2021-11-22'
 language:
 - en
@@ -55,11 +56,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

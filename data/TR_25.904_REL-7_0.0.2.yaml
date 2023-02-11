@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.904-Rel-7/0.0.2
+schema-version: v1.2.1
+id: TR25.904-Rel-7-0.0.2
 title:
 - content: Improved support of gaming over HSDPA/EDCH
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: AT&T
   role:
-  - author
+  - type: author
 revdate: '2006-09-07'
 biblionote:
 - content: R2-062295 claims to be "version 0,0,1 draft 2!"
@@ -64,13 +65,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R2
   type: prime
 - name: R1, R3, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

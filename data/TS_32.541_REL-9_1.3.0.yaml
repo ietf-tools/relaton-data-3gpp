@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS32.541-Rel-9/1.3.0
+schema-version: v1.2.1
+id: TS32.541-Rel-9-1.3.0
 title:
 - content: Telecommunication management; Self-Organizing Networks (SON); Self-healing
     concepts and requirements
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: ZTE Corporation
   role:
-  - author
+  - type: author
 revdate: '2010-06-07'
 biblionote:
 - content: 'SP-48: timed out of Rel-9.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '9'

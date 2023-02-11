@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.847-Rel-7/0.0.1
+schema-version: v1.2.1
+id: TR23.847-Rel-7-0.0.1
 title:
 - content: Enhancements to IMS service functionalities facilitating multicast bearer
     services
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Siemens Networks S.p.A
   role:
-  - author
+  - type: author
 revdate: '2006-03-29'
 biblionote:
 - content: 'SP-35: timed out of Rel-7'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS31.110-Rel-4/4.1.0
+schema-version: v1.2.1
+id: TS31.110-Rel-4-4.1.0
 title:
 - content: Numbering system for telecommunication IC card applications
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: IDEMIA
   role:
-  - author
+  - type: author
 revdate: '2002-01-16'
 biblionote:
 - content: 'TP-26: T3 indicates it needs further studies on this document.'
@@ -67,13 +68,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: C6
   type: prime
 - name: T3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 common-ims-spec: true
 release:

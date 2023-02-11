@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.863-Rel-12/2.0.0
+schema-version: v1.2.1
+id: TR23.863-Rel-12-2.0.0
 title:
 - content: Support of Short Message Service (SMS) in IP Multimedia Subsystem (IMS)
     without Mobile Station International ISDN Number (MSISDN); Stage 2
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2012-12-13'
 biblionote:
 - content: SP-120731
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

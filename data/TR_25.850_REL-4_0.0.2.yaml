@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.850-Rel-4/0.0.2
+schema-version: v1.2.1
+id: TR25.850-Rel-4-0.0.2
 title:
 - content: UE positioning in UTRAN Iub/Iur protocol aspects
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 revdate: '2000-12-21'
 biblionote:
 - content: 'RP-15: No upgrade to Rel-5.'
@@ -59,11 +60,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

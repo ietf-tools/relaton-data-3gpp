@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.953-Rel-13/0.2.0
+schema-version: v1.2.1
+id: TR26.953-Rel-13-0.2.0
 title:
 - content: Interactivity support for 3GPP-based streaming and download services
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Qualcomm CDMA Technologies
   role:
-  - author
+  - type: author
 language:
 - en
 script:
@@ -50,11 +51,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

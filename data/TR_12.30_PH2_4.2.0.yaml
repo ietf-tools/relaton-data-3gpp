@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR12.30-Ph2/4.2.0
+schema-version: v1.2.1
+id: TR12.30-Ph2-4.2.0
 title:
 - content: ETSI Object Identifier Tree; Mobile Domain O&M
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Huawei Technologies France
   role:
-  - author
+  - type: author
 revdate: '1995-07-07'
 language:
 - en
@@ -57,13 +58,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
 - name: SMG06
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

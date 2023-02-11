@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.979-Rel-17/17.0.0
+schema-version: v1.2.1
+id: TR22.979-Rel-17-17.0.0
 title:
 - content: Feasibility study on combined Circuit Switched (CS) calls and IP Multimedia
     Subsystem (IMS) sessions
@@ -34,8 +35,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -49,7 +50,7 @@ contributor:
         name:
         - content: TeliaSonera AB
   role:
-  - author
+  - type: author
 revdate: '2022-04-01'
 language:
 - en
@@ -60,11 +61,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 common-ims-spec: true
 release:

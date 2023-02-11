@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.834-Rel-4/4.0.0
+schema-version: v1.2.1
+id: TR25.834-Rel-4-4.0.0
 title:
 - content: UTRA TDD low chip rate option; Radio protocol aspects
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: CATT
   role:
-  - author
+  - type: author
 revdate: '2000-12-20'
 biblionote:
 - content: 'RP-15: Not to be promoted to Rel-5.'
@@ -57,7 +58,6 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
@@ -66,6 +66,8 @@ editorialgroup:
   type: other
 - name: R2
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '4'

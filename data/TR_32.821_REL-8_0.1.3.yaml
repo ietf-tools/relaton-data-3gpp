@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.821-Rel-8/0.1.3
+schema-version: v1.2.1
+id: TR32.821-Rel-8-0.1.3
 title:
 - content: Telecommunication management; Study of Self-Organizing Networks (SON) related
     Operations, Administration and Maintenance (OAM)  for Home Node B (HNB)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
-  - author
+  - type: author
 revdate: '2007-10-30'
 biblionote:
 - content: 'SP-43: Timed out of Rel-8.'
@@ -65,11 +66,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

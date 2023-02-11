@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.968-Rel-8/1.0.0
+schema-version: v1.2.1
+id: TR22.968-Rel-8-1.0.0
 title:
 - content: Study for requirements for a Public Warning System (PWS) service
   format: text/plain
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: T-Mobile USA Inc.
   role:
-  - author
+  - type: author
 revdate: '2007-06-13'
 biblionote:
 - content: SP-070372
@@ -64,11 +65,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

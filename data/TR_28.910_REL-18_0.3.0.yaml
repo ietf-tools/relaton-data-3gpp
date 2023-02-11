@@ -1,15 +1,22 @@
 ---
-id: 3GPPTR28.910-Rel-18/0.3.0
+schema-version: v1.2.1
+id: TR28.910-Rel-18-0.3.0
 title:
 - content: Study on enhancement of autonomous network levels
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.910/28910-030.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TR 28.910:Rel-18/0.3.0
   type: 3GPP
   primary: true
 docnumber: TR 28.910:Rel-18/0.3.0
+date:
+- type: published
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -25,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +47,8 @@ contributor:
         name:
         - content: China Mobile Com. Corporation
   role:
-  - author
+  - type: author
+revdate: '2022-09-21'
 language:
 - en
 script:
@@ -50,11 +58,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: i

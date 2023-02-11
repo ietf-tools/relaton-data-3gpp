@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR32.829-Rel-10/1.0.0
+schema-version: v1.2.1
+id: TR32.829-Rel-10-1.0.0
 title:
 - content: Telecommunication management; Study on alignment of 3GPP alarm Integration
     Reference Point (IRP) and TeleManagement Forum (TMF) Interface Program (TIP) fault
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: Alcatel-Lucent
   role:
-  - author
+  - type: author
 revdate: '2010-06-14'
 biblionote:
 - content: SP-100288
@@ -63,11 +64,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: a

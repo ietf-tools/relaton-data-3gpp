@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.912-Rel-7/0.1.7
+schema-version: v1.2.1
+id: TR25.912-Rel-7-0.1.7
 title:
 - content: Feasibility study for evolved Universal Terrestrial Radio Access (UTRA)
     and Universal Terrestrial Radio Access Network (UTRAN)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: NTT DOCOMO INC.
   role:
-  - author
+  - type: author
 revdate: '2006-05-29'
 biblionote:
 - content: RP-060388
@@ -65,13 +66,14 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R2, R3, R4
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '7'

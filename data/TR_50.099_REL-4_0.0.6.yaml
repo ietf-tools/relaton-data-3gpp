@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR50.099-Rel-4/0.0.6
+schema-version: v1.2.1
+id: TR50.099-Rel-4-0.0.6
 title:
 - content: GERAN project plan and open issues
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: AT&T GNS Belgium SPRL
   role:
-  - author
+  - type: author
 revdate: '2000-05-10'
 biblionote:
 - content: 'GERAN#3: v0.0.4 May-2000: subsequent drafts 005, 006, 007 were wrongly
@@ -64,13 +65,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: GP
   type: prime
 - name: SMG02
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '4'

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.924-Rel-12/0.1.6
+schema-version: v1.2.1
+id: TR26.924-Rel-12-0.1.6
 title:
 - content: Multimedia telephony over IP Multimedia Subsystem (IMS); Study on improved
     end-to-end Quality of Service (QoS) handling for Multimedia Telephony Service
@@ -35,8 +36,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -50,7 +51,7 @@ contributor:
         name:
         - content: Nokia Corporation
   role:
-  - author
+  - type: author
 revdate: '2014-11-15'
 biblionote:
 - content: S4-141312
@@ -64,11 +65,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

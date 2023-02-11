@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.702-Rel-12/0.3.0
+schema-version: v1.2.1
+id: TR25.702-Rel-12-0.3.0
 title:
 - content: Study on Dedicated Channel (DCH) enhancements for UMTS
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: QUALCOMM JAPAN LLC.
   role:
-  - author
+  - type: author
 biblionote:
 - content: R1-133698
   type: comment
@@ -53,13 +54,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

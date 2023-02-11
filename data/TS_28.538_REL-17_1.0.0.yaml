@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS28.538-Rel-17/1.0.0
+schema-version: v1.2.1
+id: TS28.538-Rel-17-1.0.0
 title:
 - content: Management and orchestration; Edge Computing Management
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Samsung R&D Institute UK
   role:
-  - author
+  - type: author
 revdate: '2022-03-08'
 language:
 - en
@@ -57,11 +58,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

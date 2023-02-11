@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.720-Rel-13/1.1.1
+schema-version: v1.2.1
+id: TR23.720-Rel-13-1.1.1
 title:
 - content: Study on architecture enhancements for Cellular Internet of Things (CIoT)
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: Intel Corporation (UK) Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: 'This version allocated in error: To be deleted. Version 1.1.0 is latest
     version'
@@ -54,11 +55,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

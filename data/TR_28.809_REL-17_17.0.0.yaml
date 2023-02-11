@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR28.809-Rel-17/17.0.0
+schema-version: v1.2.1
+id: TR28.809-Rel-17-17.0.0
 title:
 - content: Study on enhancement of management data analytics
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Intel Corporation (UK) Ltd
   role:
-  - author
+  - type: author
 revdate: '2021-04-06'
 language:
 - en
@@ -54,13 +55,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S5
   type: prime
 - name: R3, S2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: h

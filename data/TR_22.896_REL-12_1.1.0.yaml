@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR22.896-Rel-12/1.1.0
+schema-version: v1.2.1
+id: TR22.896-Rel-12-1.1.0
 title:
 - content: Study on continuity of data sessions to local networks
   format: text/plain
@@ -28,8 +29,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -43,7 +44,7 @@ contributor:
         name:
         - content: NEC Europe Ltd
   role:
-  - author
+  - type: author
 biblionote:
 - content: S1-113291
   type: comment
@@ -53,11 +54,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: c

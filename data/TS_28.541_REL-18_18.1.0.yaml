@@ -1,16 +1,23 @@
 ---
-id: 3GPPTS28.541-Rel-18/18.1.0
+schema-version: v1.2.1
+id: TS28.541-Rel-18-18.1.0
 title:
 - content: Management and orchestration; 5G Network Resource Model (NRM); Stage 2
     and stage 3
   format: text/plain
   type: main
+link:
+- content: https://www.3gpp.org/ftp/Specs/archive/28_series/28.541/28541-i10.zip
+  type: src
 type: standard
 docid:
 - id: 3GPP TS 28.541:Rel-18/18.1.0
   type: 3GPP
   primary: true
 docnumber: TS 28.541:Rel-18/18.1.0
+date:
+- type: published
+  value: '2022-09-23'
 contributor:
 - organization:
     name:
@@ -26,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +48,8 @@ contributor:
         name:
         - content: Nokia Shanghai Bell
   role:
-  - author
+  - type: author
+revdate: '2022-09-23'
 language:
 - en
 script:
@@ -51,11 +59,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S5
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 5G
 release:
   version2g: i

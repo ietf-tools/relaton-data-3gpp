@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.836-Rel-12/2.0.2
+schema-version: v1.2.1
+id: TR36.836-Rel-12-2.0.2
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); Study on mobile relay
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: CATT
   role:
-  - author
+  - type: author
 revdate: '2013-09-12'
 biblionote:
 - content: 'RP-60: WI was stopped at RP-60, but this was probably an accident. Expect
@@ -62,11 +63,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

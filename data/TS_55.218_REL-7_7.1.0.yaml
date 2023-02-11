@@ -1,5 +1,6 @@
 ---
-id: 3GPPTS55.218-Rel-7/7.1.0
+schema-version: v1.2.1
+id: TS55.218-Rel-7-7.1.0
 title:
 - content: '3G Security; Specification of the A5/3 encryption algorithms for GSM and
     ECSD, and the GEA3 encryption algorithm for GPRS; Document 3: Design conformance
@@ -37,8 +38,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -52,7 +53,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2007-12-20'
 language:
 - en
@@ -63,11 +64,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TS
 editorialgroup:
 - name: S3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '7'

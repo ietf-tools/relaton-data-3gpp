@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR29.804-Rel-8/0.4.1
+schema-version: v1.2.1
+id: TR29.804-Rel-8-0.4.1
 title:
 - content: '3GPP System Architecture Evolution (SAE): CT WG3 aspects'
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2008-03-05'
 language:
 - en
@@ -56,11 +57,12 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: '8'

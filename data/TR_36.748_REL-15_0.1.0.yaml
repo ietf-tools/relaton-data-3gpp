@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.748-Rel-15/0.1.0
+schema-version: v1.2.1
+id: TR36.748-Rel-15-0.1.0
 title:
 - content: Technical report for 450MHz E-UTRA FDD Band for LTE PPDR and PMR/PAMR in
     Europe
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,18 +42,19 @@ contributor:
         name:
         - content: Airbus DS SLC
   role:
-  - author
+  - type: author
 language:
 - en
 script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: f

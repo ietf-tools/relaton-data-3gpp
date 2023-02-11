@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR36.853-Rel-12/0.0.2
+schema-version: v1.2.1
+id: TR36.853-Rel-12-0.0.2
 title:
 - content: Evolved Universal Terrestrial Radio Access (E-UTRA); LTE-Advanced; LTE-Advanced
     3 Band Carrier Aggregation (CA) (3DL/1UL)
@@ -26,8 +27,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -41,7 +42,7 @@ contributor:
         name:
         - content: AT&T GNS Belgium SPRL
   role:
-  - author
+  - type: author
 biblionote:
 - content: R4-141030
   type: comment
@@ -54,11 +55,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: R4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: c

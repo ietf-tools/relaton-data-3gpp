@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.932-Rel-14/0.0.1
+schema-version: v1.2.1
+id: TR26.932-Rel-14-0.0.1
 title:
 - content: 'Study on User Equipment (UE) characteristics and performance for video
     telephony '
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Orange
   role:
-  - author
+  - type: author
 revdate: '2016-04-25'
 biblionote:
 - content: S4-160322
@@ -61,11 +62,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: e

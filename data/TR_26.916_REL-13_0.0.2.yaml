@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR26.916-Rel-13/0.0.2
+schema-version: v1.2.1
+id: TR26.916-Rel-13-0.0.2
 title:
 - content: Media handling and Quality aspects of SRVCC
   format: text/plain
@@ -33,8 +34,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -48,7 +49,7 @@ contributor:
         name:
         - content: Ericsson LM
   role:
-  - author
+  - type: author
 revdate: '2015-07-29'
 biblionote:
 - content: S4-150797
@@ -62,11 +63,12 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S4
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR45.926-Rel-11/1.2.1
+schema-version: v1.2.1
+id: TR45.926-Rel-11-1.2.1
 title:
 - content: Solutions for GSM/EDGE Base Transceiver Station (BTS) energy saving
   format: text/plain
@@ -25,8 +26,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -40,7 +41,7 @@ contributor:
         name:
         - content: Nokia Germany
   role:
-  - author
+  - type: author
 biblionote:
 - content: GP-130692
   type: comment
@@ -53,13 +54,14 @@ docstatus:
     value: withdrawn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 2G
 release:
   version2g: b

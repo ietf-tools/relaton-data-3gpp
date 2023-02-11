@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.874-Rel-11/1.0.0
+schema-version: v1.2.1
+id: TR25.874-Rel-11-1.0.0
 title:
 - content: High Speed Packet Access (HSPA) feedback and signalling efficiency enhancements
     for Low Chip Rate (LCR) Time Division Duplex (TDD)
@@ -36,8 +37,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -51,7 +52,7 @@ contributor:
         name:
         - content: TD Tech Ltd
   role:
-  - author
+  - type: author
 revdate: '2012-09-14'
 biblionote:
 - content: R1-124018, RP-121407
@@ -62,13 +63,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: b

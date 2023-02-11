@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.700-40-Rel-17/1.0.0
+schema-version: v1.2.1
+id: TR23.700-40-Rel-17-1.0.0
 title:
 - content: Study on enhancement of network slicing; Phase 2
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: ZTE Corporation
   role:
-  - author
+  - type: author
 revdate: '2020-09-09'
 language:
 - en
@@ -54,13 +55,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: S2
   type: prime
 - name: S5
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: h

@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR23.910-R99/3.0.0
+schema-version: v1.2.1
+id: TR23.910-R99-3.0.0
 title:
 - content: Circuit switched data bearer services
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: Nokia Networks
   role:
-  - author
+  - type: author
 revdate: '2000-03-15'
 language:
 - en
@@ -54,13 +55,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C3
   type: prime
 - name: N3
   type: former
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: '8'

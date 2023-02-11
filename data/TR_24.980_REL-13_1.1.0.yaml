@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR24.980-Rel-13/1.1.0
+schema-version: v1.2.1
+id: TR24.980-Rel-13-1.1.0
 title:
 - content: Minimum requirements for support of MCPTT service over the Gm reference
     point
@@ -32,8 +33,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -47,7 +48,7 @@ contributor:
         name:
         - content: Huawei Tech.(UK) Co.. Ltd
   role:
-  - author
+  - type: author
 revdate: '2016-01-21'
 language:
 - en
@@ -58,11 +59,12 @@ docstatus:
     value: published
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: C1
   type: prime
+ext:
+  schema-version: v1.0.1
 radiotechnology: LTE
 release:
   version2g: d

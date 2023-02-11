@@ -1,5 +1,6 @@
 ---
-id: 3GPPTR25.706-Rel-13/1.2.0
+schema-version: v1.2.1
+id: TR25.706-Rel-13-1.2.0
 title:
 - content: Technical Report on Downlink Enhancements for UMTS
   format: text/plain
@@ -31,8 +32,8 @@ contributor:
         country: France
         postcode: '06921'
   role:
-  - author
-  - publisher
+  - type: author
+  - type: publisher
 - person:
     name:
       completename:
@@ -46,7 +47,7 @@ contributor:
         name:
         - content: HiSilicon Technologies Co. Ltd
   role:
-  - author
+  - type: author
 revdate: '2015-09-14'
 biblionote:
 - content: R2-152808
@@ -57,13 +58,14 @@ script:
 - Latn
 place:
 - Sophia Antipolis Cedex, France
-fetched: '2022-09-21'
 doctype: TR
 editorialgroup:
 - name: RP
   type: prime
 - name: R1, R2
   type: other
+ext:
+  schema-version: v1.0.1
 radiotechnology: 3G
 release:
   version2g: d
