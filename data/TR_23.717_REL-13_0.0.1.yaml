@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.717-Rel-13-0.0.1
 title:
 - content: Enabling Transcoder Free Operation During SRVCC (PS to CS)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.281-Rel-10-10.0.0
 title:
 - content: General Packet Radio System (GPRS) Tunnelling Protocol User Plane (GTPv1-U)

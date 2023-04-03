@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.897-Rel-18-0.0.1
 title:
 - content: High power UE for NR TDD intra-band carrier aggregation in frequency range
@@ -35,6 +35,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: KONG, Lingyu
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: HiSilicon Technologies Co. Ltd
+  role:
+  - type: author
 revdate: '2022-11-07'
 language:
 - en

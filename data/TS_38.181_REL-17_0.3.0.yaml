@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS38.181-Rel-17-0.3.0
 title:
 - content: NR; Satellite Access Node conformance testing
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: SONG, Yuexia
+        content: GUO, Qiuge
         language:
         - en
         script:

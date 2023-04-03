@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.804-Rel-7-2.0.0
 title:
 - content: Support of SMS and MMS over generic 3GPP IP access

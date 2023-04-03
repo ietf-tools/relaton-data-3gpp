@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR37.717-11-31-Rel-17-0.5.0
 title:
 - content: Rel-17 Dual Connectivity (DC) of x bands (x=1,2,3) LTE inter-band CA (xDL/1UL)

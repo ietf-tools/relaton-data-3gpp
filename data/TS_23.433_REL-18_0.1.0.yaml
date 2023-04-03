@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.433-Rel-18-0.1.0
 title:
 - content: SEAL Data Delivery enabler for vertical applications
@@ -34,6 +34,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: AMOGH, Niranth
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: HUAWEI TECHNOLOGIES Co. Ltd.
+  role:
+  - type: author
 revdate: '2022-10-24'
 language:
 - en

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.368-Rel-11-11.2.0
 title:
 - content: Tsp interface protocol between the MTC Interworking Function (MTC-IWF)

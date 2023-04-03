@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS33.517-Rel-16-0.2.0
 title:
 - content: 5G Security Assurance Specification (SCAS) for the Security Edge Protection
@@ -38,7 +38,7 @@ contributor:
 - person:
     name:
       completename:
-        content: BYKAMPADI, Nagendra
+        content: PEINADO, German
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia France
+        - content: Nokia Germany
   role:
   - type: author
 revdate: '2019-02-12'

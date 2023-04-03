@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS38.551-Rel-17-0.0.1
 title:
 - content: NR; User Equipment (UE) Multiple Input Multiple Output (MIMO) Over-the-Air
@@ -35,6 +35,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: SZINI, Istvan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Apple AB
+  role:
+  - type: author
 revdate: '2022-11-05'
 language:
 - en

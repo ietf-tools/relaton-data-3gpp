@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.109-Rel-6-0.2.0
 title:
 - content: Bootstrapping interface (Ub) and network application function interface

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR33.700-28-Rel-18-0.0.1
 title:
 - content: Study on security aspects of satellite access
@@ -34,6 +34,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: LU, Wei
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Xiaomi Technology
+  role:
+  - type: author
 revdate: '2022-10-03'
 language:
 - en

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR24.811-Rel-17-0.2.0
 title:
 - content: Study on the support for minimization of service interruption
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: PARK, Sang Min
+        content: KIM, Hyunsook
         language:
         - en
         script:
@@ -45,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: LG Electronics France
+        - content: LG Electronics Inc.
   role:
   - type: author
 revdate: '2021-02-15'

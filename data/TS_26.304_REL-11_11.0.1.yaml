@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.304-Rel-11-11.0.1
 title:
 - content: Extended Adaptive Multi-Rate - Wideband (AMR-WB+) codec; Floating-point

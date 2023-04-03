@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.385-Rel-14-0.2.0
 title:
 - content: V2X services Management Object (MO)
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: PARK, Sang Min
+        content: KIM, Sunhee
         language:
         - en
         script:

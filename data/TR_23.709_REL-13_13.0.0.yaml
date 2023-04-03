@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.709-Rel-13-13.0.0
 title:
 - content: Study on optimizations to support high latency communications; Stage 2

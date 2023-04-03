@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.256-Rel-17-0.2.0
 title:
 - content: Uncrewed Aerial Systems Network Function (UAS-NF); Aerial Management Services;
@@ -38,7 +38,7 @@ contributor:
 - person:
     name:
       completename:
-        content: ZIA, Waqar
+        content: KIM, Sunghoon
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Qualcomm CDMA Technologies
+        - content: Qualcomm Technologies Int
   role:
   - type: author
 revdate: '2021-06-05'

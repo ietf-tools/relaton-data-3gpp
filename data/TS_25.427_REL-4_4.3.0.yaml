@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS25.427-Rel-4-4.3.0
 title:
 - content: UTRAN Iub/Iur interface user plane protocol for DCH data streams

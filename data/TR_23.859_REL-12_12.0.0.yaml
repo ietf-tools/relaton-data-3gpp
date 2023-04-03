@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.859-Rel-12-12.0.0
 title:
 - content: Local IP access (LIPA) mobility and Selected IP Traffic Offload (SIPTO)

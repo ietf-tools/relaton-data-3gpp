@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS03.41-Ph2-4.8.0
 title:
 - content: Technical Realization of Short Message Service Cell Broadcast (SMSCB)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.502-Rel-15-15.2.0
 title:
 - content: Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks

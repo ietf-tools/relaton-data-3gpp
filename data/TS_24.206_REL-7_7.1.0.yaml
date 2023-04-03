@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.206-Rel-7-7.1.0
 title:
 - content: Voice call continuity between Circuit Switched (CS) and IP Multimedia Subsystem

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS07.02-R99-8.0.0
 title:
 - content: Terminal Adaptation Functions (TAF) for Services Using Asynchronous Bearer

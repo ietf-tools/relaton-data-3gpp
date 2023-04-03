@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR29.831-Rel-18-0.2.0
 title:
 - content: Study on NRF API enhancements to avoid signalling and storing of redundant

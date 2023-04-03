@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.093-Rel-5-5.0.0
 title:
 - content: Technical realization of Completion of Calls to Busy Subscriber (CCBS);

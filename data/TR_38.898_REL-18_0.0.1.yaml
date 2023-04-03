@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.898-Rel-18-0.0.1
 title:
 - content: High power UE for FR1 for DC_R18_xBLTE_yBNR_zDLnUL with power class m (x=
@@ -29,6 +29,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: LINDELL, Per
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Ericsson LM
+  role:
+  - type: author
 language:
 - en
 script:

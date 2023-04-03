@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.128-Rel-15-15.2.0
 title:
 - content: Mobility Management Entity (MME) and Serving GPRS Support Node (SGSN) interfaces

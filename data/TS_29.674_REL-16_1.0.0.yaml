@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.674-Rel-16-1.0.0
 title:
 - content: Interface between the UE radio Capability Management Function (UCMF) and

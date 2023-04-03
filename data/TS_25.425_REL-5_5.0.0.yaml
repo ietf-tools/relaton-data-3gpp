@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS25.425-Rel-5-5.0.0
 title:
 - content: UTRAN Iur interface user plane protocols for Common Transport Channel data

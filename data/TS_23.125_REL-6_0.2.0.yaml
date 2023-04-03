@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.125-Rel-6-0.2.0
 title:
 - content: Overall high level functionality and architecture impacts of flow based

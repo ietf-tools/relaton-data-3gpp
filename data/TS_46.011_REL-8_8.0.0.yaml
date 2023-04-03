@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS46.011-Rel-8-8.0.0
 title:
 - content: Full rate speech; Substitution and muting of lost frames for full rate

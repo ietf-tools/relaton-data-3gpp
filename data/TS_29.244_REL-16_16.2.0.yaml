@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.244-Rel-16-16.2.0
 title:
 - content: Interface between the Control Plane and the User Plane nodes

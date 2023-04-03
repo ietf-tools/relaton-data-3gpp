@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.21-Ph1-4.0.2
 title:
 - content: Half rate speech; Substitution and muting of lost frames for half rate

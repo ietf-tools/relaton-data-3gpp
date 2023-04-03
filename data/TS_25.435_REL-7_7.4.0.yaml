@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS25.435-Rel-7-7.4.0
 title:
 - content: UTRAN Iub interface user plane protocols for Common Transport Channel data

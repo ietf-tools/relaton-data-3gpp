@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS05.08dcs-Ph1-DCS-3.0.0
 title:
 - content: Radio Subsystem Link Control (DCS 1800)

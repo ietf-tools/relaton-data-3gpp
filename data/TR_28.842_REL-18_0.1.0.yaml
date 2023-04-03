@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR28.842-Rel-18-0.1.0
 title:
 - content: Study on data management phase 2
@@ -34,6 +34,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: POLLAKOWSKI, Olaf
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Nokia Germany
+  role:
+  - type: author
 revdate: '2022-12-12'
 biblionote:
 - content: S5-227085

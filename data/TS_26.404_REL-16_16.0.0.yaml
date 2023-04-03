@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.404-Rel-16-16.0.0
 title:
 - content: General audio codec audio processing functions; Enhanced aacPlus general

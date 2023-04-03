@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS48.060-Rel-4-4.0.0
 title:
 - content: In-band control of remote transcoders and rate adaptors for full rate traffic

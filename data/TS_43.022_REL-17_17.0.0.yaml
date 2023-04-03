@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS43.022-Rel-17-17.0.0
 title:
 - content: Functions related to Mobile Station (MS) in idle mode and group receive

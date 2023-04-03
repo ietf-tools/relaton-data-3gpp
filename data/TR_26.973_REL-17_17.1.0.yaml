@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR26.973-Rel-17-17.1.0
 title:
 - content: Update to fixed-point basic operators

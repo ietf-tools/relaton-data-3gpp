@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.830-Rel-9-0.2.0
 title:
 - content: Architecture aspects of Home Node B (HNB) / Home enhanced Node B (HeNB)

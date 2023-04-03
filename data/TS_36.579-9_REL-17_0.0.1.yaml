@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS36.579-9-Rel-17-0.0.1
 title:
 - content: 'Mission Critical (MC) services over LTE; Part 9: Mission Critical Data
@@ -29,6 +29,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: KAHN, Jason
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: NIST
+  role:
+  - type: author
 language:
 - en
 script:

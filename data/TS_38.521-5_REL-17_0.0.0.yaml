@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS38.521-5-Rel-17-0.0.0
 title:
 - content: 'User Equipment (UE) conformance specification; Radio transmission and
@@ -29,6 +29,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: BALASUBRAMANIAN, Vijay
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Qualcomm Technologies Int
+  role:
+  - type: author
 language:
 - en
 script:

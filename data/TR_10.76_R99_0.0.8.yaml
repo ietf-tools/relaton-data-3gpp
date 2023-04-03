@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR10.76-R99-0.0.8
 title:
 - content: Noise suppression for the AMR codec; Project scheduling and open issues

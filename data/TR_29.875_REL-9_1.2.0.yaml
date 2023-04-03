@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR29.875-Rel-9-1.2.0
 title:
 - content: Interworking Proxy between GTP based and PMIP based interfaces

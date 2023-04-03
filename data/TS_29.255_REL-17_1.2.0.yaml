@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.255-Rel-17-1.2.0
 title:
 - content: Uncrewed Aerial System Service Supplier (USS) Services; Stage 3
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: ZIA, Waqar
+        content: KIM, Sunghoon
         language:
         - en
         script:
@@ -45,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Qualcomm CDMA Technologies
+        - content: Qualcomm Technologies Int
   role:
   - type: author
 revdate: '2022-03-04'

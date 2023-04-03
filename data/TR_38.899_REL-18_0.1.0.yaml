@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.899-Rel-18-0.1.0
 title:
 - content: High power UE for FR1 NR inter-band CA/DC or NR SUL (supplementary uplink)
@@ -36,6 +36,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: WANG, Jin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Huawei Technologies R&D UK
+  role:
+  - type: author
 revdate: '2022-12-11'
 language:
 - en

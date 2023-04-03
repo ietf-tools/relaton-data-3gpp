@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.454-Rel-13-0.0.1
 title:
 - content: Codec for Enhanced Voice Services (EVS); Interface to Iu, Uu, Nb and Mb

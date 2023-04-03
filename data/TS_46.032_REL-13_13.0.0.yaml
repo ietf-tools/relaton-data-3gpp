@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS46.032-Rel-13-13.0.0
 title:
 - content: Full rate speech; Voice Activity Detector (VAD) for full rate speech traffic

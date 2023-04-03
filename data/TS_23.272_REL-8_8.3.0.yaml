@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.272-Rel-8-8.3.0
 title:
 - content: Circuit Switched (CS) fallback in Evolved Packet System (EPS); Stage 2

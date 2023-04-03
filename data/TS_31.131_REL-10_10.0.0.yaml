@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS31.131-Rel-10-10.0.0
 title:
 - content: C-language binding to (U)SIM API

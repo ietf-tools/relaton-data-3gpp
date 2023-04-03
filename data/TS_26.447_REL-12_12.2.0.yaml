@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.447-Rel-12-12.2.0
 title:
 - content: Codec for Enhanced Voice Services (EVS); Error concealment of lost packets

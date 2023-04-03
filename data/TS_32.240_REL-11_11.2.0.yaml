@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS32.240-Rel-11-11.2.0
 title:
 - content: Telecommunication management; Charging management; Charging architecture
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: GARDELLA, Maryse
+        content: RODRIGUES, Joao
         language:
         - en
         script:
@@ -50,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Alcatel-Lucent
+        - content: Nokia
   role:
   - type: author
 revdate: '2011-12-22'

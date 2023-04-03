@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS04.12-R96-5.0.2
 title:
 - content: Short Message Service Cell Broadcast (SMSCB) Support on the Mobile Radio

@@ -1,8 +1,8 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.502-Rel-17-1.0.0
 title:
-- content: '5G Multicast-Broadcast User Service Architecture '
+- content: '5G multicast-broadcast services; User service architecture '
   format: text/plain
   type: main
 link:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.338-Rel-12-12.1.0
 title:
 - content: Diameter based protocols to support Short Message Service (SMS) capable

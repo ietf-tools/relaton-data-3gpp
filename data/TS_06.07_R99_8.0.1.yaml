@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.07-R99-8.0.1
 title:
 - content: 'Half Rate Speech: Test Sequence for GSM Half Rate Speech Codec'

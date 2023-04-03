@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.139-Rel-16-0.0.1
 title:
 - content: Real-time Transport Protocol (RTP) / RTP Control Protocol (RTCP) verification

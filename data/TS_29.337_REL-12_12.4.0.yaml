@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.337-Rel-12-12.4.0
 title:
 - content: Diameter-based T4 Interface for communications with packet data networks

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.870-Rel-18-0.0.1
 title:
 - content: Enhanced Over-the-Air (OTA) test methods for NR FR1 Total Radiated Power
@@ -35,6 +35,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: WANG, Ruixin
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: vivo Communication Technology
+  role:
+  - type: author
 revdate: '2022-09-30'
 language:
 - en

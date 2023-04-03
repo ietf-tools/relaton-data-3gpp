@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.917-Rel-6-0.0.0
 title:
 - content: Dynamic policy control enhancements for end-to-end Quality of Service (QoS)

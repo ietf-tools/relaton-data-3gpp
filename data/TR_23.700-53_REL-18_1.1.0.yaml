@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.700-53-Rel-18-1.1.0
 title:
 - content: Study on access traffic steering, switching and splitting support in the
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Lenovo Mobile Com. Technology
+        - content: Motorola Mobile Com Technology
   role:
   - type: author
 revdate: '2022-10-25'

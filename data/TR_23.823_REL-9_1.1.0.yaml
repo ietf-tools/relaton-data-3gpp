@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.823-Rel-9-1.1.0
 title:
 - content: Intra Domain Connection of RAN Nodes to Multiple CN Nodes

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.436-Rel-18-0.2.0
 title:
 - content: Procedures for Application Data Analytics Enablement Service
@@ -34,6 +34,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: PATEROMICHELAKIS, Emmanouil
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: Lenovo Future Communications
+  role:
+  - type: author
 revdate: '2022-11-23'
 language:
 - en

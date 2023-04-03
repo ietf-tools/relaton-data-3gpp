@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.825-Rel-6-0.5.0
 title:
 - content: Overall architecture aspects of IP flow based bearer level charging; Stage

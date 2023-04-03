@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.73-R98-7.3.0
 title:
 - content: Adaptive Multi Rate (AMR) speech; ANSI-C code for the AMR speech codec

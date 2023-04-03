@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.329-Rel-6-6.1.0
 title:
 - content: Sh interface based on the Diameter protocol; Protocol details

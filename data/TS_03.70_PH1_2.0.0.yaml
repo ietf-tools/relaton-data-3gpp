@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS03.70-Ph1-2.0.0
 title:
 - content: Routeing of Calls to/from Public Data Networks (PDN)

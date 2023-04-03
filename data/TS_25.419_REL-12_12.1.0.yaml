@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS25.419-Rel-12-12.1.0
 title:
 - content: 'UTRAN Iu-BC interface: Service Area Broadcast Protocol (SABP)'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.829-Rel-10-0.3.1
 title:
 - content: Local IP Access and Selected IP Traffic Offload (LIPA-SIPTO)

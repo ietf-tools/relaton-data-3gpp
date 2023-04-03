@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.302-Rel-13-13.0.0
 title:
 - content: Access to the 3GPP Evolved Packet Core (EPC) via non-3GPP access networks;

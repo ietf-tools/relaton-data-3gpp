@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.180-Rel-17-1.2.0
 title:
 - content: Mission critical services support in the Isolated Operation for Public

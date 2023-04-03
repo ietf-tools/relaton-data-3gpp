@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS46.042-Rel-15-15.0.0
 title:
 - content: Half rate speech; Voice Activity Detector (VAD) for half rate speech traffic

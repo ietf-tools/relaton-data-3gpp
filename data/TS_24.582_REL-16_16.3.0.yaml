@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS24.582-Rel-16-16.3.0
 title:
 - content: Mission Critical Data (MCData) media plane control; Protocol specification

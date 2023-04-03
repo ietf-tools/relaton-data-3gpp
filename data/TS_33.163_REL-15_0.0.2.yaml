@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS33.163-Rel-15-0.0.2
 title:
 - content: Battery Efficient Security for very low throughput Machine Type Communication

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.443-Rel-15-15.4.0
 title:
 - content: Codec for Enhanced Voice Services (EVS); ANSI C code (floating-point)

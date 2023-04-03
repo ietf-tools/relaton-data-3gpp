@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.718-03-01-Rel-18-0.2.0
 title:
 - content: NR inter-band Carrier Aggregation/Dual Connectivity for 3 bands DL with
@@ -38,7 +38,7 @@ contributor:
 - person:
     name:
       completename:
-        content: CAO, Aijun
+        content: MA, Zhifeng
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ZTE Wistron Telecom AB
+        - content: ZTE Corporation.
   role:
   - type: author
 revdate: '2022-10-26'

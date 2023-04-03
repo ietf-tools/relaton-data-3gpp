@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.132-R99-3.1.0
 title:
 - content: Speech and video telephony terminal acoustic test specification
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: USAI, Paolino
+        content: REIMES, Jan
         language:
         - en
         script:
@@ -47,7 +47,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: ETSI
+        - content: HEAD acoustics GmbH
   role:
   - type: author
 revdate: '2000-10-10'

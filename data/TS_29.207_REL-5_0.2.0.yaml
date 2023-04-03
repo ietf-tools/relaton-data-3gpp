@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.207-Rel-5-0.2.0
 title:
 - content: Policy control over Go interface

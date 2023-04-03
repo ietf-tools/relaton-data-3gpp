@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.848-Rel-18-0.0.1
 title:
 - content: Study on Ambient IoT (Internet of Things) in RAN
@@ -34,6 +34,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: ZHANG, Xiaoran
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: China Mobile Com. Corporation
+  role:
+  - type: author
 revdate: '2022-12-05'
 language:
 - en

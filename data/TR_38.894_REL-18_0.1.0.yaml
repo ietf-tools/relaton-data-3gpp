@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.894-Rel-18-0.1.0
 title:
 - content: Requirements for simultaneous Rx/Tx band combinations for NR CA/DC, NR
@@ -35,6 +35,20 @@ contributor:
   role:
   - type: author
   - type: publisher
+- person:
+    name:
+      completename:
+        content: HU, Dan
+        language:
+        - en
+        script:
+        - Latn
+    affiliation:
+    - organization:
+        name:
+        - content: HuaWei Technologies Co., Ltd
+  role:
+  - type: author
 revdate: '2022-12-11'
 language:
 - en

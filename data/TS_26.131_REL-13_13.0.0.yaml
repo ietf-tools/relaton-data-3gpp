@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS26.131-Rel-13-13.0.0
 title:
 - content: Terminal acoustic characteristics for telephony; Requirements
@@ -41,7 +41,7 @@ contributor:
 - person:
     name:
       completename:
-        content: REIMES, Jan
+        content: RAGOT, Stephane
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: HEAD acoustics GmbH
+        - content: Orange
   role:
   - type: author
 revdate: '2015-09-24'

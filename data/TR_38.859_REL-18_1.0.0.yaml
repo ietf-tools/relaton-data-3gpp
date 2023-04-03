@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR38.859-Rel-18-1.0.0
 title:
 - content: Study on expanded and improved NR positioning
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: KHORYAEV, Alexey
+        content: CHATTERJEE, Debdeep
         language:
         - en
         script:

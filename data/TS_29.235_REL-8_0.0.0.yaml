@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.235-Rel-8-0.0.0
 title:
 - content: Interworking between SIP-I based circuit-switched core network and other

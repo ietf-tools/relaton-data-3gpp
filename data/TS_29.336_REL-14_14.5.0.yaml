@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.336-Rel-14-14.5.0
 title:
 - content: Home Subscriber Server (HSS) diameter interfaces for interworking with

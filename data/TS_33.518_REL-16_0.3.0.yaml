@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS33.518-Rel-16-0.3.0
 title:
 - content: 5G Security Assurance Specification (SCAS) for  the Network Repository
@@ -38,7 +38,7 @@ contributor:
 - person:
     name:
       completename:
-        content: BYKAMPADI, Nagendra
+        content: ORKOPOULOS, Stawros
         language:
         - en
         script:
@@ -46,7 +46,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Nokia France
+        - content: Nokia Germany
   role:
   - type: author
 revdate: '2019-05-13'

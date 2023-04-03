@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.74-R98-7.2.0
 title:
 - content: Test sequences for the GSM Adaptive Multi Rate (AMR) speech codec

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.206-Rel-7-0.5.0
 title:
 - content: Voice Call Continuity (VCC) between Circuit Switched (CS) and IP Multimedia

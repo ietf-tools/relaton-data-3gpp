@@ -1,14 +1,11 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR23.882-Rel-7-0.3.0
 title:
 - content: '3GPP system architecture evolution (SAE): Report on technical options
     and conclusions'
   format: text/plain
   type: main
-link:
-- content: http://www.3gpp.org/ftp/Specs/archive/23_series/23.882/23882-030.zip
-  type: src
 type: standard
 docid:
 - id: 3GPP TR 23.882:Rel-7/0.3.0
@@ -16,8 +13,6 @@ docid:
   primary: true
 docnumber: TR 23.882:Rel-7/0.3.0
 date:
-- type: published
-  value: '2005-07-26'
 - type: confirmed
   value: '2005-07-26'
 contributor:
@@ -51,7 +46,6 @@ contributor:
         - content: VODAFONE Group Plc
   role:
   - type: author
-revdate: '2005-07-26'
 biblionote:
 - content: Timed out of Rel-7, though the governing WI is (as of SP-39) shown as Rel-7.
   type: remark

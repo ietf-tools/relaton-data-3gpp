@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS29.305-Rel-8-8.5.0
 title:
 - content: InterWorking Function (IWF) between MAP based and Diameter based interfaces

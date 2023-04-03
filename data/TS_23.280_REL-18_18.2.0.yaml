@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS23.280-Rel-18-18.2.0
 title:
 - content: Common functional architecture to support mission critical services; Stage

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS22.093-Rel-9-9.0.0
 title:
 - content: Completion of Calls to Busy Subscriber (CCBS); Service description, Stage

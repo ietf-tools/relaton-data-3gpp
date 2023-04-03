@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS36.579-5-Rel-13-13.7.0
 title:
 - content: 'Mission Critical (MC) services over LTE; Part 5: Abstract test suite (ATS)'

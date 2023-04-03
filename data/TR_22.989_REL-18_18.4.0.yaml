@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR22.989-Rel-18-18.4.0
 title:
 - content: Study on Future Railway Mobile Communication System
@@ -37,7 +37,7 @@ contributor:
 - person:
     name:
       completename:
-        content: NORP, Toon
+        content: GACH, Guillaume
         language:
         - en
         script:
@@ -45,7 +45,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: TNO
+        - content: Union Inter. Chemins de Fer
   role:
   - type: author
 revdate: '2022-04-01'

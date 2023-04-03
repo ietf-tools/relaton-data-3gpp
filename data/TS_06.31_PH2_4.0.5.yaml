@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.31-Ph2-4.0.5
 title:
 - content: Discontinuous Transmission (DTX) for Full Rate Speech Traffic Channels

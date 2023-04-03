@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TR25.946-Rel-4-0.1.1
 title:
 - content: RAB Quality of Service (QoS) Negotiation over Iu

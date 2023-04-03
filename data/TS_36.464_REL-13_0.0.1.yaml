@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS36.464-Rel-13-0.0.1
 title:
 - content: Evolved Universal Terrestrial Radio Access Network (E-UTRAN) and Wireless
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: SIROTKIN, Sasha
+        content: HAN, Jaemin
         language:
         - en
         script:
@@ -50,7 +50,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - content: Intel Corporation (UK) Ltd
+        - content: Intel Technology India Pvt Ltd
   role:
   - type: author
 revdate: '2015-09-01'

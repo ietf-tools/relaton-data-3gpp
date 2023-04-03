@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: TS06.81-R97-6.0.0
 title:
 - content: Discontinuous Transmission (DTX) for encanced full rate speech traffic
