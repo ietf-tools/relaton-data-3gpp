@@ -2,34 +2,17 @@ name: Crawler
 
 on:
   push:
+    branches: [ master, main ]
+    tags: [ v* ]
+  pull_request:
   schedule:
-    - cron: '0 15 * * *'
+  - cron: '0 14 * * *'
   workflow_dispatch:
 
 jobs:
   crawl:
-    name: 3GPP documents fetching
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Use Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.1.0
-      - name: Install mdbtools
-        run: sudo apt-get install mdbtools
-      - name: Install gem
-        run: |
-          gem install relaton-cli
-      - name: Fetch documents
-        run: |
-          # rm -f data/*
-          relaton fetch-data status-smg-3GPP
-      - name: Push data
-        run: |
-          echo `date` > flag.txt
-          git config user.name ietf-bib-bot
-          git config user.email gh-bib-bot@llc.ietf.org
-          git add data/* flag.txt current.yaml
-          git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
+    uses: relaton/support/.github/workflows/crawler.yml@master
+    with:
+      override-files: |
+        https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
+        https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile.lock=Gemfile.lock
